@@ -1,0 +1,35 @@
+name: Polymarket Bot
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  ejecutar-bot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar librerías necesarias
+        run: pip install requests
+
+      - name: Ejecutar el bot
+        run: python bot.py
+
+      - name: Guardar los cambios en el repositorio
+        run: |
+          git config user.name "Polymarket Bot"
+          git config user.email "bot@github.com"
+          git add historico.csv
+          git commit -m "Actualización de datos" || echo "Sin cambios"
+          git push

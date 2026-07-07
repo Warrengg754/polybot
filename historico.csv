@@ -399,3 +399,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-07-07T19:14:18.982400,MLB,Seattle Mariners vs. Miami Marlins,Miami Marlins,53.5
 2026-07-07T19:14:18.982406,MLB,Spread: Los Angeles Dodgers (-1.5),Los Angeles Dodgers,56.49999999999999
 2026-07-07T19:14:18.982410,MLB,Spread: Los Angeles Dodgers (-1.5),Colorado Rockies,43.5
+2026-07-07T22:47:33.158044,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,Yes,52.949999999999996
+2026-07-07T22:47:33.158072,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,No,47.05
+2026-07-07T22:47:33.158087,NBA,Will LeBron James play for the Miami Heat in 2026-27?,Yes,14.85
+2026-07-07T22:47:33.158092,NBA,Will LeBron James play for the Miami Heat in 2026-27?,No,85.15
+2026-07-07T22:47:33.158103,NBA,Will LeBron James play for the Chicago Bulls in 2026-27?,Yes,0.05
+2026-07-07T22:47:33.158111,NBA,Will LeBron James play for the Chicago Bulls in 2026-27?,No,99.95
+2026-07-07T22:47:33.158129,NBA,Will LeBron James play for the Golden State Warriors in 2026-27?,Yes,18.95
+2026-07-07T22:47:33.158134,NBA,Will LeBron James play for the Golden State Warriors in 2026-27?,No,81.05
+2026-07-07T22:47:33.158147,NBA,Will LeBron James play for the Boston Celtics in 2026-27?,Yes,1.35
+2026-07-07T22:47:33.158152,NBA,Will LeBron James play for the Boston Celtics in 2026-27?,No,98.65
+2026-07-07T22:47:33.436206,NFL,Will the Los Angeles Chargers win the 2027 NFL league championship?,Yes,3.9
+2026-07-07T22:47:33.436219,NFL,Will the Los Angeles Chargers win the 2027 NFL league championship?,No,96.1
+2026-07-07T22:47:33.436228,NFL,Will the Green Bay Packers win the 2027 NFL league championship?,Yes,2.75
+2026-07-07T22:47:33.436232,NFL,Will the Green Bay Packers win the 2027 NFL league championship?,No,97.25
+2026-07-07T22:47:33.436239,NFL,Will the Cincinnati Bengals win the 2027 NFL league championship?,Yes,4.65
+2026-07-07T22:47:33.436243,NFL,Will the Cincinnati Bengals win the 2027 NFL league championship?,No,95.35
+2026-07-07T22:47:33.436250,NFL,Will Brittany Mahomes attend Taylor Swift's wedding?,Yes,94.55
+2026-07-07T22:47:33.436254,NFL,Will Brittany Mahomes attend Taylor Swift's wedding?,No,5.45
+2026-07-07T22:47:33.436261,NFL,Will the Pittsburgh Steelers win the 2027 NFL league championship?,Yes,0.95
+2026-07-07T22:47:33.436264,NFL,Will the Pittsburgh Steelers win the 2027 NFL league championship?,No,99.05000000000001
+2026-07-07T22:47:33.740431,Premier League,Will Brighton & Hove Albion qualify for the League Phase of the 2026-27 UEFA Conference League?,Yes,68.95
+2026-07-07T22:47:33.740446,Premier League,Will Brighton & Hove Albion qualify for the League Phase of the 2026-27 UEFA Conference League?,No,31.05
+2026-07-07T22:47:33.740455,Premier League,Will Marc Cucurella be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-07T22:47:33.740460,Premier League,Will Marc Cucurella be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-07T22:47:33.740467,Premier League,Will Moises Caicedo be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-07T22:47:33.740471,Premier League,Will Moises Caicedo be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-07T22:47:33.740478,Premier League,Will Rodri be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-07T22:47:33.740482,Premier League,Will Rodri be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-07T22:47:33.740488,Premier League,Will Bryan Mbeumo be named to the 2026 PFA Premier League Team of the Year?,Yes,49.0
+2026-07-07T22:47:33.740492,Premier League,Will Bryan Mbeumo be named to the 2026 PFA Premier League Team of the Year?,No,51.0
+2026-07-07T22:47:33.988892,Champions League,Will Arsenal win the 2026-27 UEFA Champions League Championship?,Yes,11.5
+2026-07-07T22:47:33.988910,Champions League,Will Arsenal win the 2026-27 UEFA Champions League Championship?,No,88.5
+2026-07-07T22:47:33.988920,Champions League,Will Bayern Munich win the 2026-27 UEFA Champions League Championship?,Yes,13.5
+2026-07-07T22:47:33.988925,Champions League,Will Bayern Munich win the 2026-27 UEFA Champions League Championship?,No,86.5
+2026-07-07T22:47:33.988933,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,Yes,3.45
+2026-07-07T22:47:33.988937,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,No,96.55
+2026-07-07T22:47:33.988945,Champions League,Will Liverpool win the 2026-27 UEFA Champions League Championship?,Yes,9.0
+2026-07-07T22:47:33.988949,Champions League,Will Liverpool win the 2026-27 UEFA Champions League Championship?,No,91.0
+2026-07-07T22:47:33.988956,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,3.65
+2026-07-07T22:47:33.988964,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,96.35000000000001
+2026-07-07T22:47:34.252829,MLB,Will Patrick Bailey win the 2026 NL Platinum Glove award?,Yes,0.8500000000000001
+2026-07-07T22:47:34.252843,MLB,Will Patrick Bailey win the 2026 NL Platinum Glove award?,No,99.15
+2026-07-07T22:47:34.252853,MLB,Milwaukee Brewers vs. St. Louis Cardinals,Milwaukee Brewers,99.95
+2026-07-07T22:47:34.252858,MLB,Milwaukee Brewers vs. St. Louis Cardinals,St. Louis Cardinals,0.05
+2026-07-07T22:47:34.252867,MLB,Seattle Mariners vs. Miami Marlins,Seattle Mariners,43.5
+2026-07-07T22:47:34.252871,MLB,Seattle Mariners vs. Miami Marlins,Miami Marlins,56.49999999999999
+2026-07-07T22:47:34.252880,MLB,Atlanta Braves vs. Pittsburgh Pirates,Atlanta Braves,41.5
+2026-07-07T22:47:34.252884,MLB,Atlanta Braves vs. Pittsburgh Pirates,Pittsburgh Pirates,58.5
+2026-07-07T22:47:34.252892,MLB,Will Matt Olson win the 2026 NL Platinum Glove award?,Yes,0.8
+2026-07-07T22:47:34.252896,MLB,Will Matt Olson win the 2026 NL Platinum Glove award?,No,99.2

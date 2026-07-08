@@ -499,3 +499,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-07-08T07:56:52.614411,MLB,Spread: Milwaukee Brewers (-1.5),St. Louis Cardinals,94.45
 2026-07-08T07:56:52.614418,MLB,Milwaukee Brewers vs. St. Louis Cardinals: O/U 7.5,Over,27.200000000000003
 2026-07-08T07:56:52.614422,MLB,Milwaukee Brewers vs. St. Louis Cardinals: O/U 7.5,Under,72.8
+2026-07-08T15:54:58.706786,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,Yes,50.05
+2026-07-08T15:54:58.706812,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,No,49.95
+2026-07-08T15:54:58.706823,NBA,Will LeBron James play for the Chicago Bulls in 2026-27?,Yes,0.05
+2026-07-08T15:54:58.706827,NBA,Will LeBron James play for the Chicago Bulls in 2026-27?,No,99.95
+2026-07-08T15:54:58.706835,NBA,Will LeBron James play for the Miami Heat in 2026-27?,Yes,17.65
+2026-07-08T15:54:58.706840,NBA,Will LeBron James play for the Miami Heat in 2026-27?,No,82.35
+2026-07-08T15:54:58.706854,NBA,Will LeBron James play for the Golden State Warriors in 2026-27?,Yes,15.950000000000001
+2026-07-08T15:54:58.706859,NBA,Will LeBron James play for the Golden State Warriors in 2026-27?,No,84.05
+2026-07-08T15:54:58.706866,NBA,Will LeBron James play for the Philadelphia 76ers in 2026-27?,Yes,11.95
+2026-07-08T15:54:58.706869,NBA,Will LeBron James play for the Philadelphia 76ers in 2026-27?,No,88.05
+2026-07-08T15:54:58.990195,NFL,Will the Los Angeles Chargers win the 2027 NFL league championship?,Yes,3.9
+2026-07-08T15:54:58.990214,NFL,Will the Los Angeles Chargers win the 2027 NFL league championship?,No,96.1
+2026-07-08T15:54:58.990223,NFL,Will the Cincinnati Bengals win the 2027 NFL league championship?,Yes,5.050000000000001
+2026-07-08T15:54:58.990228,NFL,Will the Cincinnati Bengals win the 2027 NFL league championship?,No,94.95
+2026-07-08T15:54:58.990236,NFL,Will the Tampa Bay Buccaneers win the 2027 NFL league championship?,Yes,1.15
+2026-07-08T15:54:58.990239,NFL,Will the Tampa Bay Buccaneers win the 2027 NFL league championship?,No,98.85000000000001
+2026-07-08T15:54:58.990247,NFL,Will the Pittsburgh Steelers win the 2027 NFL league championship?,Yes,0.95
+2026-07-08T15:54:58.990251,NFL,Will the Pittsburgh Steelers win the 2027 NFL league championship?,No,99.05000000000001
+2026-07-08T15:54:58.990258,NFL,Will the New York Giants win the 2027 NFL league championship?,Yes,1.25
+2026-07-08T15:54:58.990262,NFL,Will the New York Giants win the 2027 NFL league championship?,No,98.75
+2026-07-08T15:54:59.356953,Premier League,Will Brighton & Hove Albion qualify for the League Phase of the 2026-27 UEFA Conference League?,Yes,96.45
+2026-07-08T15:54:59.356971,Premier League,Will Brighton & Hove Albion qualify for the League Phase of the 2026-27 UEFA Conference League?,No,3.55
+2026-07-08T15:54:59.356981,Premier League,Will Antoine Semenyo be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-08T15:54:59.356985,Premier League,Will Antoine Semenyo be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-08T15:54:59.356993,Premier League,Will Phil Foden be named to the 2026 PFA Premier League Team of the Year?,Yes,49.0
+2026-07-08T15:54:59.356997,Premier League,Will Phil Foden be named to the 2026 PFA Premier League Team of the Year?,No,51.0
+2026-07-08T15:54:59.357004,Premier League,Will Rayan Cherki be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-08T15:54:59.357008,Premier League,Will Rayan Cherki be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-08T15:54:59.357016,Premier League,Will João Pedro be named to the 2026 PFA Premier League Team of the Year?,Yes,49.0
+2026-07-08T15:54:59.357023,Premier League,Will João Pedro be named to the 2026 PFA Premier League Team of the Year?,No,51.0
+2026-07-08T15:54:59.614744,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,Yes,11.5
+2026-07-08T15:54:59.614763,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,No,88.5
+2026-07-08T15:54:59.614772,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,Yes,3.5000000000000004
+2026-07-08T15:54:59.614777,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,No,96.5
+2026-07-08T15:54:59.614785,Champions League,Will Arsenal win the 2026-27 UEFA Champions League Championship?,Yes,11.5
+2026-07-08T15:54:59.614789,Champions League,Will Arsenal win the 2026-27 UEFA Champions League Championship?,No,88.5
+2026-07-08T15:54:59.614795,Champions League,Will Liverpool win the 2026-27 UEFA Champions League Championship?,Yes,8.0
+2026-07-08T15:54:59.614799,Champions League,Will Liverpool win the 2026-27 UEFA Champions League Championship?,No,92.0
+2026-07-08T15:54:59.614806,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,3.6999999999999997
+2026-07-08T15:54:59.614811,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,96.3
+2026-07-08T15:54:59.827019,MLB,Philadelphia Phillies vs. Cincinnati Reds,Philadelphia Phillies,43.5
+2026-07-08T15:54:59.827037,MLB,Philadelphia Phillies vs. Cincinnati Reds,Cincinnati Reds,56.49999999999999
+2026-07-08T15:54:59.827046,MLB,Milwaukee Brewers vs. St. Louis Cardinals: O/U 6.5,Over,99.5
+2026-07-08T15:54:59.827050,MLB,Milwaukee Brewers vs. St. Louis Cardinals: O/U 6.5,Under,0.5
+2026-07-08T15:54:59.827057,MLB,Spread: Milwaukee Brewers (-2.5),Milwaukee Brewers,0.5
+2026-07-08T15:54:59.827061,MLB,Spread: Milwaukee Brewers (-2.5),St. Louis Cardinals,99.5
+2026-07-08T15:54:59.827067,MLB,Milwaukee Brewers vs. St. Louis Cardinals: O/U 11.5,Over,0.5
+2026-07-08T15:54:59.827070,MLB,Milwaukee Brewers vs. St. Louis Cardinals: O/U 11.5,Under,99.5
+2026-07-08T15:54:59.827076,MLB,Milwaukee Brewers vs. St. Louis Cardinals: O/U 10.5,Over,0.5
+2026-07-08T15:54:59.827080,MLB,Milwaukee Brewers vs. St. Louis Cardinals: O/U 10.5,Under,99.5

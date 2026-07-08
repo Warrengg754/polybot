@@ -549,3 +549,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-07-08T15:54:59.827070,MLB,Milwaukee Brewers vs. St. Louis Cardinals: O/U 11.5,Under,99.5
 2026-07-08T15:54:59.827076,MLB,Milwaukee Brewers vs. St. Louis Cardinals: O/U 10.5,Over,0.5
 2026-07-08T15:54:59.827080,MLB,Milwaukee Brewers vs. St. Louis Cardinals: O/U 10.5,Under,99.5
+2026-07-08T20:41:04.031515,NBA,Will James Harden play for the Atlanta Hawks in 2026-27?,Yes,1.3
+2026-07-08T20:41:04.031556,NBA,Will James Harden play for the Atlanta Hawks in 2026-27?,No,98.7
+2026-07-08T20:41:04.031576,NBA,Will James Harden play for the Memphis Grizzlies in 2026-27?,Yes,2.35
+2026-07-08T20:41:04.031585,NBA,Will James Harden play for the Memphis Grizzlies in 2026-27?,No,97.65
+2026-07-08T20:41:04.031601,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,Yes,46.6
+2026-07-08T20:41:04.031611,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,No,53.400000000000006
+2026-07-08T20:41:04.031634,NBA,Will LeBron James play for the Chicago Bulls in 2026-27?,Yes,0.05
+2026-07-08T20:41:04.031642,NBA,Will LeBron James play for the Chicago Bulls in 2026-27?,No,99.95
+2026-07-08T20:41:04.031656,NBA,Will LeBron James play for the Miami Heat in 2026-27?,Yes,21.65
+2026-07-08T20:41:04.031663,NBA,Will LeBron James play for the Miami Heat in 2026-27?,No,78.35
+2026-07-08T20:41:04.273466,NFL,Will the Cincinnati Bengals win the 2027 NFL league championship?,Yes,5.050000000000001
+2026-07-08T20:41:04.273483,NFL,Will the Cincinnati Bengals win the 2027 NFL league championship?,No,94.95
+2026-07-08T20:41:04.273493,NFL,Will Brittany Mahomes attend Taylor Swift's wedding?,Yes,86.6
+2026-07-08T20:41:04.273496,NFL,Will Brittany Mahomes attend Taylor Swift's wedding?,No,13.4
+2026-07-08T20:41:04.273503,NFL,Will the New Orleans Saints win the 2027 NFL league championship?,Yes,0.8500000000000001
+2026-07-08T20:41:04.273508,NFL,Will the New Orleans Saints win the 2027 NFL league championship?,No,99.15
+2026-07-08T20:41:04.273515,NFL,Will the Kansas City Chiefs win the 2027 NFL league championship?,Yes,4.5
+2026-07-08T20:41:04.273520,NFL,Will the Kansas City Chiefs win the 2027 NFL league championship?,No,95.5
+2026-07-08T20:41:04.273526,NFL,Will Danielle Haim attend Taylor Swift's wedding?,Yes,70.95
+2026-07-08T20:41:04.273529,NFL,Will Danielle Haim attend Taylor Swift's wedding?,No,29.049999999999997
+2026-07-08T20:41:04.558564,Premier League,Will Brighton & Hove Albion qualify for the League Phase of the 2026-27 UEFA Conference League?,Yes,96.45
+2026-07-08T20:41:04.558581,Premier League,Will Brighton & Hove Albion qualify for the League Phase of the 2026-27 UEFA Conference League?,No,3.55
+2026-07-08T20:41:04.558591,Premier League,Will Elliot Anderson be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-08T20:41:04.558595,Premier League,Will Elliot Anderson be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-08T20:41:04.558602,Premier League,Will David Raya be named to the 2026 PFA Premier League Team of the Year?,Yes,51.0
+2026-07-08T20:41:04.558606,Premier League,Will David Raya be named to the 2026 PFA Premier League Team of the Year?,No,49.0
+2026-07-08T20:41:04.558613,Premier League,Will Bukayo Saka be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-08T20:41:04.558616,Premier League,Will Bukayo Saka be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-08T20:41:04.558623,Premier League,Will Declan Rice be named to the 2026 PFA Premier League Team of the Year?,Yes,51.0
+2026-07-08T20:41:04.558627,Premier League,Will Declan Rice be named to the 2026 PFA Premier League Team of the Year?,No,49.0
+2026-07-08T20:41:04.732030,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,Yes,11.5
+2026-07-08T20:41:04.732048,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,No,88.5
+2026-07-08T20:41:04.732058,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,Yes,3.5000000000000004
+2026-07-08T20:41:04.732063,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,No,96.5
+2026-07-08T20:41:04.732071,Champions League,Will Arsenal win the 2026-27 UEFA Champions League Championship?,Yes,13.0
+2026-07-08T20:41:04.732074,Champions League,Will Arsenal win the 2026-27 UEFA Champions League Championship?,No,87.0
+2026-07-08T20:41:04.732081,Champions League,Will Liverpool win the 2026-27 UEFA Champions League Championship?,Yes,8.5
+2026-07-08T20:41:04.732085,Champions League,Will Liverpool win the 2026-27 UEFA Champions League Championship?,No,91.5
+2026-07-08T20:41:04.732091,Champions League,Will Manchester United win the 2026-27 UEFA Champions League Championship?,Yes,6.1
+2026-07-08T20:41:04.732095,Champions League,Will Manchester United win the 2026-27 UEFA Champions League Championship?,No,93.89999999999999
+2026-07-08T20:41:04.884809,MLB,Toronto Blue Jays vs. San Francisco Giants,Toronto Blue Jays,93.5
+2026-07-08T20:41:04.884826,MLB,Toronto Blue Jays vs. San Francisco Giants,San Francisco Giants,6.5
+2026-07-08T20:41:04.884835,MLB,Philadelphia Phillies vs. Cincinnati Reds,Philadelphia Phillies,43.5
+2026-07-08T20:41:04.884839,MLB,Philadelphia Phillies vs. Cincinnati Reds,Cincinnati Reds,56.49999999999999
+2026-07-08T20:41:04.884847,MLB,Houston Astros vs. Washington Nationals,Houston Astros,45.5
+2026-07-08T20:41:04.884850,MLB,Houston Astros vs. Washington Nationals,Washington Nationals,54.50000000000001
+2026-07-08T20:41:04.884857,MLB,Kansas City Royals vs. New York Mets,Kansas City Royals,35.5
+2026-07-08T20:41:04.884861,MLB,Kansas City Royals vs. New York Mets,New York Mets,64.5
+2026-07-08T20:41:04.884867,MLB,Milwaukee Brewers vs. St. Louis Cardinals: O/U 6.5,Over,99.5
+2026-07-08T20:41:04.884870,MLB,Milwaukee Brewers vs. St. Louis Cardinals: O/U 6.5,Under,0.5

@@ -949,3 +949,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-07-11T06:27:17.007914,MLB,Milwaukee Brewers vs. Pittsburgh Pirates,Pittsburgh Pirates,54.50000000000001
 2026-07-11T06:27:17.007921,MLB,Will CJ Abrams hit the most home runs during the 2026 MLB regular season?,Yes,0.3
 2026-07-11T06:27:17.007924,MLB,Will CJ Abrams hit the most home runs during the 2026 MLB regular season?,No,99.7
+2026-07-11T10:43:30.191488,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,Yes,42.449999999999996
+2026-07-11T10:43:30.191516,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,No,57.550000000000004
+2026-07-11T10:43:30.191526,NBA,Will LeBron James play for the Miami Heat in 2026-27?,Yes,25.85
+2026-07-11T10:43:30.191529,NBA,Will LeBron James play for the Miami Heat in 2026-27?,No,74.15
+2026-07-11T10:43:30.191535,NBA,Will LeBron James play for the Golden State Warriors in 2026-27?,Yes,16.05
+2026-07-11T10:43:30.191540,NBA,Will LeBron James play for the Golden State Warriors in 2026-27?,No,83.95
+2026-07-11T10:43:30.191551,NBA,Will Kawhi play for the Golden State Warriors in 2026-27?,Yes,0.15
+2026-07-11T10:43:30.191554,NBA,Will Kawhi play for the Golden State Warriors in 2026-27?,No,99.85000000000001
+2026-07-11T10:43:30.191561,NBA,Will LeBron James play for the Chicago Bulls in 2026-27?,Yes,0.05
+2026-07-11T10:43:30.191563,NBA,Will LeBron James play for the Chicago Bulls in 2026-27?,No,99.95
+2026-07-11T10:43:30.442239,NFL,Will the Indianapolis Colts win the 2027 NFL league championship?,Yes,1.25
+2026-07-11T10:43:30.442269,NFL,Will the Indianapolis Colts win the 2027 NFL league championship?,No,98.75
+2026-07-11T10:43:30.442276,NFL,Will Lana Del Rey attend Taylor Swift's wedding?,Yes,19.5
+2026-07-11T10:43:30.442279,NFL,Will Lana Del Rey attend Taylor Swift's wedding?,No,80.5
+2026-07-11T10:43:30.442285,NFL,Will the Buffalo Bills win the 2027 NFL league championship?,Yes,6.5
+2026-07-11T10:43:30.442287,NFL,Will the Buffalo Bills win the 2027 NFL league championship?,No,93.5
+2026-07-11T10:43:30.442293,NFL,Will the Atlanta Falcons win the 2027 NFL league championship?,Yes,0.95
+2026-07-11T10:43:30.442296,NFL,Will the Atlanta Falcons win the 2027 NFL league championship?,No,99.05000000000001
+2026-07-11T10:43:30.442301,NFL,Will the Seattle Seahawks win the 2027 NFL league championship?,Yes,6.5
+2026-07-11T10:43:30.442304,NFL,Will the Seattle Seahawks win the 2027 NFL league championship?,No,93.5
+2026-07-11T10:43:31.087799,Premier League,Will Piero Hincapie be named to the 2026 PFA Premier League Team of the Year?,Yes,49.0
+2026-07-11T10:43:31.087821,Premier League,Will Piero Hincapie be named to the 2026 PFA Premier League Team of the Year?,No,51.0
+2026-07-11T10:43:31.087828,Premier League,Will Elliot Anderson be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-11T10:43:31.087832,Premier League,Will Elliot Anderson be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-11T10:43:31.087837,Premier League,Will Hugo Ekitike be named to the 2026 PFA Premier League Team of the Year?,Yes,49.0
+2026-07-11T10:43:31.087840,Premier League,Will Hugo Ekitike be named to the 2026 PFA Premier League Team of the Year?,No,51.0
+2026-07-11T10:43:31.087845,Premier League,Will Jarrod Bowen be named to the 2026 PFA Premier League Team of the Year?,Yes,49.0
+2026-07-11T10:43:31.087848,Premier League,Will Jarrod Bowen be named to the 2026 PFA Premier League Team of the Year?,No,51.0
+2026-07-11T10:43:31.087853,Premier League,Will Phil Foden be named to the 2026 PFA Premier League Team of the Year?,Yes,49.0
+2026-07-11T10:43:31.087855,Premier League,Will Phil Foden be named to the 2026 PFA Premier League Team of the Year?,No,51.0
+2026-07-11T10:43:31.346153,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,15.5
+2026-07-11T10:43:31.346171,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,84.5
+2026-07-11T10:43:31.346178,Champions League,Will Arsenal win the 2026-27 UEFA Champions League Championship?,Yes,11.5
+2026-07-11T10:43:31.346182,Champions League,Will Arsenal win the 2026-27 UEFA Champions League Championship?,No,88.5
+2026-07-11T10:43:31.346187,Champions League,Will Feyenoord win the 2026-27 UEFA Champions League Championship?,Yes,0.35000000000000003
+2026-07-11T10:43:31.346190,Champions League,Will Feyenoord win the 2026-27 UEFA Champions League Championship?,No,99.65
+2026-07-11T10:43:31.346196,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,4.15
+2026-07-11T10:43:31.346203,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,95.85000000000001
+2026-07-11T10:43:31.346209,Champions League,Will Sporting CP win the 2026-27 UEFA Champions League Championship?,Yes,0.65
+2026-07-11T10:43:31.346211,Champions League,Will Sporting CP win the 2026-27 UEFA Champions League Championship?,No,99.35000000000001
+2026-07-11T10:43:31.576365,MLB,Will Mike Trout hit the most home runs during the 2026 MLB regular season?,Yes,0.35000000000000003
+2026-07-11T10:43:31.576394,MLB,Will Mike Trout hit the most home runs during the 2026 MLB regular season?,No,99.65
+2026-07-11T10:43:31.576402,MLB,Will Juan Soto hit the most home runs during the 2026 MLB regular season?,Yes,0.4
+2026-07-11T10:43:31.576405,MLB,Will Juan Soto hit the most home runs during the 2026 MLB regular season?,No,99.6
+2026-07-11T10:43:31.576410,MLB,Will Brandon Lowe hit the most home runs during the 2026 MLB regular season?,Yes,0.3
+2026-07-11T10:43:31.576413,MLB,Will Brandon Lowe hit the most home runs during the 2026 MLB regular season?,No,99.7
+2026-07-11T10:43:31.576419,MLB,Milwaukee Brewers vs. Pittsburgh Pirates,Milwaukee Brewers,49.5
+2026-07-11T10:43:31.576421,MLB,Milwaukee Brewers vs. Pittsburgh Pirates,Pittsburgh Pirates,50.5
+2026-07-11T10:43:31.576426,MLB,Will CJ Abrams hit the most home runs during the 2026 MLB regular season?,Yes,0.3
+2026-07-11T10:43:31.576429,MLB,Will CJ Abrams hit the most home runs during the 2026 MLB regular season?,No,99.7

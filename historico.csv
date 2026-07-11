@@ -1049,3 +1049,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-07-11T14:37:56.824311,MLB,Cleveland Guardians vs. Miami Marlins,Miami Marlins,57.49999999999999
 2026-07-11T14:37:56.824319,MLB,Chicago Cubs vs. Cincinnati Reds,Chicago Cubs,49.5
 2026-07-11T14:37:56.824323,MLB,Chicago Cubs vs. Cincinnati Reds,Cincinnati Reds,50.5
+2026-07-11T18:08:12.341266,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,Yes,49.05
+2026-07-11T18:08:12.341291,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,No,50.949999999999996
+2026-07-11T18:08:12.341304,NBA,Will LeBron James play for the Miami Heat in 2026-27?,Yes,23.05
+2026-07-11T18:08:12.341309,NBA,Will LeBron James play for the Miami Heat in 2026-27?,No,76.95
+2026-07-11T18:08:12.341318,NBA,Will LeBron James play for the Golden State Warriors in 2026-27?,Yes,13.600000000000001
+2026-07-11T18:08:12.341326,NBA,Will LeBron James play for the Golden State Warriors in 2026-27?,No,86.4
+2026-07-11T18:08:12.341342,NBA,Will LeBron James play for the Dallas Mavericks in 2026-27?,Yes,0.15
+2026-07-11T18:08:12.341348,NBA,Will LeBron James play for the Dallas Mavericks in 2026-27?,No,99.85000000000001
+2026-07-11T18:08:12.341357,NBA,Will LeBron James play for the Philadelphia 76ers in 2026-27?,Yes,9.45
+2026-07-11T18:08:12.341362,NBA,Will LeBron James play for the Philadelphia 76ers in 2026-27?,No,90.55
+2026-07-11T18:08:12.641674,NFL,Will the Indianapolis Colts win the 2027 NFL league championship?,Yes,1.25
+2026-07-11T18:08:12.641695,NFL,Will the Indianapolis Colts win the 2027 NFL league championship?,No,98.75
+2026-07-11T18:08:12.641705,NFL,Will Lana Del Rey attend Taylor Swift's wedding?,Yes,16.5
+2026-07-11T18:08:12.641709,NFL,Will Lana Del Rey attend Taylor Swift's wedding?,No,83.5
+2026-07-11T18:08:12.641718,NFL,Will the Atlanta Falcons win the 2027 NFL league championship?,Yes,0.95
+2026-07-11T18:08:12.641722,NFL,Will the Atlanta Falcons win the 2027 NFL league championship?,No,99.05000000000001
+2026-07-11T18:08:12.641733,NFL,Will the Buffalo Bills win the 2027 NFL league championship?,Yes,6.5
+2026-07-11T18:08:12.641738,NFL,Will the Buffalo Bills win the 2027 NFL league championship?,No,93.5
+2026-07-11T18:08:12.641746,NFL,Will the Los Angeles Rams win the 2027 NFL league championship?,Yes,15.0
+2026-07-11T18:08:12.641750,NFL,Will the Los Angeles Rams win the 2027 NFL league championship?,No,85.0
+2026-07-11T18:08:13.065684,Premier League,Will Morgan Rogers be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-11T18:08:13.065705,Premier League,Will Morgan Rogers be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-11T18:08:13.065714,Premier League,Will Elliot Anderson be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-11T18:08:13.065719,Premier League,Will Elliot Anderson be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-11T18:08:13.065727,Premier League,Will Hugo Ekitike be named to the 2026 PFA Premier League Team of the Year?,Yes,49.0
+2026-07-11T18:08:13.065732,Premier League,Will Hugo Ekitike be named to the 2026 PFA Premier League Team of the Year?,No,51.0
+2026-07-11T18:08:13.065740,Premier League,Will David Raya be named to the 2026 PFA Premier League Team of the Year?,Yes,51.0
+2026-07-11T18:08:13.065745,Premier League,Will David Raya be named to the 2026 PFA Premier League Team of the Year?,No,49.0
+2026-07-11T18:08:13.065753,Premier League,Will Dominik Szoboszlai be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-11T18:08:13.065758,Premier League,Will Dominik Szoboszlai be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-11T18:08:13.364769,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,15.0
+2026-07-11T18:08:13.364789,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,85.0
+2026-07-11T18:08:13.364800,Champions League,Will Slavia Prague win the 2026-27 UEFA Champions League Championship?,Yes,0.2
+2026-07-11T18:08:13.364806,Champions League,Will Slavia Prague win the 2026-27 UEFA Champions League Championship?,No,99.8
+2026-07-11T18:08:13.364815,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,Yes,0.5
+2026-07-11T18:08:13.364820,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,No,99.5
+2026-07-11T18:08:13.364828,Champions League,Will Feyenoord win the 2026-27 UEFA Champions League Championship?,Yes,0.35000000000000003
+2026-07-11T18:08:13.364834,Champions League,Will Feyenoord win the 2026-27 UEFA Champions League Championship?,No,99.65
+2026-07-11T18:08:13.364843,Champions League,Will Sporting CP win the 2026-27 UEFA Champions League Championship?,Yes,0.65
+2026-07-11T18:08:13.364847,Champions League,Will Sporting CP win the 2026-27 UEFA Champions League Championship?,No,99.35000000000001
+2026-07-11T18:08:13.742481,MLB,Will Mike Trout hit the most home runs during the 2026 MLB regular season?,Yes,0.35000000000000003
+2026-07-11T18:08:13.742502,MLB,Will Mike Trout hit the most home runs during the 2026 MLB regular season?,No,99.65
+2026-07-11T18:08:13.742512,MLB,Milwaukee Brewers vs. Pittsburgh Pirates,Milwaukee Brewers,79.5
+2026-07-11T18:08:13.742517,MLB,Milwaukee Brewers vs. Pittsburgh Pirates,Pittsburgh Pirates,20.5
+2026-07-11T18:08:13.742525,MLB,Will Juan Soto hit the most home runs during the 2026 MLB regular season?,Yes,0.4
+2026-07-11T18:08:13.742530,MLB,Will Juan Soto hit the most home runs during the 2026 MLB regular season?,No,99.6
+2026-07-11T18:08:13.742539,MLB,Athletics vs. Chicago White Sox,Athletics,45.5
+2026-07-11T18:08:13.742543,MLB,Athletics vs. Chicago White Sox,Chicago White Sox,54.50000000000001
+2026-07-11T18:08:13.742552,MLB,Milwaukee Brewers vs. Pittsburgh Pirates: O/U 8.5,Over,79.5
+2026-07-11T18:08:13.742556,MLB,Milwaukee Brewers vs. Pittsburgh Pirates: O/U 8.5,Under,20.5

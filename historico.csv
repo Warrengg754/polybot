@@ -899,3 +899,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-07-10T21:39:14.030530,MLB,Seattle Mariners vs. Tampa Bay Rays,Tampa Bay Rays,52.5
 2026-07-10T21:39:14.030536,MLB,Will CJ Abrams hit the most home runs during the 2026 MLB regular season?,Yes,0.3
 2026-07-10T21:39:14.030540,MLB,Will CJ Abrams hit the most home runs during the 2026 MLB regular season?,No,99.7
+2026-07-11T06:27:15.450812,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,Yes,40.9
+2026-07-11T06:27:15.450834,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,No,59.099999999999994
+2026-07-11T06:27:15.450845,NBA,Will LeBron James play for the Golden State Warriors in 2026-27?,Yes,15.049999999999999
+2026-07-11T06:27:15.450850,NBA,Will LeBron James play for the Golden State Warriors in 2026-27?,No,84.95
+2026-07-11T06:27:15.450858,NBA,Will LeBron James play for the Miami Heat in 2026-27?,Yes,25.25
+2026-07-11T06:27:15.450864,NBA,Will LeBron James play for the Miami Heat in 2026-27?,No,74.75
+2026-07-11T06:27:15.450877,NBA,Will Kawhi play for the Golden State Warriors in 2026-27?,Yes,0.15
+2026-07-11T06:27:15.450881,NBA,Will Kawhi play for the Golden State Warriors in 2026-27?,No,99.85000000000001
+2026-07-11T06:27:15.450889,NBA,Will LeBron James play for the Chicago Bulls in 2026-27?,Yes,0.05
+2026-07-11T06:27:15.450892,NBA,Will LeBron James play for the Chicago Bulls in 2026-27?,No,99.95
+2026-07-11T06:27:15.759539,NFL,Will the Buffalo Bills win the 2027 NFL league championship?,Yes,6.5
+2026-07-11T06:27:15.759556,NFL,Will the Buffalo Bills win the 2027 NFL league championship?,No,93.5
+2026-07-11T06:27:15.759566,NFL,Will the Atlanta Falcons win the 2027 NFL league championship?,Yes,0.95
+2026-07-11T06:27:15.759570,NFL,Will the Atlanta Falcons win the 2027 NFL league championship?,No,99.05000000000001
+2026-07-11T06:27:15.759578,NFL,Will Lana Del Rey attend Taylor Swift's wedding?,Yes,22.5
+2026-07-11T06:27:15.759582,NFL,Will Lana Del Rey attend Taylor Swift's wedding?,No,77.5
+2026-07-11T06:27:15.759588,NFL,Will the Las Vegas Raiders win the 2027 NFL league championship?,Yes,0.8500000000000001
+2026-07-11T06:27:15.759593,NFL,Will the Las Vegas Raiders win the 2027 NFL league championship?,No,99.15
+2026-07-11T06:27:15.759600,NFL,Will the New England Patriots win the 2027 NFL league championship?,Yes,3.35
+2026-07-11T06:27:15.759603,NFL,Will the New England Patriots win the 2027 NFL league championship?,No,96.65
+2026-07-11T06:27:16.349582,Premier League,Will Elliot Anderson be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-11T06:27:16.349596,Premier League,Will Elliot Anderson be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-11T06:27:16.349605,Premier League,Will Rodri be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-11T06:27:16.349609,Premier League,Will Rodri be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-11T06:27:16.349615,Premier League,Will Antoine Semenyo be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-11T06:27:16.349619,Premier League,Will Antoine Semenyo be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-11T06:27:16.349626,Premier League,Will Declan Rice be named to the 2026 PFA Premier League Team of the Year?,Yes,51.0
+2026-07-11T06:27:16.349629,Premier League,Will Declan Rice be named to the 2026 PFA Premier League Team of the Year?,No,49.0
+2026-07-11T06:27:16.349636,Premier League,Will Marc Cucurella be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-11T06:27:16.349639,Premier League,Will Marc Cucurella be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-11T06:27:16.702680,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,15.5
+2026-07-11T06:27:16.702692,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,84.5
+2026-07-11T06:27:16.702701,Champions League,Will Arsenal win the 2026-27 UEFA Champions League Championship?,Yes,11.5
+2026-07-11T06:27:16.702706,Champions League,Will Arsenal win the 2026-27 UEFA Champions League Championship?,No,88.5
+2026-07-11T06:27:16.702713,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,4.15
+2026-07-11T06:27:16.702720,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,95.85000000000001
+2026-07-11T06:27:16.702728,Champions League,Will Feyenoord win the 2026-27 UEFA Champions League Championship?,Yes,0.35000000000000003
+2026-07-11T06:27:16.702732,Champions League,Will Feyenoord win the 2026-27 UEFA Champions League Championship?,No,99.65
+2026-07-11T06:27:16.702739,Champions League,Will Sporting CP win the 2026-27 UEFA Champions League Championship?,Yes,0.65
+2026-07-11T06:27:16.702743,Champions League,Will Sporting CP win the 2026-27 UEFA Champions League Championship?,No,99.35000000000001
+2026-07-11T06:27:17.007868,MLB,Will Mike Trout hit the most home runs during the 2026 MLB regular season?,Yes,0.3
+2026-07-11T06:27:17.007879,MLB,Will Mike Trout hit the most home runs during the 2026 MLB regular season?,No,99.7
+2026-07-11T06:27:17.007888,MLB,Will Juan Soto hit the most home runs during the 2026 MLB regular season?,Yes,0.4
+2026-07-11T06:27:17.007893,MLB,Will Juan Soto hit the most home runs during the 2026 MLB regular season?,No,99.6
+2026-07-11T06:27:17.007900,MLB,Will Brandon Lowe hit the most home runs during the 2026 MLB regular season?,Yes,0.3
+2026-07-11T06:27:17.007903,MLB,Will Brandon Lowe hit the most home runs during the 2026 MLB regular season?,No,99.7
+2026-07-11T06:27:17.007910,MLB,Milwaukee Brewers vs. Pittsburgh Pirates,Milwaukee Brewers,45.5
+2026-07-11T06:27:17.007914,MLB,Milwaukee Brewers vs. Pittsburgh Pirates,Pittsburgh Pirates,54.50000000000001
+2026-07-11T06:27:17.007921,MLB,Will CJ Abrams hit the most home runs during the 2026 MLB regular season?,Yes,0.3
+2026-07-11T06:27:17.007924,MLB,Will CJ Abrams hit the most home runs during the 2026 MLB regular season?,No,99.7

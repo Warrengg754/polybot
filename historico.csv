@@ -1399,3 +1399,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-07-12T22:33:37.549777,MLB,Arizona Diamondbacks vs. Los Angeles Dodgers: O/U 9.5,Under,63.5
 2026-07-12T22:33:37.549783,MLB,Colorado Rockies vs. San Francisco Giants: O/U 8.5,Over,0.05
 2026-07-12T22:33:37.549786,MLB,Colorado Rockies vs. San Francisco Giants: O/U 8.5,Under,99.95
+2026-07-13T10:42:43.775069,NBA,Will Zuby Ejiofor win the 2026-27 NBA Rookie of the Year?,Yes,0.2
+2026-07-13T10:42:43.775120,NBA,Will Zuby Ejiofor win the 2026-27 NBA Rookie of the Year?,No,99.8
+2026-07-13T10:42:43.775131,NBA,Will Chris Cenac Jr. win the 2026-27 NBA Rookie of the Year?,Yes,0.25
+2026-07-13T10:42:43.775136,NBA,Will Chris Cenac Jr. win the 2026-27 NBA Rookie of the Year?,No,99.75
+2026-07-13T10:42:43.775144,NBA,Will LeBron James play for the Golden State Warriors in 2026-27?,Yes,20.150000000000002
+2026-07-13T10:42:43.775150,NBA,Will LeBron James play for the Golden State Warriors in 2026-27?,No,79.85
+2026-07-13T10:42:43.775165,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,Yes,48.05
+2026-07-13T10:42:43.775168,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,No,51.949999999999996
+2026-07-13T10:42:43.775177,NBA,Will LeBron James play for the Chicago Bulls in 2026-27?,Yes,0.05
+2026-07-13T10:42:43.775180,NBA,Will LeBron James play for the Chicago Bulls in 2026-27?,No,99.95
+2026-07-13T10:42:43.947781,NFL,Will Lana Del Rey attend Taylor Swift's wedding?,Yes,0.25
+2026-07-13T10:42:43.947802,NFL,Will Lana Del Rey attend Taylor Swift's wedding?,No,99.75
+2026-07-13T10:42:43.947811,NFL,Will the Kansas City Chiefs win the 2027 NFL league championship?,Yes,5.45
+2026-07-13T10:42:43.947815,NFL,Will the Kansas City Chiefs win the 2027 NFL league championship?,No,94.55
+2026-07-13T10:42:43.947822,NFL,Will Jared Goff attend Taylor Swift's wedding?,Yes,0.05
+2026-07-13T10:42:43.947826,NFL,Will Jared Goff attend Taylor Swift's wedding?,No,99.95
+2026-07-13T10:42:43.947833,NFL,Will the Atlanta Falcons win the 2027 NFL league championship?,Yes,1.15
+2026-07-13T10:42:43.947837,NFL,Will the Atlanta Falcons win the 2027 NFL league championship?,No,98.85000000000001
+2026-07-13T10:42:43.947844,NFL,Will the San Francisco 49ers win the 2027 NFL league championship?,Yes,4.35
+2026-07-13T10:42:43.947847,NFL,Will the San Francisco 49ers win the 2027 NFL league championship?,No,95.65
+2026-07-13T10:42:44.279140,Premier League,Will William Saliba be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-13T10:42:44.279160,Premier League,Will William Saliba be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-13T10:42:44.279169,Premier League,Will Igor Thiago be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-13T10:42:44.279172,Premier League,Will Igor Thiago be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-13T10:42:44.279180,Premier League,Will Jordan Pickford be named to the 2026 PFA Premier League Team of the Year?,Yes,49.0
+2026-07-13T10:42:44.279184,Premier League,Will Jordan Pickford be named to the 2026 PFA Premier League Team of the Year?,No,51.0
+2026-07-13T10:42:44.279190,Premier League,Will Robin Roefs be named to the 2026 PFA Premier League Team of the Year?,Yes,49.0
+2026-07-13T10:42:44.279194,Premier League,Will Robin Roefs be named to the 2026 PFA Premier League Team of the Year?,No,51.0
+2026-07-13T10:42:44.279200,Premier League,Will João Pedro be named to the 2026 PFA Premier League Team of the Year?,Yes,49.0
+2026-07-13T10:42:44.279208,Premier League,Will João Pedro be named to the 2026 PFA Premier League Team of the Year?,No,51.0
+2026-07-13T10:42:44.468456,Champions League,Will Manchester City win the 2026-27 UEFA Champions League Championship?,Yes,12.5
+2026-07-13T10:42:44.468477,Champions League,Will Manchester City win the 2026-27 UEFA Champions League Championship?,No,87.5
+2026-07-13T10:42:44.468487,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,4.2
+2026-07-13T10:42:44.468493,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,95.8
+2026-07-13T10:42:44.468500,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,Yes,3.55
+2026-07-13T10:42:44.468504,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,No,96.45
+2026-07-13T10:42:44.468511,Champions League,Will Manchester United win the 2026-27 UEFA Champions League Championship?,Yes,4.5
+2026-07-13T10:42:44.468514,Champions League,Will Manchester United win the 2026-27 UEFA Champions League Championship?,No,95.5
+2026-07-13T10:42:44.468521,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,Yes,11.5
+2026-07-13T10:42:44.468524,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,No,88.5
+2026-07-13T10:42:44.633715,MLB,Will the Pittsburgh Pirates win the 2026 World Series?,Yes,1.15
+2026-07-13T10:42:44.633741,MLB,Will the Pittsburgh Pirates win the 2026 World Series?,No,98.85000000000001
+2026-07-13T10:42:44.633757,MLB,Will the Milwaukee Brewers win the 2026 World Series?,Yes,8.85
+2026-07-13T10:42:44.633763,MLB,Will the Milwaukee Brewers win the 2026 World Series?,No,91.14999999999999
+2026-07-13T10:42:44.633776,MLB,Will the Boston Red Sox win the 2026 World Series?,Yes,1.35
+2026-07-13T10:42:44.633782,MLB,Will the Boston Red Sox win the 2026 World Series?,No,98.65
+2026-07-13T10:42:44.633792,MLB,American vs. National: O/U 7.5,Over,53.0
+2026-07-13T10:42:44.633797,MLB,American vs. National: O/U 7.5,Under,47.0
+2026-07-13T10:42:44.633807,MLB,MLB All-Star Game,American League,45.5
+2026-07-13T10:42:44.633812,MLB,MLB All-Star Game,National League,54.50000000000001

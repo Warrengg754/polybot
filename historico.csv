@@ -1449,3 +1449,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-07-13T10:42:44.633797,MLB,American vs. National: O/U 7.5,Under,47.0
 2026-07-13T10:42:44.633807,MLB,MLB All-Star Game,American League,45.5
 2026-07-13T10:42:44.633812,MLB,MLB All-Star Game,National League,54.50000000000001
+2026-07-13T18:11:58.086344,NBA,Will Zuby Ejiofor win the 2026-27 NBA Rookie of the Year?,Yes,0.44999999999999996
+2026-07-13T18:11:58.086372,NBA,Will Zuby Ejiofor win the 2026-27 NBA Rookie of the Year?,No,99.55000000000001
+2026-07-13T18:11:58.086384,NBA,Will Allen Graves win the 2026-27 NBA Rookie of the Year?,Yes,0.2
+2026-07-13T18:11:58.086389,NBA,Will Allen Graves win the 2026-27 NBA Rookie of the Year?,No,99.8
+2026-07-13T18:11:58.086398,NBA,Will Chris Cenac Jr. win the 2026-27 NBA Rookie of the Year?,Yes,0.25
+2026-07-13T18:11:58.086405,NBA,Will Chris Cenac Jr. win the 2026-27 NBA Rookie of the Year?,No,99.75
+2026-07-13T18:11:58.086424,NBA,Will LeBron James play for the Golden State Warriors in 2026-27?,Yes,23.400000000000002
+2026-07-13T18:11:58.086430,NBA,Will LeBron James play for the Golden State Warriors in 2026-27?,No,76.6
+2026-07-13T18:11:58.086439,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,Yes,42.1
+2026-07-13T18:11:58.086444,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,No,57.9
+2026-07-13T18:11:58.292737,NFL,Will the Chicago Bears win the 2027 NFL league championship?,Yes,3.35
+2026-07-13T18:11:58.292786,NFL,Will the Chicago Bears win the 2027 NFL league championship?,No,96.65
+2026-07-13T18:11:58.292802,NFL,Will Jared Goff attend Taylor Swift's wedding?,Yes,0.05
+2026-07-13T18:11:58.292809,NFL,Will Jared Goff attend Taylor Swift's wedding?,No,99.95
+2026-07-13T18:11:58.292823,NFL,Will the Seattle Seahawks win the 2027 NFL league championship?,Yes,7.5
+2026-07-13T18:11:58.292829,NFL,Will the Seattle Seahawks win the 2027 NFL league championship?,No,92.5
+2026-07-13T18:11:58.292841,NFL,Will Patrick Mahomes attend Taylor Swift's wedding?,Yes,97.95
+2026-07-13T18:11:58.292848,NFL,Will Patrick Mahomes attend Taylor Swift's wedding?,No,2.0500000000000003
+2026-07-13T18:11:58.292861,NFL,Will the New England Patriots win the 2027 NFL league championship?,Yes,3.75
+2026-07-13T18:11:58.292868,NFL,Will the New England Patriots win the 2027 NFL league championship?,No,96.25
+2026-07-13T18:11:58.648651,Premier League,Will Antoine Semenyo be named to the 2026 PFA Premier League Team of the Year?,Yes,51.0
+2026-07-13T18:11:58.648671,Premier League,Will Antoine Semenyo be named to the 2026 PFA Premier League Team of the Year?,No,49.0
+2026-07-13T18:11:58.648680,Premier League,Will João Pedro be named to the 2026 PFA Premier League Team of the Year?,Yes,49.0
+2026-07-13T18:11:58.648688,Premier League,Will João Pedro be named to the 2026 PFA Premier League Team of the Year?,No,51.0
+2026-07-13T18:11:58.648697,Premier League,Will Bryan Mbeumo be named to the 2026 PFA Premier League Team of the Year?,Yes,49.0
+2026-07-13T18:11:58.648701,Premier League,Will Bryan Mbeumo be named to the 2026 PFA Premier League Team of the Year?,No,51.0
+2026-07-13T18:11:58.648709,Premier League,Will Bruno Fernandes be named to the 2026 PFA Premier League Team of the Year?,Yes,63.9
+2026-07-13T18:11:58.648715,Premier League,Will Bruno Fernandes be named to the 2026 PFA Premier League Team of the Year?,No,36.1
+2026-07-13T18:11:58.648724,Premier League,Will Robin Roefs be named to the 2026 PFA Premier League Team of the Year?,Yes,49.0
+2026-07-13T18:11:58.648728,Premier League,Will Robin Roefs be named to the 2026 PFA Premier League Team of the Year?,No,51.0
+2026-07-13T18:11:58.851092,Champions League,Will Lille win the 2026-27 UEFA Champions League Championship?,Yes,0.25
+2026-07-13T18:11:58.851113,Champions League,Will Lille win the 2026-27 UEFA Champions League Championship?,No,99.75
+2026-07-13T18:11:58.851124,Champions League,Will Manchester City win the 2026-27 UEFA Champions League Championship?,Yes,12.5
+2026-07-13T18:11:58.851130,Champions League,Will Manchester City win the 2026-27 UEFA Champions League Championship?,No,87.5
+2026-07-13T18:11:58.851138,Champions League,Will VfB Stuttgart win the 2026-27 UEFA Champions League Championship?,Yes,0.44999999999999996
+2026-07-13T18:11:58.851144,Champions League,Will VfB Stuttgart win the 2026-27 UEFA Champions League Championship?,No,99.55000000000001
+2026-07-13T18:11:58.851153,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,Yes,0.5499999999999999
+2026-07-13T18:11:58.851159,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,No,99.45
+2026-07-13T18:11:58.851167,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,4.15
+2026-07-13T18:11:58.851173,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,95.85000000000001
+2026-07-13T18:11:59.055820,MLB,Will Kyle Schwarber win the 2026 MLB Home Run Derby?,Yes,23.65
+2026-07-13T18:11:59.055842,MLB,Will Kyle Schwarber win the 2026 MLB Home Run Derby?,No,76.35
+2026-07-13T18:11:59.055851,MLB,MLB All-Star Game,American League,44.5
+2026-07-13T18:11:59.055855,MLB,MLB All-Star Game,National League,55.50000000000001
+2026-07-13T18:11:59.055864,MLB,American vs. National: O/U 7.5,Over,53.5
+2026-07-13T18:11:59.055868,MLB,American vs. National: O/U 7.5,Under,46.5
+2026-07-13T18:11:59.055875,MLB,Will Ben Rice win the 2026 MLB Home Run Derby?,Yes,9.5
+2026-07-13T18:11:59.055879,MLB,Will Ben Rice win the 2026 MLB Home Run Derby?,No,90.5
+2026-07-13T18:11:59.055887,MLB,Will the Milwaukee Brewers win the 2026 World Series?,Yes,8.95
+2026-07-13T18:11:59.055891,MLB,Will the Milwaukee Brewers win the 2026 World Series?,No,91.05

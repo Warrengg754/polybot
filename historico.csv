@@ -1499,3 +1499,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-07-13T18:11:59.055879,MLB,Will Ben Rice win the 2026 MLB Home Run Derby?,No,90.5
 2026-07-13T18:11:59.055887,MLB,Will the Milwaukee Brewers win the 2026 World Series?,Yes,8.95
 2026-07-13T18:11:59.055891,MLB,Will the Milwaukee Brewers win the 2026 World Series?,No,91.05
+2026-07-13T21:36:21.497713,NBA,Will Zuby Ejiofor win the 2026-27 NBA Rookie of the Year?,Yes,0.44999999999999996
+2026-07-13T21:36:21.497739,NBA,Will Zuby Ejiofor win the 2026-27 NBA Rookie of the Year?,No,99.55000000000001
+2026-07-13T21:36:21.497768,NBA,Will Allen Graves win the 2026-27 NBA Rookie of the Year?,Yes,0.65
+2026-07-13T21:36:21.497776,NBA,Will Allen Graves win the 2026-27 NBA Rookie of the Year?,No,99.35000000000001
+2026-07-13T21:36:21.497793,NBA,Will Chris Cenac Jr. win the 2026-27 NBA Rookie of the Year?,Yes,1.0999999999999999
+2026-07-13T21:36:21.497803,NBA,Will Chris Cenac Jr. win the 2026-27 NBA Rookie of the Year?,No,98.9
+2026-07-13T21:36:21.497826,NBA,Will LeBron James play for the Golden State Warriors in 2026-27?,Yes,25.15
+2026-07-13T21:36:21.497839,NBA,Will LeBron James play for the Golden State Warriors in 2026-27?,No,74.85000000000001
+2026-07-13T21:36:21.497854,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,Yes,43.55
+2026-07-13T21:36:21.497860,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,No,56.45
+2026-07-13T21:36:21.658337,NFL,Will the Chicago Bears win the 2027 NFL league championship?,Yes,3.3000000000000003
+2026-07-13T21:36:21.658348,NFL,Will the Chicago Bears win the 2027 NFL league championship?,No,96.7
+2026-07-13T21:36:21.658357,NFL,Will Jared Goff attend Taylor Swift's wedding?,Yes,0.6
+2026-07-13T21:36:21.658361,NFL,Will Jared Goff attend Taylor Swift's wedding?,No,99.4
+2026-07-13T21:36:21.658368,NFL,Will Patrick Mahomes attend Taylor Swift's wedding?,Yes,98.35000000000001
+2026-07-13T21:36:21.658372,NFL,Will Patrick Mahomes attend Taylor Swift's wedding?,No,1.6500000000000001
+2026-07-13T21:36:21.658380,NFL,Will the Seattle Seahawks win the 2027 NFL league championship?,Yes,7.5
+2026-07-13T21:36:21.658384,NFL,Will the Seattle Seahawks win the 2027 NFL league championship?,No,92.5
+2026-07-13T21:36:21.658391,NFL,Will the New England Patriots win the 2027 NFL league championship?,Yes,3.75
+2026-07-13T21:36:21.658394,NFL,Will the New England Patriots win the 2027 NFL league championship?,No,96.25
+2026-07-13T21:36:21.957744,Premier League,Will Jarrod Bowen be named to the 2026 PFA Premier League Team of the Year?,Yes,49.0
+2026-07-13T21:36:21.957755,Premier League,Will Jarrod Bowen be named to the 2026 PFA Premier League Team of the Year?,No,51.0
+2026-07-13T21:36:21.957764,Premier League,Will David Raya be named to the 2026 PFA Premier League Team of the Year?,Yes,51.0
+2026-07-13T21:36:21.957768,Premier League,Will David Raya be named to the 2026 PFA Premier League Team of the Year?,No,49.0
+2026-07-13T21:36:21.957775,Premier League,Will Matheus Nunes be named to the 2026 PFA Premier League Team of the Year?,Yes,50.5
+2026-07-13T21:36:21.957779,Premier League,Will Matheus Nunes be named to the 2026 PFA Premier League Team of the Year?,No,49.5
+2026-07-13T21:36:21.957786,Premier League,Will Morgan Rogers be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-13T21:36:21.957790,Premier League,Will Morgan Rogers be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-13T21:36:21.957796,Premier League,Will Marc Cucurella be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-13T21:36:21.957799,Premier League,Will Marc Cucurella be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-13T21:36:22.102516,Champions League,Will Lille win the 2026-27 UEFA Champions League Championship?,Yes,0.5499999999999999
+2026-07-13T21:36:22.102528,Champions League,Will Lille win the 2026-27 UEFA Champions League Championship?,No,99.45
+2026-07-13T21:36:22.102537,Champions League,Will Manchester City win the 2026-27 UEFA Champions League Championship?,Yes,12.5
+2026-07-13T21:36:22.102542,Champions League,Will Manchester City win the 2026-27 UEFA Champions League Championship?,No,87.5
+2026-07-13T21:36:22.102549,Champions League,Will VfB Stuttgart win the 2026-27 UEFA Champions League Championship?,Yes,0.44999999999999996
+2026-07-13T21:36:22.102553,Champions League,Will VfB Stuttgart win the 2026-27 UEFA Champions League Championship?,No,99.55000000000001
+2026-07-13T21:36:22.102561,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,Yes,0.5499999999999999
+2026-07-13T21:36:22.102565,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,No,99.45
+2026-07-13T21:36:22.102572,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,4.15
+2026-07-13T21:36:22.102578,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,95.85000000000001
+2026-07-13T21:36:22.260058,MLB,Will Aaron Judge lead the MLB in doubles for the 2026 regular season?,Yes,0.3
+2026-07-13T21:36:22.260069,MLB,Will Aaron Judge lead the MLB in doubles for the 2026 regular season?,No,99.7
+2026-07-13T21:36:22.260077,MLB,Will the Cleveland Guardians win the 2026 World Series?,Yes,2.9499999999999997
+2026-07-13T21:36:22.260082,MLB,Will the Cleveland Guardians win the 2026 World Series?,No,97.05
+2026-07-13T21:36:22.260089,MLB,Will Mookie Betts win the 2026 National League MVP Award?,Yes,0.2
+2026-07-13T21:36:22.260092,MLB,Will Mookie Betts win the 2026 National League MVP Award?,No,99.8
+2026-07-13T21:36:22.260099,MLB,Will Kyle Schwarber win the 2026 MLB Home Run Derby?,Yes,22.85
+2026-07-13T21:36:22.260102,MLB,Will Kyle Schwarber win the 2026 MLB Home Run Derby?,No,77.14999999999999
+2026-07-13T21:36:22.260109,MLB,Will Bryce Harper win the 2026 MLB Home Run Derby?,Yes,9.55
+2026-07-13T21:36:22.260112,MLB,Will Bryce Harper win the 2026 MLB Home Run Derby?,No,90.45

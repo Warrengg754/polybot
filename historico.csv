@@ -1699,3 +1699,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-07-14T16:43:46.480192,MLB,Will the Pittsburgh Pirates win the 2026 World Series?,No,98.65
 2026-07-14T16:43:46.480199,MLB,Will the Arizona Diamondbacks win the 2026 World Series?,Yes,0.5499999999999999
 2026-07-14T16:43:46.480202,MLB,Will the Arizona Diamondbacks win the 2026 World Series?,No,99.45
+2026-07-14T20:42:45.240191,NBA,Will Ebuka Okorie win the 2026-27 NBA Rookie of the Year?,Yes,0.2
+2026-07-14T20:42:45.240218,NBA,Will Ebuka Okorie win the 2026-27 NBA Rookie of the Year?,No,99.8
+2026-07-14T20:42:45.240229,NBA,Will Tarris Reed Jr. win the 2026-27 NBA Rookie of the Year?,Yes,0.3
+2026-07-14T20:42:45.240233,NBA,Will Tarris Reed Jr. win the 2026-27 NBA Rookie of the Year?,No,99.7
+2026-07-14T20:42:45.240241,NBA,Will Labaron Philon Jr. win the 2026-27 NBA Rookie of the Year?,Yes,0.35000000000000003
+2026-07-14T20:42:45.240247,NBA,Will Labaron Philon Jr. win the 2026-27 NBA Rookie of the Year?,No,99.65
+2026-07-14T20:42:45.240270,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,Yes,40.849999999999994
+2026-07-14T20:42:45.240275,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,No,59.150000000000006
+2026-07-14T20:42:45.240283,NBA,Will LeBron James play for the Golden State Warriors in 2026-27?,Yes,26.05
+2026-07-14T20:42:45.240286,NBA,Will LeBron James play for the Golden State Warriors in 2026-27?,No,73.95
+2026-07-14T20:42:45.498706,NFL,Will the Kansas City Chiefs win the 2027 NFL league championship?,Yes,6.15
+2026-07-14T20:42:45.498718,NFL,Will the Kansas City Chiefs win the 2027 NFL league championship?,No,93.85
+2026-07-14T20:42:45.498727,NFL,Will the Minnesota Vikings win the 2027 NFL league championship?,Yes,1.15
+2026-07-14T20:42:45.498731,NFL,Will the Minnesota Vikings win the 2027 NFL league championship?,No,98.85000000000001
+2026-07-14T20:42:45.498739,NFL,Will the Denver Broncos win the 2027 NFL league championship?,Yes,3.25
+2026-07-14T20:42:45.498743,NFL,Will the Denver Broncos win the 2027 NFL league championship?,No,96.75
+2026-07-14T20:42:45.498750,NFL,Will the Green Bay Packers win the 2027 NFL league championship?,Yes,3.05
+2026-07-14T20:42:45.498754,NFL,Will the Green Bay Packers win the 2027 NFL league championship?,No,96.95
+2026-07-14T20:42:45.498761,NFL,Will the Cleveland Browns win the 2027 NFL league championship?,Yes,0.95
+2026-07-14T20:42:45.498765,NFL,Will the Cleveland Browns win the 2027 NFL league championship?,No,99.05000000000001
+2026-07-14T20:42:45.991679,Premier League,Will Marc Guehi be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-14T20:42:45.991694,Premier League,Will Marc Guehi be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-14T20:42:45.991703,Premier League,Will Rayan Cherki be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-14T20:42:45.991707,Premier League,Will Rayan Cherki be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-14T20:42:45.991714,Premier League,Will Dominik Szoboszlai be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-14T20:42:45.991717,Premier League,Will Dominik Szoboszlai be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-14T20:42:45.991724,Premier League,Will Matheus Nunes be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-14T20:42:45.991727,Premier League,Will Matheus Nunes be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-14T20:42:45.991734,Premier League,Will Robin Roefs be named to the 2026 PFA Premier League Team of the Year?,Yes,49.0
+2026-07-14T20:42:45.991738,Premier League,Will Robin Roefs be named to the 2026 PFA Premier League Team of the Year?,No,51.0
+2026-07-14T20:42:46.224409,Champions League,Will Napoli win the 2026-27 UEFA Champions League Championship?,Yes,1.05
+2026-07-14T20:42:46.224427,Champions League,Will Napoli win the 2026-27 UEFA Champions League Championship?,No,98.95
+2026-07-14T20:42:46.224436,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,11.5
+2026-07-14T20:42:46.224441,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,88.5
+2026-07-14T20:42:46.224448,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,14.499999999999998
+2026-07-14T20:42:46.224452,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,85.5
+2026-07-14T20:42:46.224459,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,Yes,11.5
+2026-07-14T20:42:46.224463,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,No,88.5
+2026-07-14T20:42:46.224470,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,Yes,0.8500000000000001
+2026-07-14T20:42:46.224474,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,No,99.15
+2026-07-14T20:42:46.439546,MLB,Will the Philadelphia Phillies have the highest ABS success rate during the 2026 MLB regular season?,Yes,1.95
+2026-07-14T20:42:46.439558,MLB,Will the Philadelphia Phillies have the highest ABS success rate during the 2026 MLB regular season?,No,98.05
+2026-07-14T20:42:46.439568,MLB,Will the Pittsburgh Pirates win the 2026 World Series?,Yes,1.35
+2026-07-14T20:42:46.439608,MLB,Will the Pittsburgh Pirates win the 2026 World Series?,No,98.65
+2026-07-14T20:42:46.439620,MLB,Will the Arizona Diamondbacks win the 2026 World Series?,Yes,0.5499999999999999
+2026-07-14T20:42:46.439625,MLB,Will the Arizona Diamondbacks win the 2026 World Series?,No,99.45
+2026-07-14T20:42:46.439631,MLB,Will the Cleveland Guardians win the 2026 World Series?,Yes,2.65
+2026-07-14T20:42:46.439635,MLB,Will the Cleveland Guardians win the 2026 World Series?,No,97.35000000000001
+2026-07-14T20:42:46.439642,MLB,MLB All-Star Game,American League,44.5
+2026-07-14T20:42:46.439645,MLB,MLB All-Star Game,National League,55.50000000000001

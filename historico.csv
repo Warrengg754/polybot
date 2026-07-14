@@ -1549,3 +1549,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-07-13T21:36:22.260102,MLB,Will Kyle Schwarber win the 2026 MLB Home Run Derby?,No,77.14999999999999
 2026-07-13T21:36:22.260109,MLB,Will Bryce Harper win the 2026 MLB Home Run Derby?,Yes,9.55
 2026-07-13T21:36:22.260112,MLB,Will Bryce Harper win the 2026 MLB Home Run Derby?,No,90.45
+2026-07-14T06:23:53.661781,NBA,Will Zuby Ejiofor win the 2026-27 NBA Rookie of the Year?,Yes,0.25
+2026-07-14T06:23:53.661810,NBA,Will Zuby Ejiofor win the 2026-27 NBA Rookie of the Year?,No,99.75
+2026-07-14T06:23:53.661822,NBA,Will Allen Graves win the 2026-27 NBA Rookie of the Year?,Yes,0.25
+2026-07-14T06:23:53.661826,NBA,Will Allen Graves win the 2026-27 NBA Rookie of the Year?,No,99.75
+2026-07-14T06:23:53.661834,NBA,Will Chris Cenac Jr. win the 2026-27 NBA Rookie of the Year?,Yes,0.5499999999999999
+2026-07-14T06:23:53.661841,NBA,Will Chris Cenac Jr. win the 2026-27 NBA Rookie of the Year?,No,99.45
+2026-07-14T06:23:53.661855,NBA,Will Tarris Reed Jr. win the 2026-27 NBA Rookie of the Year?,Yes,0.2
+2026-07-14T06:23:53.661859,NBA,Will Tarris Reed Jr. win the 2026-27 NBA Rookie of the Year?,No,99.8
+2026-07-14T06:23:53.661867,NBA,Will Labaron Philon Jr. win the 2026-27 NBA Rookie of the Year?,Yes,0.35000000000000003
+2026-07-14T06:23:53.661871,NBA,Will Labaron Philon Jr. win the 2026-27 NBA Rookie of the Year?,No,99.65
+2026-07-14T06:23:53.861696,NFL,Will the Kansas City Chiefs win the 2027 NFL league championship?,Yes,5.949999999999999
+2026-07-14T06:23:53.861713,NFL,Will the Kansas City Chiefs win the 2027 NFL league championship?,No,94.05
+2026-07-14T06:23:53.861723,NFL,Will the Chicago Bears win the 2027 NFL league championship?,Yes,3.05
+2026-07-14T06:23:53.861727,NFL,Will the Chicago Bears win the 2027 NFL league championship?,No,96.95
+2026-07-14T06:23:53.861734,NFL,Will the Seattle Seahawks win the 2027 NFL league championship?,Yes,7.5
+2026-07-14T06:23:53.861738,NFL,Will the Seattle Seahawks win the 2027 NFL league championship?,No,92.5
+2026-07-14T06:23:53.861748,NFL,Will the Jacksonville Jaguars win the 2027 NFL league championship?,Yes,2.65
+2026-07-14T06:23:53.861752,NFL,Will the Jacksonville Jaguars win the 2027 NFL league championship?,No,97.35000000000001
+2026-07-14T06:23:53.861759,NFL,Will the New England Patriots win the 2027 NFL league championship?,Yes,3.75
+2026-07-14T06:23:53.861763,NFL,Will the New England Patriots win the 2027 NFL league championship?,No,96.25
+2026-07-14T06:23:54.234381,Premier League,Will William Saliba be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-14T06:23:54.234398,Premier League,Will William Saliba be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-14T06:23:54.234407,Premier League,Will Bukayo Saka be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-14T06:23:54.234411,Premier League,Will Bukayo Saka be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-14T06:23:54.234418,Premier League,Will Matheus Nunes be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-14T06:23:54.234422,Premier League,Will Matheus Nunes be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-14T06:23:54.234428,Premier League,Will David Raya be named to the 2026 PFA Premier League Team of the Year?,Yes,51.0
+2026-07-14T06:23:54.234432,Premier League,Will David Raya be named to the 2026 PFA Premier League Team of the Year?,No,49.0
+2026-07-14T06:23:54.234438,Premier League,Will Bryan Mbeumo be named to the 2026 PFA Premier League Team of the Year?,Yes,49.0
+2026-07-14T06:23:54.234442,Premier League,Will Bryan Mbeumo be named to the 2026 PFA Premier League Team of the Year?,No,51.0
+2026-07-14T06:23:54.440833,Champions League,Will Lille win the 2026-27 UEFA Champions League Championship?,Yes,0.6
+2026-07-14T06:23:54.440850,Champions League,Will Lille win the 2026-27 UEFA Champions League Championship?,No,99.4
+2026-07-14T06:23:54.440859,Champions League,Will Manchester City win the 2026-27 UEFA Champions League Championship?,Yes,12.5
+2026-07-14T06:23:54.440864,Champions League,Will Manchester City win the 2026-27 UEFA Champions League Championship?,No,87.5
+2026-07-14T06:23:54.440871,Champions League,Will VfB Stuttgart win the 2026-27 UEFA Champions League Championship?,Yes,0.44999999999999996
+2026-07-14T06:23:54.440876,Champions League,Will VfB Stuttgart win the 2026-27 UEFA Champions League Championship?,No,99.55000000000001
+2026-07-14T06:23:54.440883,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,Yes,0.5499999999999999
+2026-07-14T06:23:54.440888,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,No,99.45
+2026-07-14T06:23:54.440894,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,Yes,3.55
+2026-07-14T06:23:54.440898,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,No,96.45
+2026-07-14T06:23:54.633633,MLB,Will Aaron Judge lead the MLB in doubles for the 2026 regular season?,Yes,0.25
+2026-07-14T06:23:54.633651,MLB,Will Aaron Judge lead the MLB in doubles for the 2026 regular season?,No,99.75
+2026-07-14T06:23:54.633660,MLB,Will the Cleveland Guardians win the 2026 World Series?,Yes,2.65
+2026-07-14T06:23:54.633664,MLB,Will the Cleveland Guardians win the 2026 World Series?,No,97.35000000000001
+2026-07-14T06:23:54.633671,MLB,Will Mookie Betts win the 2026 National League MVP Award?,Yes,0.15
+2026-07-14T06:23:54.633675,MLB,Will Mookie Betts win the 2026 National League MVP Award?,No,99.85000000000001
+2026-07-14T06:23:54.633682,MLB,Will the Pittsburgh Pirates win the 2026 World Series?,Yes,1.25
+2026-07-14T06:23:54.633685,MLB,Will the Pittsburgh Pirates win the 2026 World Series?,No,98.75
+2026-07-14T06:23:54.633692,MLB,Will the Tampa Bay Rays win the 2026 World Series?,Yes,5.35
+2026-07-14T06:23:54.633695,MLB,Will the Tampa Bay Rays win the 2026 World Series?,No,94.65

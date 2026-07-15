@@ -1849,3 +1849,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-07-15T07:30:33.701012,MLB,Will the Los Angeles Angels win the 2026 World Series?,No,99.45
 2026-07-15T07:30:33.701018,MLB,Tampa Bay Rays vs. Boston Red Sox,Tampa Bay Rays,43.5
 2026-07-15T07:30:33.701038,MLB,Tampa Bay Rays vs. Boston Red Sox,Boston Red Sox,56.49999999999999
+2026-07-15T12:55:21.343257,NBA,Will Ebuka Okorie win the 2026-27 NBA Rookie of the Year?,Yes,0.4
+2026-07-15T12:55:21.343281,NBA,Will Ebuka Okorie win the 2026-27 NBA Rookie of the Year?,No,99.6
+2026-07-15T12:55:21.343292,NBA,Will LeBron James play for the Golden State Warriors in 2026-27?,Yes,28.549999999999997
+2026-07-15T12:55:21.343297,NBA,Will LeBron James play for the Golden State Warriors in 2026-27?,No,71.45
+2026-07-15T12:55:21.343305,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,Yes,40.949999999999996
+2026-07-15T12:55:21.343312,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,No,59.050000000000004
+2026-07-15T12:55:21.343326,NBA,Will LeBron James play for the Philadelphia 76ers in 2026-27?,Yes,13.3
+2026-07-15T12:55:21.343330,NBA,Will LeBron James play for the Philadelphia 76ers in 2026-27?,No,86.7
+2026-07-15T12:55:21.343338,NBA,Will LeBron James play for the Miami Heat in 2026-27?,Yes,12.85
+2026-07-15T12:55:21.343342,NBA,Will LeBron James play for the Miami Heat in 2026-27?,No,87.15
+2026-07-15T12:55:21.572906,NFL,Will the Las Vegas Raiders win the 2027 NFL league championship?,Yes,0.8500000000000001
+2026-07-15T12:55:21.572923,NFL,Will the Las Vegas Raiders win the 2027 NFL league championship?,No,99.15
+2026-07-15T12:55:21.572931,NFL,Will the Cleveland Browns win the 2027 NFL league championship?,Yes,0.8500000000000001
+2026-07-15T12:55:21.572936,NFL,Will the Cleveland Browns win the 2027 NFL league championship?,No,99.15
+2026-07-15T12:55:21.572943,NFL,Will the Arizona Cardinals win the 2027 NFL league championship?,Yes,0.8500000000000001
+2026-07-15T12:55:21.572947,NFL,Will the Arizona Cardinals win the 2027 NFL league championship?,No,99.15
+2026-07-15T12:55:21.572954,NFL,Will the Minnesota Vikings win the 2027 NFL league championship?,Yes,1.25
+2026-07-15T12:55:21.572958,NFL,Will the Minnesota Vikings win the 2027 NFL league championship?,No,98.75
+2026-07-15T12:55:21.572964,NFL,Will the Tampa Bay Buccaneers win the 2027 NFL league championship?,Yes,1.15
+2026-07-15T12:55:21.572968,NFL,Will the Tampa Bay Buccaneers win the 2027 NFL league championship?,No,98.85000000000001
+2026-07-15T12:55:21.953079,Premier League,Will Brighton & Hove Albion qualify for the League Phase of the 2026-27 UEFA Conference League?,Yes,96.45
+2026-07-15T12:55:21.953096,Premier League,Will Brighton & Hove Albion qualify for the League Phase of the 2026-27 UEFA Conference League?,No,3.55
+2026-07-15T12:55:21.953105,Premier League,Will Igor Thiago be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-15T12:55:21.953110,Premier League,Will Igor Thiago be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-15T12:55:21.953116,Premier League,Will Virgil van Dijk be named to the 2026 PFA Premier League Team of the Year?,Yes,49.5
+2026-07-15T12:55:21.953121,Premier League,Will Virgil van Dijk be named to the 2026 PFA Premier League Team of the Year?,No,50.5
+2026-07-15T12:55:21.953127,Premier League,Will Declan Rice be named to the 2026 PFA Premier League Team of the Year?,Yes,50.5
+2026-07-15T12:55:21.953131,Premier League,Will Declan Rice be named to the 2026 PFA Premier League Team of the Year?,No,49.5
+2026-07-15T12:55:21.953138,Premier League,Will Gianluigi Donnarumma be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-15T12:55:21.953142,Premier League,Will Gianluigi Donnarumma be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-15T12:55:22.492636,Champions League,Will Napoli win the 2026-27 UEFA Champions League Championship?,Yes,1.05
+2026-07-15T12:55:22.492652,Champions League,Will Napoli win the 2026-27 UEFA Champions League Championship?,No,98.95
+2026-07-15T12:55:22.492661,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,Yes,11.5
+2026-07-15T12:55:22.492666,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,No,88.5
+2026-07-15T12:55:22.492673,Champions League,Will Bayern Munich win the 2026-27 UEFA Champions League Championship?,Yes,13.5
+2026-07-15T12:55:22.492677,Champions League,Will Bayern Munich win the 2026-27 UEFA Champions League Championship?,No,86.5
+2026-07-15T12:55:22.492683,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,14.499999999999998
+2026-07-15T12:55:22.492688,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,85.5
+2026-07-15T12:55:22.492694,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,11.5
+2026-07-15T12:55:22.492698,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,88.5
+2026-07-15T12:55:22.710140,MLB,Will the Philadelphia Phillies have the highest ABS success rate during the 2026 MLB regular season?,Yes,1.95
+2026-07-15T12:55:22.710158,MLB,Will the Philadelphia Phillies have the highest ABS success rate during the 2026 MLB regular season?,No,98.05
+2026-07-15T12:55:22.710167,MLB,Will the Baltimore Orioles win the 2026 World Series?,Yes,0.25
+2026-07-15T12:55:22.710172,MLB,Will the Baltimore Orioles win the 2026 World Series?,No,99.75
+2026-07-15T12:55:22.710179,MLB,Will the Los Angeles Dodgers win the 2026 World Series?,Yes,29.5
+2026-07-15T12:55:22.710183,MLB,Will the Los Angeles Dodgers win the 2026 World Series?,No,70.5
+2026-07-15T12:55:22.710189,MLB,Will the Detroit Tigers win the 2026 World Series?,Yes,1.4500000000000002
+2026-07-15T12:55:22.710193,MLB,Will the Detroit Tigers win the 2026 World Series?,No,98.55000000000001
+2026-07-15T12:55:22.710200,MLB,Will the Colorado Rockies win the 2026 World Series?,Yes,0.5499999999999999
+2026-07-15T12:55:22.710204,MLB,Will the Colorado Rockies win the 2026 World Series?,No,99.45

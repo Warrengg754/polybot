@@ -2049,3 +2049,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-07-16T06:37:44.218657,MLB,New York Mets vs. Philadelphia Phillies,Philadelphia Phillies,54.949999999999996
 2026-07-16T06:37:44.218662,MLB,Will the Detroit Tigers win the 2026 World Series?,Yes,1.55
 2026-07-16T06:37:44.218664,MLB,Will the Detroit Tigers win the 2026 World Series?,No,98.45
+2026-07-16T12:10:40.514698,NBA,Will LeBron James play for the Golden State Warriors in 2026-27?,Yes,31.3
+2026-07-16T12:10:40.514725,NBA,Will LeBron James play for the Golden State Warriors in 2026-27?,No,68.7
+2026-07-16T12:10:40.514736,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,Yes,38.95
+2026-07-16T12:10:40.514741,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,No,61.050000000000004
+2026-07-16T12:10:40.514751,NBA,Will LeBron James play for the Los Angeles Lakers in 2026-27?,Yes,0.5499999999999999
+2026-07-16T12:10:40.514758,NBA,Will LeBron James play for the Los Angeles Lakers in 2026-27?,No,99.45
+2026-07-16T12:10:40.514772,NBA,Will LeBron James play for the Philadelphia 76ers in 2026-27?,Yes,12.7
+2026-07-16T12:10:40.514777,NBA,Will LeBron James play for the Philadelphia 76ers in 2026-27?,No,87.3
+2026-07-16T12:10:40.514784,NBA,Will LeBron James play for the Miami Heat in 2026-27?,Yes,13.3
+2026-07-16T12:10:40.514788,NBA,Will LeBron James play for the Miami Heat in 2026-27?,No,86.7
+2026-07-16T12:10:41.140696,NFL,Will the Minnesota Vikings win the 2027 NFL league championship?,Yes,2.35
+2026-07-16T12:10:41.140714,NFL,Will the Minnesota Vikings win the 2027 NFL league championship?,No,97.65
+2026-07-16T12:10:41.140723,NFL,Will the Arizona Cardinals win the 2027 NFL league championship?,Yes,0.8500000000000001
+2026-07-16T12:10:41.140727,NFL,Will the Arizona Cardinals win the 2027 NFL league championship?,No,99.15
+2026-07-16T12:10:41.140735,NFL,Will the Las Vegas Raiders win the 2027 NFL league championship?,Yes,0.8500000000000001
+2026-07-16T12:10:41.140738,NFL,Will the Las Vegas Raiders win the 2027 NFL league championship?,No,99.15
+2026-07-16T12:10:41.140746,NFL,Will the Tennessee Titans win the 2027 NFL league championship?,Yes,0.75
+2026-07-16T12:10:41.140750,NFL,Will the Tennessee Titans win the 2027 NFL league championship?,No,99.25
+2026-07-16T12:10:41.140756,NFL,Will the Los Angeles Rams win the 2027 NFL league championship?,Yes,15.5
+2026-07-16T12:10:41.140760,NFL,Will the Los Angeles Rams win the 2027 NFL league championship?,No,84.5
+2026-07-16T12:10:41.704075,Premier League,Will Phil Foden be named to the 2026 PFA Premier League Team of the Year?,Yes,49.0
+2026-07-16T12:10:41.704093,Premier League,Will Phil Foden be named to the 2026 PFA Premier League Team of the Year?,No,51.0
+2026-07-16T12:10:41.704101,Premier League,Will Hugo Ekitike be named to the 2026 PFA Premier League Team of the Year?,Yes,49.0
+2026-07-16T12:10:41.704105,Premier League,Will Hugo Ekitike be named to the 2026 PFA Premier League Team of the Year?,No,51.0
+2026-07-16T12:10:41.704112,Premier League,Will Jordan Pickford be named to the 2026 PFA Premier League Team of the Year?,Yes,49.0
+2026-07-16T12:10:41.704115,Premier League,Will Jordan Pickford be named to the 2026 PFA Premier League Team of the Year?,No,51.0
+2026-07-16T12:10:41.704122,Premier League,Will Brighton & Hove Albion qualify for the League Phase of the 2026-27 UEFA Conference League?,Yes,96.45
+2026-07-16T12:10:41.704127,Premier League,Will Brighton & Hove Albion qualify for the League Phase of the 2026-27 UEFA Conference League?,No,3.55
+2026-07-16T12:10:41.704135,Premier League,Will Elliot Anderson be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-16T12:10:41.704138,Premier League,Will Elliot Anderson be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-16T12:10:41.937038,Champions League,Will Villarreal win the 2026-27 UEFA Champions League Championship?,Yes,0.4
+2026-07-16T12:10:41.937056,Champions League,Will Villarreal win the 2026-27 UEFA Champions League Championship?,No,99.6
+2026-07-16T12:10:41.937066,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,11.5
+2026-07-16T12:10:41.937071,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,88.5
+2026-07-16T12:10:41.937078,Champions League,Will Bayern Munich win the 2026-27 UEFA Champions League Championship?,Yes,13.5
+2026-07-16T12:10:41.937082,Champions League,Will Bayern Munich win the 2026-27 UEFA Champions League Championship?,No,86.5
+2026-07-16T12:10:41.937089,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,Yes,0.5499999999999999
+2026-07-16T12:10:41.937093,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,No,99.45
+2026-07-16T12:10:41.937100,Champions League,Will Arsenal win the 2026-27 UEFA Champions League Championship?,Yes,10.5
+2026-07-16T12:10:41.937104,Champions League,Will Arsenal win the 2026-27 UEFA Champions League Championship?,No,89.5
+2026-07-16T12:10:42.165710,MLB,Will the New York Mets have the highest ABS success rate during the 2026 MLB regular season?,Yes,0.4
+2026-07-16T12:10:42.165727,MLB,Will the New York Mets have the highest ABS success rate during the 2026 MLB regular season?,No,99.6
+2026-07-16T12:10:42.165737,MLB,Will the Detroit Tigers have the highest ABS success rate during the 2026 MLB regular season?,Yes,20.599999999999998
+2026-07-16T12:10:42.165742,MLB,Will the Detroit Tigers have the highest ABS success rate during the 2026 MLB regular season?,No,79.4
+2026-07-16T12:10:42.165749,MLB,New York Mets vs. Philadelphia Phillies,New York Mets,45.15
+2026-07-16T12:10:42.165753,MLB,New York Mets vs. Philadelphia Phillies,Philadelphia Phillies,54.85
+2026-07-16T12:10:42.165760,MLB,Los Angeles Dodgers vs. New York Yankees,Los Angeles Dodgers,51.5
+2026-07-16T12:10:42.165764,MLB,Los Angeles Dodgers vs. New York Yankees,New York Yankees,48.5
+2026-07-16T12:10:42.165770,MLB,Texas Rangers vs. Atlanta Braves,Texas Rangers,41.5
+2026-07-16T12:10:42.165773,MLB,Texas Rangers vs. Atlanta Braves,Atlanta Braves,58.5

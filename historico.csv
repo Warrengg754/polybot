@@ -2099,3 +2099,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-07-16T12:10:42.165764,MLB,Los Angeles Dodgers vs. New York Yankees,New York Yankees,48.5
 2026-07-16T12:10:42.165770,MLB,Texas Rangers vs. Atlanta Braves,Texas Rangers,41.5
 2026-07-16T12:10:42.165773,MLB,Texas Rangers vs. Atlanta Braves,Atlanta Braves,58.5
+2026-07-16T16:52:47.098654,NBA,Will LeBron James play for the Golden State Warriors in 2026-27?,Yes,31.65
+2026-07-16T16:52:47.098678,NBA,Will LeBron James play for the Golden State Warriors in 2026-27?,No,68.35
+2026-07-16T16:52:47.098686,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,Yes,38.800000000000004
+2026-07-16T16:52:47.098690,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,No,61.199999999999996
+2026-07-16T16:52:47.098696,NBA,Will LeBron James play for the Los Angeles Lakers in 2026-27?,Yes,0.35000000000000003
+2026-07-16T16:52:47.098701,NBA,Will LeBron James play for the Los Angeles Lakers in 2026-27?,No,99.65
+2026-07-16T16:52:47.098712,NBA,Will LeBron James play for the San Antonio Spurs in 2026-27?,Yes,1.0999999999999999
+2026-07-16T16:52:47.098716,NBA,Will LeBron James play for the San Antonio Spurs in 2026-27?,No,98.9
+2026-07-16T16:52:47.098721,NBA,Will LeBron James play for the Los Angeles Clippers in 2026-27?,Yes,0.15
+2026-07-16T16:52:47.098724,NBA,Will LeBron James play for the Los Angeles Clippers in 2026-27?,No,99.85000000000001
+2026-07-16T16:52:47.339206,NFL,Will the Minnesota Vikings win the 2027 NFL league championship?,Yes,2.15
+2026-07-16T16:52:47.339224,NFL,Will the Minnesota Vikings win the 2027 NFL league championship?,No,97.85000000000001
+2026-07-16T16:52:47.339232,NFL,Will the Las Vegas Raiders win the 2027 NFL league championship?,Yes,1.05
+2026-07-16T16:52:47.339235,NFL,Will the Las Vegas Raiders win the 2027 NFL league championship?,No,98.95
+2026-07-16T16:52:47.339240,NFL,Will the Tennessee Titans win the 2027 NFL league championship?,Yes,0.75
+2026-07-16T16:52:47.339244,NFL,Will the Tennessee Titans win the 2027 NFL league championship?,No,99.25
+2026-07-16T16:52:47.339249,NFL,Will the Arizona Cardinals win the 2027 NFL league championship?,Yes,0.8500000000000001
+2026-07-16T16:52:47.339253,NFL,Will the Arizona Cardinals win the 2027 NFL league championship?,No,99.15
+2026-07-16T16:52:47.339258,NFL,Will the Cleveland Browns win the 2027 NFL league championship?,Yes,0.8500000000000001
+2026-07-16T16:52:47.339260,NFL,Will the Cleveland Browns win the 2027 NFL league championship?,No,99.15
+2026-07-16T16:52:47.670069,Premier League,Will Erling Haaland be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-16T16:52:47.670086,Premier League,Will Erling Haaland be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-16T16:52:47.670093,Premier League,Will Virgil van Dijk be named to the 2026 PFA Premier League Team of the Year?,Yes,51.5
+2026-07-16T16:52:47.670097,Premier League,Will Virgil van Dijk be named to the 2026 PFA Premier League Team of the Year?,No,48.5
+2026-07-16T16:52:47.670103,Premier League,Will Marc Guehi be named to the 2026 PFA Premier League Team of the Year?,Yes,49.5
+2026-07-16T16:52:47.670106,Premier League,Will Marc Guehi be named to the 2026 PFA Premier League Team of the Year?,No,50.5
+2026-07-16T16:52:47.670111,Premier League,Will Igor Thiago be named to the 2026 PFA Premier League Team of the Year?,Yes,49.5
+2026-07-16T16:52:47.670113,Premier League,Will Igor Thiago be named to the 2026 PFA Premier League Team of the Year?,No,50.5
+2026-07-16T16:52:47.670119,Premier League,Will Bruno Fernandes be named to the 2026 PFA Premier League Team of the Year?,Yes,56.3
+2026-07-16T16:52:47.670121,Premier League,Will Bruno Fernandes be named to the 2026 PFA Premier League Team of the Year?,No,43.7
+2026-07-16T16:52:47.922516,Champions League,Will Villarreal win the 2026-27 UEFA Champions League Championship?,Yes,0.4
+2026-07-16T16:52:47.922533,Champions League,Will Villarreal win the 2026-27 UEFA Champions League Championship?,No,99.6
+2026-07-16T16:52:47.922540,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,11.5
+2026-07-16T16:52:47.922544,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,88.5
+2026-07-16T16:52:47.922549,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,Yes,0.5499999999999999
+2026-07-16T16:52:47.922553,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,No,99.45
+2026-07-16T16:52:47.922558,Champions League,Will Arsenal win the 2026-27 UEFA Champions League Championship?,Yes,10.5
+2026-07-16T16:52:47.922561,Champions League,Will Arsenal win the 2026-27 UEFA Champions League Championship?,No,89.5
+2026-07-16T16:52:47.922566,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,14.499999999999998
+2026-07-16T16:52:47.922569,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,85.5
+2026-07-16T16:52:48.191069,MLB,Will the New York Mets have the highest ABS success rate during the 2026 MLB regular season?,Yes,0.4
+2026-07-16T16:52:48.191087,MLB,Will the New York Mets have the highest ABS success rate during the 2026 MLB regular season?,No,99.6
+2026-07-16T16:52:48.191095,MLB,Will the Detroit Tigers have the highest ABS success rate during the 2026 MLB regular season?,Yes,31.3
+2026-07-16T16:52:48.191098,MLB,Will the Detroit Tigers have the highest ABS success rate during the 2026 MLB regular season?,No,68.7
+2026-07-16T16:52:48.191104,MLB,New York Mets vs. Philadelphia Phillies,New York Mets,45.35
+2026-07-16T16:52:48.191107,MLB,New York Mets vs. Philadelphia Phillies,Philadelphia Phillies,54.65
+2026-07-16T16:52:48.191112,MLB,New York Mets vs. Philadelphia Phillies: O/U 9.5,Over,49.5
+2026-07-16T16:52:48.191115,MLB,New York Mets vs. Philadelphia Phillies: O/U 9.5,Under,50.5
+2026-07-16T16:52:48.191119,MLB,Los Angeles Dodgers vs. New York Yankees,Los Angeles Dodgers,51.5
+2026-07-16T16:52:48.191122,MLB,Los Angeles Dodgers vs. New York Yankees,New York Yankees,48.5

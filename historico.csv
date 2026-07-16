@@ -2199,3 +2199,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-07-16T20:14:27.624611,MLB,Will the Detroit Tigers have the highest ABS success rate during the 2026 MLB regular season?,No,76.05
 2026-07-16T20:14:27.624618,MLB,New York Mets vs. Philadelphia Phillies: O/U 9.5,Over,50.5
 2026-07-16T20:14:27.624621,MLB,New York Mets vs. Philadelphia Phillies: O/U 9.5,Under,49.5
+2026-07-16T23:42:29.196203,NBA,Will LeBron James play for the Golden State Warriors in 2026-27?,Yes,33.550000000000004
+2026-07-16T23:42:29.196230,NBA,Will LeBron James play for the Golden State Warriors in 2026-27?,No,66.45
+2026-07-16T23:42:29.196242,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,Yes,35.65
+2026-07-16T23:42:29.196246,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,No,64.35
+2026-07-16T23:42:29.196254,NBA,Will Golden State Warriors win the 2027 NBA Finals?,Yes,2.0500000000000003
+2026-07-16T23:42:29.196261,NBA,Will Golden State Warriors win the 2027 NBA Finals?,No,97.95
+2026-07-16T23:42:29.196274,NBA,Will Utah Jazz win the 2027 NBA Finals?,Yes,0.8999999999999999
+2026-07-16T23:42:29.196279,NBA,Will Utah Jazz win the 2027 NBA Finals?,No,99.1
+2026-07-16T23:42:29.196286,NBA,Will Indiana Pacers win the 2027 NBA Finals?,Yes,2.0500000000000003
+2026-07-16T23:42:29.196293,NBA,Will Indiana Pacers win the 2027 NBA Finals?,No,97.95
+2026-07-16T23:42:29.471589,NFL,Will the Minnesota Vikings win the 2027 NFL league championship?,Yes,2.0500000000000003
+2026-07-16T23:42:29.471608,NFL,Will the Minnesota Vikings win the 2027 NFL league championship?,No,97.95
+2026-07-16T23:42:29.471617,NFL,Will Max Martin attend Taylor Swift's wedding?,Yes,44.15
+2026-07-16T23:42:29.471621,NFL,Will Max Martin attend Taylor Swift's wedding?,No,55.85
+2026-07-16T23:42:29.471627,NFL,Will the Tennessee Titans win the 2027 NFL league championship?,Yes,0.75
+2026-07-16T23:42:29.471631,NFL,Will the Tennessee Titans win the 2027 NFL league championship?,No,99.25
+2026-07-16T23:42:29.471639,NFL,Will the Las Vegas Raiders win the 2027 NFL league championship?,Yes,1.05
+2026-07-16T23:42:29.471642,NFL,Will the Las Vegas Raiders win the 2027 NFL league championship?,No,98.95
+2026-07-16T23:42:29.471649,NFL,Will the Green Bay Packers win the 2027 NFL league championship?,Yes,3.35
+2026-07-16T23:42:29.471652,NFL,Will the Green Bay Packers win the 2027 NFL league championship?,No,96.65
+2026-07-16T23:42:29.837385,Premier League,Will Rodri be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-16T23:42:29.837407,Premier League,Will Rodri be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-16T23:42:29.837425,Premier League,Will Erling Haaland be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-16T23:42:29.837432,Premier League,Will Erling Haaland be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-16T23:42:29.837444,Premier League,Will Bryan Mbeumo be named to the 2026 PFA Premier League Team of the Year?,Yes,49.0
+2026-07-16T23:42:29.837451,Premier League,Will Bryan Mbeumo be named to the 2026 PFA Premier League Team of the Year?,No,51.0
+2026-07-16T23:42:29.837462,Premier League,Will Matheus Nunes be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-16T23:42:29.837468,Premier League,Will Matheus Nunes be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-16T23:42:29.837480,Premier League,Will Bruno Fernandes be named to the 2026 PFA Premier League Team of the Year?,Yes,56.35
+2026-07-16T23:42:29.837488,Premier League,Will Bruno Fernandes be named to the 2026 PFA Premier League Team of the Year?,No,43.65
+2026-07-16T23:42:30.114610,Champions League,Will Real Betis win the 2026-27 UEFA Champions League Championship?,Yes,0.44999999999999996
+2026-07-16T23:42:30.114628,Champions League,Will Real Betis win the 2026-27 UEFA Champions League Championship?,No,99.55000000000001
+2026-07-16T23:42:30.114638,Champions League,Will RB Leipzig win the 2026-27 UEFA Champions League Championship?,Yes,0.8999999999999999
+2026-07-16T23:42:30.114643,Champions League,Will RB Leipzig win the 2026-27 UEFA Champions League Championship?,No,99.1
+2026-07-16T23:42:30.114651,Champions League,Will Manchester United win the 2026-27 UEFA Champions League Championship?,Yes,3.9
+2026-07-16T23:42:30.114654,Champions League,Will Manchester United win the 2026-27 UEFA Champions League Championship?,No,96.1
+2026-07-16T23:42:30.114661,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,4.05
+2026-07-16T23:42:30.114669,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,95.95
+2026-07-16T23:42:30.114676,Champions League,Will Arsenal win the 2026-27 UEFA Champions League Championship?,Yes,10.5
+2026-07-16T23:42:30.114680,Champions League,Will Arsenal win the 2026-27 UEFA Champions League Championship?,No,89.5
+2026-07-16T23:42:30.379851,MLB,New York Mets vs. Philadelphia Phillies,New York Mets,60.25
+2026-07-16T23:42:30.379869,MLB,New York Mets vs. Philadelphia Phillies,Philadelphia Phillies,39.75
+2026-07-16T23:42:30.379878,MLB,Will Cal Raleigh win the 2026 American League MVP Award?,Yes,0.8500000000000001
+2026-07-16T23:42:30.379882,MLB,Will Cal Raleigh win the 2026 American League MVP Award?,No,99.15
+2026-07-16T23:42:30.379889,MLB,New York Mets vs. Philadelphia Phillies: O/U 10.5,Over,5.0
+2026-07-16T23:42:30.379893,MLB,New York Mets vs. Philadelphia Phillies: O/U 10.5,Under,95.0
+2026-07-16T23:42:30.379899,MLB,New York Mets vs. Philadelphia Phillies: O/U 9.5,Over,7.000000000000001
+2026-07-16T23:42:30.379902,MLB,New York Mets vs. Philadelphia Phillies: O/U 9.5,Under,93.0
+2026-07-16T23:42:30.379908,MLB,Spread: New York Mets (-1.5),New York Mets,36.5
+2026-07-16T23:42:30.379911,MLB,Spread: New York Mets (-1.5),Philadelphia Phillies,63.5

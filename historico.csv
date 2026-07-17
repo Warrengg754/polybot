@@ -2299,3 +2299,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-07-17T07:35:03.624293,MLB,Tampa Bay Rays vs. Boston Red Sox,Boston Red Sox,55.50000000000001
 2026-07-17T07:35:03.624300,MLB,Will the Cleveland Guardians hit the most home runs in the 2026 MLB regular season?,Yes,1.95
 2026-07-17T07:35:03.624303,MLB,Will the Cleveland Guardians hit the most home runs in the 2026 MLB regular season?,No,98.05
+2026-07-17T12:19:21.518752,NBA,Will LeBron James play for the Golden State Warriors in 2026-27?,Yes,31.35
+2026-07-17T12:19:21.518787,NBA,Will LeBron James play for the Golden State Warriors in 2026-27?,No,68.65
+2026-07-17T12:19:21.518799,NBA,Will Golden State Warriors win the 2027 NBA Finals?,Yes,2.3
+2026-07-17T12:19:21.518804,NBA,Will Golden State Warriors win the 2027 NBA Finals?,No,97.7
+2026-07-17T12:19:21.518812,NBA,Will Indiana Pacers win the 2027 NBA Finals?,Yes,2.0
+2026-07-17T12:19:21.518820,NBA,Will Indiana Pacers win the 2027 NBA Finals?,No,98.0
+2026-07-17T12:19:21.518837,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,Yes,35.25
+2026-07-17T12:19:21.518842,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,No,64.75
+2026-07-17T12:19:21.518851,NBA,Will LeBron James play for the Miami Heat in 2026-27?,Yes,17.349999999999998
+2026-07-17T12:19:21.518857,NBA,Will LeBron James play for the Miami Heat in 2026-27?,No,82.65
+2026-07-17T12:19:21.712380,NFL,Will Max Martin attend Taylor Swift's wedding?,Yes,33.75
+2026-07-17T12:19:21.712400,NFL,Will Max Martin attend Taylor Swift's wedding?,No,66.25
+2026-07-17T12:19:21.712406,NFL,Will the Tennessee Titans win the 2027 NFL league championship?,Yes,0.75
+2026-07-17T12:19:21.712409,NFL,Will the Tennessee Titans win the 2027 NFL league championship?,No,99.25
+2026-07-17T12:19:21.712414,NFL,Will the Green Bay Packers win the 2027 NFL league championship?,Yes,3.35
+2026-07-17T12:19:21.712417,NFL,Will the Green Bay Packers win the 2027 NFL league championship?,No,96.65
+2026-07-17T12:19:21.712423,NFL,Will the Dallas Cowboys win the 2027 NFL league championship?,Yes,3.95
+2026-07-17T12:19:21.712426,NFL,Will the Dallas Cowboys win the 2027 NFL league championship?,No,96.05
+2026-07-17T12:19:21.712431,NFL,Will the Las Vegas Raiders win the 2027 NFL league championship?,Yes,1.05
+2026-07-17T12:19:21.712433,NFL,Will the Las Vegas Raiders win the 2027 NFL league championship?,No,98.95
+2026-07-17T12:19:22.099488,Premier League,Will Bryan Mbeumo be named to the 2026 PFA Premier League Team of the Year?,Yes,49.0
+2026-07-17T12:19:22.099506,Premier League,Will Bryan Mbeumo be named to the 2026 PFA Premier League Team of the Year?,No,51.0
+2026-07-17T12:19:22.099513,Premier League,Will Matheus Nunes be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-17T12:19:22.099516,Premier League,Will Matheus Nunes be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-17T12:19:22.099521,Premier League,Will Jarrod Bowen be named to the 2026 PFA Premier League Team of the Year?,Yes,49.0
+2026-07-17T12:19:22.099524,Premier League,Will Jarrod Bowen be named to the 2026 PFA Premier League Team of the Year?,No,51.0
+2026-07-17T12:19:22.099529,Premier League,Will Jeremy Doku be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-17T12:19:22.099532,Premier League,Will Jeremy Doku be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-17T12:19:22.099537,Premier League,Will William Saliba be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-17T12:19:22.099540,Premier League,Will William Saliba be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-17T12:19:22.297300,Champions League,Will Real Betis win the 2026-27 UEFA Champions League Championship?,Yes,0.5499999999999999
+2026-07-17T12:19:22.297321,Champions League,Will Real Betis win the 2026-27 UEFA Champions League Championship?,No,99.45
+2026-07-17T12:19:22.297328,Champions League,Will RB Leipzig win the 2026-27 UEFA Champions League Championship?,Yes,0.8999999999999999
+2026-07-17T12:19:22.297332,Champions League,Will RB Leipzig win the 2026-27 UEFA Champions League Championship?,No,99.1
+2026-07-17T12:19:22.297338,Champions League,Will Manchester United win the 2026-27 UEFA Champions League Championship?,Yes,4.25
+2026-07-17T12:19:22.297341,Champions League,Will Manchester United win the 2026-27 UEFA Champions League Championship?,No,95.75
+2026-07-17T12:19:22.297346,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,4.05
+2026-07-17T12:19:22.297353,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,95.95
+2026-07-17T12:19:22.297359,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-07-17T12:19:22.297362,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-07-17T12:19:22.478236,MLB,Will Cal Raleigh win the 2026 American League MVP Award?,Yes,0.95
+2026-07-17T12:19:22.478256,MLB,Will Cal Raleigh win the 2026 American League MVP Award?,No,99.05000000000001
+2026-07-17T12:19:22.478263,MLB,Will the Boston Red Sox hit the most home runs in the 2026 MLB regular season?,Yes,1.6500000000000001
+2026-07-17T12:19:22.478267,MLB,Will the Boston Red Sox hit the most home runs in the 2026 MLB regular season?,No,98.35000000000001
+2026-07-17T12:19:22.478273,MLB,Tampa Bay Rays vs. Boston Red Sox,Tampa Bay Rays,45.5
+2026-07-17T12:19:22.478276,MLB,Tampa Bay Rays vs. Boston Red Sox,Boston Red Sox,54.50000000000001
+2026-07-17T12:19:22.478281,MLB,Will the Texas Rangers hit the most home runs in the 2026 MLB regular season?,Yes,1.4500000000000002
+2026-07-17T12:19:22.478285,MLB,Will the Texas Rangers hit the most home runs in the 2026 MLB regular season?,No,98.55000000000001
+2026-07-17T12:19:22.478290,MLB,Will the Toronto Blue Jays hit the most home runs in the 2026 MLB regular season?,Yes,0.6
+2026-07-17T12:19:22.478294,MLB,Will the Toronto Blue Jays hit the most home runs in the 2026 MLB regular season?,No,99.4

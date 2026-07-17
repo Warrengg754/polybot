@@ -2449,3 +2449,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-07-17T20:28:07.695466,MLB,Will the Boston Red Sox hit the most home runs in the 2026 MLB regular season?,No,98.35000000000001
 2026-07-17T20:28:07.695473,MLB,San Francisco Giants vs. Seattle Mariners,San Francisco Giants,36.5
 2026-07-17T20:28:07.695477,MLB,San Francisco Giants vs. Seattle Mariners,Seattle Mariners,63.5
+2026-07-17T23:35:33.114776,NBA,Will LeBron James play for the Golden State Warriors in 2026-27?,Yes,29.4
+2026-07-17T23:35:33.114800,NBA,Will LeBron James play for the Golden State Warriors in 2026-27?,No,70.6
+2026-07-17T23:35:33.114811,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,Yes,30.65
+2026-07-17T23:35:33.114815,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,No,69.35
+2026-07-17T23:35:33.114823,NBA,Will LeBron James play for the Philadelphia 76ers in 2026-27?,Yes,13.55
+2026-07-17T23:35:33.114829,NBA,Will LeBron James play for the Philadelphia 76ers in 2026-27?,No,86.45
+2026-07-17T23:35:33.114842,NBA,Will Portland Trail Blazers win the 2027 NBA Finals?,Yes,1.35
+2026-07-17T23:35:33.114846,NBA,Will Portland Trail Blazers win the 2027 NBA Finals?,No,98.65
+2026-07-17T23:35:33.114855,NBA,Will LeBron James play for the Chicago Bulls in 2026-27?,Yes,0.05
+2026-07-17T23:35:33.114859,NBA,Will LeBron James play for the Chicago Bulls in 2026-27?,No,99.95
+2026-07-17T23:35:33.286400,NFL,Will Max Martin attend Taylor Swift's wedding?,Yes,29.849999999999998
+2026-07-17T23:35:33.286413,NFL,Will Max Martin attend Taylor Swift's wedding?,No,70.15
+2026-07-17T23:35:33.286422,NFL,Will the Dallas Cowboys win the 2027 NFL league championship?,Yes,3.95
+2026-07-17T23:35:33.286425,NFL,Will the Dallas Cowboys win the 2027 NFL league championship?,No,96.05
+2026-07-17T23:35:33.286433,NFL,Will the Los Angeles Chargers win the 2027 NFL league championship?,Yes,4.05
+2026-07-17T23:35:33.286436,NFL,Will the Los Angeles Chargers win the 2027 NFL league championship?,No,95.95
+2026-07-17T23:35:33.286443,NFL,Will the Tennessee Titans win the 2027 NFL league championship?,Yes,0.75
+2026-07-17T23:35:33.286447,NFL,Will the Tennessee Titans win the 2027 NFL league championship?,No,99.25
+2026-07-17T23:35:33.286454,NFL,Will the Carolina Panthers win the 2027 NFL league championship?,Yes,0.8500000000000001
+2026-07-17T23:35:33.286458,NFL,Will the Carolina Panthers win the 2027 NFL league championship?,No,99.15
+2026-07-17T23:35:33.611114,Premier League,Will Brighton & Hove Albion qualify for the League Phase of the 2026-27 UEFA Conference League?,Yes,68.75
+2026-07-17T23:35:33.611131,Premier League,Will Brighton & Hove Albion qualify for the League Phase of the 2026-27 UEFA Conference League?,No,31.25
+2026-07-17T23:35:33.611141,Premier League,Will João Pedro be named to the 2026 PFA Premier League Team of the Year?,Yes,49.0
+2026-07-17T23:35:33.611149,Premier League,Will João Pedro be named to the 2026 PFA Premier League Team of the Year?,No,51.0
+2026-07-17T23:35:33.611156,Premier League,Will Erling Haaland be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-17T23:35:33.611160,Premier League,Will Erling Haaland be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-17T23:35:33.611167,Premier League,Will Bruno Fernandes be named to the 2026 PFA Premier League Team of the Year?,Yes,54.800000000000004
+2026-07-17T23:35:33.611172,Premier League,Will Bruno Fernandes be named to the 2026 PFA Premier League Team of the Year?,No,45.2
+2026-07-17T23:35:33.611178,Premier League,Will Bukayo Saka be named to the 2026 PFA Premier League Team of the Year?,Yes,49.5
+2026-07-17T23:35:33.611182,Premier League,Will Bukayo Saka be named to the 2026 PFA Premier League Team of the Year?,No,50.5
+2026-07-17T23:35:33.762004,Champions League,Will Arsenal win the 2026-27 UEFA Champions League Championship?,Yes,10.5
+2026-07-17T23:35:33.762016,Champions League,Will Arsenal win the 2026-27 UEFA Champions League Championship?,No,89.5
+2026-07-17T23:35:33.762025,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,11.5
+2026-07-17T23:35:33.762029,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,88.5
+2026-07-17T23:35:33.762036,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-07-17T23:35:33.762040,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-07-17T23:35:33.762047,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,14.499999999999998
+2026-07-17T23:35:33.762052,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,85.5
+2026-07-17T23:35:33.762059,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,Yes,11.5
+2026-07-17T23:35:33.762062,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,No,88.5
+2026-07-17T23:35:33.911419,MLB,Tampa Bay Rays vs. Boston Red Sox,Tampa Bay Rays,0.05
+2026-07-17T23:35:33.911434,MLB,Tampa Bay Rays vs. Boston Red Sox,Boston Red Sox,99.95
+2026-07-17T23:35:33.911444,MLB,Los Angeles Dodgers vs. New York Yankees,Los Angeles Dodgers,46.5
+2026-07-17T23:35:33.911448,MLB,Los Angeles Dodgers vs. New York Yankees,New York Yankees,53.5
+2026-07-17T23:35:33.911455,MLB,Washington Nationals vs. Athletics,Washington Nationals,54.50000000000001
+2026-07-17T23:35:33.911459,MLB,Washington Nationals vs. Athletics,Athletics,45.5
+2026-07-17T23:35:33.911465,MLB,St. Louis Cardinals vs. Arizona Diamondbacks,St. Louis Cardinals,47.5
+2026-07-17T23:35:33.911468,MLB,St. Louis Cardinals vs. Arizona Diamondbacks,Arizona Diamondbacks,52.5
+2026-07-17T23:35:33.911474,MLB,Tampa Bay Rays vs. Boston Red Sox,Tampa Bay Rays,43.0
+2026-07-17T23:35:33.911477,MLB,Tampa Bay Rays vs. Boston Red Sox,Boston Red Sox,56.99999999999999

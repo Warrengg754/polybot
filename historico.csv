@@ -2499,3 +2499,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-07-17T23:35:33.911468,MLB,St. Louis Cardinals vs. Arizona Diamondbacks,Arizona Diamondbacks,52.5
 2026-07-17T23:35:33.911474,MLB,Tampa Bay Rays vs. Boston Red Sox,Tampa Bay Rays,43.0
 2026-07-17T23:35:33.911477,MLB,Tampa Bay Rays vs. Boston Red Sox,Boston Red Sox,56.99999999999999
+2026-07-18T07:11:46.798678,NBA,Will LeBron James play for the Golden State Warriors in 2026-27?,Yes,18.35
+2026-07-18T07:11:46.798703,NBA,Will LeBron James play for the Golden State Warriors in 2026-27?,No,81.65
+2026-07-18T07:11:46.798714,NBA,Will LeBron James play for the Philadelphia 76ers in 2026-27?,Yes,14.95
+2026-07-18T07:11:46.798718,NBA,Will LeBron James play for the Philadelphia 76ers in 2026-27?,No,85.05
+2026-07-18T07:11:46.798726,NBA,Will LeBron James play for the Washington Wizards in 2026-27?,Yes,0.6
+2026-07-18T07:11:46.798732,NBA,Will LeBron James play for the Washington Wizards in 2026-27?,No,99.4
+2026-07-18T07:11:46.798746,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,Yes,27.450000000000003
+2026-07-18T07:11:46.798751,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,No,72.55
+2026-07-18T07:11:46.798758,NBA,Will Miami Heat win the 2027 NBA Finals?,Yes,3.4000000000000004
+2026-07-18T07:11:46.798762,NBA,Will Miami Heat win the 2027 NBA Finals?,No,96.6
+2026-07-18T07:11:46.953228,NFL,Will the Los Angeles Chargers win the 2027 NFL league championship?,Yes,4.05
+2026-07-18T07:11:46.953247,NFL,Will the Los Angeles Chargers win the 2027 NFL league championship?,No,95.95
+2026-07-18T07:11:46.953256,NFL,Will the Carolina Panthers win the 2027 NFL league championship?,Yes,0.8500000000000001
+2026-07-18T07:11:46.953261,NFL,Will the Carolina Panthers win the 2027 NFL league championship?,No,99.15
+2026-07-18T07:11:46.953268,NFL,Will Max Martin attend Taylor Swift's wedding?,Yes,29.45
+2026-07-18T07:11:46.953272,NFL,Will Max Martin attend Taylor Swift's wedding?,No,70.55
+2026-07-18T07:11:46.953279,NFL,Will the Tennessee Titans win the 2027 NFL league championship?,Yes,0.75
+2026-07-18T07:11:46.953283,NFL,Will the Tennessee Titans win the 2027 NFL league championship?,No,99.25
+2026-07-18T07:11:46.953290,NFL,Will the Houston Texans win the 2027 NFL league championship?,Yes,3.75
+2026-07-18T07:11:46.953293,NFL,Will the Houston Texans win the 2027 NFL league championship?,No,96.25
+2026-07-18T07:11:47.191338,Premier League,Will Brighton & Hove Albion qualify for the League Phase of the 2026-27 UEFA Conference League?,Yes,96.45
+2026-07-18T07:11:47.191357,Premier League,Will Brighton & Hove Albion qualify for the League Phase of the 2026-27 UEFA Conference League?,No,3.55
+2026-07-18T07:11:47.191367,Premier League,Will Jeremy Doku be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-18T07:11:47.191371,Premier League,Will Jeremy Doku be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-18T07:11:47.191378,Premier League,Will Gianluigi Donnarumma be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-18T07:11:47.191382,Premier League,Will Gianluigi Donnarumma be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-18T07:11:47.191388,Premier League,Will Gabriel Magalhães be named to the 2026 PFA Premier League Team of the Year?,Yes,51.0
+2026-07-18T07:11:47.191396,Premier League,Will Gabriel Magalhães be named to the 2026 PFA Premier League Team of the Year?,No,49.0
+2026-07-18T07:11:47.191404,Premier League,Will Virgil van Dijk be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-18T07:11:47.191407,Premier League,Will Virgil van Dijk be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-18T07:11:47.339333,Champions League,Will Sporting CP win the 2026-27 UEFA Champions League Championship?,Yes,0.5499999999999999
+2026-07-18T07:11:47.339351,Champions League,Will Sporting CP win the 2026-27 UEFA Champions League Championship?,No,99.45
+2026-07-18T07:11:47.339361,Champions League,Will Arsenal win the 2026-27 UEFA Champions League Championship?,Yes,10.5
+2026-07-18T07:11:47.339366,Champions League,Will Arsenal win the 2026-27 UEFA Champions League Championship?,No,89.5
+2026-07-18T07:11:47.339373,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,14.499999999999998
+2026-07-18T07:11:47.339377,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,85.5
+2026-07-18T07:11:47.339384,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-07-18T07:11:47.339388,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-07-18T07:11:47.339396,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,11.5
+2026-07-18T07:11:47.339399,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,88.5
+2026-07-18T07:11:47.496424,MLB,Tampa Bay Rays vs. Boston Red Sox: O/U 11.5,Over,0.05
+2026-07-18T07:11:47.496442,MLB,Tampa Bay Rays vs. Boston Red Sox: O/U 11.5,Under,99.95
+2026-07-18T07:11:47.496451,MLB,Will the Texas Rangers hit the most home runs in the 2026 MLB regular season?,Yes,1.4500000000000002
+2026-07-18T07:11:47.496456,MLB,Will the Texas Rangers hit the most home runs in the 2026 MLB regular season?,No,98.55000000000001
+2026-07-18T07:11:47.496464,MLB,Will the Toronto Blue Jays hit the most home runs in the 2026 MLB regular season?,Yes,0.5499999999999999
+2026-07-18T07:11:47.496468,MLB,Will the Toronto Blue Jays hit the most home runs in the 2026 MLB regular season?,No,99.45
+2026-07-18T07:11:47.496475,MLB,Will the Miami Marlins hit the most home runs in the 2026 MLB regular season?,Yes,1.9
+2026-07-18T07:11:47.496479,MLB,Will the Miami Marlins hit the most home runs in the 2026 MLB regular season?,No,98.1
+2026-07-18T07:11:47.496485,MLB,Will the Detroit Tigers hit the most home runs in the 2026 MLB regular season?,Yes,1.9
+2026-07-18T07:11:47.496489,MLB,Will the Detroit Tigers hit the most home runs in the 2026 MLB regular season?,No,98.1

@@ -2949,3 +2949,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-07-19T18:11:10.599223,MLB,San Diego Padres vs. Kansas City Royals,Kansas City Royals,51.5
 2026-07-19T18:11:10.599227,MLB,Los Angeles Dodgers vs. New York Yankees,Los Angeles Dodgers,83.5
 2026-07-19T18:11:10.599229,MLB,Los Angeles Dodgers vs. New York Yankees,New York Yankees,16.5
+2026-07-19T21:34:14.140441,NBA,Will LeBron James play for the Chicago Bulls in 2026-27?,Yes,0.05
+2026-07-19T21:34:14.140464,NBA,Will LeBron James play for the Chicago Bulls in 2026-27?,No,99.95
+2026-07-19T21:34:14.140470,NBA,Will LeBron James play for the Miami Heat in 2026-27?,Yes,37.05
+2026-07-19T21:34:14.140472,NBA,Will LeBron James play for the Miami Heat in 2026-27?,No,62.949999999999996
+2026-07-19T21:34:14.140478,NBA,Will LeBron James play for the Oklahoma City Thunder in 2026-27?,Yes,0.05
+2026-07-19T21:34:14.140482,NBA,Will LeBron James play for the Oklahoma City Thunder in 2026-27?,No,99.95
+2026-07-19T21:34:14.140491,NBA,Will Philadelphia 76ers win the 2027 NBA Finals?,Yes,7.449999999999999
+2026-07-19T21:34:14.140494,NBA,Will Philadelphia 76ers win the 2027 NBA Finals?,No,92.55
+2026-07-19T21:34:14.140498,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,Yes,35.05
+2026-07-19T21:34:14.140500,NBA,Will LeBron James play for the Cleveland Cavaliers in 2026-27?,No,64.95
+2026-07-19T21:34:14.330149,NFL,Will the Green Bay Packers win the 2027 NFL league championship?,Yes,3.35
+2026-07-19T21:34:14.330170,NFL,Will the Green Bay Packers win the 2027 NFL league championship?,No,96.65
+2026-07-19T21:34:14.330175,NFL,Will the Atlanta Falcons win the 2027 NFL league championship?,Yes,0.8500000000000001
+2026-07-19T21:34:14.330179,NFL,Will the Atlanta Falcons win the 2027 NFL league championship?,No,99.15
+2026-07-19T21:34:14.330183,NFL,Will the San Francisco 49ers win the 2027 NFL league championship?,Yes,4.05
+2026-07-19T21:34:14.330185,NFL,Will the San Francisco 49ers win the 2027 NFL league championship?,No,95.95
+2026-07-19T21:34:14.330190,NFL,Will the New York Giants win the 2027 NFL league championship?,Yes,1.15
+2026-07-19T21:34:14.330192,NFL,Will the New York Giants win the 2027 NFL league championship?,No,98.85000000000001
+2026-07-19T21:34:14.330197,NFL,Will the Cincinnati Bengals win the 2027 NFL league championship?,Yes,4.1000000000000005
+2026-07-19T21:34:14.330200,NFL,Will the Cincinnati Bengals win the 2027 NFL league championship?,No,95.89999999999999
+2026-07-19T21:34:14.817893,Premier League,Will Elliot Anderson be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-19T21:34:14.817910,Premier League,Will Elliot Anderson be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-19T21:34:14.817915,Premier League,Will Rayan Cherki be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-19T21:34:14.817917,Premier League,Will Rayan Cherki be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-19T21:34:14.817922,Premier League,Will Dean Henderson be named to the 2026 PFA Premier League Team of the Year?,Yes,49.0
+2026-07-19T21:34:14.817924,Premier League,Will Dean Henderson be named to the 2026 PFA Premier League Team of the Year?,No,51.0
+2026-07-19T21:34:14.817928,Premier League,Will Marc Guehi be named to the 2026 PFA Premier League Team of the Year?,Yes,50.0
+2026-07-19T21:34:14.817930,Premier League,Will Marc Guehi be named to the 2026 PFA Premier League Team of the Year?,No,50.0
+2026-07-19T21:34:14.817935,Premier League,Will Bruno Fernandes be named to the 2026 PFA Premier League Team of the Year?,Yes,54.35
+2026-07-19T21:34:14.817939,Premier League,Will Bruno Fernandes be named to the 2026 PFA Premier League Team of the Year?,No,45.65
+2026-07-19T21:34:15.028927,Champions League,Will Sporting CP win the 2026-27 UEFA Champions League Championship?,Yes,0.5499999999999999
+2026-07-19T21:34:15.028949,Champions League,Will Sporting CP win the 2026-27 UEFA Champions League Championship?,No,99.45
+2026-07-19T21:34:15.028956,Champions League,Will Lens win the 2026-27 UEFA Champions League Championship?,Yes,0.25
+2026-07-19T21:34:15.028961,Champions League,Will Lens win the 2026-27 UEFA Champions League Championship?,No,99.75
+2026-07-19T21:34:15.028965,Champions League,Will Bayern Munich win the 2026-27 UEFA Champions League Championship?,Yes,13.5
+2026-07-19T21:34:15.028968,Champions League,Will Bayern Munich win the 2026-27 UEFA Champions League Championship?,No,86.5
+2026-07-19T21:34:15.028975,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,14.499999999999998
+2026-07-19T21:34:15.028979,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,85.5
+2026-07-19T21:34:15.028983,Champions League,Will Galatasaray win the 2026-27 UEFA Champions League Championship?,Yes,0.44999999999999996
+2026-07-19T21:34:15.028986,Champions League,Will Galatasaray win the 2026-27 UEFA Champions League Championship?,No,99.55000000000001
+2026-07-19T21:34:15.226078,MLB,Los Angeles Dodgers vs. New York Yankees,Los Angeles Dodgers,99.95
+2026-07-19T21:34:15.226096,MLB,Los Angeles Dodgers vs. New York Yankees,New York Yankees,0.05
+2026-07-19T21:34:15.226101,MLB,Cincinnati Reds vs. Colorado Rockies,Cincinnati Reds,98.5
+2026-07-19T21:34:15.226104,MLB,Cincinnati Reds vs. Colorado Rockies,Colorado Rockies,1.5
+2026-07-19T21:34:15.226108,MLB,Detroit Tigers vs. Los Angeles Angels,Detroit Tigers,56.99999999999999
+2026-07-19T21:34:15.226111,MLB,Detroit Tigers vs. Los Angeles Angels,Los Angeles Angels,43.0
+2026-07-19T21:34:15.226115,MLB,Washington Nationals vs. Athletics,Washington Nationals,83.2
+2026-07-19T21:34:15.226118,MLB,Washington Nationals vs. Athletics,Athletics,16.8
+2026-07-19T21:34:15.226122,MLB,San Francisco Giants vs. Seattle Mariners,San Francisco Giants,41.5
+2026-07-19T21:34:15.226124,MLB,San Francisco Giants vs. Seattle Mariners,Seattle Mariners,58.5

@@ -3699,3 +3699,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-07-23T16:04:20.409190,MLB,Spread: Atlanta Braves (-1.5),San Diego Padres,46.5
 2026-07-23T16:04:20.409194,MLB,San Diego Padres vs. Atlanta Braves: O/U 8.5,Over,45.5
 2026-07-23T16:04:20.409196,MLB,San Diego Padres vs. Atlanta Braves: O/U 8.5,Under,54.50000000000001
+2026-07-23T20:35:33.050690,NBA,Will LeBron James play for the Miami Heat in 2026-27?,Yes,45.7
+2026-07-23T20:35:33.050714,NBA,Will LeBron James play for the Miami Heat in 2026-27?,No,54.300000000000004
+2026-07-23T20:35:33.050725,NBA,Will LeBron James play for the Toronto Raptors in 2026-27?,Yes,0.05
+2026-07-23T20:35:33.050729,NBA,Will LeBron James play for the Toronto Raptors in 2026-27?,No,99.95
+2026-07-23T20:35:33.050737,NBA,Will LeBron James play for the Orlando Magic in 2026-27?,Yes,0.05
+2026-07-23T20:35:33.050742,NBA,Will LeBron James play for the Orlando Magic in 2026-27?,No,99.95
+2026-07-23T20:35:33.050755,NBA,Will LeBron James play for the Atlanta Hawks in 2026-27?,Yes,0.05
+2026-07-23T20:35:33.050759,NBA,Will LeBron James play for the Atlanta Hawks in 2026-27?,No,99.95
+2026-07-23T20:35:33.050766,NBA,Will New York Knicks win the 2027 NBA Finals?,Yes,8.5
+2026-07-23T20:35:33.050772,NBA,Will New York Knicks win the 2027 NBA Finals?,No,91.5
+2026-07-23T20:35:33.285973,NFL,Will the Los Angeles Chargers win the 2027 NFL league championship?,Yes,5.1499999999999995
+2026-07-23T20:35:33.285993,NFL,Will the Los Angeles Chargers win the 2027 NFL league championship?,No,94.85
+2026-07-23T20:35:33.286002,NFL,Will the New Orleans Saints win the 2027 NFL league championship?,Yes,0.95
+2026-07-23T20:35:33.286006,NFL,Will the New Orleans Saints win the 2027 NFL league championship?,No,99.05000000000001
+2026-07-23T20:35:33.286014,NFL,Will the Lions win the season series against the Packers during the 2026-27 NFL regular season?,Yes,24.0
+2026-07-23T20:35:33.286018,NFL,Will the Lions win the season series against the Packers during the 2026-27 NFL regular season?,No,76.0
+2026-07-23T20:35:33.286025,NFL,Will the Seahawks win the season series against the Cardinals during the 2026-27 NFL regular season?,Yes,64.5
+2026-07-23T20:35:33.286029,NFL,Will the Seahawks win the season series against the Cardinals during the 2026-27 NFL regular season?,No,35.5
+2026-07-23T20:35:33.286036,NFL,Will the 49ers win the season series against the Cardinals during the 2026-27 NFL regular season?,Yes,59.5
+2026-07-23T20:35:33.286040,NFL,Will the 49ers win the season series against the Cardinals during the 2026-27 NFL regular season?,No,40.5
+2026-07-23T20:35:33.640698,Premier League,Will Jordan Pickford be named to the 2026 PFA Premier League Team of the Year?,Yes,4.5
+2026-07-23T20:35:33.640716,Premier League,Will Jordan Pickford be named to the 2026 PFA Premier League Team of the Year?,No,95.5
+2026-07-23T20:35:33.640725,Premier League,Will Rayan Cherki be named to the 2026 PFA Premier League Team of the Year?,Yes,59.0
+2026-07-23T20:35:33.640729,Premier League,Will Rayan Cherki be named to the 2026 PFA Premier League Team of the Year?,No,41.0
+2026-07-23T20:35:33.640736,Premier League,Will Brighton & Hove Albion qualify for the League Phase of the 2026-27 UEFA Conference League?,Yes,94.5
+2026-07-23T20:35:33.640740,Premier League,Will Brighton & Hove Albion qualify for the League Phase of the 2026-27 UEFA Conference League?,No,5.5
+2026-07-23T20:35:33.640746,Premier League,Will Marc Cucurella be named to the 2026 PFA Premier League Team of the Year?,Yes,23.5
+2026-07-23T20:35:33.640750,Premier League,Will Marc Cucurella be named to the 2026 PFA Premier League Team of the Year?,No,76.5
+2026-07-23T20:35:33.640757,Premier League,Will Jeremy Doku be named to the 2026 PFA Premier League Team of the Year?,Yes,16.0
+2026-07-23T20:35:33.640760,Premier League,Will Jeremy Doku be named to the 2026 PFA Premier League Team of the Year?,No,84.0
+2026-07-23T20:35:33.897343,Champions League,Will Borussia Dortmund win the 2026-27 UEFA Champions League Championship?,Yes,1.4500000000000002
+2026-07-23T20:35:33.897361,Champions League,Will Borussia Dortmund win the 2026-27 UEFA Champions League Championship?,No,98.55000000000001
+2026-07-23T20:35:33.897371,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,Yes,3.55
+2026-07-23T20:35:33.897375,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,No,96.45
+2026-07-23T20:35:33.897382,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,Yes,13.5
+2026-07-23T20:35:33.897386,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,No,86.5
+2026-07-23T20:35:33.897392,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,11.5
+2026-07-23T20:35:33.897396,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,88.5
+2026-07-23T20:35:33.897402,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,3.25
+2026-07-23T20:35:33.897409,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,96.75
+2026-07-23T20:35:34.110298,MLB,Minnesota Twins vs. Cleveland Guardians,Minnesota Twins,94.45
+2026-07-23T20:35:34.110315,MLB,Minnesota Twins vs. Cleveland Guardians,Cleveland Guardians,5.55
+2026-07-23T20:35:34.110324,MLB,Tampa Bay Rays vs. Toronto Blue Jays,Tampa Bay Rays,34.5
+2026-07-23T20:35:34.110328,MLB,Tampa Bay Rays vs. Toronto Blue Jays,Toronto Blue Jays,65.5
+2026-07-23T20:35:34.110335,MLB,Arizona Diamondbacks vs. St. Louis Cardinals,Arizona Diamondbacks,50.5
+2026-07-23T20:35:34.110338,MLB,Arizona Diamondbacks vs. St. Louis Cardinals,St. Louis Cardinals,49.5
+2026-07-23T20:35:34.110345,MLB,Minnesota Twins vs. Cleveland Guardians: O/U 7.5,Over,3.55
+2026-07-23T20:35:34.110348,MLB,Minnesota Twins vs. Cleveland Guardians: O/U 7.5,Under,96.45
+2026-07-23T20:35:34.110354,MLB,Kansas City Royals vs. Detroit Tigers: O/U 8.5,Over,49.5
+2026-07-23T20:35:34.110357,MLB,Kansas City Royals vs. Detroit Tigers: O/U 8.5,Under,50.5

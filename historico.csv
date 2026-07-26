@@ -4249,3 +4249,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-07-25T23:46:45.655895,MLB,New York Yankees vs. Philadelphia Phillies: O/U 9.5,Under,88.5
 2026-07-25T23:46:45.655901,MLB,Seattle Mariners vs. Texas Rangers,Seattle Mariners,14.499999999999998
 2026-07-25T23:46:45.655905,MLB,Seattle Mariners vs. Texas Rangers,Texas Rangers,85.5
+2026-07-26T09:01:31.167200,NBA,Will Memphis Grizzlies win the 2027 NBA Finals?,Yes,0.25
+2026-07-26T09:01:31.167227,NBA,Will Memphis Grizzlies win the 2027 NBA Finals?,No,99.75
+2026-07-26T09:01:31.167238,NBA,Will LeBron James play for the Philadelphia 76ers in 2026-27?,Yes,99.65
+2026-07-26T09:01:31.167242,NBA,Will LeBron James play for the Philadelphia 76ers in 2026-27?,No,0.35000000000000003
+2026-07-26T09:01:31.167252,NBA,Will LeBron James play for the Golden State Warriors in 2026-27?,Yes,0.15
+2026-07-26T09:01:31.167259,NBA,Will LeBron James play for the Golden State Warriors in 2026-27?,No,99.85000000000001
+2026-07-26T09:01:31.167273,NBA,Will Utah Jazz win the 2027 NBA Finals?,Yes,0.5499999999999999
+2026-07-26T09:01:31.167278,NBA,Will Utah Jazz win the 2027 NBA Finals?,No,99.45
+2026-07-26T09:01:31.167290,NBA,Will Philadelphia 76ers win the 2027 NBA Finals?,Yes,13.450000000000001
+2026-07-26T09:01:31.167295,NBA,Will Philadelphia 76ers win the 2027 NBA Finals?,No,86.55000000000001
+2026-07-26T09:01:31.440659,NFL,Will the Philadelphia Eagles win the 2027 NFL league championship?,Yes,4.05
+2026-07-26T09:01:31.440676,NFL,Will the Philadelphia Eagles win the 2027 NFL league championship?,No,95.95
+2026-07-26T09:01:31.440686,NFL,Will the New England Patriots win the 2027 NFL league championship?,Yes,3.9
+2026-07-26T09:01:31.440689,NFL,Will the New England Patriots win the 2027 NFL league championship?,No,96.1
+2026-07-26T09:01:31.440697,NFL,Will the Cincinnati Bengals win the 2027 NFL league championship?,Yes,4.3999999999999995
+2026-07-26T09:01:31.440701,NFL,Will the Cincinnati Bengals win the 2027 NFL league championship?,No,95.6
+2026-07-26T09:01:31.440708,NFL,Will the Denver Broncos win the 2027 NFL league championship?,Yes,3.85
+2026-07-26T09:01:31.440712,NFL,Will the Denver Broncos win the 2027 NFL league championship?,No,96.15
+2026-07-26T09:01:31.440718,NFL,Will the Las Vegas Raiders win the 2027 NFL league championship?,Yes,0.8999999999999999
+2026-07-26T09:01:31.440722,NFL,Will the Las Vegas Raiders win the 2027 NFL league championship?,No,99.1
+2026-07-26T09:01:31.782085,Premier League,Will Declan Rice be named to the 2026 PFA Premier League Team of the Year?,Yes,93.0
+2026-07-26T09:01:31.782103,Premier League,Will Declan Rice be named to the 2026 PFA Premier League Team of the Year?,No,7.000000000000001
+2026-07-26T09:01:31.782114,Premier League,EPL: Will Jeff Bezos Be Announced as New Liverpool Owner in 2026?,Yes,28.999999999999996
+2026-07-26T09:01:31.782119,Premier League,EPL: Will Jeff Bezos Be Announced as New Liverpool Owner in 2026?,No,71.0
+2026-07-26T09:01:31.782127,Premier League,Will Bruno Fernandes be named to the 2026 PFA Premier League Team of the Year?,Yes,92.55
+2026-07-26T09:01:31.782131,Premier League,Will Bruno Fernandes be named to the 2026 PFA Premier League Team of the Year?,No,7.449999999999999
+2026-07-26T09:01:31.782139,Premier League,Will Marc Guehi be named to the 2026 PFA Premier League Team of the Year?,Yes,24.5
+2026-07-26T09:01:31.782143,Premier League,Will Marc Guehi be named to the 2026 PFA Premier League Team of the Year?,No,75.5
+2026-07-26T09:01:31.782151,Premier League,Will Bryan Mbeumo be named to the 2026 PFA Premier League Team of the Year?,Yes,20.5
+2026-07-26T09:01:31.782155,Premier League,Will Bryan Mbeumo be named to the 2026 PFA Premier League Team of the Year?,No,79.5
+2026-07-26T09:01:31.977971,Champions League,Will Bayern Munich win the 2026-27 UEFA Champions League Championship?,Yes,13.5
+2026-07-26T09:01:31.977990,Champions League,Will Bayern Munich win the 2026-27 UEFA Champions League Championship?,No,86.5
+2026-07-26T09:01:31.977999,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,Yes,12.5
+2026-07-26T09:01:31.978004,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,No,87.5
+2026-07-26T09:01:31.978012,Champions League,Will Lille win the 2026-27 UEFA Champions League Championship?,Yes,0.2
+2026-07-26T09:01:31.978016,Champions League,Will Lille win the 2026-27 UEFA Champions League Championship?,No,99.8
+2026-07-26T09:01:31.978023,Champions League,Will Liverpool win the 2026-27 UEFA Champions League Championship?,Yes,7.5
+2026-07-26T09:01:31.978028,Champions League,Will Liverpool win the 2026-27 UEFA Champions League Championship?,No,92.5
+2026-07-26T09:01:31.978035,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,11.5
+2026-07-26T09:01:31.978040,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,88.5
+2026-07-26T09:01:32.144048,MLB,Cleveland Guardians vs. Tampa Bay Rays,Cleveland Guardians,44.5
+2026-07-26T09:01:32.144067,MLB,Cleveland Guardians vs. Tampa Bay Rays,Tampa Bay Rays,55.50000000000001
+2026-07-26T09:01:32.144077,MLB,Will the San Diego Padres win the 2026 World Series?,Yes,0.25
+2026-07-26T09:01:32.144081,MLB,Will the San Diego Padres win the 2026 World Series?,No,99.75
+2026-07-26T09:01:32.144088,MLB,Colorado Rockies vs. Milwaukee Brewers,Colorado Rockies,24.5
+2026-07-26T09:01:32.144092,MLB,Colorado Rockies vs. Milwaukee Brewers,Milwaukee Brewers,75.5
+2026-07-26T09:01:32.144098,MLB,Chicago Cubs vs. Pittsburgh Pirates,Chicago Cubs,45.5
+2026-07-26T09:01:32.144101,MLB,Chicago Cubs vs. Pittsburgh Pirates,Pittsburgh Pirates,54.50000000000001
+2026-07-26T09:01:32.144108,MLB,Will the Texas Rangers win the 2026 World Series?,Yes,2.75
+2026-07-26T09:01:32.144112,MLB,Will the Texas Rangers win the 2026 World Series?,No,97.25

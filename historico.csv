@@ -5799,3 +5799,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-08-02T20:15:12.612526,MLB,San Francisco Giants vs. San Diego Padres,San Diego Padres,55.50000000000001
 2026-08-02T20:15:12.612533,MLB,Arizona Diamondbacks vs. Cleveland Guardians,Arizona Diamondbacks,4.9
 2026-08-02T20:15:12.612536,MLB,Arizona Diamondbacks vs. Cleveland Guardians,Cleveland Guardians,95.1
+2026-08-02T23:44:42.929223,NBA,NBA: Stephen Curry to leave Warriors?,Yes,5.800000000000001
+2026-08-02T23:44:42.929251,NBA,NBA: Stephen Curry to leave Warriors?,No,94.19999999999999
+2026-08-02T23:44:42.929259,NBA,Will Indiana Pacers win the 2027 NBA Finals?,Yes,1.7999999999999998
+2026-08-02T23:44:42.929262,NBA,Will Indiana Pacers win the 2027 NBA Finals?,No,98.2
+2026-08-02T23:44:42.929268,NBA,Will Phoenix Suns win the 2027 NBA Finals?,Yes,0.5499999999999999
+2026-08-02T23:44:42.929273,NBA,Will Phoenix Suns win the 2027 NBA Finals?,No,99.45
+2026-08-02T23:44:42.929284,NBA,Will Miami Heat win the 2027 NBA Finals?,Yes,3.55
+2026-08-02T23:44:42.929287,NBA,Will Miami Heat win the 2027 NBA Finals?,No,96.45
+2026-08-02T23:44:42.929292,NBA,Will Philadelphia 76ers win the 2027 NBA Finals?,Yes,12.75
+2026-08-02T23:44:42.929295,NBA,Will Philadelphia 76ers win the 2027 NBA Finals?,No,87.25
+2026-08-02T23:44:43.126108,NFL,Will the Indianapolis Colts win the 2027 NFL league championship?,Yes,1.15
+2026-08-02T23:44:43.126125,NFL,Will the Indianapolis Colts win the 2027 NFL league championship?,No,98.85000000000001
+2026-08-02T23:44:43.126132,NFL,Will the Jacksonville Jaguars win the 2027 NFL league championship?,Yes,3.0
+2026-08-02T23:44:43.126135,NFL,Will the Jacksonville Jaguars win the 2027 NFL league championship?,No,97.0
+2026-08-02T23:44:43.126141,NFL,Will Kanye West perform at the 2027 Big Game halftime show?,Yes,1.8499999999999999
+2026-08-02T23:44:43.126144,NFL,Will Kanye West perform at the 2027 Big Game halftime show?,No,98.15
+2026-08-02T23:44:43.126150,NFL,Will the 49ers win the season series against the Cardinals during the 2026-27 NFL regular season?,Yes,59.5
+2026-08-02T23:44:43.126153,NFL,Will the 49ers win the season series against the Cardinals during the 2026-27 NFL regular season?,No,40.5
+2026-08-02T23:44:43.126158,NFL,Will Max Martin attend Taylor Swift's wedding?,Yes,60.8
+2026-08-02T23:44:43.126160,NFL,Will Max Martin attend Taylor Swift's wedding?,No,39.2
+2026-08-02T23:44:43.323113,Premier League,EPL: Will Jeff Bezos Be Announced as New Liverpool Owner in 2026?,Yes,15.0
+2026-08-02T23:44:43.323131,Premier League,EPL: Will Jeff Bezos Be Announced as New Liverpool Owner in 2026?,No,85.0
+2026-08-02T23:44:43.323138,Premier League,Will Brighton & Hove Albion qualify for the League Phase of the 2026-27 UEFA Conference League?,Yes,67.30000000000001
+2026-08-02T23:44:43.323143,Premier League,Will Brighton & Hove Albion qualify for the League Phase of the 2026-27 UEFA Conference League?,No,32.7
+2026-08-02T23:44:43.323149,Premier League,Will Jordan Pickford be named to the 2026 PFA Premier League Team of the Year?,Yes,4.5
+2026-08-02T23:44:43.323152,Premier League,Will Jordan Pickford be named to the 2026 PFA Premier League Team of the Year?,No,95.5
+2026-08-02T23:44:43.323157,Premier League,Will Robin Roefs be named to the 2026 PFA Premier League Team of the Year?,Yes,5.0
+2026-08-02T23:44:43.323160,Premier League,Will Robin Roefs be named to the 2026 PFA Premier League Team of the Year?,No,95.0
+2026-08-02T23:44:43.323165,Premier League,Will Dean Henderson be named to the 2026 PFA Premier League Team of the Year?,Yes,5.0
+2026-08-02T23:44:43.323167,Premier League,Will Dean Henderson be named to the 2026 PFA Premier League Team of the Year?,No,95.0
+2026-08-02T23:44:43.492915,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,2.35
+2026-08-02T23:44:43.492936,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,97.65
+2026-08-02T23:44:43.492944,Champions League,Will Borussia Dortmund win the 2026-27 UEFA Champions League Championship?,Yes,1.15
+2026-08-02T23:44:43.492947,Champions League,Will Borussia Dortmund win the 2026-27 UEFA Champions League Championship?,No,98.85000000000001
+2026-08-02T23:44:43.492954,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,Yes,13.5
+2026-08-02T23:44:43.492957,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,No,86.5
+2026-08-02T23:44:43.492962,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,14.499999999999998
+2026-08-02T23:44:43.492965,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,85.5
+2026-08-02T23:44:43.492970,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,11.5
+2026-08-02T23:44:43.492973,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,88.5
+2026-08-02T23:44:43.656820,MLB,Boston Red Sox vs. Los Angeles Dodgers,Boston Red Sox,59.5
+2026-08-02T23:44:43.656840,MLB,Boston Red Sox vs. Los Angeles Dodgers,Los Angeles Dodgers,40.5
+2026-08-02T23:44:43.656851,MLB,Philadelphia Phillies vs. Baltimore Orioles,Philadelphia Phillies,99.95
+2026-08-02T23:44:43.656856,MLB,Philadelphia Phillies vs. Baltimore Orioles,Baltimore Orioles,0.05
+2026-08-02T23:44:43.656865,MLB,Boston Red Sox vs. Los Angeles Dodgers: O/U 8.5,Over,61.0
+2026-08-02T23:44:43.656870,MLB,Boston Red Sox vs. Los Angeles Dodgers: O/U 8.5,Under,39.0
+2026-08-02T23:44:43.656878,MLB,Will the Colorado Rockies win the 2026 World Series?,Yes,0.05
+2026-08-02T23:44:43.656883,MLB,Will the Colorado Rockies win the 2026 World Series?,No,99.95
+2026-08-02T23:44:43.656891,MLB,Philadelphia Phillies vs. Baltimore Orioles: O/U 8.5,Over,17.5
+2026-08-02T23:44:43.656896,MLB,Philadelphia Phillies vs. Baltimore Orioles: O/U 8.5,Under,82.5

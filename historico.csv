@@ -6949,3 +6949,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-08-06T09:41:45.408964,MLB,Will the Toronto Blue Jays win the 2026 World Series?,No,99.55000000000001
 2026-08-06T09:41:45.408971,MLB,Will the Milwaukee Brewers win the 2026 World Series?,Yes,8.75
 2026-08-06T09:41:45.408974,MLB,Will the Milwaukee Brewers win the 2026 World Series?,No,91.25
+2026-08-06T12:04:22.328415,NBA,Will Philadelphia 76ers win the 2027 NBA Finals?,Yes,13.25
+2026-08-06T12:04:22.328442,NBA,Will Philadelphia 76ers win the 2027 NBA Finals?,No,86.75
+2026-08-06T12:04:22.328455,NBA,Will Minnesota Timberwolves win the 2027 NBA Finals?,Yes,3.25
+2026-08-06T12:04:22.328460,NBA,Will Minnesota Timberwolves win the 2027 NBA Finals?,No,96.75
+2026-08-06T12:04:22.328470,NBA,Will Los Angeles Lakers win the 2027 NBA Finals?,Yes,2.0500000000000003
+2026-08-06T12:04:22.328478,NBA,Will Los Angeles Lakers win the 2027 NBA Finals?,No,97.95
+2026-08-06T12:04:22.328495,NBA,Will Charlotte Hornets win the 2027 NBA Finals?,Yes,0.44999999999999996
+2026-08-06T12:04:22.328501,NBA,Will Charlotte Hornets win the 2027 NBA Finals?,No,99.55000000000001
+2026-08-06T12:04:22.328511,NBA,NBA: Stephen Curry to leave Warriors?,Yes,4.0
+2026-08-06T12:04:22.328515,NBA,NBA: Stephen Curry to leave Warriors?,No,96.0
+2026-08-06T12:04:22.513659,NFL,Will the Cincinnati Bengals win the 2027 NFL league championship?,Yes,3.45
+2026-08-06T12:04:22.513676,NFL,Will the Cincinnati Bengals win the 2027 NFL league championship?,No,96.55
+2026-08-06T12:04:22.513685,NFL,Will the Jacksonville Jaguars win the 2027 NFL league championship?,Yes,2.85
+2026-08-06T12:04:22.513689,NFL,Will the Jacksonville Jaguars win the 2027 NFL league championship?,No,97.15
+2026-08-06T12:04:22.513696,NFL,Will the Dallas Cowboys win the 2027 NFL league championship?,Yes,5.35
+2026-08-06T12:04:22.513699,NFL,Will the Dallas Cowboys win the 2027 NFL league championship?,No,94.65
+2026-08-06T12:04:22.513706,NFL,Will the Houston Texans win the 2027 NFL league championship?,Yes,3.95
+2026-08-06T12:04:22.513710,NFL,Will the Houston Texans win the 2027 NFL league championship?,No,96.05
+2026-08-06T12:04:22.513716,NFL,Will the Philadelphia Eagles win the 2027 NFL league championship?,Yes,4.55
+2026-08-06T12:04:22.513720,NFL,Will the Philadelphia Eagles win the 2027 NFL league championship?,No,95.45
+2026-08-06T12:04:23.145731,Premier League,Will Brighton & Hove Albion qualify for the League Phase of the 2026-27 UEFA Conference League?,Yes,77.14999999999999
+2026-08-06T12:04:23.145748,Premier League,Will Brighton & Hove Albion qualify for the League Phase of the 2026-27 UEFA Conference League?,No,22.85
+2026-08-06T12:04:23.145758,Premier League,Will Gianluigi Donnarumma be named to the 2026 PFA Premier League Team of the Year?,Yes,48.5
+2026-08-06T12:04:23.145762,Premier League,Will Gianluigi Donnarumma be named to the 2026 PFA Premier League Team of the Year?,No,51.5
+2026-08-06T12:04:23.145770,Premier League,Will Jordan Pickford be named to the 2026 PFA Premier League Team of the Year?,Yes,4.5
+2026-08-06T12:04:23.145774,Premier League,Will Jordan Pickford be named to the 2026 PFA Premier League Team of the Year?,No,95.5
+2026-08-06T12:04:23.145781,Premier League,Will Virgil van Dijk be named to the 2026 PFA Premier League Team of the Year?,Yes,9.5
+2026-08-06T12:04:23.145785,Premier League,Will Virgil van Dijk be named to the 2026 PFA Premier League Team of the Year?,No,90.5
+2026-08-06T12:04:23.145792,Premier League,Will Matheus Nunes be named to the 2026 PFA Premier League Team of the Year?,Yes,45.0
+2026-08-06T12:04:23.145795,Premier League,Will Matheus Nunes be named to the 2026 PFA Premier League Team of the Year?,No,55.00000000000001
+2026-08-06T12:04:23.328256,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-08-06T12:04:23.328274,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-08-06T12:04:23.328284,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,11.5
+2026-08-06T12:04:23.328289,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,88.5
+2026-08-06T12:04:23.328296,Champions League,Will Aston Villa win the 2026-27 UEFA Champions League Championship?,Yes,1.25
+2026-08-06T12:04:23.328300,Champions League,Will Aston Villa win the 2026-27 UEFA Champions League Championship?,No,98.75
+2026-08-06T12:04:23.328307,Champions League,Will VfB Stuttgart win the 2026-27 UEFA Champions League Championship?,Yes,0.35000000000000003
+2026-08-06T12:04:23.328311,Champions League,Will VfB Stuttgart win the 2026-27 UEFA Champions League Championship?,No,99.65
+2026-08-06T12:04:23.328318,Champions League,Will Lille win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-08-06T12:04:23.328321,Champions League,Will Lille win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-08-06T12:04:23.496438,MLB,Pittsburgh Pirates vs. Milwaukee Brewers,Pittsburgh Pirates,44.5
+2026-08-06T12:04:23.496456,MLB,Pittsburgh Pirates vs. Milwaukee Brewers,Milwaukee Brewers,55.50000000000001
+2026-08-06T12:04:23.496465,MLB,Los Angeles Angels vs. Baltimore Orioles,Los Angeles Angels,35.5
+2026-08-06T12:04:23.496469,MLB,Los Angeles Angels vs. Baltimore Orioles,Baltimore Orioles,64.5
+2026-08-06T12:04:23.496476,MLB,New York Mets vs. Cleveland Guardians,New York Mets,50.5
+2026-08-06T12:04:23.496480,MLB,New York Mets vs. Cleveland Guardians,Cleveland Guardians,49.5
+2026-08-06T12:04:23.496487,MLB,Chicago White Sox vs. Boston Red Sox,Chicago White Sox,36.5
+2026-08-06T12:04:23.496490,MLB,Chicago White Sox vs. Boston Red Sox,Boston Red Sox,63.5
+2026-08-06T12:04:23.496496,MLB,Spread: Baltimore Orioles (-1.5),Baltimore Orioles,48.5
+2026-08-06T12:04:23.496499,MLB,Spread: Baltimore Orioles (-1.5),Los Angeles Angels,51.5

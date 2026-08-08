@@ -8499,3 +8499,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-08-08T12:53:44.098012,MLB,Toronto Blue Jays vs. Philadelphia Phillies,Philadelphia Phillies,60.5
 2026-08-08T12:53:44.098018,MLB,Athletics vs. Boston Red Sox: O/U 8.5,Over,55.50000000000001
 2026-08-08T12:53:44.098022,MLB,Athletics vs. Boston Red Sox: O/U 8.5,Under,44.5
+2026-08-08T13:48:23.327334,NBA,Will Charlotte Hornets win the 2027 NBA Finals?,Yes,0.5499999999999999
+2026-08-08T13:48:23.327363,NBA,Will Charlotte Hornets win the 2027 NBA Finals?,No,99.45
+2026-08-08T13:48:23.327374,NBA,Will Utah Jazz win the 2027 NBA Finals?,Yes,0.75
+2026-08-08T13:48:23.327378,NBA,Will Utah Jazz win the 2027 NBA Finals?,No,99.25
+2026-08-08T13:48:23.327386,NBA,Will Portland Trail Blazers win the 2027 NBA Finals?,Yes,1.05
+2026-08-08T13:48:23.327392,NBA,Will Portland Trail Blazers win the 2027 NBA Finals?,No,98.95
+2026-08-08T13:48:23.327406,NBA,Will New York Knicks win the 2027 NBA Finals?,Yes,9.5
+2026-08-08T13:48:23.327410,NBA,Will New York Knicks win the 2027 NBA Finals?,No,90.5
+2026-08-08T13:48:23.327417,NBA,Will San Antonio Spurs win the 2027 NBA Finals?,Yes,20.5
+2026-08-08T13:48:23.327420,NBA,Will San Antonio Spurs win the 2027 NBA Finals?,No,79.5
+2026-08-08T13:48:23.632851,NFL,Will Max Martin attend Taylor Swift's wedding?,Yes,72.1
+2026-08-08T13:48:23.632870,NFL,Will Max Martin attend Taylor Swift's wedding?,No,27.900000000000002
+2026-08-08T13:48:23.632880,NFL,Will the Carolina Panthers win the 2027 NFL league championship?,Yes,0.75
+2026-08-08T13:48:23.632884,NFL,Will the Carolina Panthers win the 2027 NFL league championship?,No,99.25
+2026-08-08T13:48:23.632892,NFL,Will Denver Broncos win the 2026 AFC West?,Yes,31.5
+2026-08-08T13:48:23.632895,NFL,Will Denver Broncos win the 2026 AFC West?,No,68.5
+2026-08-08T13:48:23.632901,NFL,Will the Indianapolis Colts win the 2027 NFL league championship?,Yes,1.15
+2026-08-08T13:48:23.632905,NFL,Will the Indianapolis Colts win the 2027 NFL league championship?,No,98.85000000000001
+2026-08-08T13:48:23.632912,NFL,Will Jahmyr Gibbs finish the 2026-27 NFL regular season with the most rushing yards?,Yes,13.5
+2026-08-08T13:48:23.632916,NFL,Will Jahmyr Gibbs finish the 2026-27 NFL regular season with the most rushing yards?,No,86.5
+2026-08-08T13:48:24.313534,Premier League,Arsenal FC vs. Coventry City FC: Arsenal FC O/U 1.5,Over,82.0
+2026-08-08T13:48:24.313553,Premier League,Arsenal FC vs. Coventry City FC: Arsenal FC O/U 1.5,Under,18.0
+2026-08-08T13:48:24.313561,Premier League,EPL: Will Jeff Bezos Be Announced as New Liverpool Owner in 2026?,Yes,11.0
+2026-08-08T13:48:24.313565,Premier League,EPL: Will Jeff Bezos Be Announced as New Liverpool Owner in 2026?,No,89.0
+2026-08-08T13:48:24.313572,Premier League,Will Coventry City FC win on 2026-08-21?,Yes,5.0
+2026-08-08T13:48:24.313575,Premier League,Will Coventry City FC win on 2026-08-21?,No,95.0
+2026-08-08T13:48:24.313581,Premier League,Will Arsenal FC win on 2026-08-21?,Yes,83.5
+2026-08-08T13:48:24.313586,Premier League,Will Arsenal FC win on 2026-08-21?,No,16.5
+2026-08-08T13:48:24.313592,Premier League,Arsenal FC vs. Coventry City FC: Coventry City FC O/U 1.5,Over,11.0
+2026-08-08T13:48:24.313596,Premier League,Arsenal FC vs. Coventry City FC: Coventry City FC O/U 1.5,Under,89.0
+2026-08-08T13:48:24.619050,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-08-08T13:48:24.619070,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-08-08T13:48:24.619080,Champions League,Will Roma win the 2026-27 UEFA Champions League Championship?,Yes,0.5499999999999999
+2026-08-08T13:48:24.619085,Champions League,Will Roma win the 2026-27 UEFA Champions League Championship?,No,99.45
+2026-08-08T13:48:24.619092,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,Yes,0.35000000000000003
+2026-08-08T13:48:24.619096,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,No,99.65
+2026-08-08T13:48:24.619103,Champions League,Will Sporting CP win the 2026-27 UEFA Champions League Championship?,Yes,0.25
+2026-08-08T13:48:24.619107,Champions League,Will Sporting CP win the 2026-27 UEFA Champions League Championship?,No,99.75
+2026-08-08T13:48:24.619114,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,2.35
+2026-08-08T13:48:24.619122,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,97.65
+2026-08-08T13:48:24.930088,MLB,Los Angeles Angels vs. Miami Marlins: O/U 8.5,Over,39.5
+2026-08-08T13:48:24.930109,MLB,Los Angeles Angels vs. Miami Marlins: O/U 8.5,Under,60.5
+2026-08-08T13:48:24.930118,MLB,Cleveland Guardians vs. Chicago White Sox: O/U 8.5,Over,40.5
+2026-08-08T13:48:24.930122,MLB,Cleveland Guardians vs. Chicago White Sox: O/U 8.5,Under,59.5
+2026-08-08T13:48:24.930129,MLB,Cleveland Guardians vs. Chicago White Sox: O/U 7.5,Over,47.5
+2026-08-08T13:48:24.930132,MLB,Cleveland Guardians vs. Chicago White Sox: O/U 7.5,Under,52.5
+2026-08-08T13:48:24.930138,MLB,Toronto Blue Jays vs. Philadelphia Phillies,Toronto Blue Jays,38.5
+2026-08-08T13:48:24.930141,MLB,Toronto Blue Jays vs. Philadelphia Phillies,Philadelphia Phillies,61.5
+2026-08-08T13:48:24.930147,MLB,Athletics vs. Boston Red Sox: O/U 9.5,Over,44.5
+2026-08-08T13:48:24.930150,MLB,Athletics vs. Boston Red Sox: O/U 9.5,Under,55.50000000000001

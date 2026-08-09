@@ -9249,3 +9249,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-08-09T06:09:17.002205,MLB,Will the Texas Rangers win the 2026 World Series?,No,98.75
 2026-08-09T06:09:17.002210,MLB,Baltimore Orioles vs. Texas Rangers: O/U 8.5,Over,45.5
 2026-08-09T06:09:17.002212,MLB,Baltimore Orioles vs. Texas Rangers: O/U 8.5,Under,54.50000000000001
+2026-08-09T07:33:35.151691,NBA,Will Charlotte Hornets win the 2027 NBA Finals?,Yes,0.5499999999999999
+2026-08-09T07:33:35.151732,NBA,Will Charlotte Hornets win the 2027 NBA Finals?,No,99.45
+2026-08-09T07:33:35.151742,NBA,Will Utah Jazz win the 2027 NBA Finals?,Yes,0.8
+2026-08-09T07:33:35.151746,NBA,Will Utah Jazz win the 2027 NBA Finals?,No,99.2
+2026-08-09T07:33:35.151753,NBA,Will Portland Trail Blazers win the 2027 NBA Finals?,Yes,1.05
+2026-08-09T07:33:35.151759,NBA,Will Portland Trail Blazers win the 2027 NBA Finals?,No,98.95
+2026-08-09T07:33:35.151773,NBA,Will New York Knicks win the 2027 NBA Finals?,Yes,9.5
+2026-08-09T07:33:35.151776,NBA,Will New York Knicks win the 2027 NBA Finals?,No,90.5
+2026-08-09T07:33:35.151784,NBA,Will Phoenix Suns win the 2027 NBA Finals?,Yes,0.44999999999999996
+2026-08-09T07:33:35.151788,NBA,Will Phoenix Suns win the 2027 NBA Finals?,No,99.55000000000001
+2026-08-09T07:33:35.364823,NFL,Spread: BUF (-1.5),BUF,50.0
+2026-08-09T07:33:35.364842,NFL,Spread: BUF (-1.5),CAR,50.0
+2026-08-09T07:33:35.364850,NFL,Will Cleveland Browns win the 2027 NFL AFC Championship?,Yes,2.65
+2026-08-09T07:33:35.364855,NFL,Will Cleveland Browns win the 2027 NFL AFC Championship?,No,97.35000000000001
+2026-08-09T07:33:35.364863,NFL,Will the New England Patriots win the 2027 NFL league championship?,Yes,3.65
+2026-08-09T07:33:35.364866,NFL,Will the New England Patriots win the 2027 NFL league championship?,No,96.35000000000001
+2026-08-09T07:33:35.364874,NFL,Will Jahmyr Gibbs finish the 2026-27 NFL regular season with the most rushing yards?,Yes,13.5
+2026-08-09T07:33:35.364878,NFL,Will Jahmyr Gibbs finish the 2026-27 NFL regular season with the most rushing yards?,No,86.5
+2026-08-09T07:33:35.364884,NFL,Will the Lions win the season series against the Packers during the 2026-27 NFL regular season?,Yes,25.5
+2026-08-09T07:33:35.364888,NFL,Will the Lions win the season series against the Packers during the 2026-27 NFL regular season?,No,74.5
+2026-08-09T07:33:35.650210,Premier League,Arsenal FC vs. Coventry City FC: Arsenal FC O/U 1.5,Over,76.5
+2026-08-09T07:33:35.650231,Premier League,Arsenal FC vs. Coventry City FC: Arsenal FC O/U 1.5,Under,23.5
+2026-08-09T07:33:35.650240,Premier League,Will Manchester United FC win on 2026-08-22?,Yes,67.5
+2026-08-09T07:33:35.650244,Premier League,Will Manchester United FC win on 2026-08-22?,No,32.5
+2026-08-09T07:33:35.650250,Premier League,Manchester United FC leading at halftime?,Yes,49.5
+2026-08-09T07:33:35.650254,Premier League,Manchester United FC leading at halftime?,No,50.5
+2026-08-09T07:33:35.650260,Premier League,Arsenal FC vs. Coventry City FC: Coventry City FC O/U 3.5 Corners,Over,50.0
+2026-08-09T07:33:35.650264,Premier League,Arsenal FC vs. Coventry City FC: Coventry City FC O/U 3.5 Corners,Under,50.0
+2026-08-09T07:33:35.650270,Premier League,Arsenal FC vs. Coventry City FC: Total Corners Odd or Even?,Odd,50.0
+2026-08-09T07:33:35.650273,Premier League,Arsenal FC vs. Coventry City FC: Total Corners Odd or Even?,Even,50.0
+2026-08-09T07:33:35.848180,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-08-09T07:33:35.848203,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-08-09T07:33:35.848213,Champions League,Will Sporting CP win the 2026-27 UEFA Champions League Championship?,Yes,0.25
+2026-08-09T07:33:35.848218,Champions League,Will Sporting CP win the 2026-27 UEFA Champions League Championship?,No,99.75
+2026-08-09T07:33:35.848226,Champions League,Will Club Brugge win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-08-09T07:33:35.848230,Champions League,Will Club Brugge win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-08-09T07:33:35.848237,Champions League,Will Manchester United win the 2026-27 UEFA Champions League Championship?,Yes,3.15
+2026-08-09T07:33:35.848241,Champions League,Will Manchester United win the 2026-27 UEFA Champions League Championship?,No,96.85000000000001
+2026-08-09T07:33:35.848248,Champions League,Will Lille win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-08-09T07:33:35.848251,Champions League,Will Lille win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-08-09T07:33:36.043915,MLB,Baltimore Orioles vs. Texas Rangers: O/U 8.5,Over,45.5
+2026-08-09T07:33:36.043934,MLB,Baltimore Orioles vs. Texas Rangers: O/U 8.5,Under,54.50000000000001
+2026-08-09T07:33:36.043944,MLB,Will the Detroit Tigers win the 2026 World Series?,Yes,1.25
+2026-08-09T07:33:36.043948,MLB,Will the Detroit Tigers win the 2026 World Series?,No,98.75
+2026-08-09T07:33:36.043954,MLB,Tampa Bay Rays vs. Seattle Mariners,Tampa Bay Rays,49.5
+2026-08-09T07:33:36.043958,MLB,Tampa Bay Rays vs. Seattle Mariners,Seattle Mariners,50.5
+2026-08-09T07:33:36.043964,MLB,Will the Los Angeles Dodgers win the 2026 World Series?,Yes,39.5
+2026-08-09T07:33:36.043968,MLB,Will the Los Angeles Dodgers win the 2026 World Series?,No,60.5
+2026-08-09T07:33:36.043974,MLB,Will the Texas Rangers win the 2026 World Series?,Yes,1.25
+2026-08-09T07:33:36.043977,MLB,Will the Texas Rangers win the 2026 World Series?,No,98.75

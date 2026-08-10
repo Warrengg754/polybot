@@ -10199,3 +10199,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-08-10T04:13:17.304305,MLB,Will the Detroit Tigers win the 2026 World Series?,No,97.95
 2026-08-10T04:13:17.304312,MLB,Will the Texas Rangers win the 2026 World Series?,Yes,1.4500000000000002
 2026-08-10T04:13:17.304315,MLB,Will the Texas Rangers win the 2026 World Series?,No,98.55000000000001
+2026-08-10T05:55:51.832470,NBA,Will Charlotte Hornets win the 2027 NBA Finals?,Yes,0.5499999999999999
+2026-08-10T05:55:51.832499,NBA,Will Charlotte Hornets win the 2027 NBA Finals?,No,99.45
+2026-08-10T05:55:51.832511,NBA,Will Golden State Warriors win the 2027 NBA Finals?,Yes,1.05
+2026-08-10T05:55:51.832515,NBA,Will Golden State Warriors win the 2027 NBA Finals?,No,98.95
+2026-08-10T05:55:51.832522,NBA,Will Dallas Mavericks win the 2027 NBA Finals?,Yes,0.5499999999999999
+2026-08-10T05:55:51.832529,NBA,Will Dallas Mavericks win the 2027 NBA Finals?,No,99.45
+2026-08-10T05:55:51.832542,NBA,Will Phoenix Suns win the 2027 NBA Finals?,Yes,0.44999999999999996
+2026-08-10T05:55:51.832547,NBA,Will Phoenix Suns win the 2027 NBA Finals?,No,99.55000000000001
+2026-08-10T05:55:51.832554,NBA,Will Cleveland Cavaliers win the 2027 NBA Finals?,Yes,3.25
+2026-08-10T05:55:51.832558,NBA,Will Cleveland Cavaliers win the 2027 NBA Finals?,No,96.75
+2026-08-10T05:55:52.078123,NFL,Giants vs. Dolphins,Giants,48.5
+2026-08-10T05:55:52.078140,NFL,Giants vs. Dolphins,Dolphins,51.5
+2026-08-10T05:55:52.078148,NFL,Will the Kansas City Chiefs win the 2027 NFL league championship?,Yes,6.6000000000000005
+2026-08-10T05:55:52.078152,NFL,Will the Kansas City Chiefs win the 2027 NFL league championship?,No,93.4
+2026-08-10T05:55:52.078160,NFL,Will the Cleveland Browns win the 2027 NFL league championship?,Yes,0.8500000000000001
+2026-08-10T05:55:52.078164,NFL,Will the Cleveland Browns win the 2027 NFL league championship?,No,99.15
+2026-08-10T05:55:52.078172,NFL,Will the Cincinnati Bengals win the 2027 NFL league championship?,Yes,3.55
+2026-08-10T05:55:52.078176,NFL,Will the Cincinnati Bengals win the 2027 NFL league championship?,No,96.45
+2026-08-10T05:55:52.078182,NFL,Spread: BUF (-1.5),BUF,41.0
+2026-08-10T05:55:52.078185,NFL,Spread: BUF (-1.5),CAR,59.0
+2026-08-10T05:55:52.381554,Premier League,Will Arsenal FC win on 2026-08-21?,Yes,84.5
+2026-08-10T05:55:52.381571,Premier League,Will Arsenal FC win on 2026-08-21?,No,15.5
+2026-08-10T05:55:52.381579,Premier League,Will Manchester United FC win on 2026-08-22?,Yes,67.5
+2026-08-10T05:55:52.381583,Premier League,Will Manchester United FC win on 2026-08-22?,No,32.5
+2026-08-10T05:55:52.381590,Premier League,Will Coventry City FC win on 2026-08-21?,Yes,5.5
+2026-08-10T05:55:52.381593,Premier League,Will Coventry City FC win on 2026-08-21?,No,94.5
+2026-08-10T05:55:52.381599,Premier League,Will Brentford FC vs. Tottenham Hotspur FC end in a draw?,Yes,26.5
+2026-08-10T05:55:52.381603,Premier League,Will Brentford FC vs. Tottenham Hotspur FC end in a draw?,No,73.5
+2026-08-10T05:55:52.381609,Premier League,Will Brentford FC win on 2026-08-22?,Yes,40.5
+2026-08-10T05:55:52.381612,Premier League,Will Brentford FC win on 2026-08-22?,No,59.5
+2026-08-10T05:55:52.635633,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-08-10T05:55:52.635649,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-08-10T05:55:52.635658,Champions League,Will Manchester United win the 2026-27 UEFA Champions League Championship?,Yes,3.15
+2026-08-10T05:55:52.635663,Champions League,Will Manchester United win the 2026-27 UEFA Champions League Championship?,No,96.85000000000001
+2026-08-10T05:55:52.635671,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,Yes,13.5
+2026-08-10T05:55:52.635675,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,No,86.5
+2026-08-10T05:55:52.635682,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,14.499999999999998
+2026-08-10T05:55:52.635686,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,85.5
+2026-08-10T05:55:52.635693,Champions League,Will Arsenal win the 2026-27 UEFA Champions League Championship?,Yes,12.5
+2026-08-10T05:55:52.635702,Champions League,Will Arsenal win the 2026-27 UEFA Champions League Championship?,No,87.5
+2026-08-10T05:55:52.887626,MLB,Kansas City Royals vs. Los Angeles Dodgers,Kansas City Royals,26.5
+2026-08-10T05:55:52.887647,MLB,Kansas City Royals vs. Los Angeles Dodgers,Los Angeles Dodgers,73.5
+2026-08-10T05:55:52.887661,MLB,Will the Arizona Diamondbacks win the 2026 World Series?,Yes,1.55
+2026-08-10T05:55:52.887667,MLB,Will the Arizona Diamondbacks win the 2026 World Series?,No,98.45
+2026-08-10T05:55:52.887679,MLB,Boston Red Sox vs. Toronto Blue Jays,Boston Red Sox,62.5
+2026-08-10T05:55:52.887685,MLB,Boston Red Sox vs. Toronto Blue Jays,Toronto Blue Jays,37.5
+2026-08-10T05:55:52.887696,MLB,Will the Washington Nationals win the 2026 World Series?,Yes,0.25
+2026-08-10T05:55:52.887702,MLB,Will the Washington Nationals win the 2026 World Series?,No,99.75
+2026-08-10T05:55:52.887713,MLB,Will the Detroit Tigers win the 2026 World Series?,Yes,2.0500000000000003
+2026-08-10T05:55:52.887720,MLB,Will the Detroit Tigers win the 2026 World Series?,No,97.95

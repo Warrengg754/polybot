@@ -13649,3 +13649,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-08-14T02:10:18.431373,MLB,Milwaukee Brewers vs. Los Angeles Dodgers,Los Angeles Dodgers,56.49999999999999
 2026-08-14T02:10:18.431380,MLB,Philadelphia Phillies vs. Minnesota Twins: O/U 9.5,Over,28.999999999999996
 2026-08-14T02:10:18.431384,MLB,Philadelphia Phillies vs. Minnesota Twins: O/U 9.5,Under,71.0
+2026-08-14T04:22:33.893345,NBA,Will Minnesota Timberwolves win the 2027 NBA Finals?,Yes,3.25
+2026-08-14T04:22:33.893371,NBA,Will Minnesota Timberwolves win the 2027 NBA Finals?,No,96.75
+2026-08-14T04:22:33.893403,NBA,Will Philadelphia 76ers win the 2027 NBA Finals?,Yes,13.25
+2026-08-14T04:22:33.893408,NBA,Will Philadelphia 76ers win the 2027 NBA Finals?,No,86.75
+2026-08-14T04:22:33.893416,NBA,Will New Orleans Pelicans win the 2027 NBA Finals?,Yes,0.15
+2026-08-14T04:22:33.893422,NBA,Will New Orleans Pelicans win the 2027 NBA Finals?,No,99.85000000000001
+2026-08-14T04:22:33.893437,NBA,Will Memphis Grizzlies win the 2027 NBA Finals?,Yes,0.25
+2026-08-14T04:22:33.893441,NBA,Will Memphis Grizzlies win the 2027 NBA Finals?,No,99.75
+2026-08-14T04:22:33.893449,NBA,NBA: LeBron James and Bronny James Jr. to Play Together in 2026-27?,Yes,5.5
+2026-08-14T04:22:33.893453,NBA,NBA: LeBron James and Bronny James Jr. to Play Together in 2026-27?,No,94.5
+2026-08-14T04:22:34.135983,NFL,Titans vs. 49ers,Titans,99.95
+2026-08-14T04:22:34.136000,NFL,Titans vs. 49ers,49ers,0.05
+2026-08-14T04:22:34.136009,NFL,LAC vs. HOU: O/U 36.5,Over,0.05
+2026-08-14T04:22:34.136012,NFL,LAC vs. HOU: O/U 36.5,Under,99.95
+2026-08-14T04:22:34.136019,NFL,Spread: TEN (-6.5),TEN,0.05
+2026-08-14T04:22:34.136022,NFL,Spread: TEN (-6.5),SF,99.95
+2026-08-14T04:22:34.136028,NFL,DET vs. CIN: O/U 38.5,Over,0.05
+2026-08-14T04:22:34.136032,NFL,DET vs. CIN: O/U 38.5,Under,99.95
+2026-08-14T04:22:34.136037,NFL,LAC vs. HOU: O/U 37.5,Over,0.05
+2026-08-14T04:22:34.136040,NFL,LAC vs. HOU: O/U 37.5,Under,99.95
+2026-08-14T04:22:34.428240,Premier League,Spread: Newcastle United FC (-2.5),Newcastle United FC,6.0
+2026-08-14T04:22:34.428257,Premier League,Spread: Newcastle United FC (-2.5),Liverpool FC,94.0
+2026-08-14T04:22:34.428265,Premier League,Will Liverpool FC win on 2026-08-23?,Yes,50.5
+2026-08-14T04:22:34.428270,Premier League,Will Liverpool FC win on 2026-08-23?,No,49.5
+2026-08-14T04:22:34.428277,Premier League,Will Newcastle United FC win on 2026-08-23?,Yes,25.5
+2026-08-14T04:22:34.428280,Premier League,Will Newcastle United FC win on 2026-08-23?,No,74.5
+2026-08-14T04:22:34.428287,Premier League,Jeff Bezos Announced as New Liverpool Owner in 2026?,Yes,83.0
+2026-08-14T04:22:34.428290,Premier League,Jeff Bezos Announced as New Liverpool Owner in 2026?,No,17.0
+2026-08-14T04:22:34.428297,Premier League,Will Chelsea FC win on 2026-08-24?,Yes,47.0
+2026-08-14T04:22:34.428300,Premier League,Will Chelsea FC win on 2026-08-24?,No,53.0
+2026-08-14T04:22:34.650332,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-08-14T04:22:34.650349,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-08-14T04:22:34.650360,Champions League,Will Feyenoord win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-08-14T04:22:34.650364,Champions League,Will Feyenoord win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-08-14T04:22:34.650372,Champions League,Will PSV Eindhoven win the 2026-27 UEFA Champions League Championship?,Yes,0.25
+2026-08-14T04:22:34.650393,Champions League,Will PSV Eindhoven win the 2026-27 UEFA Champions League Championship?,No,99.75
+2026-08-14T04:22:34.650402,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,Yes,0.44999999999999996
+2026-08-14T04:22:34.650406,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,No,99.55000000000001
+2026-08-14T04:22:34.650414,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,Yes,2.55
+2026-08-14T04:22:34.650417,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,No,97.45
+2026-08-14T04:22:34.856416,MLB,Milwaukee Brewers vs. Los Angeles Dodgers,Milwaukee Brewers,10.5
+2026-08-14T04:22:34.856435,MLB,Milwaukee Brewers vs. Los Angeles Dodgers,Los Angeles Dodgers,89.5
+2026-08-14T04:22:34.856445,MLB,Texas Rangers vs. Los Angeles Angels: O/U 7.5,Over,45.5
+2026-08-14T04:22:34.856448,MLB,Texas Rangers vs. Los Angeles Angels: O/U 7.5,Under,54.50000000000001
+2026-08-14T04:22:34.856456,MLB,Texas Rangers vs. Los Angeles Angels,Texas Rangers,0.7000000000000001
+2026-08-14T04:22:34.856460,MLB,Texas Rangers vs. Los Angeles Angels,Los Angeles Angels,99.3
+2026-08-14T04:22:34.856467,MLB,Spread: Los Angeles Dodgers (-1.5),Los Angeles Dodgers,73.5
+2026-08-14T04:22:34.856471,MLB,Spread: Los Angeles Dodgers (-1.5),Milwaukee Brewers,26.5
+2026-08-14T04:22:34.856477,MLB,Milwaukee Brewers vs. Los Angeles Dodgers: O/U 7.5,Over,29.5
+2026-08-14T04:22:34.856480,MLB,Milwaukee Brewers vs. Los Angeles Dodgers: O/U 7.5,Under,70.5

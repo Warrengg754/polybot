@@ -13699,3 +13699,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-08-14T04:22:34.856471,MLB,Spread: Los Angeles Dodgers (-1.5),Milwaukee Brewers,26.5
 2026-08-14T04:22:34.856477,MLB,Milwaukee Brewers vs. Los Angeles Dodgers: O/U 7.5,Over,29.5
 2026-08-14T04:22:34.856480,MLB,Milwaukee Brewers vs. Los Angeles Dodgers: O/U 7.5,Under,70.5
+2026-08-14T05:57:03.961808,NBA,Will Minnesota Timberwolves win the 2027 NBA Finals?,Yes,3.25
+2026-08-14T05:57:03.961831,NBA,Will Minnesota Timberwolves win the 2027 NBA Finals?,No,96.75
+2026-08-14T05:57:03.961841,NBA,Will Philadelphia 76ers win the 2027 NBA Finals?,Yes,13.25
+2026-08-14T05:57:03.961845,NBA,Will Philadelphia 76ers win the 2027 NBA Finals?,No,86.75
+2026-08-14T05:57:03.961853,NBA,Will New Orleans Pelicans win the 2027 NBA Finals?,Yes,0.15
+2026-08-14T05:57:03.961858,NBA,Will New Orleans Pelicans win the 2027 NBA Finals?,No,99.85000000000001
+2026-08-14T05:57:03.961873,NBA,Will Memphis Grizzlies win the 2027 NBA Finals?,Yes,0.25
+2026-08-14T05:57:03.961877,NBA,Will Memphis Grizzlies win the 2027 NBA Finals?,No,99.75
+2026-08-14T05:57:03.961884,NBA,NBA: LeBron James and Bronny James Jr. to Play Together in 2026-27?,Yes,5.5
+2026-08-14T05:57:03.961887,NBA,NBA: LeBron James and Bronny James Jr. to Play Together in 2026-27?,No,94.5
+2026-08-14T05:57:04.131036,NFL,Spread: TEN (-6.5),TEN,0.05
+2026-08-14T05:57:04.131051,NFL,Spread: TEN (-6.5),SF,99.95
+2026-08-14T05:57:04.131060,NFL,TEN vs. SF: O/U 39.5,Over,0.05
+2026-08-14T05:57:04.131064,NFL,TEN vs. SF: O/U 39.5,Under,99.95
+2026-08-14T05:57:04.131071,NFL,Titans vs. 49ers: 1H Moneyline,Titans,99.55000000000001
+2026-08-14T05:57:04.131074,NFL,Titans vs. 49ers: 1H Moneyline,49ers,0.44999999999999996
+2026-08-14T05:57:04.131082,NFL,Spread: IND (-2.5),IND,0.05
+2026-08-14T05:57:04.131085,NFL,Spread: IND (-2.5),NE,99.95
+2026-08-14T05:57:04.131091,NFL,Spread: IND (-3.5),IND,0.05
+2026-08-14T05:57:04.131094,NFL,Spread: IND (-3.5),NE,99.95
+2026-08-14T05:57:04.322367,Premier League,Spread: Newcastle United FC (-2.5),Newcastle United FC,5.5
+2026-08-14T05:57:04.322384,Premier League,Spread: Newcastle United FC (-2.5),Liverpool FC,94.5
+2026-08-14T05:57:04.322393,Premier League,Will Liverpool FC win on 2026-08-23?,Yes,51.5
+2026-08-14T05:57:04.322397,Premier League,Will Liverpool FC win on 2026-08-23?,No,48.5
+2026-08-14T05:57:04.322403,Premier League,Will Newcastle United FC win on 2026-08-23?,Yes,25.5
+2026-08-14T05:57:04.322407,Premier League,Will Newcastle United FC win on 2026-08-23?,No,74.5
+2026-08-14T05:57:04.322413,Premier League,Jeff Bezos Announced as New Liverpool Owner in 2026?,Yes,83.0
+2026-08-14T05:57:04.322416,Premier League,Jeff Bezos Announced as New Liverpool Owner in 2026?,No,17.0
+2026-08-14T05:57:04.322422,Premier League,Will Chelsea FC win on 2026-08-24?,Yes,47.0
+2026-08-14T05:57:04.322425,Premier League,Will Chelsea FC win on 2026-08-24?,No,53.0
+2026-08-14T05:57:04.475071,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-08-14T05:57:04.475085,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-08-14T05:57:04.475095,Champions League,Will Feyenoord win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-08-14T05:57:04.475100,Champions League,Will Feyenoord win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-08-14T05:57:04.475107,Champions League,Will PSV Eindhoven win the 2026-27 UEFA Champions League Championship?,Yes,0.25
+2026-08-14T05:57:04.475111,Champions League,Will PSV Eindhoven win the 2026-27 UEFA Champions League Championship?,No,99.75
+2026-08-14T05:57:04.475118,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,Yes,0.44999999999999996
+2026-08-14T05:57:04.475122,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,No,99.55000000000001
+2026-08-14T05:57:04.475147,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,Yes,2.55
+2026-08-14T05:57:04.475152,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,No,97.45
+2026-08-14T05:57:04.677503,MLB,Milwaukee Brewers vs. Los Angeles Dodgers,Milwaukee Brewers,36.5
+2026-08-14T05:57:04.677521,MLB,Milwaukee Brewers vs. Los Angeles Dodgers,Los Angeles Dodgers,63.5
+2026-08-14T05:57:04.677530,MLB,Tampa Bay Rays vs. New York Yankees,Tampa Bay Rays,43.0
+2026-08-14T05:57:04.677534,MLB,Tampa Bay Rays vs. New York Yankees,New York Yankees,56.99999999999999
+2026-08-14T05:57:04.677551,MLB,New York Yankees vs. Toronto Blue Jays,New York Yankees,58.5
+2026-08-14T05:57:04.677559,MLB,New York Yankees vs. Toronto Blue Jays,Toronto Blue Jays,41.5
+2026-08-14T05:57:04.677570,MLB,St. Louis Cardinals vs. Chicago Cubs,St. Louis Cardinals,36.5
+2026-08-14T05:57:04.677573,MLB,St. Louis Cardinals vs. Chicago Cubs,Chicago Cubs,63.5
+2026-08-14T05:57:04.677580,MLB,Will the Pittsburgh Pirates win the 2026 World Series?,Yes,0.15
+2026-08-14T05:57:04.677583,MLB,Will the Pittsburgh Pirates win the 2026 World Series?,No,99.85000000000001

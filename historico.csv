@@ -13599,3 +13599,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-08-13T23:44:04.731104,MLB,Milwaukee Brewers vs. Los Angeles Dodgers,Los Angeles Dodgers,56.49999999999999
 2026-08-13T23:44:04.731111,MLB,Spread: Texas Rangers (-1.5),Texas Rangers,44.5
 2026-08-13T23:44:04.731115,MLB,Spread: Texas Rangers (-1.5),Los Angeles Angels,55.50000000000001
+2026-08-14T02:10:17.602197,NBA,Will Minnesota Timberwolves win the 2027 NBA Finals?,Yes,3.25
+2026-08-14T02:10:17.602230,NBA,Will Minnesota Timberwolves win the 2027 NBA Finals?,No,96.75
+2026-08-14T02:10:17.602241,NBA,Will Philadelphia 76ers win the 2027 NBA Finals?,Yes,13.25
+2026-08-14T02:10:17.602245,NBA,Will Philadelphia 76ers win the 2027 NBA Finals?,No,86.75
+2026-08-14T02:10:17.602253,NBA,Will New Orleans Pelicans win the 2027 NBA Finals?,Yes,0.15
+2026-08-14T02:10:17.602259,NBA,Will New Orleans Pelicans win the 2027 NBA Finals?,No,99.85000000000001
+2026-08-14T02:10:17.602273,NBA,Will Memphis Grizzlies win the 2027 NBA Finals?,Yes,0.25
+2026-08-14T02:10:17.602278,NBA,Will Memphis Grizzlies win the 2027 NBA Finals?,No,99.75
+2026-08-14T02:10:17.602287,NBA,Will Toronto Raptors win the 2027 NBA Finals?,Yes,3.75
+2026-08-14T02:10:17.602291,NBA,Will Toronto Raptors win the 2027 NBA Finals?,No,96.25
+2026-08-14T02:10:17.798670,NFL,LAC vs. HOU: O/U 36.5,Over,21.5
+2026-08-14T02:10:17.798704,NFL,LAC vs. HOU: O/U 36.5,Under,78.5
+2026-08-14T02:10:17.798713,NFL,Titans vs. 49ers,Titans,48.5
+2026-08-14T02:10:17.798716,NFL,Titans vs. 49ers,49ers,51.5
+2026-08-14T02:10:17.798722,NFL,Packers vs. Steelers,Packers,0.05
+2026-08-14T02:10:17.798726,NFL,Packers vs. Steelers,Steelers,99.95
+2026-08-14T02:10:17.798733,NFL,Chargers vs. Texans,Chargers,73.5
+2026-08-14T02:10:17.798736,NFL,Chargers vs. Texans,Texans,26.5
+2026-08-14T02:10:17.798742,NFL,Cardinals vs. Raiders,Cardinals,87.5
+2026-08-14T02:10:17.798744,NFL,Cardinals vs. Raiders,Raiders,12.5
+2026-08-14T02:10:18.048761,Premier League,Spread: Newcastle United FC (-2.5),Newcastle United FC,6.0
+2026-08-14T02:10:18.048780,Premier League,Spread: Newcastle United FC (-2.5),Liverpool FC,94.0
+2026-08-14T02:10:18.048788,Premier League,Will Liverpool FC win on 2026-08-23?,Yes,50.5
+2026-08-14T02:10:18.048793,Premier League,Will Liverpool FC win on 2026-08-23?,No,49.5
+2026-08-14T02:10:18.048800,Premier League,Will Newcastle United FC win on 2026-08-23?,Yes,25.5
+2026-08-14T02:10:18.048803,Premier League,Will Newcastle United FC win on 2026-08-23?,No,74.5
+2026-08-14T02:10:18.048809,Premier League,Jeff Bezos Announced as New Liverpool Owner in 2026?,Yes,83.5
+2026-08-14T02:10:18.048812,Premier League,Jeff Bezos Announced as New Liverpool Owner in 2026?,No,16.5
+2026-08-14T02:10:18.048819,Premier League,Will Chelsea FC win on 2026-08-24?,Yes,47.0
+2026-08-14T02:10:18.048822,Premier League,Will Chelsea FC win on 2026-08-24?,No,53.0
+2026-08-14T02:10:18.238940,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-08-14T02:10:18.238961,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-08-14T02:10:18.238971,Champions League,Will Feyenoord win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-08-14T02:10:18.238976,Champions League,Will Feyenoord win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-08-14T02:10:18.238983,Champions League,Will PSV Eindhoven win the 2026-27 UEFA Champions League Championship?,Yes,0.25
+2026-08-14T02:10:18.238987,Champions League,Will PSV Eindhoven win the 2026-27 UEFA Champions League Championship?,No,99.75
+2026-08-14T02:10:18.238994,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,Yes,0.44999999999999996
+2026-08-14T02:10:18.238998,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,No,99.55000000000001
+2026-08-14T02:10:18.239005,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,Yes,2.55
+2026-08-14T02:10:18.239009,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,No,97.45
+2026-08-14T02:10:18.431319,MLB,Texas Rangers vs. Los Angeles Angels: O/U 7.5,Over,46.5
+2026-08-14T02:10:18.431339,MLB,Texas Rangers vs. Los Angeles Angels: O/U 7.5,Under,53.5
+2026-08-14T02:10:18.431348,MLB,Philadelphia Phillies vs. Minnesota Twins,Philadelphia Phillies,99.4
+2026-08-14T02:10:18.431353,MLB,Philadelphia Phillies vs. Minnesota Twins,Minnesota Twins,0.6
+2026-08-14T02:10:18.431360,MLB,Philadelphia Phillies vs. Minnesota Twins: O/U 8.5,Over,47.5
+2026-08-14T02:10:18.431363,MLB,Philadelphia Phillies vs. Minnesota Twins: O/U 8.5,Under,52.5
+2026-08-14T02:10:18.431369,MLB,Milwaukee Brewers vs. Los Angeles Dodgers,Milwaukee Brewers,43.5
+2026-08-14T02:10:18.431373,MLB,Milwaukee Brewers vs. Los Angeles Dodgers,Los Angeles Dodgers,56.49999999999999
+2026-08-14T02:10:18.431380,MLB,Philadelphia Phillies vs. Minnesota Twins: O/U 9.5,Over,28.999999999999996
+2026-08-14T02:10:18.431384,MLB,Philadelphia Phillies vs. Minnesota Twins: O/U 9.5,Under,71.0

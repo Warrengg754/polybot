@@ -14849,3 +14849,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-08-15T05:27:35.542200,MLB,Boston Red Sox vs. Pittsburgh Pirates,Pittsburgh Pirates,47.5
 2026-08-15T05:27:35.542206,MLB,Will the Toronto Blue Jays win the 2026 World Series?,Yes,0.75
 2026-08-15T05:27:35.542209,MLB,Will the Toronto Blue Jays win the 2026 World Series?,No,99.25
+2026-08-15T05:53:42.826638,NBA,Will Atlanta Hawks win the 2027 NBA Finals?,Yes,0.95
+2026-08-15T05:53:42.826664,NBA,Will Atlanta Hawks win the 2027 NBA Finals?,No,99.05000000000001
+2026-08-15T05:53:42.826676,NBA,Will Portland Trail Blazers win the 2027 NBA Finals?,Yes,1.05
+2026-08-15T05:53:42.826680,NBA,Will Portland Trail Blazers win the 2027 NBA Finals?,No,98.95
+2026-08-15T05:53:42.826687,NBA,Will Detroit Pistons win the 2027 NBA Finals?,Yes,3.05
+2026-08-15T05:53:42.826693,NBA,Will Detroit Pistons win the 2027 NBA Finals?,No,96.95
+2026-08-15T05:53:42.826706,NBA,Will Denver Nuggets win the 2027 NBA Finals?,Yes,3.25
+2026-08-15T05:53:42.826709,NBA,Will Denver Nuggets win the 2027 NBA Finals?,No,96.75
+2026-08-15T05:53:42.826719,NBA,Will Houston Rockets win the 2027 NBA Finals?,Yes,1.95
+2026-08-15T05:53:42.826722,NBA,Will Houston Rockets win the 2027 NBA Finals?,No,98.05
+2026-08-15T05:53:43.146660,NFL,Will the Los Angeles Chargers win the 2027 NFL league championship?,Yes,4.75
+2026-08-15T05:53:43.146676,NFL,Will the Los Angeles Chargers win the 2027 NFL league championship?,No,95.25
+2026-08-15T05:53:43.146685,NFL,Will the Baltimore Ravens win the 2027 NFL league championship?,Yes,7.35
+2026-08-15T05:53:43.146689,NFL,Will the Baltimore Ravens win the 2027 NFL league championship?,No,92.65
+2026-08-15T05:53:43.146696,NFL,Will the Jacksonville Jaguars win the 2027 NFL league championship?,Yes,3.35
+2026-08-15T05:53:43.146699,NFL,Will the Jacksonville Jaguars win the 2027 NFL league championship?,No,96.65
+2026-08-15T05:53:43.146706,NFL,Will the Los Angeles Rams win the 2027 NFL league championship?,Yes,13.5
+2026-08-15T05:53:43.146710,NFL,Will the Los Angeles Rams win the 2027 NFL league championship?,No,86.5
+2026-08-15T05:53:43.146716,NFL,Will the Chicago Bears win the 2027 NFL league championship?,Yes,3.65
+2026-08-15T05:53:43.146720,NFL,Will the Chicago Bears win the 2027 NFL league championship?,No,96.35000000000001
+2026-08-15T05:53:43.468925,Premier League,Jeff Bezos Announced as New Liverpool Owner in 2026?,Yes,96.5
+2026-08-15T05:53:43.468941,Premier League,Jeff Bezos Announced as New Liverpool Owner in 2026?,No,3.5000000000000004
+2026-08-15T05:53:43.468950,Premier League,Will Chelsea FC win on 2026-08-24?,Yes,47.5
+2026-08-15T05:53:43.468954,Premier League,Will Chelsea FC win on 2026-08-24?,No,52.5
+2026-08-15T05:53:43.468960,Premier League,Liverpool FC to score first vs. Newcastle United FC?,Yes,33.0
+2026-08-15T05:53:43.468964,Premier League,Liverpool FC to score first vs. Newcastle United FC?,No,67.0
+2026-08-15T05:53:43.468970,Premier League,Newcastle United FC vs. Liverpool FC: Neither team to score first?,Yes,45.5
+2026-08-15T05:53:43.468974,Premier League,Newcastle United FC vs. Liverpool FC: Neither team to score first?,No,54.50000000000001
+2026-08-15T05:53:43.468981,Premier League,Will Tottenham Hotspur FC win on 2026-08-22?,Yes,35.5
+2026-08-15T05:53:43.468984,Premier League,Will Tottenham Hotspur FC win on 2026-08-22?,No,64.5
+2026-08-15T05:53:43.758519,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-08-15T05:53:43.758534,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-08-15T05:53:43.758544,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,14.499999999999998
+2026-08-15T05:53:43.758549,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,85.5
+2026-08-15T05:53:43.758557,Champions League,Will Slavia Prague win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-08-15T05:53:43.758561,Champions League,Will Slavia Prague win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-08-15T05:53:43.758568,Champions League,Will Sporting CP win the 2026-27 UEFA Champions League Championship?,Yes,0.25
+2026-08-15T05:53:43.758572,Champions League,Will Sporting CP win the 2026-27 UEFA Champions League Championship?,No,99.75
+2026-08-15T05:53:43.758578,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,Yes,0.44999999999999996
+2026-08-15T05:53:43.758583,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,No,99.55000000000001
+2026-08-15T05:53:44.075683,MLB,Will the San Diego Padres win the 2026 World Series?,Yes,2.8000000000000003
+2026-08-15T05:53:44.075696,MLB,Will the San Diego Padres win the 2026 World Series?,No,97.2
+2026-08-15T05:53:44.075706,MLB,New York Yankees vs. Toronto Blue Jays,New York Yankees,60.5
+2026-08-15T05:53:44.075710,MLB,New York Yankees vs. Toronto Blue Jays,Toronto Blue Jays,39.5
+2026-08-15T05:53:44.075718,MLB,Will the Baltimore Orioles win the 2026 World Series?,Yes,0.15
+2026-08-15T05:53:44.075722,MLB,Will the Baltimore Orioles win the 2026 World Series?,No,99.85000000000001
+2026-08-15T05:53:44.075730,MLB,Boston Red Sox vs. Pittsburgh Pirates,Boston Red Sox,53.5
+2026-08-15T05:53:44.075733,MLB,Boston Red Sox vs. Pittsburgh Pirates,Pittsburgh Pirates,46.5
+2026-08-15T05:53:44.075740,MLB,Will the Toronto Blue Jays win the 2026 World Series?,Yes,0.75
+2026-08-15T05:53:44.075744,MLB,Will the Toronto Blue Jays win the 2026 World Series?,No,99.25

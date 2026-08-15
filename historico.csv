@@ -16249,3 +16249,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-08-15T22:24:37.633442,MLB,Milwaukee Brewers vs. Los Angeles Dodgers,Los Angeles Dodgers,46.5
 2026-08-15T22:24:37.633448,MLB,Texas Rangers vs. Athletics,Texas Rangers,60.5
 2026-08-15T22:24:37.633451,MLB,Texas Rangers vs. Athletics,Athletics,39.5
+2026-08-15T22:49:13.376874,NBA,Will Atlanta Hawks win the 2027 NBA Finals?,Yes,0.95
+2026-08-15T22:49:13.376899,NBA,Will Atlanta Hawks win the 2027 NBA Finals?,No,99.05000000000001
+2026-08-15T22:49:13.376911,NBA,Will Denver Nuggets win the 2027 NBA Finals?,Yes,3.25
+2026-08-15T22:49:13.376916,NBA,Will Denver Nuggets win the 2027 NBA Finals?,No,96.75
+2026-08-15T22:49:13.376923,NBA,Will Minnesota Timberwolves win the 2027 NBA Finals?,Yes,3.35
+2026-08-15T22:49:13.376928,NBA,Will Minnesota Timberwolves win the 2027 NBA Finals?,No,96.65
+2026-08-15T22:49:13.376942,NBA,Will Brooklyn Nets win the 2027 NBA Finals?,Yes,0.15
+2026-08-15T22:49:13.376946,NBA,Will Brooklyn Nets win the 2027 NBA Finals?,No,99.85000000000001
+2026-08-15T22:49:13.376953,NBA,Will Milwaukee Bucks win the 2027 NBA Finals?,Yes,0.15
+2026-08-15T22:49:13.376959,NBA,Will Milwaukee Bucks win the 2027 NBA Finals?,No,99.85000000000001
+2026-08-15T22:49:13.559232,NFL,Rams vs. Chiefs,Rams,96.55
+2026-08-15T22:49:13.559247,NFL,Rams vs. Chiefs,Chiefs,3.45
+2026-08-15T22:49:13.559255,NFL,Panthers vs. Bills,Panthers,0.05
+2026-08-15T22:49:13.559258,NFL,Panthers vs. Bills,Bills,99.95
+2026-08-15T22:49:13.559266,NFL,Jaguars vs. Saints,Jaguars,74.5
+2026-08-15T22:49:13.559269,NFL,Jaguars vs. Saints,Saints,25.5
+2026-08-15T22:49:13.559276,NFL,Cowboys vs. Seahawks,Cowboys,44.5
+2026-08-15T22:49:13.559279,NFL,Cowboys vs. Seahawks,Seahawks,55.50000000000001
+2026-08-15T22:49:13.559285,NFL,CLE vs. CHI: O/U 39.5,Over,99.95
+2026-08-15T22:49:13.559288,NFL,CLE vs. CHI: O/U 39.5,Under,0.05
+2026-08-15T22:49:13.769216,Premier League,Will Arsenal FC win on 2026-08-21?,Yes,84.5
+2026-08-15T22:49:13.769233,Premier League,Will Arsenal FC win on 2026-08-21?,No,15.5
+2026-08-15T22:49:13.769242,Premier League,Jeff Bezos Announced as New Liverpool Owner in 2026?,Yes,92.2
+2026-08-15T22:49:13.769245,Premier League,Jeff Bezos Announced as New Liverpool Owner in 2026?,No,7.8
+2026-08-15T22:49:13.769252,Premier League,Will Tottenham Hotspur FC win on 2026-08-22?,Yes,35.5
+2026-08-15T22:49:13.769256,Premier League,Will Tottenham Hotspur FC win on 2026-08-22?,No,64.5
+2026-08-15T22:49:13.769262,Premier League,Will Chelsea FC win on 2026-08-24?,Yes,47.5
+2026-08-15T22:49:13.769264,Premier League,Will Chelsea FC win on 2026-08-24?,No,52.5
+2026-08-15T22:49:13.769271,Premier League,Will Newcastle United FC win on 2026-08-23?,Yes,25.5
+2026-08-15T22:49:13.769274,Premier League,Will Newcastle United FC win on 2026-08-23?,No,74.5
+2026-08-15T22:49:13.945522,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-08-15T22:49:13.945539,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-08-15T22:49:13.945550,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,Yes,13.5
+2026-08-15T22:49:13.945555,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,No,86.5
+2026-08-15T22:49:13.945562,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,2.25
+2026-08-15T22:49:13.945570,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,97.75
+2026-08-15T22:49:13.945578,Champions League,Will Aston Villa win the 2026-27 UEFA Champions League Championship?,Yes,1.25
+2026-08-15T22:49:13.945581,Champions League,Will Aston Villa win the 2026-27 UEFA Champions League Championship?,No,98.75
+2026-08-15T22:49:13.945588,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,Yes,2.55
+2026-08-15T22:49:13.945592,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,No,97.45
+2026-08-15T22:49:14.109401,MLB,Washington Nationals vs. New York Mets: O/U 8.5,Over,24.0
+2026-08-15T22:49:14.109417,MLB,Washington Nationals vs. New York Mets: O/U 8.5,Under,76.0
+2026-08-15T22:49:14.109426,MLB,Colorado Rockies vs. San Francisco Giants,Colorado Rockies,0.05
+2026-08-15T22:49:14.109430,MLB,Colorado Rockies vs. San Francisco Giants,San Francisco Giants,99.95
+2026-08-15T22:49:14.109438,MLB,Washington Nationals vs. New York Mets: O/U 7.5,Over,25.5
+2026-08-15T22:49:14.109441,MLB,Washington Nationals vs. New York Mets: O/U 7.5,Under,74.5
+2026-08-15T22:49:14.109448,MLB,Washington Nationals vs. New York Mets,Washington Nationals,82.5
+2026-08-15T22:49:14.109451,MLB,Washington Nationals vs. New York Mets,New York Mets,17.5
+2026-08-15T22:49:14.109458,MLB,Milwaukee Brewers vs. Los Angeles Dodgers,Milwaukee Brewers,53.5
+2026-08-15T22:49:14.109461,MLB,Milwaukee Brewers vs. Los Angeles Dodgers,Los Angeles Dodgers,46.5

@@ -16449,3 +16449,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-08-16T01:34:19.223920,MLB,Kansas City Royals vs. Los Angeles Angels: O/U 7.5,Under,46.5
 2026-08-16T01:34:19.223926,MLB,Seattle Mariners vs. Houston Astros,Seattle Mariners,99.5
 2026-08-16T01:34:19.223929,MLB,Seattle Mariners vs. Houston Astros,Houston Astros,0.5
+2026-08-16T03:02:43.294478,NBA,Will Minnesota Timberwolves win the 2027 NBA Finals?,Yes,3.45
+2026-08-16T03:02:43.294523,NBA,Will Minnesota Timberwolves win the 2027 NBA Finals?,No,96.55
+2026-08-16T03:02:43.294547,NBA,Will Brooklyn Nets win the 2027 NBA Finals?,Yes,0.15
+2026-08-16T03:02:43.294556,NBA,Will Brooklyn Nets win the 2027 NBA Finals?,No,99.85000000000001
+2026-08-16T03:02:43.294567,NBA,Will Milwaukee Bucks win the 2027 NBA Finals?,Yes,0.15
+2026-08-16T03:02:43.294573,NBA,Will Milwaukee Bucks win the 2027 NBA Finals?,No,99.85000000000001
+2026-08-16T03:02:43.294587,NBA,Will Orlando Magic win the 2027 NBA Finals?,Yes,0.8500000000000001
+2026-08-16T03:02:43.294591,NBA,Will Orlando Magic win the 2027 NBA Finals?,No,99.15
+2026-08-16T03:02:43.294598,NBA,Will New Orleans Pelicans win the 2027 NBA Finals?,Yes,0.15
+2026-08-16T03:02:43.294601,NBA,Will New Orleans Pelicans win the 2027 NBA Finals?,No,99.85000000000001
+2026-08-16T03:02:43.455108,NFL,Cowboys vs. Seahawks,Cowboys,99.95
+2026-08-16T03:02:43.455118,NFL,Cowboys vs. Seahawks,Seahawks,0.05
+2026-08-16T03:02:43.455126,NFL,Spread: PHI (-3.5),PHI,0.05
+2026-08-16T03:02:43.455129,NFL,Spread: PHI (-3.5),BAL,99.95
+2026-08-16T03:02:43.455135,NFL,DAL vs. SEA: O/U 37.5,Over,0.05
+2026-08-16T03:02:43.455138,NFL,DAL vs. SEA: O/U 37.5,Under,99.95
+2026-08-16T03:02:43.455144,NFL,Spread: SEA (-2.5),SEA,0.05
+2026-08-16T03:02:43.455147,NFL,Spread: SEA (-2.5),DAL,99.95
+2026-08-16T03:02:43.455153,NFL,DAL vs. SEA: O/U 38.5,Over,0.05
+2026-08-16T03:02:43.455155,NFL,DAL vs. SEA: O/U 38.5,Under,99.95
+2026-08-16T03:02:43.639995,Premier League,Will Arsenal FC win on 2026-08-21?,Yes,84.5
+2026-08-16T03:02:43.640010,Premier League,Will Arsenal FC win on 2026-08-21?,No,15.5
+2026-08-16T03:02:43.640018,Premier League,Jeff Bezos Announced as New Liverpool Owner in 2026?,Yes,92.45
+2026-08-16T03:02:43.640022,Premier League,Jeff Bezos Announced as New Liverpool Owner in 2026?,No,7.55
+2026-08-16T03:02:43.640029,Premier League,Will Chelsea FC win on 2026-08-24?,Yes,47.5
+2026-08-16T03:02:43.640032,Premier League,Will Chelsea FC win on 2026-08-24?,No,52.5
+2026-08-16T03:02:43.640038,Premier League,Will Tottenham Hotspur FC win on 2026-08-22?,Yes,35.5
+2026-08-16T03:02:43.640041,Premier League,Will Tottenham Hotspur FC win on 2026-08-22?,No,64.5
+2026-08-16T03:02:43.640047,Premier League,Will Newcastle United FC win on 2026-08-23?,Yes,25.5
+2026-08-16T03:02:43.640050,Premier League,Will Newcastle United FC win on 2026-08-23?,No,74.5
+2026-08-16T03:02:43.786144,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-08-16T03:02:43.786159,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-08-16T03:02:43.786169,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,Yes,13.5
+2026-08-16T03:02:43.786174,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,No,86.5
+2026-08-16T03:02:43.786182,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,2.25
+2026-08-16T03:02:43.786189,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,97.75
+2026-08-16T03:02:43.786196,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,14.499999999999998
+2026-08-16T03:02:43.786201,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,85.5
+2026-08-16T03:02:43.786207,Champions League,Will Aston Villa win the 2026-27 UEFA Champions League Championship?,Yes,1.25
+2026-08-16T03:02:43.786211,Champions League,Will Aston Villa win the 2026-27 UEFA Champions League Championship?,No,98.75
+2026-08-16T03:02:44.092638,MLB,Texas Rangers vs. Athletics,Texas Rangers,32.5
+2026-08-16T03:02:44.092652,MLB,Texas Rangers vs. Athletics,Athletics,67.5
+2026-08-16T03:02:44.092660,MLB,Kansas City Royals vs. Los Angeles Angels: O/U 7.5,Over,8.0
+2026-08-16T03:02:44.092663,MLB,Kansas City Royals vs. Los Angeles Angels: O/U 7.5,Under,92.0
+2026-08-16T03:02:44.092670,MLB,Kansas City Royals vs. Los Angeles Angels,Kansas City Royals,40.5
+2026-08-16T03:02:44.092674,MLB,Kansas City Royals vs. Los Angeles Angels,Los Angeles Angels,59.5
+2026-08-16T03:02:44.092680,MLB,Will the Seattle Mariners win the 2026 World Series?,Yes,1.35
+2026-08-16T03:02:44.092683,MLB,Will the Seattle Mariners win the 2026 World Series?,No,98.65
+2026-08-16T03:02:44.092689,MLB,Boston Red Sox vs. Pittsburgh Pirates,Boston Red Sox,51.5
+2026-08-16T03:02:44.092692,MLB,Boston Red Sox vs. Pittsburgh Pirates,Pittsburgh Pirates,48.5

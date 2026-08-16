@@ -17899,3 +17899,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-08-16T21:22:56.948290,MLB,Kansas City Royals vs. Los Angeles Angels: O/U 8.5,Under,84.5
 2026-08-16T21:22:56.948296,MLB,Texas Rangers vs. Athletics: O/U 9.5,Over,46.0
 2026-08-16T21:22:56.948299,MLB,Texas Rangers vs. Athletics: O/U 9.5,Under,54.0
+2026-08-16T21:46:04.155556,NBA,NBA: Stephen Curry to leave Warriors?,Yes,2.1999999999999997
+2026-08-16T21:46:04.155580,NBA,NBA: Stephen Curry to leave Warriors?,No,97.8
+2026-08-16T21:46:04.155591,NBA,Will Indiana Pacers win the 2027 NBA Finals?,Yes,1.8499999999999999
+2026-08-16T21:46:04.155595,NBA,Will Indiana Pacers win the 2027 NBA Finals?,No,98.15
+2026-08-16T21:46:04.155603,NBA,Will Toronto Raptors win the 2027 NBA Finals?,Yes,3.75
+2026-08-16T21:46:04.155608,NBA,Will Toronto Raptors win the 2027 NBA Finals?,No,96.25
+2026-08-16T21:46:04.155622,NBA,Will Orlando Magic win the 2027 NBA Finals?,Yes,0.8500000000000001
+2026-08-16T21:46:04.155626,NBA,Will Orlando Magic win the 2027 NBA Finals?,No,99.15
+2026-08-16T21:46:04.155633,NBA,Will New Orleans Pelicans win the 2027 NBA Finals?,Yes,0.15
+2026-08-16T21:46:04.155637,NBA,Will New Orleans Pelicans win the 2027 NBA Finals?,No,99.85000000000001
+2026-08-16T21:46:04.692840,NFL,Will the Washington Commanders win the 2027 NFL league championship?,Yes,1.05
+2026-08-16T21:46:04.692857,NFL,Will the Washington Commanders win the 2027 NFL league championship?,No,98.95
+2026-08-16T21:46:04.692865,NFL,Will the Green Bay Packers win the 2027 NFL league championship?,Yes,3.25
+2026-08-16T21:46:04.692870,NFL,Will the Green Bay Packers win the 2027 NFL league championship?,No,96.75
+2026-08-16T21:46:04.692877,NFL,Will the Jacksonville Jaguars win the 2027 NFL league championship?,Yes,3.35
+2026-08-16T21:46:04.692881,NFL,Will the Jacksonville Jaguars win the 2027 NFL league championship?,No,96.65
+2026-08-16T21:46:04.692888,NFL,Will the Los Angeles Rams win the 2027 NFL league championship?,Yes,13.5
+2026-08-16T21:46:04.692891,NFL,Will the Los Angeles Rams win the 2027 NFL league championship?,No,86.5
+2026-08-16T21:46:04.692898,NFL,Will the New England Patriots win the 2027 NFL league championship?,Yes,3.65
+2026-08-16T21:46:04.692901,NFL,Will the New England Patriots win the 2027 NFL league championship?,No,96.35000000000001
+2026-08-16T21:46:04.949892,Premier League,Will Arsenal FC win on 2026-08-21?,Yes,83.0
+2026-08-16T21:46:04.949916,Premier League,Will Arsenal FC win on 2026-08-21?,No,17.0
+2026-08-16T21:46:04.949923,Premier League,Will Tottenham Hotspur FC win on 2026-08-22?,Yes,35.5
+2026-08-16T21:46:04.949928,Premier League,Will Tottenham Hotspur FC win on 2026-08-22?,No,64.5
+2026-08-16T21:46:04.949935,Premier League,Will Liverpool FC win on 2026-08-23?,Yes,50.5
+2026-08-16T21:46:04.949938,Premier League,Will Liverpool FC win on 2026-08-23?,No,49.5
+2026-08-16T21:46:04.949944,Premier League,Will Aston Villa FC win on 2026-08-23?,Yes,31.5
+2026-08-16T21:46:04.949947,Premier League,Will Aston Villa FC win on 2026-08-23?,No,68.5
+2026-08-16T21:46:04.949954,Premier League,Will Manchester United FC win on 2026-08-22?,Yes,68.5
+2026-08-16T21:46:04.949957,Premier League,Will Manchester United FC win on 2026-08-22?,No,31.5
+2026-08-16T21:46:05.207126,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-08-16T21:46:05.207143,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-08-16T21:46:05.207153,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,16.5
+2026-08-16T21:46:05.207157,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,83.5
+2026-08-16T21:46:05.207164,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,Yes,13.5
+2026-08-16T21:46:05.207168,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,No,86.5
+2026-08-16T21:46:05.207174,Champions League,Will Sporting CP win the 2026-27 UEFA Champions League Championship?,Yes,0.25
+2026-08-16T21:46:05.207178,Champions League,Will Sporting CP win the 2026-27 UEFA Champions League Championship?,No,99.75
+2026-08-16T21:46:05.207185,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,2.25
+2026-08-16T21:46:05.207193,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,97.75
+2026-08-16T21:46:05.443597,MLB,Milwaukee Brewers vs. Los Angeles Dodgers,Milwaukee Brewers,56.49999999999999
+2026-08-16T21:46:05.443614,MLB,Milwaukee Brewers vs. Los Angeles Dodgers,Los Angeles Dodgers,43.5
+2026-08-16T21:46:05.443624,MLB,Texas Rangers vs. Athletics,Texas Rangers,53.5
+2026-08-16T21:46:05.443627,MLB,Texas Rangers vs. Athletics,Athletics,46.5
+2026-08-16T21:46:05.443634,MLB,Boston Red Sox vs. Pittsburgh Pirates,Boston Red Sox,6.5
+2026-08-16T21:46:05.443637,MLB,Boston Red Sox vs. Pittsburgh Pirates,Pittsburgh Pirates,93.5
+2026-08-16T21:46:05.443644,MLB,Kansas City Royals vs. Los Angeles Angels: O/U 8.5,Over,13.5
+2026-08-16T21:46:05.443647,MLB,Kansas City Royals vs. Los Angeles Angels: O/U 8.5,Under,86.5
+2026-08-16T21:46:05.443653,MLB,Texas Rangers vs. Athletics: O/U 9.5,Over,28.499999999999996
+2026-08-16T21:46:05.443657,MLB,Texas Rangers vs. Athletics: O/U 9.5,Under,71.5

@@ -16599,3 +16599,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-08-16T05:01:00.353759,MLB,Will the Baltimore Orioles win the 2026 World Series?,No,99.75
 2026-08-16T05:01:00.353765,MLB,Will the Atlanta Braves win the 2026 World Series?,Yes,7.049999999999999
 2026-08-16T05:01:00.353768,MLB,Will the Atlanta Braves win the 2026 World Series?,No,92.95
+2026-08-16T05:54:07.966413,NBA,Will Brooklyn Nets win the 2027 NBA Finals?,Yes,0.15
+2026-08-16T05:54:07.966449,NBA,Will Brooklyn Nets win the 2027 NBA Finals?,No,99.85000000000001
+2026-08-16T05:54:07.966456,NBA,Will Minnesota Timberwolves win the 2027 NBA Finals?,Yes,3.45
+2026-08-16T05:54:07.966458,NBA,Will Minnesota Timberwolves win the 2027 NBA Finals?,No,96.55
+2026-08-16T05:54:07.966463,NBA,Will Milwaukee Bucks win the 2027 NBA Finals?,Yes,0.15
+2026-08-16T05:54:07.966466,NBA,Will Milwaukee Bucks win the 2027 NBA Finals?,No,99.85000000000001
+2026-08-16T05:54:07.966476,NBA,Will Orlando Magic win the 2027 NBA Finals?,Yes,0.8500000000000001
+2026-08-16T05:54:07.966479,NBA,Will Orlando Magic win the 2027 NBA Finals?,No,99.15
+2026-08-16T05:54:07.966483,NBA,Will New Orleans Pelicans win the 2027 NBA Finals?,Yes,0.15
+2026-08-16T05:54:07.966485,NBA,Will New Orleans Pelicans win the 2027 NBA Finals?,No,99.85000000000001
+2026-08-16T05:54:08.208782,NFL,Spread: SEA (-2.5),SEA,0.05
+2026-08-16T05:54:08.208801,NFL,Spread: SEA (-2.5),DAL,99.95
+2026-08-16T05:54:08.208807,NFL,Spread: PHI (-3.5),PHI,0.05
+2026-08-16T05:54:08.208809,NFL,Spread: PHI (-3.5),BAL,99.95
+2026-08-16T05:54:08.208813,NFL,Will the Washington Commanders win the 2027 NFL league championship?,Yes,1.05
+2026-08-16T05:54:08.208815,NFL,Will the Washington Commanders win the 2027 NFL league championship?,No,98.95
+2026-08-16T05:54:08.208819,NFL,Spread: NO (-2.5),NO,0.05
+2026-08-16T05:54:08.208821,NFL,Spread: NO (-2.5),JAX,99.95
+2026-08-16T05:54:08.208825,NFL,Will the Green Bay Packers win the 2027 NFL league championship?,Yes,3.25
+2026-08-16T05:54:08.208827,NFL,Will the Green Bay Packers win the 2027 NFL league championship?,No,96.75
+2026-08-16T05:54:08.504183,Premier League,Will Manchester United FC win on 2026-08-22?,Yes,69.5
+2026-08-16T05:54:08.504203,Premier League,Will Manchester United FC win on 2026-08-22?,No,30.5
+2026-08-16T05:54:08.504208,Premier League,Will Arsenal FC win on 2026-08-21?,Yes,84.5
+2026-08-16T05:54:08.504211,Premier League,Will Arsenal FC win on 2026-08-21?,No,15.5
+2026-08-16T05:54:08.504214,Premier League,Will Chelsea FC win on 2026-08-24?,Yes,47.5
+2026-08-16T05:54:08.504216,Premier League,Will Chelsea FC win on 2026-08-24?,No,52.5
+2026-08-16T05:54:08.504220,Premier League,Jeff Bezos Announced as New Liverpool Owner in 2026?,Yes,92.4
+2026-08-16T05:54:08.504222,Premier League,Jeff Bezos Announced as New Liverpool Owner in 2026?,No,7.6
+2026-08-16T05:54:08.504226,Premier League,Will Tottenham Hotspur FC win on 2026-08-22?,Yes,35.5
+2026-08-16T05:54:08.504228,Premier League,Will Tottenham Hotspur FC win on 2026-08-22?,No,64.5
+2026-08-16T05:54:08.749738,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-08-16T05:54:08.749759,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-08-16T05:54:08.749766,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,Yes,13.5
+2026-08-16T05:54:08.749769,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,No,86.5
+2026-08-16T05:54:08.749773,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,2.25
+2026-08-16T05:54:08.749780,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,97.75
+2026-08-16T05:54:08.749784,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,14.499999999999998
+2026-08-16T05:54:08.749787,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,85.5
+2026-08-16T05:54:08.749791,Champions League,Will Aston Villa win the 2026-27 UEFA Champions League Championship?,Yes,1.25
+2026-08-16T05:54:08.749793,Champions League,Will Aston Villa win the 2026-27 UEFA Champions League Championship?,No,98.75
+2026-08-16T05:54:08.992843,MLB,Will the Seattle Mariners win the 2026 World Series?,Yes,1.35
+2026-08-16T05:54:08.992879,MLB,Will the Seattle Mariners win the 2026 World Series?,No,98.65
+2026-08-16T05:54:08.992884,MLB,Boston Red Sox vs. Pittsburgh Pirates,Boston Red Sox,52.5
+2026-08-16T05:54:08.992886,MLB,Boston Red Sox vs. Pittsburgh Pirates,Pittsburgh Pirates,47.5
+2026-08-16T05:54:08.992890,MLB,Will the Boston Red Sox win the 2026 World Series?,Yes,5.7
+2026-08-16T05:54:08.992892,MLB,Will the Boston Red Sox win the 2026 World Series?,No,94.3
+2026-08-16T05:54:08.992896,MLB,Will the Baltimore Orioles win the 2026 World Series?,Yes,0.25
+2026-08-16T05:54:08.992898,MLB,Will the Baltimore Orioles win the 2026 World Series?,No,99.75
+2026-08-16T05:54:08.992902,MLB,Will the Atlanta Braves win the 2026 World Series?,Yes,7.049999999999999
+2026-08-16T05:54:08.992905,MLB,Will the Atlanta Braves win the 2026 World Series?,No,92.95

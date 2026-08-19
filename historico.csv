@@ -21599,3 +21599,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-08-19T10:31:44.105109,MLB,Seattle Mariners vs. Milwaukee Brewers: O/U 7.5,Under,54.50000000000001
 2026-08-19T10:31:44.105116,MLB,Atlanta Braves vs. Chicago White Sox,Atlanta Braves,53.0
 2026-08-19T10:31:44.105120,MLB,Atlanta Braves vs. Chicago White Sox,Chicago White Sox,47.0
+2026-08-19T11:27:38.438068,NBA,Will Minnesota Timberwolves win the 2027 NBA Finals?,Yes,3.65
+2026-08-19T11:27:38.438095,NBA,Will Minnesota Timberwolves win the 2027 NBA Finals?,No,96.35000000000001
+2026-08-19T11:27:38.438106,NBA,Will Chicago Bulls win the 2027 NBA Finals?,Yes,0.25
+2026-08-19T11:27:38.438111,NBA,Will Chicago Bulls win the 2027 NBA Finals?,No,99.75
+2026-08-19T11:27:38.438118,NBA,Will San Antonio Spurs win the 2027 NBA Finals?,Yes,20.5
+2026-08-19T11:27:38.438126,NBA,Will San Antonio Spurs win the 2027 NBA Finals?,No,79.5
+2026-08-19T11:27:38.438140,NBA,Will Brooklyn Nets win the 2027 NBA Finals?,Yes,0.15
+2026-08-19T11:27:38.438143,NBA,Will Brooklyn Nets win the 2027 NBA Finals?,No,99.85000000000001
+2026-08-19T11:27:38.438151,NBA,Will Philadelphia 76ers win the 2027 NBA Finals?,Yes,13.15
+2026-08-19T11:27:38.438154,NBA,Will Philadelphia 76ers win the 2027 NBA Finals?,No,86.85000000000001
+2026-08-19T11:27:38.594290,NFL,Will the Seattle Seahawks win the 2027 NFL league championship?,Yes,8.5
+2026-08-19T11:27:38.594308,NFL,Will the Seattle Seahawks win the 2027 NFL league championship?,No,91.5
+2026-08-19T11:27:38.594317,NFL,Will the Houston Texans win the 2027 NFL league championship?,Yes,3.95
+2026-08-19T11:27:38.594321,NFL,Will the Houston Texans win the 2027 NFL league championship?,No,96.05
+2026-08-19T11:27:38.594328,NFL,Will Baltimore Ravens win the 2027 NFL AFC Championship?,Yes,13.5
+2026-08-19T11:27:38.594332,NFL,Will Baltimore Ravens win the 2027 NFL AFC Championship?,No,86.5
+2026-08-19T11:27:38.594339,NFL,Will the Philadelphia Eagles win the 2027 NFL league championship?,Yes,4.6
+2026-08-19T11:27:38.594343,NFL,Will the Philadelphia Eagles win the 2027 NFL league championship?,No,95.39999999999999
+2026-08-19T11:27:38.594350,NFL,Will the Minnesota Vikings win the 2027 NFL league championship?,Yes,1.15
+2026-08-19T11:27:38.594355,NFL,Will the Minnesota Vikings win the 2027 NFL league championship?,No,98.85000000000001
+2026-08-19T11:27:38.741351,Premier League,Will Coventry City FC win on 2026-08-21?,Yes,5.5
+2026-08-19T11:27:38.741370,Premier League,Will Coventry City FC win on 2026-08-21?,No,94.5
+2026-08-19T11:27:38.741378,Premier League,Will Newcastle United FC vs. Liverpool FC end in a draw?,Yes,25.5
+2026-08-19T11:27:38.741382,Premier League,Will Newcastle United FC vs. Liverpool FC end in a draw?,No,74.5
+2026-08-19T11:27:38.741389,Premier League,Will Tottenham Hotspur FC win on 2026-08-22?,Yes,35.5
+2026-08-19T11:27:38.741392,Premier League,Will Tottenham Hotspur FC win on 2026-08-22?,No,64.5
+2026-08-19T11:27:38.741398,Premier League,Will Newcastle United FC win on 2026-08-23?,Yes,24.5
+2026-08-19T11:27:38.741401,Premier League,Will Newcastle United FC win on 2026-08-23?,No,75.5
+2026-08-19T11:27:38.741407,Premier League,Newcastle United FC vs. Liverpool FC: O/U 3.5,Over,43.0
+2026-08-19T11:27:38.741411,Premier League,Newcastle United FC vs. Liverpool FC: O/U 3.5,Under,56.99999999999999
+2026-08-19T11:27:38.884113,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-08-19T11:27:38.884133,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-08-19T11:27:38.884143,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,Yes,2.25
+2026-08-19T11:27:38.884148,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,No,97.75
+2026-08-19T11:27:38.884155,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,17.5
+2026-08-19T11:27:38.884159,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,82.5
+2026-08-19T11:27:38.884165,Champions League,Will Arsenal win the 2026-27 UEFA Champions League Championship?,Yes,14.499999999999998
+2026-08-19T11:27:38.884170,Champions League,Will Arsenal win the 2026-27 UEFA Champions League Championship?,No,85.5
+2026-08-19T11:27:38.884176,Champions League,Will Lens win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-08-19T11:27:38.884180,Champions League,Will Lens win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-08-19T11:27:39.032535,MLB,San Francisco Giants vs. Cleveland Guardians,San Francisco Giants,37.5
+2026-08-19T11:27:39.032554,MLB,San Francisco Giants vs. Cleveland Guardians,Cleveland Guardians,62.5
+2026-08-19T11:27:39.032563,MLB,Arizona Diamondbacks vs. Boston Red Sox,Arizona Diamondbacks,41.5
+2026-08-19T11:27:39.032567,MLB,Arizona Diamondbacks vs. Boston Red Sox,Boston Red Sox,58.5
+2026-08-19T11:27:39.032574,MLB,San Diego Padres vs. New York Mets,San Diego Padres,55.50000000000001
+2026-08-19T11:27:39.032578,MLB,San Diego Padres vs. New York Mets,New York Mets,44.5
+2026-08-19T11:27:39.032584,MLB,Seattle Mariners vs. Milwaukee Brewers: O/U 7.5,Over,45.5
+2026-08-19T11:27:39.032587,MLB,Seattle Mariners vs. Milwaukee Brewers: O/U 7.5,Under,54.50000000000001
+2026-08-19T11:27:39.032594,MLB,Atlanta Braves vs. Chicago White Sox,Atlanta Braves,53.0
+2026-08-19T11:27:39.032597,MLB,Atlanta Braves vs. Chicago White Sox,Chicago White Sox,47.0

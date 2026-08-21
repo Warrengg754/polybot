@@ -25099,3 +25099,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-08-21T22:27:47.759467,MLB,Toronto Blue Jays vs. New York Yankees,New York Yankees,64.5
 2026-08-21T22:27:47.759474,MLB,Atlanta Braves vs. Milwaukee Brewers: O/U 6.5,Over,4.5
 2026-08-21T22:27:47.759477,MLB,Atlanta Braves vs. Milwaukee Brewers: O/U 6.5,Under,95.5
+2026-08-21T22:53:26.640300,NBA,Will Denver Nuggets win the 2027 NBA Finals?,Yes,3.25
+2026-08-21T22:53:26.640325,NBA,Will Denver Nuggets win the 2027 NBA Finals?,No,96.75
+2026-08-21T22:53:26.640335,NBA,Will Memphis Grizzlies win the 2027 NBA Finals?,Yes,0.25
+2026-08-21T22:53:26.640339,NBA,Will Memphis Grizzlies win the 2027 NBA Finals?,No,99.75
+2026-08-21T22:53:26.640349,NBA,Will New Orleans Pelicans win the 2027 NBA Finals?,Yes,0.15
+2026-08-21T22:53:26.640354,NBA,Will New Orleans Pelicans win the 2027 NBA Finals?,No,99.85000000000001
+2026-08-21T22:53:26.640368,NBA,Will Chicago Bulls win the 2027 NBA Finals?,Yes,0.25
+2026-08-21T22:53:26.640372,NBA,Will Chicago Bulls win the 2027 NBA Finals?,No,99.75
+2026-08-21T22:53:26.640379,NBA,Will Brooklyn Nets win the 2027 NBA Finals?,Yes,0.15
+2026-08-21T22:53:26.640382,NBA,Will Brooklyn Nets win the 2027 NBA Finals?,No,99.85000000000001
+2026-08-21T22:53:26.821173,NFL,Spread: CAR (-1.5),CAR,50.5
+2026-08-21T22:53:26.821184,NFL,Spread: CAR (-1.5),JAX,49.5
+2026-08-21T22:53:26.821192,NFL,Jets vs. Steelers,Jets,43.5
+2026-08-21T22:53:26.821195,NFL,Jets vs. Steelers,Steelers,56.49999999999999
+2026-08-21T22:53:26.821202,NFL,Panthers vs. Jaguars,Panthers,55.50000000000001
+2026-08-21T22:53:26.821205,NFL,Panthers vs. Jaguars,Jaguars,44.5
+2026-08-21T22:53:26.821212,NFL,Will the Los Angeles Chargers win the 2027 NFL league championship?,Yes,4.05
+2026-08-21T22:53:26.821216,NFL,Will the Los Angeles Chargers win the 2027 NFL league championship?,No,95.95
+2026-08-21T22:53:26.821222,NFL,Will the New England Patriots win the 2027 NFL league championship?,Yes,3.55
+2026-08-21T22:53:26.821225,NFL,Will the New England Patriots win the 2027 NFL league championship?,No,96.45
+2026-08-21T22:53:27.024568,Premier League,Will Brentford FC win on 2026-08-22?,Yes,41.5
+2026-08-21T22:53:27.024582,Premier League,Will Brentford FC win on 2026-08-22?,No,58.5
+2026-08-21T22:53:27.024590,Premier League,Will Sunderland AFC win on 2026-08-22?,Yes,36.5
+2026-08-21T22:53:27.024593,Premier League,Will Sunderland AFC win on 2026-08-22?,No,63.5
+2026-08-21T22:53:27.024599,Premier League,Will Tottenham Hotspur FC win on 2026-08-22?,Yes,33.5
+2026-08-21T22:53:27.024603,Premier League,Will Tottenham Hotspur FC win on 2026-08-22?,No,66.5
+2026-08-21T22:53:27.024609,Premier League,Spread: Manchester United FC (-1.5),Manchester United FC,48.5
+2026-08-21T22:53:27.024612,Premier League,Spread: Manchester United FC (-1.5),Hull City AFC,51.5
+2026-08-21T22:53:27.024619,Premier League,Will Crystal Palace FC win on 2026-08-22?,Yes,29.5
+2026-08-21T22:53:27.024622,Premier League,Will Crystal Palace FC win on 2026-08-22?,No,70.5
+2026-08-21T22:53:27.196136,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-08-21T22:53:27.196150,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-08-21T22:53:27.196160,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,Yes,0.35000000000000003
+2026-08-21T22:53:27.196166,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,No,99.65
+2026-08-21T22:53:27.196173,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,Yes,2.3
+2026-08-21T22:53:27.196176,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,No,97.7
+2026-08-21T22:53:27.196183,Champions League,Will Galatasaray win the 2026-27 UEFA Champions League Championship?,Yes,0.35000000000000003
+2026-08-21T22:53:27.196187,Champions League,Will Galatasaray win the 2026-27 UEFA Champions League Championship?,No,99.65
+2026-08-21T22:53:27.196194,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,Yes,12.5
+2026-08-21T22:53:27.196198,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,No,87.5
+2026-08-21T22:53:27.394912,MLB,Toronto Blue Jays vs. New York Yankees: O/U 7.5,Over,42.5
+2026-08-21T22:53:27.394925,MLB,Toronto Blue Jays vs. New York Yankees: O/U 7.5,Under,57.49999999999999
+2026-08-21T22:53:27.394934,MLB,Detroit Tigers vs. Kansas City Royals,Detroit Tigers,48.5
+2026-08-21T22:53:27.394938,MLB,Detroit Tigers vs. Kansas City Royals,Kansas City Royals,51.5
+2026-08-21T22:53:27.394945,MLB,Toronto Blue Jays vs. New York Yankees,Toronto Blue Jays,35.5
+2026-08-21T22:53:27.394948,MLB,Toronto Blue Jays vs. New York Yankees,New York Yankees,64.5
+2026-08-21T22:53:27.394955,MLB,Detroit Tigers vs. Kansas City Royals: O/U 7.5,Over,55.50000000000001
+2026-08-21T22:53:27.394959,MLB,Detroit Tigers vs. Kansas City Royals: O/U 7.5,Under,44.5
+2026-08-21T22:53:27.394983,MLB,Washington Nationals vs. Miami Marlins,Washington Nationals,41.5
+2026-08-21T22:53:27.394987,MLB,Washington Nationals vs. Miami Marlins,Miami Marlins,58.5

@@ -28349,3 +28349,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-08-23T20:26:43.169179,MLB,St. Louis Cardinals vs. Philadelphia Phillies,Philadelphia Phillies,99.95
 2026-08-23T20:26:43.169184,MLB,Athletics vs. Houston Astros,Athletics,36.15
 2026-08-23T20:26:43.169186,MLB,Athletics vs. Houston Astros,Houston Astros,63.849999999999994
+2026-08-23T20:51:28.484310,NBA,Will Cleveland Cavaliers win the 2027 NBA Finals?,Yes,2.35
+2026-08-23T20:51:28.484335,NBA,Will Cleveland Cavaliers win the 2027 NBA Finals?,No,97.65
+2026-08-23T20:51:28.484345,NBA,Will Orlando Magic win the 2027 NBA Finals?,Yes,0.8500000000000001
+2026-08-23T20:51:28.484350,NBA,Will Orlando Magic win the 2027 NBA Finals?,No,99.15
+2026-08-23T20:51:28.484359,NBA,Will Golden State Warriors win the 2027 NBA Finals?,Yes,1.05
+2026-08-23T20:51:28.484364,NBA,Will Golden State Warriors win the 2027 NBA Finals?,No,98.95
+2026-08-23T20:51:28.484378,NBA,Will Los Angeles Lakers win the 2027 NBA Finals?,Yes,2.0500000000000003
+2026-08-23T20:51:28.484383,NBA,Will Los Angeles Lakers win the 2027 NBA Finals?,No,97.95
+2026-08-23T20:51:28.484390,NBA,Will the Milwaukee Bucks make the 2027 NBA Playoffs?,Yes,11.5
+2026-08-23T20:51:28.484395,NBA,Will the Milwaukee Bucks make the 2027 NBA Playoffs?,No,88.5
+2026-08-23T20:51:28.718963,NFL,Will Shedeur Sanders be the Browns' Week 1 starting QB?,Yes,38.0
+2026-08-23T20:51:28.718979,NFL,Will Shedeur Sanders be the Browns' Week 1 starting QB?,No,62.0
+2026-08-23T20:51:28.718987,NFL,Seahawks vs. Titans,Seahawks,38.5
+2026-08-23T20:51:28.718991,NFL,Seahawks vs. Titans,Titans,61.5
+2026-08-23T20:51:28.718998,NFL,Will the Las Vegas Raiders win the 2027 NFL league championship?,Yes,0.44999999999999996
+2026-08-23T20:51:28.719003,NFL,Will the Las Vegas Raiders win the 2027 NFL league championship?,No,99.55000000000001
+2026-08-23T20:51:28.719011,NFL,Will Deshaun Watson be the Browns' Week 1 starting QB?,Yes,52.5
+2026-08-23T20:51:28.719014,NFL,Will Deshaun Watson be the Browns' Week 1 starting QB?,No,47.5
+2026-08-23T20:51:28.719020,NFL,Will the Dallas Cowboys win the 2027 NFL league championship?,Yes,5.45
+2026-08-23T20:51:28.719024,NFL,Will the Dallas Cowboys win the 2027 NFL league championship?,No,94.55
+2026-08-23T20:51:28.966512,Premier League,Will Chelsea FC win on 2026-08-24?,Yes,52.5
+2026-08-23T20:51:28.966530,Premier League,Will Chelsea FC win on 2026-08-24?,No,47.5
+2026-08-23T20:51:28.966537,Premier League,Newcastle United FC vs. Liverpool FC: O/U 10.5 Total Corners,Over,0.44999999999999996
+2026-08-23T20:51:28.966542,Premier League,Newcastle United FC vs. Liverpool FC: O/U 10.5 Total Corners,Under,99.55000000000001
+2026-08-23T20:51:28.966550,Premier League,Will Fulham FC vs. Chelsea FC end in a draw?,Yes,24.5
+2026-08-23T20:51:28.966553,Premier League,Will Fulham FC vs. Chelsea FC end in a draw?,No,75.5
+2026-08-23T20:51:28.966560,Premier League,Will Arsenal FC win on 2026-08-31?,Yes,64.5
+2026-08-23T20:51:28.966563,Premier League,Will Arsenal FC win on 2026-08-31?,No,35.5
+2026-08-23T20:51:28.966569,Premier League,Brighton & Hove Albion FC vs. Aston Villa FC: O/U 10.5 Total Corners,Over,0.5
+2026-08-23T20:51:28.966573,Premier League,Brighton & Hove Albion FC vs. Aston Villa FC: O/U 10.5 Total Corners,Under,99.5
+2026-08-23T20:51:29.208504,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-08-23T20:51:29.208523,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-08-23T20:51:29.208533,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,Yes,0.44999999999999996
+2026-08-23T20:51:29.208538,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,No,99.55000000000001
+2026-08-23T20:51:29.208545,Champions League,Will Real Betis win the 2026-27 UEFA Champions League Championship?,Yes,0.35000000000000003
+2026-08-23T20:51:29.208550,Champions League,Will Real Betis win the 2026-27 UEFA Champions League Championship?,No,99.65
+2026-08-23T20:51:29.208557,Champions League,Will VfB Stuttgart win the 2026-27 UEFA Champions League Championship?,Yes,0.25
+2026-08-23T20:51:29.208561,Champions League,Will VfB Stuttgart win the 2026-27 UEFA Champions League Championship?,No,99.75
+2026-08-23T20:51:29.208568,Champions League,Will Villarreal win the 2026-27 UEFA Champions League Championship?,Yes,0.35000000000000003
+2026-08-23T20:51:29.208572,Champions League,Will Villarreal win the 2026-27 UEFA Champions League Championship?,No,99.65
+2026-08-23T20:51:29.420092,MLB,Chicago Cubs vs. Seattle Mariners,Chicago Cubs,36.5
+2026-08-23T20:51:29.420110,MLB,Chicago Cubs vs. Seattle Mariners,Seattle Mariners,63.5
+2026-08-23T20:51:29.420118,MLB,New York Mets vs. Chicago White Sox,New York Mets,0.05
+2026-08-23T20:51:29.420122,MLB,New York Mets vs. Chicago White Sox,Chicago White Sox,99.95
+2026-08-23T20:51:29.420129,MLB,Athletics vs. Houston Astros,Athletics,61.75000000000001
+2026-08-23T20:51:29.420133,MLB,Athletics vs. Houston Astros,Houston Astros,38.25
+2026-08-23T20:51:29.420139,MLB,Los Angeles Angels vs. Texas Rangers,Los Angeles Angels,1.6
+2026-08-23T20:51:29.420143,MLB,Los Angeles Angels vs. Texas Rangers,Texas Rangers,98.4
+2026-08-23T20:51:29.420149,MLB,Minnesota Twins vs. San Diego Padres,Minnesota Twins,28.499999999999996
+2026-08-23T20:51:29.420153,MLB,Minnesota Twins vs. San Diego Padres,San Diego Padres,71.5

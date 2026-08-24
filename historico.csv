@@ -28699,3 +28699,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-08-23T23:47:28.356694,MLB,Atlanta Braves vs. Milwaukee Brewers: O/U 8.5,Under,49.0
 2026-08-23T23:47:28.356698,MLB,Spread: Atlanta Braves (-1.5),Atlanta Braves,31.5
 2026-08-23T23:47:28.356701,MLB,Spread: Atlanta Braves (-1.5),Milwaukee Brewers,68.5
+2026-08-24T01:27:36.832369,NBA,Will Cleveland Cavaliers win the 2027 NBA Finals?,Yes,2.35
+2026-08-24T01:27:36.832395,NBA,Will Cleveland Cavaliers win the 2027 NBA Finals?,No,97.65
+2026-08-24T01:27:36.832404,NBA,Will Orlando Magic win the 2027 NBA Finals?,Yes,0.8500000000000001
+2026-08-24T01:27:36.832408,NBA,Will Orlando Magic win the 2027 NBA Finals?,No,99.15
+2026-08-24T01:27:36.832415,NBA,Will Los Angeles Lakers win the 2027 NBA Finals?,Yes,2.0500000000000003
+2026-08-24T01:27:36.832421,NBA,Will Los Angeles Lakers win the 2027 NBA Finals?,No,97.95
+2026-08-24T01:27:36.832433,NBA,Will the Milwaukee Bucks make the 2027 NBA Playoffs?,Yes,11.5
+2026-08-24T01:27:36.832437,NBA,Will the Milwaukee Bucks make the 2027 NBA Playoffs?,No,88.5
+2026-08-24T01:27:36.832458,NBA,Will Chicago Bulls win the 2027 NBA Finals?,Yes,0.25
+2026-08-24T01:27:36.832463,NBA,Will Chicago Bulls win the 2027 NBA Finals?,No,99.75
+2026-08-24T01:27:37.178351,NFL,Seahawks vs. Titans,Seahawks,74.0
+2026-08-24T01:27:37.178370,NFL,Seahawks vs. Titans,Titans,26.0
+2026-08-24T01:27:37.178377,NFL,Will Shedeur Sanders be the Browns' Week 1 starting QB?,Yes,28.499999999999996
+2026-08-24T01:27:37.178382,NFL,Will Shedeur Sanders be the Browns' Week 1 starting QB?,No,71.5
+2026-08-24T01:27:37.178388,NFL,SEA vs. TEN: O/U 37.5,Over,69.0
+2026-08-24T01:27:37.178391,NFL,SEA vs. TEN: O/U 37.5,Under,31.0
+2026-08-24T01:27:37.178397,NFL,Spread: TEN (-3.5),TEN,10.0
+2026-08-24T01:27:37.178399,NFL,Spread: TEN (-3.5),SEA,90.0
+2026-08-24T01:27:37.178404,NFL,Will the Las Vegas Raiders win the 2027 NFL league championship?,Yes,0.44999999999999996
+2026-08-24T01:27:37.178408,NFL,Will the Las Vegas Raiders win the 2027 NFL league championship?,No,99.55000000000001
+2026-08-24T01:27:37.372282,Premier League,Will Chelsea FC win on 2026-08-24?,Yes,52.5
+2026-08-24T01:27:37.372304,Premier League,Will Chelsea FC win on 2026-08-24?,No,47.5
+2026-08-24T01:27:37.372311,Premier League,Will Fulham FC vs. Chelsea FC end in a draw?,Yes,24.5
+2026-08-24T01:27:37.372314,Premier League,Will Fulham FC vs. Chelsea FC end in a draw?,No,75.5
+2026-08-24T01:27:37.372320,Premier League,Will Arsenal FC win on 2026-08-31?,Yes,64.5
+2026-08-24T01:27:37.372323,Premier League,Will Arsenal FC win on 2026-08-31?,No,35.5
+2026-08-24T01:27:37.372328,Premier League,Will Fulham FC win on 2026-08-24?,Yes,23.5
+2026-08-24T01:27:37.372331,Premier League,Will Fulham FC win on 2026-08-24?,No,76.5
+2026-08-24T01:27:37.372336,Premier League,Exact Score: Fulham FC 0 - 3 Chelsea FC?,Yes,4.8500000000000005
+2026-08-24T01:27:37.372341,Premier League,Exact Score: Fulham FC 0 - 3 Chelsea FC?,No,95.15
+2026-08-24T01:27:37.561914,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-08-24T01:27:37.561935,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-08-24T01:27:37.561944,Champions League,Will Real Betis win the 2026-27 UEFA Champions League Championship?,Yes,0.35000000000000003
+2026-08-24T01:27:37.561949,Champions League,Will Real Betis win the 2026-27 UEFA Champions League Championship?,No,99.65
+2026-08-24T01:27:37.561955,Champions League,Will VfB Stuttgart win the 2026-27 UEFA Champions League Championship?,Yes,0.25
+2026-08-24T01:27:37.561960,Champions League,Will VfB Stuttgart win the 2026-27 UEFA Champions League Championship?,No,99.75
+2026-08-24T01:27:37.561966,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,Yes,0.44999999999999996
+2026-08-24T01:27:37.561970,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,No,99.55000000000001
+2026-08-24T01:27:37.561976,Champions League,Will Villarreal win the 2026-27 UEFA Champions League Championship?,Yes,0.35000000000000003
+2026-08-24T01:27:37.561980,Champions League,Will Villarreal win the 2026-27 UEFA Champions League Championship?,No,99.65
+2026-08-24T01:27:37.736031,MLB,Atlanta Braves vs. Milwaukee Brewers,Atlanta Braves,86.0
+2026-08-24T01:27:37.736051,MLB,Atlanta Braves vs. Milwaukee Brewers,Milwaukee Brewers,14.000000000000002
+2026-08-24T01:27:37.736060,MLB,Atlanta Braves vs. Milwaukee Brewers: O/U 7.5,Over,24.5
+2026-08-24T01:27:37.736064,MLB,Atlanta Braves vs. Milwaukee Brewers: O/U 7.5,Under,75.5
+2026-08-24T01:27:37.736069,MLB,Atlanta Braves vs. Milwaukee Brewers: O/U 9.5,Over,8.0
+2026-08-24T01:27:37.736072,MLB,Atlanta Braves vs. Milwaukee Brewers: O/U 9.5,Under,92.0
+2026-08-24T01:27:37.736077,MLB,Atlanta Braves vs. Milwaukee Brewers: O/U 8.5,Over,13.0
+2026-08-24T01:27:37.736080,MLB,Atlanta Braves vs. Milwaukee Brewers: O/U 8.5,Under,87.0
+2026-08-24T01:27:37.736086,MLB,Atlanta Braves vs. Milwaukee Brewers: O/U 6.5,Over,51.0
+2026-08-24T01:27:37.736089,MLB,Atlanta Braves vs. Milwaukee Brewers: O/U 6.5,Under,49.0

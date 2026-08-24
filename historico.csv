@@ -28899,3 +28899,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-08-24T04:53:08.129949,MLB,Will the Milwaukee Brewers win the 2026 World Series?,No,88.25
 2026-08-24T04:53:08.129955,MLB,Will the Houston Astros win the 2026 World Series?,Yes,1.95
 2026-08-24T04:53:08.129958,MLB,Will the Houston Astros win the 2026 World Series?,No,98.05
+2026-08-24T05:40:05.922624,NBA,Will Cleveland Cavaliers win the 2027 NBA Finals?,Yes,2.35
+2026-08-24T05:40:05.922644,NBA,Will Cleveland Cavaliers win the 2027 NBA Finals?,No,97.65
+2026-08-24T05:40:05.922655,NBA,Will Orlando Magic win the 2027 NBA Finals?,Yes,0.8500000000000001
+2026-08-24T05:40:05.922660,NBA,Will Orlando Magic win the 2027 NBA Finals?,No,99.15
+2026-08-24T05:40:05.922668,NBA,Will Oklahoma City Thunder win the 2027 NBA Finals?,Yes,21.5
+2026-08-24T05:40:05.922674,NBA,Will Oklahoma City Thunder win the 2027 NBA Finals?,No,78.5
+2026-08-24T05:40:05.922688,NBA,Will the Milwaukee Bucks make the 2027 NBA Playoffs?,Yes,11.5
+2026-08-24T05:40:05.922692,NBA,Will the Milwaukee Bucks make the 2027 NBA Playoffs?,No,88.5
+2026-08-24T05:40:05.922699,NBA,Will Miami Heat win the 2027 NBA Finals?,Yes,3.15
+2026-08-24T05:40:05.922709,NBA,Will Miami Heat win the 2027 NBA Finals?,No,96.85000000000001
+2026-08-24T05:40:06.177812,NFL,Will Shedeur Sanders be the Browns' Week 1 starting QB?,Yes,24.0
+2026-08-24T05:40:06.177826,NFL,Will Shedeur Sanders be the Browns' Week 1 starting QB?,No,76.0
+2026-08-24T05:40:06.177835,NFL,Will Deshaun Watson be the Browns' Week 1 starting QB?,Yes,71.0
+2026-08-24T05:40:06.177838,NFL,Will Deshaun Watson be the Browns' Week 1 starting QB?,No,28.999999999999996
+2026-08-24T05:40:06.177846,NFL,Will the Las Vegas Raiders win the 2027 NFL league championship?,Yes,0.44999999999999996
+2026-08-24T05:40:06.177851,NFL,Will the Las Vegas Raiders win the 2027 NFL league championship?,No,99.55000000000001
+2026-08-24T05:40:06.177858,NFL,Will the Seattle Seahawks win the 2027 NFL league championship?,Yes,7.5
+2026-08-24T05:40:06.177862,NFL,Will the Seattle Seahawks win the 2027 NFL league championship?,No,92.5
+2026-08-24T05:40:06.177869,NFL,Will the Philadelphia Eagles win the 2027 NFL league championship?,Yes,4.55
+2026-08-24T05:40:06.177872,NFL,Will the Philadelphia Eagles win the 2027 NFL league championship?,No,95.45
+2026-08-24T05:40:06.444511,Premier League,Will Chelsea FC win on 2026-08-24?,Yes,51.5
+2026-08-24T05:40:06.444527,Premier League,Will Chelsea FC win on 2026-08-24?,No,48.5
+2026-08-24T05:40:06.444535,Premier League,Will Fulham FC vs. Chelsea FC end in a draw?,Yes,24.5
+2026-08-24T05:40:06.444539,Premier League,Will Fulham FC vs. Chelsea FC end in a draw?,No,75.5
+2026-08-24T05:40:06.444545,Premier League,Will Fulham FC win on 2026-08-24?,Yes,23.5
+2026-08-24T05:40:06.444548,Premier League,Will Fulham FC win on 2026-08-24?,No,76.5
+2026-08-24T05:40:06.444554,Premier League,Fulham FC vs. Chelsea FC: O/U 2.5,Over,57.49999999999999
+2026-08-24T05:40:06.444558,Premier League,Fulham FC vs. Chelsea FC: O/U 2.5,Under,42.5
+2026-08-24T05:40:06.444565,Premier League,Will Arsenal FC win on 2026-08-31?,Yes,64.5
+2026-08-24T05:40:06.444568,Premier League,Will Arsenal FC win on 2026-08-31?,No,35.5
+2026-08-24T05:40:06.705804,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-08-24T05:40:06.705818,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-08-24T05:40:06.705828,Champions League,Will Napoli win the 2026-27 UEFA Champions League Championship?,Yes,0.75
+2026-08-24T05:40:06.705833,Champions League,Will Napoli win the 2026-27 UEFA Champions League Championship?,No,99.25
+2026-08-24T05:40:06.705841,Champions League,Will Roma win the 2026-27 UEFA Champions League Championship?,Yes,0.44999999999999996
+2026-08-24T05:40:06.705845,Champions League,Will Roma win the 2026-27 UEFA Champions League Championship?,No,99.55000000000001
+2026-08-24T05:40:06.705853,Champions League,Will Arsenal win the 2026-27 UEFA Champions League Championship?,Yes,15.5
+2026-08-24T05:40:06.705857,Champions League,Will Arsenal win the 2026-27 UEFA Champions League Championship?,No,84.5
+2026-08-24T05:40:06.705863,Champions League,Will Bayern Munich win the 2026-27 UEFA Champions League Championship?,Yes,13.5
+2026-08-24T05:40:06.705867,Champions League,Will Bayern Munich win the 2026-27 UEFA Champions League Championship?,No,86.5
+2026-08-24T05:40:06.984048,MLB,Will the Toronto Blue Jays win the 2026 World Series?,Yes,1.6500000000000001
+2026-08-24T05:40:06.984061,MLB,Will the Toronto Blue Jays win the 2026 World Series?,No,98.35000000000001
+2026-08-24T05:40:06.984070,MLB,Will the Philadelphia Phillies win the 2026 World Series?,Yes,6.2
+2026-08-24T05:40:06.984073,MLB,Will the Philadelphia Phillies win the 2026 World Series?,No,93.8
+2026-08-24T05:40:06.984080,MLB,Will the Milwaukee Brewers win the 2026 World Series?,Yes,11.75
+2026-08-24T05:40:06.984083,MLB,Will the Milwaukee Brewers win the 2026 World Series?,No,88.25
+2026-08-24T05:40:06.984090,MLB,Will the Houston Astros win the 2026 World Series?,Yes,1.95
+2026-08-24T05:40:06.984093,MLB,Will the Houston Astros win the 2026 World Series?,No,98.05
+2026-08-24T05:40:06.984099,MLB,Will the Texas Rangers win the 2026 World Series?,Yes,1.4000000000000001
+2026-08-24T05:40:06.984103,MLB,Will the Texas Rangers win the 2026 World Series?,No,98.6

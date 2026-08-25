@@ -30149,3 +30149,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-08-25T04:41:41.596636,MLB,Pittsburgh Pirates vs. San Diego Padres: O/U 7.5,Under,85.0
 2026-08-25T04:41:41.596642,MLB,Spread: Pittsburgh Pirates (-1.5),Pittsburgh Pirates,13.5
 2026-08-25T04:41:41.596646,MLB,Spread: Pittsburgh Pirates (-1.5),San Diego Padres,86.5
+2026-08-25T05:34:06.114709,NBA,Will Portland Trail Blazers win the 2027 NBA Finals?,Yes,0.95
+2026-08-25T05:34:06.114732,NBA,Will Portland Trail Blazers win the 2027 NBA Finals?,No,99.05000000000001
+2026-08-25T05:34:06.114743,NBA,Will Denver Nuggets win the 2027 NBA Finals?,Yes,3.25
+2026-08-25T05:34:06.114748,NBA,Will Denver Nuggets win the 2027 NBA Finals?,No,96.75
+2026-08-25T05:34:06.114756,NBA,Will Brooklyn Nets win the 2027 NBA Finals?,Yes,0.15
+2026-08-25T05:34:06.114763,NBA,Will Brooklyn Nets win the 2027 NBA Finals?,No,99.85000000000001
+2026-08-25T05:34:06.114777,NBA,Will Chicago Bulls win the 2027 NBA Finals?,Yes,0.25
+2026-08-25T05:34:06.114781,NBA,Will Chicago Bulls win the 2027 NBA Finals?,No,99.75
+2026-08-25T05:34:06.114788,NBA,Will Los Angeles Clippers win the 2027 NBA Finals?,Yes,0.25
+2026-08-25T05:34:06.114792,NBA,Will Los Angeles Clippers win the 2027 NBA Finals?,No,99.75
+2026-08-25T05:34:06.263159,NFL,Saints vs. Cowboys,Saints,45.0
+2026-08-25T05:34:06.263170,NFL,Saints vs. Cowboys,Cowboys,55.00000000000001
+2026-08-25T05:34:06.263179,NFL,Will the Dallas Cowboys win the 2027 NFL league championship?,Yes,5.1499999999999995
+2026-08-25T05:34:06.263184,NFL,Will the Dallas Cowboys win the 2027 NFL league championship?,No,94.85
+2026-08-25T05:34:06.263191,NFL,Will the Houston Texans win the 2027 NFL league championship?,Yes,4.75
+2026-08-25T05:34:06.263194,NFL,Will the Houston Texans win the 2027 NFL league championship?,No,95.25
+2026-08-25T05:34:06.263201,NFL,Will the Atlanta Falcons win the 2027 NFL league championship?,Yes,0.44999999999999996
+2026-08-25T05:34:06.263206,NFL,Will the Atlanta Falcons win the 2027 NFL league championship?,No,99.55000000000001
+2026-08-25T05:34:06.263213,NFL,Will the Washington Commanders win the 2027 NFL league championship?,Yes,1.05
+2026-08-25T05:34:06.263216,NFL,Will the Washington Commanders win the 2027 NFL league championship?,No,98.95
+2026-08-25T05:34:06.464359,Premier League,Will Brentford FC win on 2026-08-30?,Yes,34.5
+2026-08-25T05:34:06.464377,Premier League,Will Brentford FC win on 2026-08-30?,No,65.5
+2026-08-25T05:34:06.464385,Premier League,Will Arsenal FC win on 2026-08-31?,Yes,64.5
+2026-08-25T05:34:06.464389,Premier League,Will Arsenal FC win on 2026-08-31?,No,35.5
+2026-08-25T05:34:06.464395,Premier League,Will Manchester City FC win on 2026-08-28?,Yes,60.5
+2026-08-25T05:34:06.464398,Premier League,Will Manchester City FC win on 2026-08-28?,No,39.5
+2026-08-25T05:34:06.464404,Premier League,Will Hull City AFC win on 2026-08-29?,Yes,21.5
+2026-08-25T05:34:06.464407,Premier League,Will Hull City AFC win on 2026-08-29?,No,78.5
+2026-08-25T05:34:06.464413,Premier League,Spread: Arsenal FC (-1.5),Arsenal FC,37.0
+2026-08-25T05:34:06.464417,Premier League,Spread: Arsenal FC (-1.5),Aston Villa FC,63.0
+2026-08-25T05:34:06.605957,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-08-25T05:34:06.605969,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-08-25T05:34:06.605999,Champions League,Will Lille win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-08-25T05:34:06.606004,Champions League,Will Lille win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-08-25T05:34:06.606011,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,Yes,0.35000000000000003
+2026-08-25T05:34:06.606015,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,No,99.65
+2026-08-25T05:34:06.606022,Champions League,Will Manchester United win the 2026-27 UEFA Champions League Championship?,Yes,2.9499999999999997
+2026-08-25T05:34:06.606026,Champions League,Will Manchester United win the 2026-27 UEFA Champions League Championship?,No,97.05
+2026-08-25T05:34:06.606033,Champions League,Will Sporting CP win the 2026-27 UEFA Champions League Championship?,Yes,0.65
+2026-08-25T05:34:06.606037,Champions League,Will Sporting CP win the 2026-27 UEFA Champions League Championship?,No,99.35000000000001
+2026-08-25T05:34:06.757219,MLB,Pittsburgh Pirates vs. San Diego Padres,Pittsburgh Pirates,45.5
+2026-08-25T05:34:06.757238,MLB,Pittsburgh Pirates vs. San Diego Padres,San Diego Padres,54.50000000000001
+2026-08-25T05:34:06.757248,MLB,Pittsburgh Pirates vs. San Diego Padres: O/U 7.5,Over,20.5
+2026-08-25T05:34:06.757252,MLB,Pittsburgh Pirates vs. San Diego Padres: O/U 7.5,Under,79.5
+2026-08-25T05:34:06.757259,MLB,Spread: Pittsburgh Pirates (-1.5),Pittsburgh Pirates,41.5
+2026-08-25T05:34:06.757262,MLB,Spread: Pittsburgh Pirates (-1.5),San Diego Padres,58.5
+2026-08-25T05:34:06.757268,MLB,Will the Toronto Blue Jays win the 2026 World Series?,Yes,1.6500000000000001
+2026-08-25T05:34:06.757273,MLB,Will the Toronto Blue Jays win the 2026 World Series?,No,98.35000000000001
+2026-08-25T05:34:06.757279,MLB,Pittsburgh Pirates vs. San Diego Padres: O/U 6.5,Over,45.0
+2026-08-25T05:34:06.757283,MLB,Pittsburgh Pirates vs. San Diego Padres: O/U 6.5,Under,55.00000000000001

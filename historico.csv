@@ -32249,3 +32249,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-08-28T18:20:55.498295,MLB,Cincinnati Reds vs. Chicago Cubs,Chicago Cubs,64.5
 2026-08-28T18:20:55.498301,MLB,Spread: Chicago Cubs (-1.5),Chicago Cubs,47.5
 2026-08-28T18:20:55.498304,MLB,Spread: Chicago Cubs (-1.5),Cincinnati Reds,52.5
+2026-08-29T01:50:10.461427,NBA,Will Cleveland Cavaliers win the 2027 NBA Finals?,Yes,1.8499999999999999
+2026-08-29T01:50:10.461452,NBA,Will Cleveland Cavaliers win the 2027 NBA Finals?,No,98.15
+2026-08-29T01:50:10.461463,NBA,Will Chicago Bulls win the 2027 NBA Finals?,Yes,0.25
+2026-08-29T01:50:10.461467,NBA,Will Chicago Bulls win the 2027 NBA Finals?,No,99.75
+2026-08-29T01:50:10.461475,NBA,Will Brooklyn Nets win the 2027 NBA Finals?,Yes,0.15
+2026-08-29T01:50:10.461483,NBA,Will Brooklyn Nets win the 2027 NBA Finals?,No,99.85000000000001
+2026-08-29T01:50:10.461496,NBA,Will New Orleans Pelicans win the 2027 NBA Finals?,Yes,0.15
+2026-08-29T01:50:10.461500,NBA,Will New Orleans Pelicans win the 2027 NBA Finals?,No,99.85000000000001
+2026-08-29T01:50:10.461508,NBA,Will Memphis Grizzlies win the 2027 NBA Finals?,Yes,0.25
+2026-08-29T01:50:10.461511,NBA,Will Memphis Grizzlies win the 2027 NBA Finals?,No,99.75
+2026-08-29T01:50:10.760410,NFL,Saints vs. Cowboys,Saints,74.5
+2026-08-29T01:50:10.760427,NFL,Saints vs. Cowboys,Cowboys,25.5
+2026-08-29T01:50:10.760435,NFL,Cardinals vs. Packers,Cardinals,40.5
+2026-08-29T01:50:10.760438,NFL,Cardinals vs. Packers,Packers,59.5
+2026-08-29T01:50:10.760444,NFL,Texans vs. Panthers,Texans,10.0
+2026-08-29T01:50:10.760447,NFL,Texans vs. Panthers,Panthers,90.0
+2026-08-29T01:50:10.760453,NFL,Giants vs. Jets,Giants,82.5
+2026-08-29T01:50:10.760456,NFL,Giants vs. Jets,Jets,17.5
+2026-08-29T01:50:10.760462,NFL,Seahawks vs. Chiefs,Seahawks,34.5
+2026-08-29T01:50:10.760465,NFL,Seahawks vs. Chiefs,Chiefs,65.5
+2026-08-29T01:50:11.078519,Premier League,Will Liverpool FC win on 2026-08-29?,Yes,64.5
+2026-08-29T01:50:11.078537,Premier League,Will Liverpool FC win on 2026-08-29?,No,35.5
+2026-08-29T01:50:11.078545,Premier League,Will Coventry City FC win on 2026-08-29?,Yes,53.5
+2026-08-29T01:50:11.078548,Premier League,Will Coventry City FC win on 2026-08-29?,No,46.5
+2026-08-29T01:50:11.078554,Premier League,Will Newcastle United FC win on 2026-08-29?,Yes,31.5
+2026-08-29T01:50:11.078558,Premier League,Will Newcastle United FC win on 2026-08-29?,No,68.5
+2026-08-29T01:50:11.078564,Premier League,Will Tottenham Hotspur FC win on 2026-08-29?,Yes,43.5
+2026-08-29T01:50:11.078567,Premier League,Will Tottenham Hotspur FC win on 2026-08-29?,No,56.49999999999999
+2026-08-29T01:50:11.078574,Premier League,Will AFC Bournemouth win on 2026-08-29?,Yes,46.5
+2026-08-29T01:50:11.078577,Premier League,Will AFC Bournemouth win on 2026-08-29?,No,53.5
+2026-08-29T01:50:11.384569,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-08-29T01:50:11.384587,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-08-29T01:50:11.384598,Champions League,Will Sabah win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-08-29T01:50:11.384602,Champions League,Will Sabah win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-08-29T01:50:11.384610,Champions League,Will LASK win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-08-29T01:50:11.384614,Champions League,Will LASK win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-08-29T01:50:11.384620,Champions League,Will Bodø/Glimt win the 2026-27 UEFA Champions League Championship?,Yes,0.35000000000000003
+2026-08-29T01:50:11.384629,Champions League,Will Bodø/Glimt win the 2026-27 UEFA Champions League Championship?,No,99.65
+2026-08-29T01:50:11.384637,Champions League,Will AEK Athens win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-08-29T01:50:11.384640,Champions League,Will AEK Athens win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-08-29T01:50:11.699817,MLB,Baltimore Orioles vs. Athletics,Baltimore Orioles,46.5
+2026-08-29T01:50:11.699834,MLB,Baltimore Orioles vs. Athletics,Athletics,53.5
+2026-08-29T01:50:11.699842,MLB,Miami Marlins vs. Washington Nationals: O/U 8.5,Over,99.95
+2026-08-29T01:50:11.699847,MLB,Miami Marlins vs. Washington Nationals: O/U 8.5,Under,0.05
+2026-08-29T01:50:11.699854,MLB,San Diego Padres vs. Tampa Bay Rays,San Diego Padres,0.05
+2026-08-29T01:50:11.699857,MLB,San Diego Padres vs. Tampa Bay Rays,Tampa Bay Rays,99.95
+2026-08-29T01:50:11.699863,MLB,Pittsburgh Pirates vs. St. Louis Cardinals: O/U 8.5,Over,31.5
+2026-08-29T01:50:11.699884,MLB,Pittsburgh Pirates vs. St. Louis Cardinals: O/U 8.5,Under,68.5
+2026-08-29T01:50:11.699892,MLB,Pittsburgh Pirates vs. St. Louis Cardinals: O/U 7.5,Over,42.5
+2026-08-29T01:50:11.699895,MLB,Pittsburgh Pirates vs. St. Louis Cardinals: O/U 7.5,Under,57.49999999999999

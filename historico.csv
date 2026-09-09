@@ -35799,3 +35799,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-09-09T01:05:49.216840,MLB,Los Angeles Angels vs. Boston Red Sox,Boston Red Sox,11.5
 2026-09-09T01:05:49.216847,MLB,Minnesota Twins vs. Detroit Tigers,Minnesota Twins,87.5
 2026-09-09T01:05:49.216850,MLB,Minnesota Twins vs. Detroit Tigers,Detroit Tigers,12.5
+2026-09-09T06:28:49.756595,NBA,Will Houston Rockets win the 2027 NBA Finals?,Yes,1.4500000000000002
+2026-09-09T06:28:49.756630,NBA,Will Houston Rockets win the 2027 NBA Finals?,No,98.55000000000001
+2026-09-09T06:28:49.756639,NBA,Will Memphis Grizzlies win the 2027 NBA Finals?,Yes,0.25
+2026-09-09T06:28:49.756644,NBA,Will Memphis Grizzlies win the 2027 NBA Finals?,No,99.75
+2026-09-09T06:28:49.756650,NBA,Will Sacramento Kings win the 2027 NBA Finals?,Yes,0.15
+2026-09-09T06:28:49.756656,NBA,Will Sacramento Kings win the 2027 NBA Finals?,No,99.85000000000001
+2026-09-09T06:28:49.756670,NBA,Will Milwaukee Bucks win the 2027 NBA Finals?,Yes,0.15
+2026-09-09T06:28:49.756675,NBA,Will Milwaukee Bucks win the 2027 NBA Finals?,No,99.85000000000001
+2026-09-09T06:28:49.756682,NBA,Will Los Angeles Clippers win the 2027 NBA Finals?,Yes,0.25
+2026-09-09T06:28:49.756685,NBA,Will Los Angeles Clippers win the 2027 NBA Finals?,No,99.75
+2026-09-09T06:28:49.954189,NFL,Patriots vs. Seahawks,Patriots,38.5
+2026-09-09T06:28:49.954208,NFL,Patriots vs. Seahawks,Seahawks,61.5
+2026-09-09T06:28:49.954215,NFL,Bills vs. Texans: O/U 44.5,Over,51.5
+2026-09-09T06:28:49.954218,NFL,Bills vs. Texans: O/U 44.5,Under,48.5
+2026-09-09T06:28:49.954223,NFL,49ers vs. Rams,49ers,35.5
+2026-09-09T06:28:49.954226,NFL,49ers vs. Rams,Rams,64.5
+2026-09-09T06:28:49.954231,NFL,Spread: Seahawks (-6.5),Seahawks,38.5
+2026-09-09T06:28:49.954235,NFL,Spread: Seahawks (-6.5),Patriots,61.5
+2026-09-09T06:28:49.954240,NFL,Will the Tampa Bay Buccaneers win the 2027 NFL league championship?,Yes,1.15
+2026-09-09T06:28:49.954243,NFL,Will the Tampa Bay Buccaneers win the 2027 NFL league championship?,No,98.85000000000001
+2026-09-09T06:28:50.193510,Premier League,Will Brighton & Hove Albion FC win on 2026-09-13?,Yes,52.5
+2026-09-09T06:28:50.193533,Premier League,Will Brighton & Hove Albion FC win on 2026-09-13?,No,47.5
+2026-09-09T06:28:50.193541,Premier League,Will Liverpool FC win on 2026-09-12?,Yes,67.5
+2026-09-09T06:28:50.193544,Premier League,Will Liverpool FC win on 2026-09-12?,No,32.5
+2026-09-09T06:28:50.193550,Premier League,Will Hull City AFC win on 2026-09-12?,Yes,7.5
+2026-09-09T06:28:50.193553,Premier League,Will Hull City AFC win on 2026-09-12?,No,92.5
+2026-09-09T06:28:50.193559,Premier League,Will Hull City be relegated from the 2026-27 Premier League?,Yes,60.5
+2026-09-09T06:28:50.193563,Premier League,Will Hull City be relegated from the 2026-27 Premier League?,No,39.5
+2026-09-09T06:28:50.193569,Premier League,Will Chelsea FC win on 2026-09-18?,Yes,40.0
+2026-09-09T06:28:50.193572,Premier League,Will Chelsea FC win on 2026-09-18?,No,60.0
+2026-09-09T06:28:50.399071,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-09-09T06:28:50.399089,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-09-09T06:28:50.399098,Champions League,Will RB Leipzig win the 2026-27 UEFA Champions League Championship?,Yes,0.44999999999999996
+2026-09-09T06:28:50.399103,Champions League,Will RB Leipzig win the 2026-27 UEFA Champions League Championship?,No,99.55000000000001
+2026-09-09T06:28:50.399110,Champions League,Will Real Betis win the 2026-27 UEFA Champions League Championship?,Yes,0.44999999999999996
+2026-09-09T06:28:50.399114,Champions League,Will Real Betis win the 2026-27 UEFA Champions League Championship?,No,99.55000000000001
+2026-09-09T06:28:50.399120,Champions League,Will Villarreal win the 2026-27 UEFA Champions League Championship?,Yes,0.5499999999999999
+2026-09-09T06:28:50.399124,Champions League,Will Villarreal win the 2026-27 UEFA Champions League Championship?,No,99.45
+2026-09-09T06:28:50.399130,Champions League,Will Lille win the 2026-27 UEFA Champions League Championship?,Yes,0.25
+2026-09-09T06:28:50.399134,Champions League,Will Lille win the 2026-27 UEFA Champions League Championship?,No,99.75
+2026-09-09T06:28:50.598543,MLB,Will the Minnesota Twins win the 2026 World Series?,Yes,0.15
+2026-09-09T06:28:50.598564,MLB,Will the Minnesota Twins win the 2026 World Series?,No,99.85000000000001
+2026-09-09T06:28:50.598572,MLB,Minnesota Twins vs. Detroit Tigers,Minnesota Twins,46.5
+2026-09-09T06:28:50.598576,MLB,Minnesota Twins vs. Detroit Tigers,Detroit Tigers,53.5
+2026-09-09T06:28:50.598582,MLB,St. Louis Cardinals vs. San Francisco Giants,St. Louis Cardinals,53.5
+2026-09-09T06:28:50.598585,MLB,St. Louis Cardinals vs. San Francisco Giants,San Francisco Giants,46.5
+2026-09-09T06:28:50.598591,MLB,Tampa Bay Rays vs. Atlanta Braves: O/U 8.5,Over,47.5
+2026-09-09T06:28:50.598594,MLB,Tampa Bay Rays vs. Atlanta Braves: O/U 8.5,Under,52.5
+2026-09-09T06:28:50.598600,MLB,Will the Baltimore Orioles win the 2026 World Series?,Yes,0.15
+2026-09-09T06:28:50.598603,MLB,Will the Baltimore Orioles win the 2026 World Series?,No,99.85000000000001

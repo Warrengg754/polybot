@@ -35999,3 +35999,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-09-09T19:23:00.027613,MLB,Washington Nationals vs. San Diego Padres: O/U 8.5,Under,48.5
 2026-09-09T19:23:00.027620,MLB,St. Louis Cardinals vs. San Francisco Giants: O/U 8.5,Over,45.5
 2026-09-09T19:23:00.027624,MLB,St. Louis Cardinals vs. San Francisco Giants: O/U 8.5,Under,54.50000000000001
+2026-09-09T21:51:34.474055,NBA,Will Los Angeles Lakers win the 2027 NBA Finals?,Yes,1.95
+2026-09-09T21:51:34.474080,NBA,Will Los Angeles Lakers win the 2027 NBA Finals?,No,98.05
+2026-09-09T21:51:34.474091,NBA,Will Sacramento Kings win the 2027 NBA Finals?,Yes,0.15
+2026-09-09T21:51:34.474095,NBA,Will Sacramento Kings win the 2027 NBA Finals?,No,99.85000000000001
+2026-09-09T21:51:34.474104,NBA,Will Milwaukee Bucks win the 2027 NBA Finals?,Yes,0.15
+2026-09-09T21:51:34.474111,NBA,Will Milwaukee Bucks win the 2027 NBA Finals?,No,99.85000000000001
+2026-09-09T21:51:34.474125,NBA,Will Los Angeles Clippers win the 2027 NBA Finals?,Yes,0.25
+2026-09-09T21:51:34.474130,NBA,Will Los Angeles Clippers win the 2027 NBA Finals?,No,99.75
+2026-09-09T21:51:34.474137,NBA,Will Philadelphia 76ers win the 2027 NBA Finals?,Yes,11.4
+2026-09-09T21:51:34.474141,NBA,Will Philadelphia 76ers win the 2027 NBA Finals?,No,88.6
+2026-09-09T21:51:34.703835,NFL,Patriots vs. Seahawks: O/U 44.5,Over,48.5
+2026-09-09T21:51:34.703854,NFL,Patriots vs. Seahawks: O/U 44.5,Under,51.5
+2026-09-09T21:51:34.703872,NFL,Spread: Rams (-3.5),Rams,50.5
+2026-09-09T21:51:34.703878,NFL,Spread: Rams (-3.5),49ers,49.5
+2026-09-09T21:51:34.703884,NFL,Patriots vs. Seahawks,Patriots,38.5
+2026-09-09T21:51:34.703887,NFL,Patriots vs. Seahawks,Seahawks,61.5
+2026-09-09T21:51:34.703893,NFL,Spread: Seahawks (-3.5),Seahawks,46.5
+2026-09-09T21:51:34.703897,NFL,Spread: Seahawks (-3.5),Patriots,53.5
+2026-09-09T21:51:34.703902,NFL,49ers vs. Rams,49ers,35.5
+2026-09-09T21:51:34.703905,NFL,49ers vs. Rams,Rams,64.5
+2026-09-09T21:51:34.964379,Premier League,Will Brighton & Hove Albion FC win on 2026-09-13?,Yes,52.5
+2026-09-09T21:51:34.964393,Premier League,Will Brighton & Hove Albion FC win on 2026-09-13?,No,47.5
+2026-09-09T21:51:34.964402,Premier League,Chelsea FC vs. Hull City AFC: O/U 3.5,Over,44.5
+2026-09-09T21:51:34.964405,Premier League,Chelsea FC vs. Hull City AFC: O/U 3.5,Under,55.50000000000001
+2026-09-09T21:51:34.964413,Premier League,Will Brentford FC win on 2026-09-12?,Yes,35.5
+2026-09-09T21:51:34.964416,Premier League,Will Brentford FC win on 2026-09-12?,No,64.5
+2026-09-09T21:51:34.964422,Premier League,Will Chelsea FC win on 2026-09-18?,Yes,41.0
+2026-09-09T21:51:34.964425,Premier League,Will Chelsea FC win on 2026-09-18?,No,59.0
+2026-09-09T21:51:34.964431,Premier League,Spread: Liverpool FC (-1.5),Liverpool FC,42.5
+2026-09-09T21:51:34.964434,Premier League,Spread: Liverpool FC (-1.5),Fulham FC,57.49999999999999
+2026-09-09T21:51:35.217876,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-09-09T21:51:35.217889,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-09-09T21:51:35.217899,Champions League,Will Real Betis win the 2026-27 UEFA Champions League Championship?,Yes,0.7000000000000001
+2026-09-09T21:51:35.217904,Champions League,Will Real Betis win the 2026-27 UEFA Champions League Championship?,No,99.3
+2026-09-09T21:51:35.217911,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,Yes,0.35000000000000003
+2026-09-09T21:51:35.217915,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,No,99.65
+2026-09-09T21:51:35.217922,Champions League,Will RB Leipzig win the 2026-27 UEFA Champions League Championship?,Yes,0.65
+2026-09-09T21:51:35.217926,Champions League,Will RB Leipzig win the 2026-27 UEFA Champions League Championship?,No,99.35000000000001
+2026-09-09T21:51:35.217932,Champions League,Will Napoli win the 2026-27 UEFA Champions League Championship?,Yes,0.6
+2026-09-09T21:51:35.217936,Champions League,Will Napoli win the 2026-27 UEFA Champions League Championship?,No,99.4
+2026-09-09T21:51:35.431062,MLB,Minnesota Twins vs. Detroit Tigers,Minnesota Twins,0.05
+2026-09-09T21:51:35.431079,MLB,Minnesota Twins vs. Detroit Tigers,Detroit Tigers,99.95
+2026-09-09T21:51:35.431087,MLB,Washington Nationals vs. San Diego Padres,Washington Nationals,8.5
+2026-09-09T21:51:35.431092,MLB,Washington Nationals vs. San Diego Padres,San Diego Padres,91.5
+2026-09-09T21:51:35.431099,MLB,Washington Nationals vs. San Diego Padres: O/U 8.5,Over,79.5
+2026-09-09T21:51:35.431102,MLB,Washington Nationals vs. San Diego Padres: O/U 8.5,Under,20.5
+2026-09-09T21:51:35.431109,MLB,St. Louis Cardinals vs. San Francisco Giants,St. Louis Cardinals,98.55000000000001
+2026-09-09T21:51:35.431113,MLB,St. Louis Cardinals vs. San Francisco Giants,San Francisco Giants,1.4500000000000002
+2026-09-09T21:51:35.431120,MLB,Texas Rangers vs. Seattle Mariners: O/U 7.5,Over,26.5
+2026-09-09T21:51:35.431123,MLB,Texas Rangers vs. Seattle Mariners: O/U 7.5,Under,73.5

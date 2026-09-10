@@ -36099,3 +36099,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-09-09T23:54:18.717053,MLB,Houston Astros vs. Philadelphia Phillies,Philadelphia Phillies,28.999999999999996
 2026-09-09T23:54:18.717058,MLB,Colorado Rockies vs. New York Yankees: O/U 9.5,Over,43.0
 2026-09-09T23:54:18.717061,MLB,Colorado Rockies vs. New York Yankees: O/U 9.5,Under,56.99999999999999
+2026-09-10T03:48:16.538102,NBA,Will Toronto Raptors win the 2027 NBA Finals?,Yes,3.05
+2026-09-10T03:48:16.538126,NBA,Will Toronto Raptors win the 2027 NBA Finals?,No,96.95
+2026-09-10T03:48:16.538137,NBA,Will Los Angeles Lakers win the 2027 NBA Finals?,Yes,1.95
+2026-09-10T03:48:16.538141,NBA,Will Los Angeles Lakers win the 2027 NBA Finals?,No,98.05
+2026-09-10T03:48:16.538151,NBA,Will Sacramento Kings win the 2027 NBA Finals?,Yes,0.15
+2026-09-10T03:48:16.538158,NBA,Will Sacramento Kings win the 2027 NBA Finals?,No,99.85000000000001
+2026-09-10T03:48:16.538172,NBA,Will Milwaukee Bucks win the 2027 NBA Finals?,Yes,0.15
+2026-09-10T03:48:16.538176,NBA,Will Milwaukee Bucks win the 2027 NBA Finals?,No,99.85000000000001
+2026-09-10T03:48:16.538184,NBA,Will Philadelphia 76ers win the 2027 NBA Finals?,Yes,10.7
+2026-09-10T03:48:16.538188,NBA,Will Philadelphia 76ers win the 2027 NBA Finals?,No,89.3
+2026-09-10T03:48:16.778298,NFL,Spread: Seahawks (-3.5),Seahawks,0.05
+2026-09-10T03:48:16.778309,NFL,Spread: Seahawks (-3.5),Patriots,99.95
+2026-09-10T03:48:16.778318,NFL,Patriots vs. Seahawks: O/U 44.5,Over,0.05
+2026-09-10T03:48:16.778321,NFL,Patriots vs. Seahawks: O/U 44.5,Under,99.95
+2026-09-10T03:48:16.778328,NFL,Spread: Rams (-3.5),Rams,50.5
+2026-09-10T03:48:16.778331,NFL,Spread: Rams (-3.5),49ers,49.5
+2026-09-10T03:48:16.778337,NFL,Spread: Seahawks (-2.5),Seahawks,99.95
+2026-09-10T03:48:16.778341,NFL,Spread: Seahawks (-2.5),Patriots,0.05
+2026-09-10T03:48:16.778347,NFL,49ers vs. Rams,49ers,35.5
+2026-09-10T03:48:16.778349,NFL,49ers vs. Rams,Rams,64.5
+2026-09-10T03:48:17.025566,Premier League,Will Brighton & Hove Albion FC win on 2026-09-13?,Yes,52.5
+2026-09-10T03:48:17.025577,Premier League,Will Brighton & Hove Albion FC win on 2026-09-13?,No,47.5
+2026-09-10T03:48:17.025585,Premier League,Chelsea FC vs. Hull City AFC: O/U 3.5,Over,44.5
+2026-09-10T03:48:17.025589,Premier League,Chelsea FC vs. Hull City AFC: O/U 3.5,Under,55.50000000000001
+2026-09-10T03:48:17.025596,Premier League,Will Brentford FC win on 2026-09-12?,Yes,35.5
+2026-09-10T03:48:17.025599,Premier League,Will Brentford FC win on 2026-09-12?,No,64.5
+2026-09-10T03:48:17.025605,Premier League,Will Chelsea FC win on 2026-09-18?,Yes,40.5
+2026-09-10T03:48:17.025608,Premier League,Will Chelsea FC win on 2026-09-18?,No,59.5
+2026-09-10T03:48:17.025615,Premier League,Spread: Liverpool FC (-1.5),Liverpool FC,42.5
+2026-09-10T03:48:17.025618,Premier League,Spread: Liverpool FC (-1.5),Fulham FC,57.49999999999999
+2026-09-10T03:48:17.267421,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-09-10T03:48:17.267433,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-09-10T03:48:17.267443,Champions League,Will Liverpool win the 2026-27 UEFA Champions League Championship?,Yes,4.5
+2026-09-10T03:48:17.267447,Champions League,Will Liverpool win the 2026-27 UEFA Champions League Championship?,No,95.5
+2026-09-10T03:48:17.267455,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,18.5
+2026-09-10T03:48:17.267459,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,81.5
+2026-09-10T03:48:17.267465,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,Yes,0.35000000000000003
+2026-09-10T03:48:17.267470,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,No,99.65
+2026-09-10T03:48:17.267477,Champions League,Will RB Leipzig win the 2026-27 UEFA Champions League Championship?,Yes,0.65
+2026-09-10T03:48:17.267481,Champions League,Will RB Leipzig win the 2026-27 UEFA Champions League Championship?,No,99.35000000000001
+2026-09-10T03:48:17.483373,MLB,Cincinnati Reds vs. Los Angeles Dodgers,Cincinnati Reds,1.0999999999999999
+2026-09-10T03:48:17.483408,MLB,Cincinnati Reds vs. Los Angeles Dodgers,Los Angeles Dodgers,98.9
+2026-09-10T03:48:17.483420,MLB,Spread: Los Angeles Dodgers (-1.5),Los Angeles Dodgers,98.55000000000001
+2026-09-10T03:48:17.483424,MLB,Spread: Los Angeles Dodgers (-1.5),Cincinnati Reds,1.4500000000000002
+2026-09-10T03:48:17.483432,MLB,Spread: Los Angeles Dodgers (-2.5),Los Angeles Dodgers,98.05
+2026-09-10T03:48:17.483435,MLB,Spread: Los Angeles Dodgers (-2.5),Cincinnati Reds,1.95
+2026-09-10T03:48:17.483442,MLB,Will the Toronto Blue Jays win the 2026 World Series?,Yes,1.9
+2026-09-10T03:48:17.483445,MLB,Will the Toronto Blue Jays win the 2026 World Series?,No,98.1
+2026-09-10T03:48:17.483452,MLB,Will the Philadelphia Phillies win the 2026 World Series?,Yes,6.25
+2026-09-10T03:48:17.483455,MLB,Will the Philadelphia Phillies win the 2026 World Series?,No,93.75

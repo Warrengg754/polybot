@@ -36349,3 +36349,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-09-10T19:58:00.444477,MLB,Colorado Rockies vs. New York Yankees,New York Yankees,71.5
 2026-09-10T19:58:00.444484,MLB,Spread: Seattle Mariners (-1.5),Seattle Mariners,33.5
 2026-09-10T19:58:00.444487,MLB,Spread: Seattle Mariners (-1.5),Texas Rangers,66.5
+2026-09-10T22:26:42.396078,NBA,Will Toronto Raptors win the 2027 NBA Finals?,Yes,3.05
+2026-09-10T22:26:42.396111,NBA,Will Toronto Raptors win the 2027 NBA Finals?,No,96.95
+2026-09-10T22:26:42.396119,NBA,Will Philadelphia 76ers win the 2027 NBA Finals?,Yes,10.549999999999999
+2026-09-10T22:26:42.396123,NBA,Will Philadelphia 76ers win the 2027 NBA Finals?,No,89.45
+2026-09-10T22:26:42.396128,NBA,Will Milwaukee Bucks win the 2027 NBA Finals?,Yes,0.15
+2026-09-10T22:26:42.396135,NBA,Will Milwaukee Bucks win the 2027 NBA Finals?,No,99.85000000000001
+2026-09-10T22:26:42.396147,NBA,Will Sacramento Kings win the 2027 NBA Finals?,Yes,0.15
+2026-09-10T22:26:42.396150,NBA,Will Sacramento Kings win the 2027 NBA Finals?,No,99.85000000000001
+2026-09-10T22:26:42.396155,NBA,Will Los Angeles Clippers win the 2027 NBA Finals?,Yes,0.25
+2026-09-10T22:26:42.396159,NBA,Will Los Angeles Clippers win the 2027 NBA Finals?,No,99.75
+2026-09-10T22:26:42.628511,NFL,Spread: Rams (-3.5),Rams,50.5
+2026-09-10T22:26:42.628542,NFL,Spread: Rams (-3.5),49ers,49.5
+2026-09-10T22:26:42.628549,NFL,49ers vs. Rams,49ers,35.5
+2026-09-10T22:26:42.628552,NFL,49ers vs. Rams,Rams,64.5
+2026-09-10T22:26:42.628556,NFL,49ers vs. Rams: O/U 48.5,Over,46.5
+2026-09-10T22:26:42.628559,NFL,49ers vs. Rams: O/U 48.5,Under,53.5
+2026-09-10T22:26:42.628564,NFL,Spread: Rams (-4.5),Rams,46.5
+2026-09-10T22:26:42.628566,NFL,Spread: Rams (-4.5),49ers,53.5
+2026-09-10T22:26:42.628571,NFL,Falcons vs. Steelers,Falcons,32.5
+2026-09-10T22:26:42.628573,NFL,Falcons vs. Steelers,Steelers,67.5
+2026-09-10T22:26:42.857014,Premier League,Will Brighton & Hove Albion FC win on 2026-09-13?,Yes,52.5
+2026-09-10T22:26:42.857030,Premier League,Will Brighton & Hove Albion FC win on 2026-09-13?,No,47.5
+2026-09-10T22:26:42.857037,Premier League,Liverpool FC vs. Fulham FC: O/U 3.5,Over,42.5
+2026-09-10T22:26:42.857040,Premier League,Liverpool FC vs. Fulham FC: O/U 3.5,Under,57.49999999999999
+2026-09-10T22:26:42.857045,Premier League,Spread: Liverpool FC (-1.5),Liverpool FC,42.5
+2026-09-10T22:26:42.857048,Premier League,Spread: Liverpool FC (-1.5),Fulham FC,57.49999999999999
+2026-09-10T22:26:42.857053,Premier League,Will Fulham FC win on 2026-09-12?,Yes,13.5
+2026-09-10T22:26:42.857055,Premier League,Will Fulham FC win on 2026-09-12?,No,86.5
+2026-09-10T22:26:42.857060,Premier League,Will Arsenal FC win on 2026-09-12?,Yes,66.5
+2026-09-10T22:26:42.857062,Premier League,Will Arsenal FC win on 2026-09-12?,No,33.5
+2026-09-10T22:26:43.118406,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-09-10T22:26:43.118423,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-09-10T22:26:43.118431,Champions League,Will Lens win the 2026-27 UEFA Champions League Championship?,Yes,0.35000000000000003
+2026-09-10T22:26:43.118435,Champions League,Will Lens win the 2026-27 UEFA Champions League Championship?,No,99.65
+2026-09-10T22:26:43.118441,Champions League,Will Liverpool win the 2026-27 UEFA Champions League Championship?,Yes,5.5
+2026-09-10T22:26:43.118444,Champions League,Will Liverpool win the 2026-27 UEFA Champions League Championship?,No,94.5
+2026-09-10T22:26:43.118449,Champions League,Will PSV Eindhoven win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-09-10T22:26:43.118452,Champions League,Will PSV Eindhoven win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-09-10T22:26:43.118458,Champions League,Will Feyenoord win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-09-10T22:26:43.118461,Champions League,Will Feyenoord win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-09-10T22:26:43.372066,MLB,Texas Rangers vs. Seattle Mariners,Texas Rangers,10.5
+2026-09-10T22:26:43.372084,MLB,Texas Rangers vs. Seattle Mariners,Seattle Mariners,89.5
+2026-09-10T22:26:43.372091,MLB,Pittsburgh Pirates vs. Chicago White Sox: O/U 7.5,Over,51.5
+2026-09-10T22:26:43.372094,MLB,Pittsburgh Pirates vs. Chicago White Sox: O/U 7.5,Under,48.5
+2026-09-10T22:26:43.372099,MLB,Pittsburgh Pirates vs. Chicago White Sox,Pittsburgh Pirates,48.5
+2026-09-10T22:26:43.372102,MLB,Pittsburgh Pirates vs. Chicago White Sox,Chicago White Sox,51.5
+2026-09-10T22:26:43.372106,MLB,Texas Rangers vs. Seattle Mariners: O/U 7.5,Over,39.5
+2026-09-10T22:26:43.372109,MLB,Texas Rangers vs. Seattle Mariners: O/U 7.5,Under,60.5
+2026-09-10T22:26:43.372114,MLB,Colorado Rockies vs. New York Yankees,Colorado Rockies,28.499999999999996
+2026-09-10T22:26:43.372117,MLB,Colorado Rockies vs. New York Yankees,New York Yankees,71.5

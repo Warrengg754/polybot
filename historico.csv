@@ -36449,3 +36449,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-09-11T00:26:28.877928,MLB,Spread: New York Yankees (-2.5),Colorado Rockies,29.5
 2026-09-11T00:26:28.877934,MLB,Spread: New York Yankees (-1.5),New York Yankees,82.0
 2026-09-11T00:26:28.877937,MLB,Spread: New York Yankees (-1.5),Colorado Rockies,18.0
+2026-09-11T05:04:14.061837,NBA,Will Philadelphia 76ers win the 2027 NBA Finals?,Yes,10.85
+2026-09-11T05:04:14.061915,NBA,Will Philadelphia 76ers win the 2027 NBA Finals?,No,89.14999999999999
+2026-09-11T05:04:14.061957,NBA,Will Sacramento Kings win the 2027 NBA Finals?,Yes,0.15
+2026-09-11T05:04:14.061967,NBA,Will Sacramento Kings win the 2027 NBA Finals?,No,99.85000000000001
+2026-09-11T05:04:14.061985,NBA,Will Milwaukee Bucks win the 2027 NBA Finals?,Yes,0.15
+2026-09-11T05:04:14.061996,NBA,Will Milwaukee Bucks win the 2027 NBA Finals?,No,99.85000000000001
+2026-09-11T05:04:14.062023,NBA,Will Los Angeles Clippers win the 2027 NBA Finals?,Yes,0.25
+2026-09-11T05:04:14.062044,NBA,Will Los Angeles Clippers win the 2027 NBA Finals?,No,99.75
+2026-09-11T05:04:14.062065,NBA,Will Brooklyn Nets win the 2027 NBA Finals?,Yes,0.15
+2026-09-11T05:04:14.062072,NBA,Will Brooklyn Nets win the 2027 NBA Finals?,No,99.85000000000001
+2026-09-11T05:04:14.387252,NFL,Spread: Rams (-3.5),Rams,0.05
+2026-09-11T05:04:14.387285,NFL,Spread: Rams (-3.5),49ers,99.95
+2026-09-11T05:04:14.387296,NFL,Spread: Rams (-4.5),Rams,0.05
+2026-09-11T05:04:14.387300,NFL,Spread: Rams (-4.5),49ers,99.95
+2026-09-11T05:04:14.387306,NFL,49ers vs. Rams: O/U 40.5,Over,0.05
+2026-09-11T05:04:14.387309,NFL,49ers vs. Rams: O/U 40.5,Under,99.95
+2026-09-11T05:04:14.387316,NFL,49ers vs. Rams: O/U 48.5,Over,0.05
+2026-09-11T05:04:14.387319,NFL,49ers vs. Rams: O/U 48.5,Under,99.95
+2026-09-11T05:04:14.387325,NFL,Spread: Rams (-2.5),Rams,0.05
+2026-09-11T05:04:14.387328,NFL,Spread: Rams (-2.5),49ers,99.95
+2026-09-11T05:04:14.709353,Premier League,Will Brighton & Hove Albion FC win on 2026-09-13?,Yes,51.5
+2026-09-11T05:04:14.709367,Premier League,Will Brighton & Hove Albion FC win on 2026-09-13?,No,48.5
+2026-09-11T05:04:14.709375,Premier League,Liverpool FC vs. Fulham FC: O/U 3.5,Over,42.5
+2026-09-11T05:04:14.709378,Premier League,Liverpool FC vs. Fulham FC: O/U 3.5,Under,57.49999999999999
+2026-09-11T05:04:14.709385,Premier League,Spread: Liverpool FC (-1.5),Liverpool FC,42.5
+2026-09-11T05:04:14.709389,Premier League,Spread: Liverpool FC (-1.5),Fulham FC,57.49999999999999
+2026-09-11T05:04:14.709396,Premier League,Will Fulham FC win on 2026-09-12?,Yes,13.5
+2026-09-11T05:04:14.709399,Premier League,Will Fulham FC win on 2026-09-12?,No,86.5
+2026-09-11T05:04:14.709405,Premier League,Will Arsenal FC win on 2026-09-12?,Yes,66.5
+2026-09-11T05:04:14.709408,Premier League,Will Arsenal FC win on 2026-09-12?,No,33.5
+2026-09-11T05:04:15.021175,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-09-11T05:04:15.021192,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-09-11T05:04:15.021201,Champions League,Will Lens win the 2026-27 UEFA Champions League Championship?,Yes,0.25
+2026-09-11T05:04:15.021207,Champions League,Will Lens win the 2026-27 UEFA Champions League Championship?,No,99.75
+2026-09-11T05:04:15.021214,Champions League,Will PSV Eindhoven win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-09-11T05:04:15.021218,Champions League,Will PSV Eindhoven win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-09-11T05:04:15.021225,Champions League,Will Feyenoord win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-09-11T05:04:15.021229,Champions League,Will Feyenoord win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-09-11T05:04:15.021237,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,Yes,0.95
+2026-09-11T05:04:15.021240,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,No,99.05000000000001
+2026-09-11T05:04:15.349999,MLB,Will the Cleveland Guardians win the 2026 World Series?,Yes,2.25
+2026-09-11T05:04:15.350016,MLB,Will the Cleveland Guardians win the 2026 World Series?,No,97.75
+2026-09-11T05:04:15.350025,MLB,Pittsburgh Pirates vs. Chicago Cubs,Pittsburgh Pirates,39.5
+2026-09-11T05:04:15.350029,MLB,Pittsburgh Pirates vs. Chicago Cubs,Chicago Cubs,60.5
+2026-09-11T05:04:15.350035,MLB,Will the Arizona Diamondbacks win the 2026 World Series?,Yes,1.3
+2026-09-11T05:04:15.350039,MLB,Will the Arizona Diamondbacks win the 2026 World Series?,No,98.7
+2026-09-11T05:04:15.350045,MLB,Will the Texas Rangers win the 2026 World Series?,Yes,0.8500000000000001
+2026-09-11T05:04:15.350049,MLB,Will the Texas Rangers win the 2026 World Series?,No,99.15
+2026-09-11T05:04:15.350055,MLB,New York Mets vs. New York Yankees,New York Mets,43.5
+2026-09-11T05:04:15.350058,MLB,New York Mets vs. New York Yankees,New York Yankees,56.49999999999999

@@ -36849,3 +36849,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-09-12T06:16:30.957985,MLB,Chicago White Sox vs. St. Louis Cardinals,St. Louis Cardinals,50.5
 2026-09-12T06:16:30.957989,MLB,Will Shohei Ohtani win the 2026 National League MVP Award?,Yes,0.25
 2026-09-12T06:16:30.957992,MLB,Will Shohei Ohtani win the 2026 National League MVP Award?,No,99.75
+2026-09-12T11:08:02.000658,NBA,Will Milwaukee Bucks win the 2027 NBA Finals?,Yes,0.15
+2026-09-12T11:08:02.000691,NBA,Will Milwaukee Bucks win the 2027 NBA Finals?,No,99.85000000000001
+2026-09-12T11:08:02.000703,NBA,Will Sacramento Kings win the 2027 NBA Finals?,Yes,0.15
+2026-09-12T11:08:02.000707,NBA,Will Sacramento Kings win the 2027 NBA Finals?,No,99.85000000000001
+2026-09-12T11:08:02.000716,NBA,Will Brooklyn Nets win the 2027 NBA Finals?,Yes,0.15
+2026-09-12T11:08:02.000721,NBA,Will Brooklyn Nets win the 2027 NBA Finals?,No,99.85000000000001
+2026-09-12T11:08:02.000735,NBA,Will Los Angeles Lakers win the 2027 NBA Finals?,Yes,1.95
+2026-09-12T11:08:02.000741,NBA,Will Los Angeles Lakers win the 2027 NBA Finals?,No,98.05
+2026-09-12T11:08:02.000748,NBA,Will New Orleans Pelicans win the 2027 NBA Finals?,Yes,0.2
+2026-09-12T11:08:02.000752,NBA,Will New Orleans Pelicans win the 2027 NBA Finals?,No,99.8
+2026-09-12T11:08:02.230129,NFL,Spread: Steelers (-5.5),Steelers,52.5
+2026-09-12T11:08:02.230145,NFL,Spread: Steelers (-5.5),Falcons,47.5
+2026-09-12T11:08:02.230153,NFL,Falcons vs. Steelers,Falcons,28.499999999999996
+2026-09-12T11:08:02.230157,NFL,Falcons vs. Steelers,Steelers,71.5
+2026-09-12T11:08:02.230164,NFL,Cowboys vs. Giants,Cowboys,59.5
+2026-09-12T11:08:02.230167,NFL,Cowboys vs. Giants,Giants,40.5
+2026-09-12T11:08:02.230173,NFL,Spread: Cowboys (-2.5),Cowboys,53.5
+2026-09-12T11:08:02.230176,NFL,Spread: Cowboys (-2.5),Giants,46.5
+2026-09-12T11:08:02.230182,NFL,Will the Carolina Panthers win the 2027 NFL league championship?,Yes,0.65
+2026-09-12T11:08:02.230185,NFL,Will the Carolina Panthers win the 2027 NFL league championship?,No,99.35000000000001
+2026-09-12T11:08:02.486586,Premier League,Will Liverpool FC win on 2026-09-12?,Yes,64.5
+2026-09-12T11:08:02.486601,Premier League,Will Liverpool FC win on 2026-09-12?,No,35.5
+2026-09-12T11:08:02.486629,Premier League,Will Sunderland AFC win on 2026-09-12?,Yes,13.5
+2026-09-12T11:08:02.486633,Premier League,Will Sunderland AFC win on 2026-09-12?,No,86.5
+2026-09-12T11:08:02.486640,Premier League,Will Newcastle United FC win on 2026-09-14?,Yes,32.5
+2026-09-12T11:08:02.486643,Premier League,Will Newcastle United FC win on 2026-09-14?,No,67.5
+2026-09-12T11:08:02.486650,Premier League,Will Arsenal FC win on 2026-09-12?,Yes,61.5
+2026-09-12T11:08:02.486653,Premier League,Will Arsenal FC win on 2026-09-12?,No,38.5
+2026-09-12T11:08:02.486659,Premier League,Spread: Arsenal FC (-1.5),Arsenal FC,33.5
+2026-09-12T11:08:02.486662,Premier League,Spread: Arsenal FC (-1.5),Sunderland AFC,66.5
+2026-09-12T11:08:02.717036,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-09-12T11:08:02.717053,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-09-12T11:08:02.717063,Champions League,Will Borussia Dortmund win the 2026-27 UEFA Champions League Championship?,Yes,0.95
+2026-09-12T11:08:02.717068,Champions League,Will Borussia Dortmund win the 2026-27 UEFA Champions League Championship?,No,99.05000000000001
+2026-09-12T11:08:02.717075,Champions League,Will Sporting CP win the 2026-27 UEFA Champions League Championship?,Yes,0.44999999999999996
+2026-09-12T11:08:02.717080,Champions League,Will Sporting CP win the 2026-27 UEFA Champions League Championship?,No,99.55000000000001
+2026-09-12T11:08:02.717087,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,18.5
+2026-09-12T11:08:02.717091,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,81.5
+2026-09-12T11:08:02.717097,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,Yes,2.9499999999999997
+2026-09-12T11:08:02.717101,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,No,97.05
+2026-09-12T11:08:02.945199,MLB,Philadelphia Phillies vs. Atlanta Braves,Philadelphia Phillies,47.5
+2026-09-12T11:08:02.945215,MLB,Philadelphia Phillies vs. Atlanta Braves,Atlanta Braves,52.5
+2026-09-12T11:08:02.945224,MLB,Will Pete Crow-Armstrong win the 2026 National League MVP Award?,Yes,98.4
+2026-09-12T11:08:02.945228,MLB,Will Pete Crow-Armstrong win the 2026 National League MVP Award?,No,1.6
+2026-09-12T11:08:02.945234,MLB,Will the Chicago White Sox win the 2026 World Series?,Yes,2.9499999999999997
+2026-09-12T11:08:02.945238,MLB,Will the Chicago White Sox win the 2026 World Series?,No,97.05
+2026-09-12T11:08:02.945245,MLB,Chicago White Sox vs. St. Louis Cardinals,Chicago White Sox,49.5
+2026-09-12T11:08:02.945249,MLB,Chicago White Sox vs. St. Louis Cardinals,St. Louis Cardinals,50.5
+2026-09-12T11:08:02.945255,MLB,Will Shohei Ohtani win the 2026 National League MVP Award?,Yes,0.25
+2026-09-12T11:08:02.945259,MLB,Will Shohei Ohtani win the 2026 National League MVP Award?,No,99.75

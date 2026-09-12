@@ -36949,3 +36949,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-09-12T14:17:50.380665,MLB,San Diego Padres vs. San Francisco Giants,San Francisco Giants,37.5
 2026-09-12T14:17:50.380671,MLB,Los Angeles Dodgers vs. Miami Marlins,Los Angeles Dodgers,62.5
 2026-09-12T14:17:50.380674,MLB,Los Angeles Dodgers vs. Miami Marlins,Miami Marlins,37.5
+2026-09-12T17:22:04.360403,NBA,Will Milwaukee Bucks win the 2027 NBA Finals?,Yes,0.15
+2026-09-12T17:22:04.360435,NBA,Will Milwaukee Bucks win the 2027 NBA Finals?,No,99.85000000000001
+2026-09-12T17:22:04.360448,NBA,Will Sacramento Kings win the 2027 NBA Finals?,Yes,0.15
+2026-09-12T17:22:04.360452,NBA,Will Sacramento Kings win the 2027 NBA Finals?,No,99.85000000000001
+2026-09-12T17:22:04.360461,NBA,Will Brooklyn Nets win the 2027 NBA Finals?,Yes,0.15
+2026-09-12T17:22:04.360486,NBA,Will Brooklyn Nets win the 2027 NBA Finals?,No,99.85000000000001
+2026-09-12T17:22:04.360502,NBA,Will Portland Trail Blazers win the 2027 NBA Finals?,Yes,0.8
+2026-09-12T17:22:04.360509,NBA,Will Portland Trail Blazers win the 2027 NBA Finals?,No,99.2
+2026-09-12T17:22:04.360518,NBA,Will Los Angeles Lakers win the 2027 NBA Finals?,Yes,1.95
+2026-09-12T17:22:04.360521,NBA,Will Los Angeles Lakers win the 2027 NBA Finals?,No,98.05
+2026-09-12T17:22:04.617882,NFL,Spread: Steelers (-5.5),Steelers,52.5
+2026-09-12T17:22:04.617899,NFL,Spread: Steelers (-5.5),Falcons,47.5
+2026-09-12T17:22:04.617907,NFL,Falcons vs. Steelers,Falcons,27.500000000000004
+2026-09-12T17:22:04.617911,NFL,Falcons vs. Steelers,Steelers,72.5
+2026-09-12T17:22:04.617917,NFL,Will the Miami Dolphins win the 2027 NFL league championship?,Yes,0.44999999999999996
+2026-09-12T17:22:04.617921,NFL,Will the Miami Dolphins win the 2027 NFL league championship?,No,99.55000000000001
+2026-09-12T17:22:04.617929,NFL,Will the San Francisco 49ers win the 2027 NFL league championship?,Yes,5.8500000000000005
+2026-09-12T17:22:04.617934,NFL,Will the San Francisco 49ers win the 2027 NFL league championship?,No,94.15
+2026-09-12T17:22:04.617940,NFL,Spread: Bengals (-6.5),Bengals,43.5
+2026-09-12T17:22:04.617943,NFL,Spread: Bengals (-6.5),Buccaneers,56.49999999999999
+2026-09-12T17:22:04.937357,Premier League,Will Chelsea FC win on 2026-09-12?,Yes,0.05
+2026-09-12T17:22:04.937374,Premier League,Will Chelsea FC win on 2026-09-12?,No,99.95
+2026-09-12T17:22:04.937383,Premier League,Will Tottenham Hotspur FC win on 2026-09-12?,Yes,42.5
+2026-09-12T17:22:04.937387,Premier League,Will Tottenham Hotspur FC win on 2026-09-12?,No,57.49999999999999
+2026-09-12T17:22:04.937395,Premier League,Will Aston Villa FC win on 2026-09-12?,Yes,0.05
+2026-09-12T17:22:04.937398,Premier League,Will Aston Villa FC win on 2026-09-12?,No,99.95
+2026-09-12T17:22:04.937405,Premier League,Spread: Chelsea FC (-1.5),Chelsea FC,0.05
+2026-09-12T17:22:04.937408,Premier League,Spread: Chelsea FC (-1.5),Hull City AFC,99.95
+2026-09-12T17:22:04.937415,Premier League,Will Arsenal FC win on 2026-09-12?,Yes,62.5
+2026-09-12T17:22:04.937418,Premier League,Will Arsenal FC win on 2026-09-12?,No,37.5
+2026-09-12T17:22:05.195252,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-09-12T17:22:05.195268,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-09-12T17:22:05.195278,Champions League,Will Borussia Dortmund win the 2026-27 UEFA Champions League Championship?,Yes,0.95
+2026-09-12T17:22:05.195283,Champions League,Will Borussia Dortmund win the 2026-27 UEFA Champions League Championship?,No,99.05000000000001
+2026-09-12T17:22:05.195290,Champions League,Will Sporting CP win the 2026-27 UEFA Champions League Championship?,Yes,0.44999999999999996
+2026-09-12T17:22:05.195295,Champions League,Will Sporting CP win the 2026-27 UEFA Champions League Championship?,No,99.55000000000001
+2026-09-12T17:22:05.195302,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,18.5
+2026-09-12T17:22:05.195306,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,81.5
+2026-09-12T17:22:05.195313,Champions League,Will Roma win the 2026-27 UEFA Champions League Championship?,Yes,0.8500000000000001
+2026-09-12T17:22:05.195317,Champions League,Will Roma win the 2026-27 UEFA Champions League Championship?,No,99.15
+2026-09-12T17:22:05.412048,MLB,Pittsburgh Pirates vs. Chicago Cubs: O/U 9.5,Over,50.5
+2026-09-12T17:22:05.412066,MLB,Pittsburgh Pirates vs. Chicago Cubs: O/U 9.5,Under,49.5
+2026-09-12T17:22:05.412075,MLB,Philadelphia Phillies vs. Atlanta Braves,Philadelphia Phillies,44.5
+2026-09-12T17:22:05.412079,MLB,Philadelphia Phillies vs. Atlanta Braves,Atlanta Braves,55.50000000000001
+2026-09-12T17:22:05.412086,MLB,New York Mets vs. New York Yankees,New York Mets,40.5
+2026-09-12T17:22:05.412090,MLB,New York Mets vs. New York Yankees,New York Yankees,59.5
+2026-09-12T17:22:05.412096,MLB,Pittsburgh Pirates vs. Chicago Cubs: O/U 8.5,Over,59.5
+2026-09-12T17:22:05.412100,MLB,Pittsburgh Pirates vs. Chicago Cubs: O/U 8.5,Under,40.5
+2026-09-12T17:22:05.412106,MLB,Baltimore Orioles vs. Toronto Blue Jays,Baltimore Orioles,45.5
+2026-09-12T17:22:05.412110,MLB,Baltimore Orioles vs. Toronto Blue Jays,Toronto Blue Jays,54.50000000000001

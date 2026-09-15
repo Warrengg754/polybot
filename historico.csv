@@ -37699,3 +37699,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-09-14T22:21:12.181360,MLB,Atlanta Braves vs. Chicago Cubs: O/U 9.5,Under,51.5
 2026-09-14T22:21:12.181366,MLB,Los Angeles Dodgers vs. Cincinnati Reds: O/U 7.5,Over,50.5
 2026-09-14T22:21:12.181370,MLB,Los Angeles Dodgers vs. Cincinnati Reds: O/U 7.5,Under,49.5
+2026-09-15T00:49:05.845957,NBA,Will Utah Jazz win the 2027 NBA Finals?,Yes,0.75
+2026-09-15T00:49:05.845997,NBA,Will Utah Jazz win the 2027 NBA Finals?,No,99.25
+2026-09-15T00:49:05.846008,NBA,Will Toronto Raptors win the 2027 NBA Finals?,Yes,2.9499999999999997
+2026-09-15T00:49:05.846015,NBA,Will Toronto Raptors win the 2027 NBA Finals?,No,97.05
+2026-09-15T00:49:05.846022,NBA,Will Milwaukee Bucks win the 2027 NBA Finals?,Yes,0.15
+2026-09-15T00:49:05.846030,NBA,Will Milwaukee Bucks win the 2027 NBA Finals?,No,99.85000000000001
+2026-09-15T00:49:05.846045,NBA,Will Sacramento Kings win the 2027 NBA Finals?,Yes,0.15
+2026-09-15T00:49:05.846049,NBA,Will Sacramento Kings win the 2027 NBA Finals?,No,99.85000000000001
+2026-09-15T00:49:05.846057,NBA,Will Denver Nuggets win the 2027 NBA Finals?,Yes,3.15
+2026-09-15T00:49:05.846060,NBA,Will Denver Nuggets win the 2027 NBA Finals?,No,96.85000000000001
+2026-09-15T00:49:06.076485,NFL,Broncos vs. Chiefs,Broncos,47.5
+2026-09-15T00:49:06.076503,NFL,Broncos vs. Chiefs,Chiefs,52.5
+2026-09-15T00:49:06.076511,NFL,Broncos vs. Chiefs: O/U 43.5,Over,67.5
+2026-09-15T00:49:06.076515,NFL,Broncos vs. Chiefs: O/U 43.5,Under,32.5
+2026-09-15T00:49:06.076521,NFL,Spread: Chiefs (-2.5),Chiefs,47.5
+2026-09-15T00:49:06.076524,NFL,Spread: Chiefs (-2.5),Broncos,52.5
+2026-09-15T00:49:06.076530,NFL,Spread: Chiefs (-3.5),Chiefs,38.5
+2026-09-15T00:49:06.076533,NFL,Spread: Chiefs (-3.5),Broncos,61.5
+2026-09-15T00:49:06.076539,NFL,Broncos vs. Chiefs: O/U 42.5,Over,72.5
+2026-09-15T00:49:06.076541,NFL,Broncos vs. Chiefs: O/U 42.5,Under,27.500000000000004
+2026-09-15T00:49:06.347487,Premier League,Will Newcastle United FC win on 2026-09-19?,Yes,59.5
+2026-09-15T00:49:06.347508,Premier League,Will Newcastle United FC win on 2026-09-19?,No,40.5
+2026-09-15T00:49:06.347516,Premier League,Will Hull City AFC win on 2026-09-19?,Yes,18.5
+2026-09-15T00:49:06.347520,Premier League,Will Hull City AFC win on 2026-09-19?,No,81.5
+2026-09-15T00:49:06.347526,Premier League,Will Arsenal FC win on 2026-09-19?,Yes,56.49999999999999
+2026-09-15T00:49:06.347530,Premier League,Will Arsenal FC win on 2026-09-19?,No,43.5
+2026-09-15T00:49:06.347536,Premier League,Will Leeds United FC win on 2026-09-20?,Yes,53.5
+2026-09-15T00:49:06.347539,Premier League,Will Leeds United FC win on 2026-09-20?,No,46.5
+2026-09-15T00:49:06.347545,Premier League,Will Chelsea FC win on 2026-09-18?,Yes,42.5
+2026-09-15T00:49:06.347548,Premier League,Will Chelsea FC win on 2026-09-18?,No,57.49999999999999
+2026-09-15T00:49:06.594251,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-09-15T00:49:06.594271,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-09-15T00:49:06.594282,Champions League,Will Roma win the 2026-27 UEFA Champions League Championship?,Yes,0.65
+2026-09-15T00:49:06.594287,Champions League,Will Roma win the 2026-27 UEFA Champions League Championship?,No,99.35000000000001
+2026-09-15T00:49:06.594295,Champions League,Will Aston Villa win the 2026-27 UEFA Champions League Championship?,Yes,1.05
+2026-09-15T00:49:06.594299,Champions League,Will Aston Villa win the 2026-27 UEFA Champions League Championship?,No,98.95
+2026-09-15T00:49:06.594305,Champions League,Will Liverpool win the 2026-27 UEFA Champions League Championship?,Yes,5.5
+2026-09-15T00:49:06.594309,Champions League,Will Liverpool win the 2026-27 UEFA Champions League Championship?,No,94.5
+2026-09-15T00:49:06.594316,Champions League,Will Viking win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-09-15T00:49:06.594319,Champions League,Will Viking win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-09-15T00:49:06.843851,MLB,Los Angeles Dodgers vs. Cincinnati Reds,Los Angeles Dodgers,99.3
+2026-09-15T00:49:06.843871,MLB,Los Angeles Dodgers vs. Cincinnati Reds,Cincinnati Reds,0.7000000000000001
+2026-09-15T00:49:06.843893,MLB,Baltimore Orioles vs. New York Mets,Baltimore Orioles,41.0
+2026-09-15T00:49:06.843898,MLB,Baltimore Orioles vs. New York Mets,New York Mets,59.0
+2026-09-15T00:49:06.843905,MLB,Chicago White Sox vs. Cleveland Guardians,Chicago White Sox,95.65
+2026-09-15T00:49:06.843909,MLB,Chicago White Sox vs. Cleveland Guardians,Cleveland Guardians,4.35
+2026-09-15T00:49:06.843915,MLB,Seattle Mariners vs. Los Angeles Angels,Seattle Mariners,49.5
+2026-09-15T00:49:06.843919,MLB,Seattle Mariners vs. Los Angeles Angels,Los Angeles Angels,50.5
+2026-09-15T00:49:06.843925,MLB,Detroit Tigers vs. Toronto Blue Jays,Detroit Tigers,14.499999999999998
+2026-09-15T00:49:06.843929,MLB,Detroit Tigers vs. Toronto Blue Jays,Toronto Blue Jays,85.5

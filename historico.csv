@@ -38299,3 +38299,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-09-16T23:44:52.329534,MLB,Philadelphia Phillies vs. Washington Nationals,Washington Nationals,17.5
 2026-09-16T23:44:52.329540,MLB,Athletics vs. Tampa Bay Rays,Athletics,18.5
 2026-09-16T23:44:52.329543,MLB,Athletics vs. Tampa Bay Rays,Tampa Bay Rays,81.5
+2026-09-17T04:06:55.487482,NBA,Will Dallas Mavericks win the 2027 NBA Finals?,Yes,0.5499999999999999
+2026-09-17T04:06:55.487523,NBA,Will Dallas Mavericks win the 2027 NBA Finals?,No,99.45
+2026-09-17T04:06:55.487529,NBA,Will Portland Trail Blazers win the 2027 NBA Finals?,Yes,0.65
+2026-09-17T04:06:55.487532,NBA,Will Portland Trail Blazers win the 2027 NBA Finals?,No,99.35000000000001
+2026-09-17T04:06:55.487537,NBA,Will Cleveland Cavaliers win the 2027 NBA Finals?,Yes,2.25
+2026-09-17T04:06:55.487541,NBA,Will Cleveland Cavaliers win the 2027 NBA Finals?,No,97.75
+2026-09-17T04:06:55.487550,NBA,Will Miami Heat win the 2027 NBA Finals?,Yes,3.05
+2026-09-17T04:06:55.487552,NBA,Will Miami Heat win the 2027 NBA Finals?,No,96.95
+2026-09-17T04:06:55.487556,NBA,Will Philadelphia 76ers win the 2027 NBA Finals?,Yes,11.15
+2026-09-17T04:06:55.487558,NBA,Will Philadelphia 76ers win the 2027 NBA Finals?,No,88.85
+2026-09-17T04:06:55.756005,NFL,Lions vs. Bills: O/U 54.5,Over,51.5
+2026-09-17T04:06:55.756024,NFL,Lions vs. Bills: O/U 54.5,Under,48.5
+2026-09-17T04:06:55.756029,NFL,Spread: BAL (-8.5),BAL,49.5
+2026-09-17T04:06:55.756031,NFL,Spread: BAL (-8.5),NO,50.5
+2026-09-17T04:06:55.756034,NFL,Spread: Bills (-4.5),Bills,52.5
+2026-09-17T04:06:55.756036,NFL,Spread: Bills (-4.5),Lions,47.5
+2026-09-17T04:06:55.756040,NFL,Spread: SF (-12.5),SF,49.5
+2026-09-17T04:06:55.756041,NFL,Spread: SF (-12.5),MIA,50.5
+2026-09-17T04:06:55.756045,NFL,Will the Baltimore Ravens win the 2027 NFL league championship?,Yes,8.75
+2026-09-17T04:06:55.756047,NFL,Will the Baltimore Ravens win the 2027 NFL league championship?,No,91.25
+2026-09-17T04:06:56.080646,Premier League,Will Manchester City FC win on 2026-09-20?,Yes,75.5
+2026-09-17T04:06:56.080665,Premier League,Will Manchester City FC win on 2026-09-20?,No,24.5
+2026-09-17T04:06:56.080670,Premier League,Tottenham Hotspur FC vs. Aston Villa FC: O/U 2.5,Over,51.5
+2026-09-17T04:06:56.080672,Premier League,Tottenham Hotspur FC vs. Aston Villa FC: O/U 2.5,Under,48.5
+2026-09-17T04:06:56.080676,Premier League,Will Chelsea FC win on 2026-09-18?,Yes,40.5
+2026-09-17T04:06:56.080678,Premier League,Will Chelsea FC win on 2026-09-18?,No,59.5
+2026-09-17T04:06:56.080682,Premier League,Will Arsenal FC win on 2026-09-19?,Yes,56.49999999999999
+2026-09-17T04:06:56.080684,Premier League,Will Arsenal FC win on 2026-09-19?,No,43.5
+2026-09-17T04:06:56.080688,Premier League,Will Hull City be relegated from the 2026-27 Premier League?,Yes,49.5
+2026-09-17T04:06:56.080690,Premier League,Will Hull City be relegated from the 2026-27 Premier League?,No,50.5
+2026-09-17T04:06:56.356057,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-09-17T04:06:56.356076,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-09-17T04:06:56.356083,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,Yes,1.15
+2026-09-17T04:06:56.356085,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,No,98.85000000000001
+2026-09-17T04:06:56.356090,Champions League,Will Fenerbahçe win the 2026-27 UEFA Champions League Championship?,Yes,0.25
+2026-09-17T04:06:56.356097,Champions League,Will Fenerbahçe win the 2026-27 UEFA Champions League Championship?,No,99.75
+2026-09-17T04:06:56.356102,Champions League,Will Galatasaray win the 2026-27 UEFA Champions League Championship?,Yes,0.25
+2026-09-17T04:06:56.356104,Champions League,Will Galatasaray win the 2026-27 UEFA Champions League Championship?,No,99.75
+2026-09-17T04:06:56.356108,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,19.5
+2026-09-17T04:06:56.356110,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,80.5
+2026-09-17T04:06:56.605370,MLB,Kansas City Royals vs. Houston Astros,Kansas City Royals,99.95
+2026-09-17T04:06:56.605389,MLB,Kansas City Royals vs. Houston Astros,Houston Astros,0.05
+2026-09-17T04:06:56.605394,MLB,Seattle Mariners vs. Los Angeles Angels,Seattle Mariners,97.85000000000001
+2026-09-17T04:06:56.605397,MLB,Seattle Mariners vs. Los Angeles Angels,Los Angeles Angels,2.15
+2026-09-17T04:06:56.605400,MLB,Miami Marlins vs. Arizona Diamondbacks,Miami Marlins,85.5
+2026-09-17T04:06:56.605403,MLB,Miami Marlins vs. Arizona Diamondbacks,Arizona Diamondbacks,14.499999999999998
+2026-09-17T04:06:56.605407,MLB,Miami Marlins vs. Arizona Diamondbacks: O/U 8.5,Over,37.5
+2026-09-17T04:06:56.605409,MLB,Miami Marlins vs. Arizona Diamondbacks: O/U 8.5,Under,62.5
+2026-09-17T04:06:56.605412,MLB,Atlanta Braves vs. Chicago Cubs: O/U 7.5,Over,99.95
+2026-09-17T04:06:56.605414,MLB,Atlanta Braves vs. Chicago Cubs: O/U 7.5,Under,0.05

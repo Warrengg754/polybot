@@ -38449,3 +38449,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-09-17T14:46:00.134888,MLB,Milwaukee Brewers vs. Pittsburgh Pirates,Pittsburgh Pirates,42.75
 2026-09-17T14:46:00.134894,MLB,Boston Red Sox vs. Texas Rangers,Boston Red Sox,52.849999999999994
 2026-09-17T14:46:00.134898,MLB,Boston Red Sox vs. Texas Rangers,Texas Rangers,47.15
+2026-09-17T18:52:44.093211,NBA,Will Portland Trail Blazers win the 2027 NBA Finals?,Yes,0.65
+2026-09-17T18:52:44.093254,NBA,Will Portland Trail Blazers win the 2027 NBA Finals?,No,99.35000000000001
+2026-09-17T18:52:44.093268,NBA,Will Miami Heat win the 2027 NBA Finals?,Yes,3.05
+2026-09-17T18:52:44.093275,NBA,Will Miami Heat win the 2027 NBA Finals?,No,96.95
+2026-09-17T18:52:44.093284,NBA,Will the Milwaukee Bucks be the 2027 NBA Eastern Conference Champion?,Yes,0.65
+2026-09-17T18:52:44.093290,NBA,Will the Milwaukee Bucks be the 2027 NBA Eastern Conference Champion?,No,99.35000000000001
+2026-09-17T18:52:44.093305,NBA,Will Toronto Raptors win the 2027 NBA Finals?,Yes,2.9499999999999997
+2026-09-17T18:52:44.093309,NBA,Will Toronto Raptors win the 2027 NBA Finals?,No,97.05
+2026-09-17T18:52:44.093317,NBA,Will Orlando Magic win the 2027 NBA Finals?,Yes,0.75
+2026-09-17T18:52:44.093322,NBA,Will Orlando Magic win the 2027 NBA Finals?,No,99.25
+2026-09-17T18:52:44.372782,NFL,Lions vs. Bills,Lions,31.5
+2026-09-17T18:52:44.372795,NFL,Lions vs. Bills,Bills,68.5
+2026-09-17T18:52:44.372802,NFL,Bengals vs. Texans,Bengals,41.5
+2026-09-17T18:52:44.372806,NFL,Bengals vs. Texans,Texans,58.5
+2026-09-17T18:52:44.372812,NFL,Lions vs. Bills: O/U 54.5,Over,51.5
+2026-09-17T18:52:44.372815,NFL,Lions vs. Bills: O/U 54.5,Under,48.5
+2026-09-17T18:52:44.372821,NFL,Spread: Bills (-6.5),Bills,46.5
+2026-09-17T18:52:44.372824,NFL,Spread: Bills (-6.5),Lions,53.5
+2026-09-17T18:52:44.372829,NFL,Spread: SF (-12.5),SF,50.5
+2026-09-17T18:52:44.372832,NFL,Spread: SF (-12.5),MIA,49.5
+2026-09-17T18:52:44.596471,Premier League,Will Manchester City FC win on 2026-09-20?,Yes,75.5
+2026-09-17T18:52:44.596486,Premier League,Will Manchester City FC win on 2026-09-20?,No,24.5
+2026-09-17T18:52:44.596494,Premier League,Will Chelsea FC win on 2026-09-18?,Yes,40.5
+2026-09-17T18:52:44.596498,Premier League,Will Chelsea FC win on 2026-09-18?,No,59.5
+2026-09-17T18:52:44.596505,Premier League,Will Arsenal FC win on 2026-09-19?,Yes,56.49999999999999
+2026-09-17T18:52:44.596509,Premier League,Will Arsenal FC win on 2026-09-19?,No,43.5
+2026-09-17T18:52:44.596515,Premier League,Brighton & Hove Albion FC vs. Arsenal FC: O/U 2.5,Over,56.49999999999999
+2026-09-17T18:52:44.596519,Premier League,Brighton & Hove Albion FC vs. Arsenal FC: O/U 2.5,Under,43.5
+2026-09-17T18:52:44.596525,Premier League,Will Leeds United FC win on 2026-09-20?,Yes,53.5
+2026-09-17T18:52:44.596529,Premier League,Will Leeds United FC win on 2026-09-20?,No,46.5
+2026-09-17T18:52:44.793154,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-09-17T18:52:44.793166,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-09-17T18:52:44.793176,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,Yes,2.75
+2026-09-17T18:52:44.793181,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,No,97.25
+2026-09-17T18:52:44.793188,Champions League,Will Fenerbahçe win the 2026-27 UEFA Champions League Championship?,Yes,0.25
+2026-09-17T18:52:44.793196,Champions League,Will Fenerbahçe win the 2026-27 UEFA Champions League Championship?,No,99.75
+2026-09-17T18:52:44.793203,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,1.6500000000000001
+2026-09-17T18:52:44.793208,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,98.35000000000001
+2026-09-17T18:52:44.793216,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,19.5
+2026-09-17T18:52:44.793220,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,80.5
+2026-09-17T18:52:44.971748,MLB,Milwaukee Brewers vs. Pittsburgh Pirates,Milwaukee Brewers,7.1499999999999995
+2026-09-17T18:52:44.971760,MLB,Milwaukee Brewers vs. Pittsburgh Pirates,Pittsburgh Pirates,92.85
+2026-09-17T18:52:44.971768,MLB,Los Angeles Dodgers vs. Cincinnati Reds,Los Angeles Dodgers,98.75
+2026-09-17T18:52:44.971772,MLB,Los Angeles Dodgers vs. Cincinnati Reds,Cincinnati Reds,1.25
+2026-09-17T18:52:44.971779,MLB,Athletics vs. Tampa Bay Rays,Athletics,1.0999999999999999
+2026-09-17T18:52:44.971783,MLB,Athletics vs. Tampa Bay Rays,Tampa Bay Rays,98.9
+2026-09-17T18:52:44.971789,MLB,Los Angeles Dodgers vs. Cincinnati Reds: O/U 9.5,Over,60.0
+2026-09-17T18:52:44.971792,MLB,Los Angeles Dodgers vs. Cincinnati Reds: O/U 9.5,Under,40.0
+2026-09-17T18:52:44.971798,MLB,Boston Red Sox vs. Texas Rangers,Boston Red Sox,52.349999999999994
+2026-09-17T18:52:44.971802,MLB,Boston Red Sox vs. Texas Rangers,Texas Rangers,47.65

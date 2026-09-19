@@ -39099,3 +39099,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-09-19T14:42:02.643988,MLB,San Francisco Giants vs. Los Angeles Dodgers,Los Angeles Dodgers,77.5
 2026-09-19T14:42:02.643995,MLB,Toronto Blue Jays vs. Texas Rangers,Toronto Blue Jays,50.5
 2026-09-19T14:42:02.643998,MLB,Toronto Blue Jays vs. Texas Rangers,Texas Rangers,49.5
+2026-09-19T17:50:33.678827,NBA,Will Milwaukee Bucks win the 2027 NBA Finals?,Yes,0.15
+2026-09-19T17:50:33.678853,NBA,Will Milwaukee Bucks win the 2027 NBA Finals?,No,99.85000000000001
+2026-09-19T17:50:33.678865,NBA,Will Washington Wizards win the 2027 NBA Finals?,Yes,0.8500000000000001
+2026-09-19T17:50:33.678870,NBA,Will Washington Wizards win the 2027 NBA Finals?,No,99.15
+2026-09-19T17:50:33.678878,NBA,Will New Orleans Pelicans win the 2027 NBA Finals?,Yes,0.15
+2026-09-19T17:50:33.678884,NBA,Will New Orleans Pelicans win the 2027 NBA Finals?,No,99.85000000000001
+2026-09-19T17:50:33.678897,NBA,Will Brooklyn Nets win the 2027 NBA Finals?,Yes,0.15
+2026-09-19T17:50:33.678901,NBA,Will Brooklyn Nets win the 2027 NBA Finals?,No,99.85000000000001
+2026-09-19T17:50:33.678908,NBA,Will Sacramento Kings win the 2027 NBA Finals?,Yes,0.15
+2026-09-19T17:50:33.678912,NBA,Will Sacramento Kings win the 2027 NBA Finals?,No,99.85000000000001
+2026-09-19T17:50:34.008689,NFL,Spread: KC (-5.5),KC,50.5
+2026-09-19T17:50:34.008705,NFL,Spread: KC (-5.5),IND,49.5
+2026-09-19T17:50:34.008712,NFL,Spread: Texans (-2.5),Texans,51.5
+2026-09-19T17:50:34.008715,NFL,Spread: Texans (-2.5),Bengals,48.5
+2026-09-19T17:50:34.008722,NFL,NO vs. BAL: O/U 46.5,Over,47.5
+2026-09-19T17:50:34.008725,NFL,NO vs. BAL: O/U 46.5,Under,52.5
+2026-09-19T17:50:34.008731,NFL,Spread: BAL (-8.5),BAL,49.5
+2026-09-19T17:50:34.008734,NFL,Spread: BAL (-8.5),NO,50.5
+2026-09-19T17:50:34.008740,NFL,Spread: Buccaneers (-7.5),Buccaneers,50.5
+2026-09-19T17:50:34.008743,NFL,Spread: Buccaneers (-7.5),Browns,49.5
+2026-09-19T17:50:34.170601,Premier League,Will Newcastle United FC win on 2026-09-19?,Yes,99.95
+2026-09-19T17:50:34.170613,Premier League,Will Newcastle United FC win on 2026-09-19?,No,0.05
+2026-09-19T17:50:34.170621,Premier League,Will Nottingham Forest FC win on 2026-09-19?,Yes,51.5
+2026-09-19T17:50:34.170625,Premier League,Will Nottingham Forest FC win on 2026-09-19?,No,48.5
+2026-09-19T17:50:34.170632,Premier League,Will Everton FC win on 2026-09-19?,Yes,99.95
+2026-09-19T17:50:34.170635,Premier League,Will Everton FC win on 2026-09-19?,No,0.05
+2026-09-19T17:50:34.170641,Premier League,Will Coventry City FC win on 2026-09-19?,Yes,18.5
+2026-09-19T17:50:34.170645,Premier League,Will Coventry City FC win on 2026-09-19?,No,81.5
+2026-09-19T17:50:34.170651,Premier League,Newcastle United FC vs. Hull City AFC: O/U 3.5,Over,0.05
+2026-09-19T17:50:34.170654,Premier League,Newcastle United FC vs. Hull City AFC: O/U 3.5,Under,99.95
+2026-09-19T17:50:34.339801,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-09-19T17:50:34.339814,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-09-19T17:50:34.339823,Champions League,Will Aston Villa win the 2026-27 UEFA Champions League Championship?,Yes,1.0
+2026-09-19T17:50:34.339828,Champions League,Will Aston Villa win the 2026-27 UEFA Champions League Championship?,No,99.0
+2026-09-19T17:50:34.339835,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,19.5
+2026-09-19T17:50:34.339838,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,80.5
+2026-09-19T17:50:34.339845,Champions League,Will Roma win the 2026-27 UEFA Champions League Championship?,Yes,0.65
+2026-09-19T17:50:34.339849,Champions League,Will Roma win the 2026-27 UEFA Champions League Championship?,No,99.35000000000001
+2026-09-19T17:50:34.339856,Champions League,Will Napoli win the 2026-27 UEFA Champions League Championship?,Yes,0.5499999999999999
+2026-09-19T17:50:34.339860,Champions League,Will Napoli win the 2026-27 UEFA Champions League Championship?,No,99.45
+2026-09-19T17:50:34.517093,MLB,New York Yankees vs. Arizona Diamondbacks,New York Yankees,59.5
+2026-09-19T17:50:34.517108,MLB,New York Yankees vs. Arizona Diamondbacks,Arizona Diamondbacks,40.5
+2026-09-19T17:50:34.517116,MLB,Milwaukee Brewers vs. Baltimore Orioles,Milwaukee Brewers,50.5
+2026-09-19T17:50:34.517120,MLB,Milwaukee Brewers vs. Baltimore Orioles,Baltimore Orioles,49.5
+2026-09-19T17:50:34.517127,MLB,Boston Red Sox vs. Tampa Bay Rays,Boston Red Sox,41.5
+2026-09-19T17:50:34.517130,MLB,Boston Red Sox vs. Tampa Bay Rays,Tampa Bay Rays,58.5
+2026-09-19T17:50:34.517136,MLB,Washington Nationals vs. St. Louis Cardinals,Washington Nationals,49.5
+2026-09-19T17:50:34.517139,MLB,Washington Nationals vs. St. Louis Cardinals,St. Louis Cardinals,50.5
+2026-09-19T17:50:34.517146,MLB,San Francisco Giants vs. Los Angeles Dodgers,San Francisco Giants,22.5
+2026-09-19T17:50:34.517149,MLB,San Francisco Giants vs. Los Angeles Dodgers,Los Angeles Dodgers,77.5

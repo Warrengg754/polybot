@@ -40349,3 +40349,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-09-23T17:56:12.541731,MLB,Arizona Diamondbacks vs. Colorado Rockies: O/U 11.5,Under,50.5
 2026-09-23T17:56:12.541737,MLB,Toronto Blue Jays vs. Baltimore Orioles,Toronto Blue Jays,47.5
 2026-09-23T17:56:12.541740,MLB,Toronto Blue Jays vs. Baltimore Orioles,Baltimore Orioles,52.5
+2026-09-23T21:21:20.267505,NBA,Will Miami Heat win the 2027 NBA Finals?,Yes,3.05
+2026-09-23T21:21:20.267539,NBA,Will Miami Heat win the 2027 NBA Finals?,No,96.95
+2026-09-23T21:21:20.267558,NBA,Will Steph Curry's next team be Golden State Warriors?,Yes,95.19999999999999
+2026-09-23T21:21:20.267566,NBA,Will Steph Curry's next team be Golden State Warriors?,No,4.8
+2026-09-23T21:21:20.267580,NBA,Will Los Angeles Clippers win the 2027 NBA Finals?,Yes,0.25
+2026-09-23T21:21:20.267591,NBA,Will Los Angeles Clippers win the 2027 NBA Finals?,No,99.75
+2026-09-23T21:21:20.267612,NBA,Will Toronto Raptors win the 2027 NBA Finals?,Yes,2.85
+2026-09-23T21:21:20.267619,NBA,Will Toronto Raptors win the 2027 NBA Finals?,No,97.15
+2026-09-23T21:21:20.267636,NBA,NBA: Stephen Curry to leave Warriors?,Yes,1.7999999999999998
+2026-09-23T21:21:20.267643,NBA,NBA: Stephen Curry to leave Warriors?,No,98.2
+2026-09-23T21:21:20.512623,NFL,Falcons vs. Packers: O/U 43.5,Over,47.5
+2026-09-23T21:21:20.512639,NFL,Falcons vs. Packers: O/U 43.5,Under,52.5
+2026-09-23T21:21:20.512647,NFL,Falcons vs. Packers,Falcons,29.5
+2026-09-23T21:21:20.512650,NFL,Falcons vs. Packers,Packers,70.5
+2026-09-23T21:21:20.512657,NFL,Patriots vs. Jaguars,Patriots,41.5
+2026-09-23T21:21:20.512660,NFL,Patriots vs. Jaguars,Jaguars,58.5
+2026-09-23T21:21:20.512666,NFL,Falcons vs. Packers: O/U 44.5,Over,42.5
+2026-09-23T21:21:20.512669,NFL,Falcons vs. Packers: O/U 44.5,Under,57.49999999999999
+2026-09-23T21:21:20.512676,NFL,Spread: Packers (-6.5),Packers,44.5
+2026-09-23T21:21:20.512679,NFL,Spread: Packers (-6.5),Falcons,55.50000000000001
+2026-09-23T21:21:20.782140,Premier League,Will Tottenham Hotspur be relegated from the 2026-27 Premier League?,Yes,14.000000000000002
+2026-09-23T21:21:20.782158,Premier League,Will Tottenham Hotspur be relegated from the 2026-27 Premier League?,No,86.0
+2026-09-23T21:21:20.782168,Premier League,Will Nottingham Forest be relegated from the 2026-27 Premier League?,Yes,6.5
+2026-09-23T21:21:20.782172,Premier League,Will Nottingham Forest be relegated from the 2026-27 Premier League?,No,93.5
+2026-09-23T21:21:20.782180,Premier League,Will Manchester City be relegated from the 2026-27 Premier League?,Yes,2.0
+2026-09-23T21:21:20.782201,Premier League,Will Manchester City be relegated from the 2026-27 Premier League?,No,98.0
+2026-09-23T21:21:20.782213,Premier League,Will Fulham qualify for the 2027-28 UEFA Europa League?,Yes,6.0
+2026-09-23T21:21:20.782216,Premier League,Will Fulham qualify for the 2027-28 UEFA Europa League?,No,94.0
+2026-09-23T21:21:20.782223,Premier League,Will Aston Villa qualify for the 2027-28 UEFA Europa League?,Yes,20.5
+2026-09-23T21:21:20.782227,Premier League,Will Aston Villa qualify for the 2027-28 UEFA Europa League?,No,79.5
+2026-09-23T21:21:21.015662,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-09-23T21:21:21.015681,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-09-23T21:21:21.015691,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,Yes,0.35000000000000003
+2026-09-23T21:21:21.015696,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,No,99.65
+2026-09-23T21:21:21.015704,Champions League,Will Roma win the 2026-27 UEFA Champions League Championship?,Yes,0.5499999999999999
+2026-09-23T21:21:21.015708,Champions League,Will Roma win the 2026-27 UEFA Champions League Championship?,No,99.45
+2026-09-23T21:21:21.015715,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,1.7500000000000002
+2026-09-23T21:21:21.015723,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,98.25
+2026-09-23T21:21:21.015731,Champions League,Will Inter Milan reach the 2027 UEFA Champions League semifinal?,Yes,25.5
+2026-09-23T21:21:21.015735,Champions League,Will Inter Milan reach the 2027 UEFA Champions League semifinal?,No,74.5
+2026-09-23T21:21:21.225868,MLB,Minnesota Twins vs. San Francisco Giants,Minnesota Twins,54.50000000000001
+2026-09-23T21:21:21.225886,MLB,Minnesota Twins vs. San Francisco Giants,San Francisco Giants,45.5
+2026-09-23T21:21:21.225895,MLB,Toronto Blue Jays vs. Baltimore Orioles: O/U 7.5,Over,0.05
+2026-09-23T21:21:21.225899,MLB,Toronto Blue Jays vs. Baltimore Orioles: O/U 7.5,Under,99.95
+2026-09-23T21:21:21.225907,MLB,Arizona Diamondbacks vs. Colorado Rockies: O/U 11.5,Over,45.5
+2026-09-23T21:21:21.225910,MLB,Arizona Diamondbacks vs. Colorado Rockies: O/U 11.5,Under,54.50000000000001
+2026-09-23T21:21:21.225917,MLB,Tampa Bay Rays vs. New York Yankees,Tampa Bay Rays,44.5
+2026-09-23T21:21:21.225920,MLB,Tampa Bay Rays vs. New York Yankees,New York Yankees,55.50000000000001
+2026-09-23T21:21:21.225927,MLB,Tampa Bay Rays vs. New York Yankees: O/U 6.5,Over,51.5
+2026-09-23T21:21:21.225930,MLB,Tampa Bay Rays vs. New York Yankees: O/U 6.5,Under,48.5

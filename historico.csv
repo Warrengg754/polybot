@@ -41299,3 +41299,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-09-26T22:30:41.971777,MLB,Spread: Los Angeles Dodgers (-2.5),San Francisco Giants,90.0
 2026-09-26T22:30:41.971781,MLB,Spread: Chicago White Sox (-1.5),Chicago White Sox,52.5
 2026-09-26T22:30:41.971783,MLB,Spread: Chicago White Sox (-1.5),Colorado Rockies,47.5
+2026-09-27T01:11:05.254261,NBA,NBA: Stephen Curry to leave Warriors?,Yes,0.65
+2026-09-27T01:11:05.254298,NBA,NBA: Stephen Curry to leave Warriors?,No,99.35000000000001
+2026-09-27T01:11:05.254313,NBA,Will Steph Curry's next team be Charlotte Hornets?,Yes,0.7000000000000001
+2026-09-27T01:11:05.254319,NBA,Will Steph Curry's next team be Charlotte Hornets?,No,99.3
+2026-09-27T01:11:05.254329,NBA,Will Orlando Magic win the 2027 NBA Finals?,Yes,0.75
+2026-09-27T01:11:05.254336,NBA,Will Orlando Magic win the 2027 NBA Finals?,No,99.25
+2026-09-27T01:11:05.254352,NBA,Will Steph Curry's next team be Golden State Warriors?,Yes,98.1
+2026-09-27T01:11:05.254357,NBA,Will Steph Curry's next team be Golden State Warriors?,No,1.9
+2026-09-27T01:11:05.254366,NBA,Will Detroit Pistons win the 2027 NBA Finals?,Yes,2.85
+2026-09-27T01:11:05.254371,NBA,Will Detroit Pistons win the 2027 NBA Finals?,No,97.15
+2026-09-27T01:11:05.512721,NFL,Spread: 49ers (-7.5),49ers,49.5
+2026-09-27T01:11:05.512738,NFL,Spread: 49ers (-7.5),Cardinals,50.5
+2026-09-27T01:11:05.512744,NFL,Spread: Cowboys (-3.5),Cowboys,25.5
+2026-09-27T01:11:05.512747,NFL,Spread: Cowboys (-3.5),Ravens,74.5
+2026-09-27T01:11:05.512751,NFL,Spread: Steelers (-3.5),Steelers,27.500000000000004
+2026-09-27T01:11:05.512754,NFL,Spread: Steelers (-3.5),Bengals,72.5
+2026-09-27T01:11:05.512760,NFL,Spread: Chiefs (-3.5),Chiefs,74.5
+2026-09-27T01:11:05.512762,NFL,Spread: Chiefs (-3.5),Dolphins,25.5
+2026-09-27T01:11:05.512766,NFL,Spread: Colts (-3.5),Colts,33.5
+2026-09-27T01:11:05.512769,NFL,Spread: Colts (-3.5),Texans,66.5
+2026-09-27T01:11:05.779352,Premier League,Will Manchester City be relegated from the 2026-27 Premier League?,Yes,20.0
+2026-09-27T01:11:05.779370,Premier League,Will Manchester City be relegated from the 2026-27 Premier League?,No,80.0
+2026-09-27T01:11:05.779376,Premier League,Will Manchester City qualify for the 2027-28 UEFA Champions League?,Yes,52.5
+2026-09-27T01:11:05.779380,Premier League,Will Manchester City qualify for the 2027-28 UEFA Champions League?,No,47.5
+2026-09-27T01:11:05.779386,Premier League,Will Everton be relegated from the 2026-27 Premier League?,Yes,5.5
+2026-09-27T01:11:05.779389,Premier League,Will Everton be relegated from the 2026-27 Premier League?,No,94.5
+2026-09-27T01:11:05.779394,Premier League,Will Hull City be relegated from the 2026-27 Premier League?,Yes,50.0
+2026-09-27T01:11:05.779396,Premier League,Will Hull City be relegated from the 2026-27 Premier League?,No,50.0
+2026-09-27T01:11:05.779402,Premier League,Will Brentford be relegated from the 2026-27 Premier League?,Yes,2.25
+2026-09-27T01:11:05.779407,Premier League,Will Brentford be relegated from the 2026-27 Premier League?,No,97.75
+2026-09-27T01:11:06.022713,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-09-27T01:11:06.022731,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-09-27T01:11:06.022739,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,23.5
+2026-09-27T01:11:06.022743,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,76.5
+2026-09-27T01:11:06.022749,Champions League,Will Roma win the 2026-27 UEFA Champions League Championship?,Yes,0.65
+2026-09-27T01:11:06.022752,Champions League,Will Roma win the 2026-27 UEFA Champions League Championship?,No,99.35000000000001
+2026-09-27T01:11:06.022757,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,Yes,2.5
+2026-09-27T01:11:06.022760,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,No,97.5
+2026-09-27T01:11:06.022766,Champions League,Will Aston Villa win the 2026-27 UEFA Champions League Championship?,Yes,0.95
+2026-09-27T01:11:06.022768,Champions League,Will Aston Villa win the 2026-27 UEFA Champions League Championship?,No,99.05000000000001
+2026-09-27T01:11:06.275937,MLB,Tampa Bay Rays vs. Philadelphia Phillies,Tampa Bay Rays,85.5
+2026-09-27T01:11:06.275958,MLB,Tampa Bay Rays vs. Philadelphia Phillies,Philadelphia Phillies,14.499999999999998
+2026-09-27T01:11:06.275966,MLB,Colorado Rockies vs. Chicago White Sox,Colorado Rockies,82.5
+2026-09-27T01:11:06.275969,MLB,Colorado Rockies vs. Chicago White Sox,Chicago White Sox,17.5
+2026-09-27T01:11:06.275974,MLB,Texas Rangers vs. Minnesota Twins,Texas Rangers,99.95
+2026-09-27T01:11:06.275977,MLB,Texas Rangers vs. Minnesota Twins,Minnesota Twins,0.05
+2026-09-27T01:11:06.275982,MLB,Arizona Diamondbacks vs. San Diego Padres,Arizona Diamondbacks,45.5
+2026-09-27T01:11:06.275985,MLB,Arizona Diamondbacks vs. San Diego Padres,San Diego Padres,54.50000000000001
+2026-09-27T01:11:06.275990,MLB,St. Louis Cardinals vs. Milwaukee Brewers,St. Louis Cardinals,15.5
+2026-09-27T01:11:06.275993,MLB,St. Louis Cardinals vs. Milwaukee Brewers,Milwaukee Brewers,84.5

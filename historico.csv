@@ -41599,3 +41599,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-09-27T23:52:59.256266,MLB,Baltimore Orioles vs. New York Yankees,New York Yankees,49.5
 2026-09-27T23:52:59.256272,MLB,Baltimore Orioles vs. New York Yankees: O/U 7.5,Over,48.5
 2026-09-27T23:52:59.256276,MLB,Baltimore Orioles vs. New York Yankees: O/U 7.5,Under,51.5
+2026-09-28T04:28:03.910392,NBA,Will Oklahoma City Thunder win the 2027 NBA Finals?,Yes,19.5
+2026-09-28T04:28:03.910421,NBA,Will Oklahoma City Thunder win the 2027 NBA Finals?,No,80.5
+2026-09-28T04:28:03.910433,NBA,Will Houston Rockets win the 2027 NBA Finals?,Yes,1.6500000000000001
+2026-09-28T04:28:03.910438,NBA,Will Houston Rockets win the 2027 NBA Finals?,No,98.35000000000001
+2026-09-28T04:28:03.910446,NBA,Will Denver Nuggets win the 2027 NBA Finals?,Yes,2.9499999999999997
+2026-09-28T04:28:03.910453,NBA,Will Denver Nuggets win the 2027 NBA Finals?,No,97.05
+2026-09-28T04:28:03.910466,NBA,Will Orlando Magic win the 2027 NBA Finals?,Yes,0.75
+2026-09-28T04:28:03.910470,NBA,Will Orlando Magic win the 2027 NBA Finals?,No,99.25
+2026-09-28T04:28:03.910477,NBA,Will Atlanta Hawks win the 2027 NBA Finals?,Yes,0.8500000000000001
+2026-09-28T04:28:03.910481,NBA,Will Atlanta Hawks win the 2027 NBA Finals?,No,99.15
+2026-09-28T04:28:04.178953,NFL,Spread: Rams (-1.5),Rams,0.05
+2026-09-28T04:28:04.178970,NFL,Spread: Rams (-1.5),Broncos,99.95
+2026-09-28T04:28:04.178978,NFL,Rams vs. Broncos: O/U 44.5,Over,99.95
+2026-09-28T04:28:04.178982,NFL,Rams vs. Broncos: O/U 44.5,Under,0.05
+2026-09-28T04:28:04.178988,NFL,Spread: Rams (-2.5),Rams,0.05
+2026-09-28T04:28:04.178991,NFL,Spread: Rams (-2.5),Broncos,99.95
+2026-09-28T04:28:04.179000,NFL,Eagles vs. Bears,Eagles,65.5
+2026-09-28T04:28:04.179004,NFL,Eagles vs. Bears,Bears,34.5
+2026-09-28T04:28:04.179010,NFL,Rams vs. Broncos: O/U 45.5,Over,99.95
+2026-09-28T04:28:04.179013,NFL,Rams vs. Broncos: O/U 45.5,Under,0.05
+2026-09-28T04:28:04.466434,Premier League,Will Manchester City be relegated from the 2026-27 Premier League?,Yes,16.3
+2026-09-28T04:28:04.466452,Premier League,Will Manchester City be relegated from the 2026-27 Premier League?,No,83.7
+2026-09-28T04:28:04.466462,Premier League,Will Brighton & Hove Albion FC win on 2026-10-10?,Yes,41.5
+2026-09-28T04:28:04.466466,Premier League,Will Brighton & Hove Albion FC win on 2026-10-10?,No,58.5
+2026-09-28T04:28:04.466472,Premier League,Will Arsenal FC win on 2026-10-10?,Yes,71.5
+2026-09-28T04:28:04.466476,Premier League,Will Arsenal FC win on 2026-10-10?,No,28.499999999999996
+2026-09-28T04:28:04.466483,Premier League,Will Manchester United qualify for the 2027-28 UEFA Champions League?,Yes,36.5
+2026-09-28T04:28:04.466487,Premier League,Will Manchester United qualify for the 2027-28 UEFA Champions League?,No,63.5
+2026-09-28T04:28:04.466494,Premier League,Will Crystal Palace qualify for the 2027-28 UEFA Conference League?,Yes,11.5
+2026-09-28T04:28:04.466500,Premier League,Will Crystal Palace qualify for the 2027-28 UEFA Conference League?,No,88.5
+2026-09-28T04:28:04.711937,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-09-28T04:28:04.711954,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-09-28T04:28:04.711964,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,Yes,10.5
+2026-09-28T04:28:04.711969,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,No,89.5
+2026-09-28T04:28:04.711977,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,12.5
+2026-09-28T04:28:04.711981,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,87.5
+2026-09-28T04:28:04.711988,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,23.5
+2026-09-28T04:28:04.711992,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,76.5
+2026-09-28T04:28:04.711998,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,Yes,0.95
+2026-09-28T04:28:04.712002,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,No,99.05000000000001
+2026-09-28T04:28:04.936758,MLB,Spread: New York Yankees (-2.5),New York Yankees,51.5
+2026-09-28T04:28:04.936775,MLB,Spread: New York Yankees (-2.5),Baltimore Orioles,48.5
+2026-09-28T04:28:04.936784,MLB,Baltimore Orioles vs. New York Yankees,Baltimore Orioles,49.5
+2026-09-28T04:28:04.936787,MLB,Baltimore Orioles vs. New York Yankees,New York Yankees,50.5
+2026-09-28T04:28:04.936794,MLB,Baltimore Orioles vs. New York Yankees: O/U 7.5,Over,49.5
+2026-09-28T04:28:04.936797,MLB,Baltimore Orioles vs. New York Yankees: O/U 7.5,Under,50.5
+2026-09-28T04:28:04.936804,MLB,Will the Houston Astros win the 2026 World Series?,Yes,3.45
+2026-09-28T04:28:04.936807,MLB,Will the Houston Astros win the 2026 World Series?,No,96.55
+2026-09-28T04:28:04.936814,MLB,Will the San Diego Padres win the 2026 World Series?,Yes,5.949999999999999
+2026-09-28T04:28:04.936818,MLB,Will the San Diego Padres win the 2026 World Series?,No,94.05

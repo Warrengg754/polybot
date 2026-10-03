@@ -42949,3 +42949,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-10-03T20:46:01.461213,MLB,Atlanta Braves vs. Los Angeles Dodgers: O/U 7.5,Under,65.5
 2026-10-03T20:46:01.461219,MLB,Atlanta Braves vs. Los Angeles Dodgers: O/U 8.5,Over,27.500000000000004
 2026-10-03T20:46:01.461223,MLB,Atlanta Braves vs. Los Angeles Dodgers: O/U 8.5,Under,72.5
+2026-10-03T23:35:53.534155,NBA,Heat vs. Raptors,Heat,73.5
+2026-10-03T23:35:53.534182,NBA,Heat vs. Raptors,Raptors,26.5
+2026-10-03T23:35:53.534192,NBA,Spread: Raptors (-3.5),Raptors,18.5
+2026-10-03T23:35:53.534195,NBA,Spread: Raptors (-3.5),Heat,81.5
+2026-10-03T23:35:53.534202,NBA,Spread: Raptors (-4.5),Raptors,17.0
+2026-10-03T23:35:53.534207,NBA,Spread: Raptors (-4.5),Heat,83.0
+2026-10-03T23:35:53.534220,NBA,Heat vs. Raptors: O/U 230.5,Over,50.5
+2026-10-03T23:35:53.534224,NBA,Heat vs. Raptors: O/U 230.5,Under,49.5
+2026-10-03T23:35:53.534231,NBA,Heat vs. Raptors: 1H O/U 116.5,Over,57.99999999999999
+2026-10-03T23:35:53.534235,NBA,Heat vs. Raptors: 1H O/U 116.5,Under,42.0
+2026-10-03T23:35:53.683039,NFL,Packers vs. Buccaneers,Packers,60.5
+2026-10-03T23:35:53.683052,NFL,Packers vs. Buccaneers,Buccaneers,39.5
+2026-10-03T23:35:53.683060,NFL,Colts vs. Commanders,Colts,66.5
+2026-10-03T23:35:53.683063,NFL,Colts vs. Commanders,Commanders,33.5
+2026-10-03T23:35:53.683070,NFL,Spread: Colts (-3.5),Colts,53.5
+2026-10-03T23:35:53.683072,NFL,Spread: Colts (-3.5),Commanders,46.5
+2026-10-03T23:35:53.683079,NFL,Patriots vs. Bills,Patriots,26.5
+2026-10-03T23:35:53.683082,NFL,Patriots vs. Bills,Bills,73.5
+2026-10-03T23:35:53.683088,NFL,Spread: Cardinals (-2.5),Cardinals,49.5
+2026-10-03T23:35:53.683091,NFL,Spread: Cardinals (-2.5),Giants,50.5
+2026-10-03T23:35:53.879679,Premier League,Will Arsenal FC win on 2026-10-10?,Yes,70.5
+2026-10-03T23:35:53.879695,Premier League,Will Arsenal FC win on 2026-10-10?,No,29.5
+2026-10-03T23:35:53.879703,Premier League,Will AFC Bournemouth win on 2026-10-10?,Yes,21.5
+2026-10-03T23:35:53.879707,Premier League,Will AFC Bournemouth win on 2026-10-10?,No,78.5
+2026-10-03T23:35:53.879713,Premier League,Spread: Arsenal FC (-1.5),Arsenal FC,44.0
+2026-10-03T23:35:53.879717,Premier League,Spread: Arsenal FC (-1.5),Leeds United FC,56.00000000000001
+2026-10-03T23:35:53.879723,Premier League,Will Chelsea FC win on 2026-10-10?,Yes,55.50000000000001
+2026-10-03T23:35:53.879727,Premier League,Will Chelsea FC win on 2026-10-10?,No,44.5
+2026-10-03T23:35:53.879733,Premier League,Will Liverpool FC win on 2026-10-11?,Yes,37.0
+2026-10-03T23:35:53.879737,Premier League,Will Liverpool FC win on 2026-10-11?,No,63.0
+2026-10-03T23:35:54.062996,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-10-03T23:35:54.063012,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-10-03T23:35:54.063022,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,1.6500000000000001
+2026-10-03T23:35:54.063030,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,98.35000000000001
+2026-10-03T23:35:54.063038,Champions League,Will Borussia Dortmund win the 2026-27 UEFA Champions League Championship?,Yes,0.8500000000000001
+2026-10-03T23:35:54.063043,Champions League,Will Borussia Dortmund win the 2026-27 UEFA Champions League Championship?,No,99.15
+2026-10-03T23:35:54.063050,Champions League,Will Manchester United win the 2026-27 UEFA Champions League Championship?,Yes,2.15
+2026-10-03T23:35:54.063053,Champions League,Will Manchester United win the 2026-27 UEFA Champions League Championship?,No,97.85000000000001
+2026-10-03T23:35:54.063060,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,Yes,2.55
+2026-10-03T23:35:54.063064,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,No,97.45
+2026-10-03T23:35:54.244194,MLB,New York Yankees vs. Tampa Bay Rays,New York Yankees,29.5
+2026-10-03T23:35:54.244208,MLB,New York Yankees vs. Tampa Bay Rays,Tampa Bay Rays,70.5
+2026-10-03T23:35:54.244217,MLB,San Diego Padres vs. Milwaukee Brewers,San Diego Padres,35.5
+2026-10-03T23:35:54.244221,MLB,San Diego Padres vs. Milwaukee Brewers,Milwaukee Brewers,64.5
+2026-10-03T23:35:54.244227,MLB,Will the Chicago White Sox win the 2026 World Series?,Yes,7.199999999999999
+2026-10-03T23:35:54.244232,MLB,Will the Chicago White Sox win the 2026 World Series?,No,92.80000000000001
+2026-10-03T23:35:54.244239,MLB,Will the Atlanta Braves win the 2026 World Series?,Yes,4.75
+2026-10-03T23:35:54.244242,MLB,Will the Atlanta Braves win the 2026 World Series?,No,95.25
+2026-10-03T23:35:54.244266,MLB,San Diego Padres vs. Milwaukee Brewers: O/U 7.5,Over,43.5
+2026-10-03T23:35:54.244270,MLB,San Diego Padres vs. Milwaukee Brewers: O/U 7.5,Under,56.49999999999999

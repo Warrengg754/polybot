@@ -43149,3 +43149,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-10-04T15:55:24.896607,MLB,Will the San Diego Padres win the 2026 World Series?,No,94.3
 2026-10-04T15:55:24.896612,MLB,Will the Tampa Bay Rays win the 2026 World Series?,Yes,14.45
 2026-10-04T15:55:24.896615,MLB,Will the Tampa Bay Rays win the 2026 World Series?,No,85.55
+2026-10-04T19:19:45.394927,NBA,Jazz vs. Nuggets,Jazz,43.5
+2026-10-04T19:19:45.394961,NBA,Jazz vs. Nuggets,Nuggets,56.49999999999999
+2026-10-04T19:19:45.394973,NBA,Warriors vs. Clippers,Warriors,57.49999999999999
+2026-10-04T19:19:45.394977,NBA,Warriors vs. Clippers,Clippers,42.5
+2026-10-04T19:19:45.394985,NBA,Will Indiana Pacers win the 2027 NBA Finals?,Yes,2.3
+2026-10-04T19:19:45.394991,NBA,Will Indiana Pacers win the 2027 NBA Finals?,No,97.7
+2026-10-04T19:19:45.395004,NBA,Will Utah Jazz win the 2027 NBA Finals?,Yes,0.8500000000000001
+2026-10-04T19:19:45.395009,NBA,Will Utah Jazz win the 2027 NBA Finals?,No,99.15
+2026-10-04T19:19:45.395017,NBA,Spread: Nuggets (-3.5),Nuggets,48.5
+2026-10-04T19:19:45.395020,NBA,Spread: Nuggets (-3.5),Jazz,51.5
+2026-10-04T19:19:45.589288,NFL,Cowboys vs. Texans,Cowboys,40.5
+2026-10-04T19:19:45.589303,NFL,Cowboys vs. Texans,Texans,59.5
+2026-10-04T19:19:45.589310,NFL,Rams vs. Eagles,Rams,22.5
+2026-10-04T19:19:45.589313,NFL,Rams vs. Eagles,Eagles,77.5
+2026-10-04T19:19:45.589320,NFL,Cardinals vs. Giants,Cardinals,42.5
+2026-10-04T19:19:45.589322,NFL,Cardinals vs. Giants,Giants,57.49999999999999
+2026-10-04T19:19:45.589330,NFL,Patriots vs. Bills,Patriots,56.49999999999999
+2026-10-04T19:19:45.589333,NFL,Patriots vs. Bills,Bills,43.5
+2026-10-04T19:19:45.589339,NFL,Jaguars vs. Bengals,Jaguars,77.5
+2026-10-04T19:19:45.589342,NFL,Jaguars vs. Bengals,Bengals,22.5
+2026-10-04T19:19:45.817975,Premier League,Will Chelsea FC win on 2026-10-10?,Yes,56.49999999999999
+2026-10-04T19:19:45.817993,Premier League,Will Chelsea FC win on 2026-10-10?,No,43.5
+2026-10-04T19:19:45.818005,Premier League,Will Liverpool FC win on 2026-10-11?,Yes,36.5
+2026-10-04T19:19:45.818008,Premier League,Will Liverpool FC win on 2026-10-11?,No,63.5
+2026-10-04T19:19:45.818014,Premier League,Will Manchester City be relegated from the 2026-27 Premier League?,Yes,25.8
+2026-10-04T19:19:45.818018,Premier League,Will Manchester City be relegated from the 2026-27 Premier League?,No,74.2
+2026-10-04T19:19:45.818025,Premier League,Will Manchester City qualify for the 2027-28 UEFA Champions League?,Yes,43.0
+2026-10-04T19:19:45.818028,Premier League,Will Manchester City qualify for the 2027-28 UEFA Champions League?,No,56.99999999999999
+2026-10-04T19:19:45.818036,Premier League,Will Arsenal FC win on 2026-10-10?,Yes,70.5
+2026-10-04T19:19:45.818039,Premier League,Will Arsenal FC win on 2026-10-10?,No,29.5
+2026-10-04T19:19:45.980647,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-10-04T19:19:45.980664,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-10-04T19:19:45.980674,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,Yes,2.1999999999999997
+2026-10-04T19:19:45.980679,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,No,97.8
+2026-10-04T19:19:45.980687,Champions League,Will Galatasaray win the 2026-27 UEFA Champions League Championship?,Yes,0.25
+2026-10-04T19:19:45.980691,Champions League,Will Galatasaray win the 2026-27 UEFA Champions League Championship?,No,99.75
+2026-10-04T19:19:45.980698,Champions League,Will PSV Eindhoven win the 2026-27 UEFA Champions League Championship?,Yes,0.25
+2026-10-04T19:19:45.980702,Champions League,Will PSV Eindhoven win the 2026-27 UEFA Champions League Championship?,No,99.75
+2026-10-04T19:19:45.980709,Champions League,Will Villarreal win the 2026-27 UEFA Champions League Championship?,Yes,0.35000000000000003
+2026-10-04T19:19:45.980713,Champions League,Will Villarreal win the 2026-27 UEFA Champions League Championship?,No,99.65
+2026-10-04T19:19:46.137408,MLB,Atlanta Braves vs. Los Angeles Dodgers,Atlanta Braves,32.5
+2026-10-04T19:19:46.137425,MLB,Atlanta Braves vs. Los Angeles Dodgers,Los Angeles Dodgers,67.5
+2026-10-04T19:19:46.137434,MLB,Will there be a run scored in the first inning?: Atlanta Braves vs. Los Angeles Dodgers,Yes,43.5
+2026-10-04T19:19:46.137438,MLB,Will there be a run scored in the first inning?: Atlanta Braves vs. Los Angeles Dodgers,No,56.49999999999999
+2026-10-04T19:19:46.137447,MLB,Atlanta Braves vs. Los Angeles Dodgers: O/U 6.5,Over,65.5
+2026-10-04T19:19:46.137450,MLB,Atlanta Braves vs. Los Angeles Dodgers: O/U 6.5,Under,34.5
+2026-10-04T19:19:46.137456,MLB,Chicago White Sox vs. Cleveland Guardians: 1st inning tied?,Yes,58.5
+2026-10-04T19:19:46.137460,MLB,Chicago White Sox vs. Cleveland Guardians: 1st inning tied?,No,41.5
+2026-10-04T19:19:46.137466,MLB,Will the Tampa Bay Rays win the 2026 World Series?,Yes,14.549999999999999
+2026-10-04T19:19:46.137470,MLB,Will the Tampa Bay Rays win the 2026 World Series?,No,85.45

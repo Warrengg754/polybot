@@ -43399,3 +43399,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-10-05T16:55:57.026951,MLB,Will the Los Angeles Dodgers win the 2026 World Series?,No,71.5
 2026-10-05T16:55:57.026958,MLB,Will the Chicago White Sox win the 2026 World Series?,Yes,7.249999999999999
 2026-10-05T16:55:57.026962,MLB,Will the Chicago White Sox win the 2026 World Series?,No,92.75
+2026-10-05T23:05:41.057543,NBA,Knicks vs. 76ers,Knicks,63.5
+2026-10-05T23:05:41.057579,NBA,Knicks vs. 76ers,76ers,36.5
+2026-10-05T23:05:41.057590,NBA,Pelicans vs. Thunder,Pelicans,43.5
+2026-10-05T23:05:41.057594,NBA,Pelicans vs. Thunder,Thunder,56.49999999999999
+2026-10-05T23:05:41.057602,NBA,Grizzlies vs. Hawks,Grizzlies,40.5
+2026-10-05T23:05:41.057607,NBA,Grizzlies vs. Hawks,Hawks,59.5
+2026-10-05T23:05:41.057623,NBA,Will Washington Wizards win the 2027 NBA Finals?,Yes,0.8500000000000001
+2026-10-05T23:05:41.057630,NBA,Will Washington Wizards win the 2027 NBA Finals?,No,99.15
+2026-10-05T23:05:41.057638,NBA,Knicks vs. 76ers: O/U 227.5,Over,53.5
+2026-10-05T23:05:41.057641,NBA,Knicks vs. 76ers: O/U 227.5,Under,46.5
+2026-10-05T23:05:41.214718,NFL,Falcons vs. Saints,Falcons,47.5
+2026-10-05T23:05:41.214735,NFL,Falcons vs. Saints,Saints,52.5
+2026-10-05T23:05:41.214743,NFL,Spread: Saints (-1.5),Saints,48.5
+2026-10-05T23:05:41.214746,NFL,Spread: Saints (-1.5),Falcons,51.5
+2026-10-05T23:05:41.214753,NFL,Spread: Saints (-2.5),Saints,46.5
+2026-10-05T23:05:41.214755,NFL,Spread: Saints (-2.5),Falcons,53.5
+2026-10-05T23:05:41.214762,NFL,Falcons vs. Saints: O/U 48.5,Over,46.5
+2026-10-05T23:05:41.214765,NFL,Falcons vs. Saints: O/U 48.5,Under,53.5
+2026-10-05T23:05:41.214771,NFL,Falcons vs. Saints: O/U 47.5,Over,49.5
+2026-10-05T23:05:41.214774,NFL,Falcons vs. Saints: O/U 47.5,Under,50.5
+2026-10-05T23:05:41.386551,Premier League,Will Leeds United FC win on 2026-10-10?,Yes,10.5
+2026-10-05T23:05:41.386568,Premier League,Will Leeds United FC win on 2026-10-10?,No,89.5
+2026-10-05T23:05:41.386576,Premier League,Will Brighton & Hove Albion FC win on 2026-10-10?,Yes,40.5
+2026-10-05T23:05:41.386580,Premier League,Will Brighton & Hove Albion FC win on 2026-10-10?,No,59.5
+2026-10-05T23:05:41.386587,Premier League,Will Arsenal FC win on 2026-10-10?,Yes,71.5
+2026-10-05T23:05:41.386590,Premier League,Will Arsenal FC win on 2026-10-10?,No,28.499999999999996
+2026-10-05T23:05:41.386597,Premier League,Will Arsenal FC win on 2026-10-18?,Yes,61.0
+2026-10-05T23:05:41.386600,Premier League,Will Arsenal FC win on 2026-10-18?,No,39.0
+2026-10-05T23:05:41.386606,Premier League,Will Manchester City FC win on 2026-10-17?,Yes,80.5
+2026-10-05T23:05:41.386609,Premier League,Will Manchester City FC win on 2026-10-17?,No,19.5
+2026-10-05T23:05:41.708643,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-10-05T23:05:41.708661,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-10-05T23:05:41.708671,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,Yes,9.5
+2026-10-05T23:05:41.708676,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,No,90.5
+2026-10-05T23:05:41.708684,Champions League,Will PSV Eindhoven win the 2026-27 UEFA Champions League Championship?,Yes,0.25
+2026-10-05T23:05:41.708688,Champions League,Will PSV Eindhoven win the 2026-27 UEFA Champions League Championship?,No,99.75
+2026-10-05T23:05:41.708695,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,Yes,0.95
+2026-10-05T23:05:41.708698,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,No,99.05000000000001
+2026-10-05T23:05:41.708706,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,21.5
+2026-10-05T23:05:41.708709,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,78.5
+2026-10-05T23:05:41.881233,MLB,Chicago White Sox vs. Cleveland Guardians,Chicago White Sox,33.5
+2026-10-05T23:05:41.881251,MLB,Chicago White Sox vs. Cleveland Guardians,Cleveland Guardians,66.5
+2026-10-05T23:05:41.881259,MLB,Chicago White Sox vs. Cleveland Guardians: O/U 6.5,Over,44.5
+2026-10-05T23:05:41.881263,MLB,Chicago White Sox vs. Cleveland Guardians: O/U 6.5,Under,55.50000000000001
+2026-10-05T23:05:41.881270,MLB,Spread: Chicago White Sox (-1.5),Chicago White Sox,19.5
+2026-10-05T23:05:41.881274,MLB,Spread: Chicago White Sox (-1.5),Cleveland Guardians,80.5
+2026-10-05T23:05:41.881281,MLB,Will the Atlanta Braves win the 2026 World Series?,Yes,8.25
+2026-10-05T23:05:41.881284,MLB,Will the Atlanta Braves win the 2026 World Series?,No,91.75
+2026-10-05T23:05:41.881290,MLB,Chicago White Sox vs. Cleveland Guardians: O/U 7.5,Over,40.5
+2026-10-05T23:05:41.881293,MLB,Chicago White Sox vs. Cleveland Guardians: O/U 7.5,Under,59.5

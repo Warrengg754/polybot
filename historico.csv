@@ -43349,3 +43349,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-10-05T07:31:14.221963,MLB,Will the Milwaukee Brewers win the 2026 World Series?,No,76.0
 2026-10-05T07:31:14.221969,MLB,Will the Chicago White Sox win the 2026 World Series?,Yes,6.75
 2026-10-05T07:31:14.221973,MLB,Will the Chicago White Sox win the 2026 World Series?,No,93.25
+2026-10-05T16:55:56.326965,NBA,Will New York Knicks win the 2027 NBA Finals?,Yes,12.5
+2026-10-05T16:55:56.327002,NBA,Will New York Knicks win the 2027 NBA Finals?,No,87.5
+2026-10-05T16:55:56.327012,NBA,Will Washington Wizards win the 2027 NBA Finals?,Yes,0.8500000000000001
+2026-10-05T16:55:56.327017,NBA,Will Washington Wizards win the 2027 NBA Finals?,No,99.15
+2026-10-05T16:55:56.327024,NBA,Will Charlotte Hornets win the 2027 NBA Finals?,Yes,0.5499999999999999
+2026-10-05T16:55:56.327030,NBA,Will Charlotte Hornets win the 2027 NBA Finals?,No,99.45
+2026-10-05T16:55:56.327043,NBA,Grizzlies vs. Hawks,Grizzlies,40.5
+2026-10-05T16:55:56.327047,NBA,Grizzlies vs. Hawks,Hawks,59.5
+2026-10-05T16:55:56.327053,NBA,Knicks vs. 76ers,Knicks,48.5
+2026-10-05T16:55:56.327056,NBA,Knicks vs. 76ers,76ers,51.5
+2026-10-05T16:55:56.488013,NFL,Falcons vs. Saints,Falcons,47.5
+2026-10-05T16:55:56.488029,NFL,Falcons vs. Saints,Saints,52.5
+2026-10-05T16:55:56.488037,NFL,Spread: Saints (-2.5),Saints,46.5
+2026-10-05T16:55:56.488040,NFL,Spread: Saints (-2.5),Falcons,53.5
+2026-10-05T16:55:56.488046,NFL,Spread: Saints (-1.5),Saints,49.5
+2026-10-05T16:55:56.488048,NFL,Spread: Saints (-1.5),Falcons,50.5
+2026-10-05T16:55:56.488055,NFL,Will the Washington Commanders win the 2027 NFL league championship?,Yes,0.35000000000000003
+2026-10-05T16:55:56.488060,NFL,Will the Washington Commanders win the 2027 NFL league championship?,No,99.65
+2026-10-05T16:55:56.488066,NFL,Bears vs. Packers,Bears,57.49999999999999
+2026-10-05T16:55:56.488070,NFL,Bears vs. Packers,Packers,42.5
+2026-10-05T16:55:56.658381,Premier League,Will Leeds United FC win on 2026-10-10?,Yes,11.0
+2026-10-05T16:55:56.658398,Premier League,Will Leeds United FC win on 2026-10-10?,No,89.0
+2026-10-05T16:55:56.658405,Premier League,Will Brighton & Hove Albion FC win on 2026-10-10?,Yes,40.5
+2026-10-05T16:55:56.658410,Premier League,Will Brighton & Hove Albion FC win on 2026-10-10?,No,59.5
+2026-10-05T16:55:56.658416,Premier League,Will Chelsea FC win on 2026-10-10?,Yes,56.49999999999999
+2026-10-05T16:55:56.658420,Premier League,Will Chelsea FC win on 2026-10-10?,No,43.5
+2026-10-05T16:55:56.658427,Premier League,Will Arsenal FC win on 2026-10-18?,Yes,61.0
+2026-10-05T16:55:56.658430,Premier League,Will Arsenal FC win on 2026-10-18?,No,39.0
+2026-10-05T16:55:56.658436,Premier League,Will Arsenal FC win on 2026-10-10?,Yes,71.5
+2026-10-05T16:55:56.658439,Premier League,Will Arsenal FC win on 2026-10-10?,No,28.499999999999996
+2026-10-05T16:55:56.828308,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-10-05T16:55:56.828321,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-10-05T16:55:56.828331,Champions League,Will Real Madrid reach the 2027 UEFA Champions League quarterfinal?,Yes,82.5
+2026-10-05T16:55:56.828336,Champions League,Will Real Madrid reach the 2027 UEFA Champions League quarterfinal?,No,17.5
+2026-10-05T16:55:56.828343,Champions League,Will PSV Eindhoven win the 2026-27 UEFA Champions League Championship?,Yes,0.25
+2026-10-05T16:55:56.828347,Champions League,Will PSV Eindhoven win the 2026-27 UEFA Champions League Championship?,No,99.75
+2026-10-05T16:55:56.828354,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,1.7500000000000002
+2026-10-05T16:55:56.828362,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,98.25
+2026-10-05T16:55:56.828370,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,Yes,1.0
+2026-10-05T16:55:56.828374,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,No,99.0
+2026-10-05T16:55:57.026898,MLB,Chicago White Sox vs. Cleveland Guardians,Chicago White Sox,41.5
+2026-10-05T16:55:57.026916,MLB,Chicago White Sox vs. Cleveland Guardians,Cleveland Guardians,58.5
+2026-10-05T16:55:57.026926,MLB,Spread: Chicago White Sox (-1.5),Chicago White Sox,28.499999999999996
+2026-10-05T16:55:57.026930,MLB,Spread: Chicago White Sox (-1.5),Cleveland Guardians,71.5
+2026-10-05T16:55:57.026938,MLB,Will the Atlanta Braves win the 2026 World Series?,Yes,9.8
+2026-10-05T16:55:57.026941,MLB,Will the Atlanta Braves win the 2026 World Series?,No,90.2
+2026-10-05T16:55:57.026947,MLB,Will the Los Angeles Dodgers win the 2026 World Series?,Yes,28.499999999999996
+2026-10-05T16:55:57.026951,MLB,Will the Los Angeles Dodgers win the 2026 World Series?,No,71.5
+2026-10-05T16:55:57.026958,MLB,Will the Chicago White Sox win the 2026 World Series?,Yes,7.249999999999999
+2026-10-05T16:55:57.026962,MLB,Will the Chicago White Sox win the 2026 World Series?,No,92.75

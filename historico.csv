@@ -43799,3 +43799,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-10-07T15:20:19.389385,MLB,Will the San Diego Padres win the 2026 World Series?,No,94.65
 2026-10-07T15:20:19.389391,MLB,Will the Los Angeles Dodgers win the 2026 World Series?,Yes,38.0
 2026-10-07T15:20:19.389395,MLB,Will the Los Angeles Dodgers win the 2026 World Series?,No,62.0
+2026-10-07T20:42:58.715115,NBA,Will Philadelphia 76ers win the 2027 NBA Finals?,Yes,11.05
+2026-10-07T20:42:58.715153,NBA,Will Philadelphia 76ers win the 2027 NBA Finals?,No,88.94999999999999
+2026-10-07T20:42:58.715167,NBA,Warriors vs. Trail Blazers,Warriors,19.5
+2026-10-07T20:42:58.715172,NBA,Warriors vs. Trail Blazers,Trail Blazers,80.5
+2026-10-07T20:42:58.715183,NBA,Timberwolves vs. Pacers,Timberwolves,56.49999999999999
+2026-10-07T20:42:58.715190,NBA,Timberwolves vs. Pacers,Pacers,43.5
+2026-10-07T20:42:58.715206,NBA,Bucks vs. Thunder,Bucks,16.5
+2026-10-07T20:42:58.715210,NBA,Bucks vs. Thunder,Thunder,83.5
+2026-10-07T20:42:58.715221,NBA,Suns vs. Bulls,Suns,55.50000000000001
+2026-10-07T20:42:58.715226,NBA,Suns vs. Bulls,Bulls,44.5
+2026-10-07T20:42:58.876242,NFL,Will Dallas Cowboys win the 2026 NFC East?,Yes,47.0
+2026-10-07T20:42:58.876258,NFL,Will Dallas Cowboys win the 2026 NFC East?,No,53.0
+2026-10-07T20:42:58.876266,NFL,Buccaneers vs. Cowboys,Buccaneers,19.5
+2026-10-07T20:42:58.876270,NFL,Buccaneers vs. Cowboys,Cowboys,80.5
+2026-10-07T20:42:58.876278,NFL,Buccaneers vs. Cowboys: O/U 47.5,Over,50.5
+2026-10-07T20:42:58.876281,NFL,Buccaneers vs. Cowboys: O/U 47.5,Under,49.5
+2026-10-07T20:42:58.876288,NFL,Eagles vs. Jaguars,Eagles,23.5
+2026-10-07T20:42:58.876292,NFL,Eagles vs. Jaguars,Jaguars,76.5
+2026-10-07T20:42:58.876298,NFL,Spread: Cowboys (-9.5),Cowboys,46.5
+2026-10-07T20:42:58.876301,NFL,Spread: Cowboys (-9.5),Buccaneers,53.5
+2026-10-07T20:42:59.057914,Premier League,Exact Score: Any Other Score?,Yes,35.5
+2026-10-07T20:42:59.057934,Premier League,Exact Score: Any Other Score?,No,64.5
+2026-10-07T20:42:59.057944,Premier League,Will Arsenal FC win on 2026-10-10?,Yes,70.5
+2026-10-07T20:42:59.057948,Premier League,Will Arsenal FC win on 2026-10-10?,No,29.5
+2026-10-07T20:42:59.057956,Premier League,Will Brighton & Hove Albion FC win on 2026-10-10?,Yes,41.5
+2026-10-07T20:42:59.057960,Premier League,Will Brighton & Hove Albion FC win on 2026-10-10?,No,58.5
+2026-10-07T20:42:59.057968,Premier League,Will Manchester City FC win on 2026-10-11?,Yes,37.5
+2026-10-07T20:42:59.057973,Premier League,Will Manchester City FC win on 2026-10-11?,No,62.5
+2026-10-07T20:42:59.057981,Premier League,Will Leeds United FC win on 2026-10-10?,Yes,10.5
+2026-10-07T20:42:59.057985,Premier League,Will Leeds United FC win on 2026-10-10?,No,89.5
+2026-10-07T20:42:59.382030,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-10-07T20:42:59.382051,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-10-07T20:42:59.382064,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,1.9
+2026-10-07T20:42:59.382075,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,98.1
+2026-10-07T20:42:59.382086,Champions League,Will Manchester City win the 2026-27 UEFA Champions League Championship?,Yes,6.5
+2026-10-07T20:42:59.382092,Champions League,Will Manchester City win the 2026-27 UEFA Champions League Championship?,No,93.5
+2026-10-07T20:42:59.382102,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,Yes,2.3
+2026-10-07T20:42:59.382107,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,No,97.7
+2026-10-07T20:42:59.382117,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,Yes,10.5
+2026-10-07T20:42:59.382122,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,No,89.5
+2026-10-07T20:42:59.539352,MLB,Cleveland Guardians vs. Chicago White Sox,Cleveland Guardians,34.5
+2026-10-07T20:42:59.539371,MLB,Cleveland Guardians vs. Chicago White Sox,Chicago White Sox,65.5
+2026-10-07T20:42:59.539381,MLB,Tampa Bay Rays vs. New York Yankees,Tampa Bay Rays,39.5
+2026-10-07T20:42:59.539386,MLB,Tampa Bay Rays vs. New York Yankees,New York Yankees,60.5
+2026-10-07T20:42:59.539394,MLB,Cleveland Guardians vs. Chicago White Sox: O/U 7.5,Over,36.5
+2026-10-07T20:42:59.539398,MLB,Cleveland Guardians vs. Chicago White Sox: O/U 7.5,Under,63.5
+2026-10-07T20:42:59.539406,MLB,Los Angeles Dodgers vs. Atlanta Braves,Los Angeles Dodgers,58.5
+2026-10-07T20:42:59.539411,MLB,Los Angeles Dodgers vs. Atlanta Braves,Atlanta Braves,41.5
+2026-10-07T20:42:59.539419,MLB,Spread: Chicago White Sox (-1.5),Chicago White Sox,44.0
+2026-10-07T20:42:59.539423,MLB,Spread: Chicago White Sox (-1.5),Cleveland Guardians,56.00000000000001

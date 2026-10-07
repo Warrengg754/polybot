@@ -43649,3 +43649,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-10-06T21:48:47.923968,MLB,Will the Atlanta Braves win the 2026 World Series?,No,89.85
 2026-10-06T21:48:47.923974,MLB,Will the Chicago White Sox win the 2026 World Series?,Yes,10.8
 2026-10-06T21:48:47.923978,MLB,Will the Chicago White Sox win the 2026 World Series?,No,89.2
+2026-10-07T01:15:34.318628,NBA,Nets vs. Hornets,Nets,99.95
+2026-10-07T01:15:34.318659,NBA,Nets vs. Hornets,Hornets,0.05
+2026-10-07T01:15:34.318670,NBA,Pelicans vs. Thunder,Pelicans,14.000000000000002
+2026-10-07T01:15:34.318675,NBA,Pelicans vs. Thunder,Thunder,86.0
+2026-10-07T01:15:34.318683,NBA,Lakers vs. Warriors,Lakers,30.5
+2026-10-07T01:15:34.318689,NBA,Lakers vs. Warriors,Warriors,69.5
+2026-10-07T01:15:34.318703,NBA,Nets vs. Hornets: O/U 209.5,Over,67.5
+2026-10-07T01:15:34.318707,NBA,Nets vs. Hornets: O/U 209.5,Under,32.5
+2026-10-07T01:15:34.318714,NBA,Will Miami Heat win the 2027 NBA Finals?,Yes,3.15
+2026-10-07T01:15:34.318718,NBA,Will Miami Heat win the 2027 NBA Finals?,No,96.85000000000001
+2026-10-07T01:15:34.475524,NFL,Ravens vs. Falcons,Ravens,38.5
+2026-10-07T01:15:34.475541,NFL,Ravens vs. Falcons,Falcons,61.5
+2026-10-07T01:15:34.475550,NFL,Spread: Cowboys (-9.5),Cowboys,45.5
+2026-10-07T01:15:34.475553,NFL,Spread: Cowboys (-9.5),Buccaneers,54.50000000000001
+2026-10-07T01:15:34.475561,NFL,Will the Philadelphia Eagles win the 2027 NFL league championship?,Yes,2.35
+2026-10-07T01:15:34.475565,NFL,Will the Philadelphia Eagles win the 2027 NFL league championship?,No,97.65
+2026-10-07T01:15:34.475572,NFL,Spread: Lions (-4.5),Lions,51.5
+2026-10-07T01:15:34.475575,NFL,Spread: Lions (-4.5),Cardinals,48.5
+2026-10-07T01:15:34.475581,NFL,Buccaneers vs. Cowboys,Buccaneers,20.5
+2026-10-07T01:15:34.475584,NFL,Buccaneers vs. Cowboys,Cowboys,79.5
+2026-10-07T01:15:34.635733,Premier League,Will Brighton & Hove Albion FC win on 2026-10-10?,Yes,41.5
+2026-10-07T01:15:34.635749,Premier League,Will Brighton & Hove Albion FC win on 2026-10-10?,No,58.5
+2026-10-07T01:15:34.635757,Premier League,Will Manchester United FC win on 2026-10-10?,Yes,57.49999999999999
+2026-10-07T01:15:34.635761,Premier League,Will Manchester United FC win on 2026-10-10?,No,42.5
+2026-10-07T01:15:34.635768,Premier League,Will Arsenal FC win on 2026-10-10?,Yes,70.5
+2026-10-07T01:15:34.635772,Premier League,Will Arsenal FC win on 2026-10-10?,No,29.5
+2026-10-07T01:15:34.635777,Premier League,Will Manchester City FC win on 2026-10-11?,Yes,37.5
+2026-10-07T01:15:34.635781,Premier League,Will Manchester City FC win on 2026-10-11?,No,62.5
+2026-10-07T01:15:34.635787,Premier League,Liverpool FC vs. Manchester City FC: Both Teams to Score,Yes,64.5
+2026-10-07T01:15:34.635790,Premier League,Liverpool FC vs. Manchester City FC: Both Teams to Score,No,35.5
+2026-10-07T01:15:34.799747,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-10-07T01:15:34.799762,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-10-07T01:15:34.799772,Champions League,Will Manchester City win the 2026-27 UEFA Champions League Championship?,Yes,5.5
+2026-10-07T01:15:34.799777,Champions League,Will Manchester City win the 2026-27 UEFA Champions League Championship?,No,94.5
+2026-10-07T01:15:34.799784,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,22.5
+2026-10-07T01:15:34.799787,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,77.5
+2026-10-07T01:15:34.799794,Champions League,Will Borussia Dortmund win the 2026-27 UEFA Champions League Championship?,Yes,0.75
+2026-10-07T01:15:34.799798,Champions League,Will Borussia Dortmund win the 2026-27 UEFA Champions League Championship?,No,99.25
+2026-10-07T01:15:34.799804,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,Yes,2.25
+2026-10-07T01:15:34.799808,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,No,97.75
+2026-10-07T01:15:34.983522,MLB,Los Angeles Dodgers vs. Atlanta Braves,Los Angeles Dodgers,99.95
+2026-10-07T01:15:34.983539,MLB,Los Angeles Dodgers vs. Atlanta Braves,Atlanta Braves,0.05
+2026-10-07T01:15:34.983548,MLB,Los Angeles Dodgers vs. Atlanta Braves: O/U 5.5,Over,0.05
+2026-10-07T01:15:34.983551,MLB,Los Angeles Dodgers vs. Atlanta Braves: O/U 5.5,Under,99.95
+2026-10-07T01:15:34.983558,MLB,Los Angeles Dodgers vs. Atlanta Braves: O/U 6.5,Over,0.05
+2026-10-07T01:15:34.983562,MLB,Los Angeles Dodgers vs. Atlanta Braves: O/U 6.5,Under,99.95
+2026-10-07T01:15:34.983568,MLB,Milwaukee Brewers vs. San Diego Padres,Milwaukee Brewers,44.5
+2026-10-07T01:15:34.983571,MLB,Milwaukee Brewers vs. San Diego Padres,San Diego Padres,55.50000000000001
+2026-10-07T01:15:34.983579,MLB,Los Angeles Dodgers vs. Atlanta Braves: O/U 7.5,Over,0.05
+2026-10-07T01:15:34.983582,MLB,Los Angeles Dodgers vs. Atlanta Braves: O/U 7.5,Under,99.95

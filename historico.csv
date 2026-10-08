@@ -43999,3 +43999,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-10-08T14:47:30.163583,MLB,Will the Milwaukee Brewers win the 2026 World Series?,No,76.7
 2026-10-08T14:47:30.163587,MLB,Will the Tampa Bay Rays win the 2026 World Series?,Yes,23.0
 2026-10-08T14:47:30.163589,MLB,Will the Tampa Bay Rays win the 2026 World Series?,No,77.0
+2026-10-08T20:33:12.937182,NBA,Thunder vs. Hawks,Thunder,36.25
+2026-10-08T20:33:12.937211,NBA,Thunder vs. Hawks,Hawks,63.74999999999999
+2026-10-08T20:33:12.937223,NBA,Will Orlando Magic win the 2027 NBA Finals?,Yes,0.75
+2026-10-08T20:33:12.937227,NBA,Will Orlando Magic win the 2027 NBA Finals?,No,99.25
+2026-10-08T20:33:12.937235,NBA,Hawks vs. Spurs,Hawks,27.500000000000004
+2026-10-08T20:33:12.937241,NBA,Hawks vs. Spurs,Spurs,72.5
+2026-10-08T20:33:12.937254,NBA,Celtics vs. Cavaliers,Celtics,57.99999999999999
+2026-10-08T20:33:12.937258,NBA,Celtics vs. Cavaliers,Cavaliers,42.0
+2026-10-08T20:33:12.937265,NBA,76ers vs. Nets,76ers,72.5
+2026-10-08T20:33:12.937268,NBA,76ers vs. Nets,Nets,27.500000000000004
+2026-10-08T20:33:13.099160,NFL,Buccaneers vs. Cowboys,Buccaneers,19.5
+2026-10-08T20:33:13.099179,NFL,Buccaneers vs. Cowboys,Cowboys,80.5
+2026-10-08T20:33:13.099187,NFL,Spread: Cowboys (-7.5),Cowboys,53.5
+2026-10-08T20:33:13.099191,NFL,Spread: Cowboys (-7.5),Buccaneers,46.5
+2026-10-08T20:33:13.099197,NFL,Bears vs. Packers,Bears,53.5
+2026-10-08T20:33:13.099200,NFL,Bears vs. Packers,Packers,46.5
+2026-10-08T20:33:13.099207,NFL,Spread: Cowboys (-8.5),Cowboys,50.5
+2026-10-08T20:33:13.099210,NFL,Spread: Cowboys (-8.5),Buccaneers,49.5
+2026-10-08T20:33:13.099216,NFL,Buccaneers vs. Cowboys: O/U 47.5,Over,54.50000000000001
+2026-10-08T20:33:13.099220,NFL,Buccaneers vs. Cowboys: O/U 47.5,Under,45.5
+2026-10-08T20:33:13.269038,Premier League,Exact Score: Any Other Score?,Yes,36.5
+2026-10-08T20:33:13.269056,Premier League,Exact Score: Any Other Score?,No,63.5
+2026-10-08T20:33:13.269064,Premier League,Will Brentford FC win on 2026-10-10?,Yes,37.5
+2026-10-08T20:33:13.269068,Premier League,Will Brentford FC win on 2026-10-10?,No,62.5
+2026-10-08T20:33:13.269074,Premier League,Will Arsenal FC win on 2026-10-10?,Yes,70.5
+2026-10-08T20:33:13.269078,Premier League,Will Arsenal FC win on 2026-10-10?,No,29.5
+2026-10-08T20:33:13.269084,Premier League,Will Liverpool FC win on 2026-10-11?,Yes,35.5
+2026-10-08T20:33:13.269087,Premier League,Will Liverpool FC win on 2026-10-11?,No,64.5
+2026-10-08T20:33:13.269093,Premier League,Crystal Palace FC vs. Nottingham Forest FC: O/U 2.5,Over,50.5
+2026-10-08T20:33:13.269096,Premier League,Crystal Palace FC vs. Nottingham Forest FC: O/U 2.5,Under,49.5
+2026-10-08T20:33:13.438546,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-10-08T20:33:13.438564,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-10-08T20:33:13.438575,Champions League,Will Villarreal win the 2026-27 UEFA Champions League Championship?,Yes,0.8
+2026-10-08T20:33:13.438579,Champions League,Will Villarreal win the 2026-27 UEFA Champions League Championship?,No,99.2
+2026-10-08T20:33:13.438606,Champions League,Will Napoli win the 2026-27 UEFA Champions League Championship?,Yes,0.8
+2026-10-08T20:33:13.438611,Champions League,Will Napoli win the 2026-27 UEFA Champions League Championship?,No,99.2
+2026-10-08T20:33:13.438618,Champions League,Will Sporting CP win the 2026-27 UEFA Champions League Championship?,Yes,0.5499999999999999
+2026-10-08T20:33:13.438622,Champions League,Will Sporting CP win the 2026-27 UEFA Champions League Championship?,No,99.45
+2026-10-08T20:33:13.438629,Champions League,Will RB Leipzig win the 2026-27 UEFA Champions League Championship?,Yes,0.5
+2026-10-08T20:33:13.438633,Champions League,Will RB Leipzig win the 2026-27 UEFA Champions League Championship?,No,99.5
+2026-10-08T20:33:13.618645,MLB,Cleveland Guardians vs. Chicago White Sox,Cleveland Guardians,51.5
+2026-10-08T20:33:13.618663,MLB,Cleveland Guardians vs. Chicago White Sox,Chicago White Sox,48.5
+2026-10-08T20:33:13.618671,MLB,Will the Cleveland Guardians win the 2026 World Series?,Yes,2.85
+2026-10-08T20:33:13.618675,MLB,Will the Cleveland Guardians win the 2026 World Series?,No,97.15
+2026-10-08T20:33:13.618683,MLB,Will the Chicago White Sox win the 2026 World Series?,Yes,6.8500000000000005
+2026-10-08T20:33:13.618687,MLB,Will the Chicago White Sox win the 2026 World Series?,No,93.15
+2026-10-08T20:33:13.618693,MLB,Cleveland Guardians vs. Chicago White Sox: O/U 7.5,Over,44.5
+2026-10-08T20:33:13.618697,MLB,Cleveland Guardians vs. Chicago White Sox: O/U 7.5,Under,55.50000000000001
+2026-10-08T20:33:13.618703,MLB,Will the Milwaukee Brewers win the 2026 World Series?,Yes,24.05
+2026-10-08T20:33:13.618707,MLB,Will the Milwaukee Brewers win the 2026 World Series?,No,75.94999999999999

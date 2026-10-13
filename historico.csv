@@ -44899,3 +44899,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-10-12T18:45:04.453186,MLB,Spread: Tampa Bay Rays (-1.5),Cleveland Guardians,58.5
 2026-10-12T18:45:04.453192,MLB,Will the Cleveland Guardians win the 2026 World Series?,Yes,9.8
 2026-10-12T18:45:04.453195,MLB,Will the Cleveland Guardians win the 2026 World Series?,No,90.2
+2026-10-13T01:09:16.185145,NBA,Thunder vs. Hawks,Thunder,33.5
+2026-10-13T01:09:16.185171,NBA,Thunder vs. Hawks,Hawks,66.5
+2026-10-13T01:09:16.185182,NBA,Nets vs. Wizards,Nets,80.5
+2026-10-13T01:09:16.185208,NBA,Nets vs. Wizards,Wizards,19.5
+2026-10-13T01:09:16.185219,NBA,Timberwolves vs. Knicks,Timberwolves,73.0
+2026-10-13T01:09:16.185224,NBA,Timberwolves vs. Knicks,Knicks,27.0
+2026-10-13T01:09:16.185237,NBA,Spurs vs. Jazz,Spurs,34.5
+2026-10-13T01:09:16.185240,NBA,Spurs vs. Jazz,Jazz,65.5
+2026-10-13T01:09:16.185247,NBA,Will Portland Trail Blazers win the 2027 NBA Finals?,Yes,0.95
+2026-10-13T01:09:16.185251,NBA,Will Portland Trail Blazers win the 2027 NBA Finals?,No,99.05000000000001
+2026-10-13T01:09:16.393721,NFL,Bills vs. Rams,Bills,38.5
+2026-10-13T01:09:16.393734,NFL,Bills vs. Rams,Rams,61.5
+2026-10-13T01:09:16.393742,NFL,Spread: Rams (-3.5),Rams,44.5
+2026-10-13T01:09:16.393745,NFL,Spread: Rams (-3.5),Bills,55.50000000000001
+2026-10-13T01:09:16.393752,NFL,Spread: Rams (-2.5),Rams,53.5
+2026-10-13T01:09:16.393755,NFL,Spread: Rams (-2.5),Bills,46.5
+2026-10-13T01:09:16.393761,NFL,Spread: Bills (-3.5),Bills,26.0
+2026-10-13T01:09:16.393765,NFL,Spread: Bills (-3.5),Rams,74.0
+2026-10-13T01:09:16.393770,NFL,Bills vs. Rams: O/U 54.5,Over,32.5
+2026-10-13T01:09:16.393773,NFL,Bills vs. Rams: O/U 54.5,Under,67.5
+2026-10-13T01:09:16.594750,Premier League,Will Sunderland AFC win on 2026-10-18?,Yes,27.500000000000004
+2026-10-13T01:09:16.594764,Premier League,Will Sunderland AFC win on 2026-10-18?,No,72.5
+2026-10-13T01:09:16.594775,Premier League,Will Coventry City FC win on 2026-10-19?,Yes,15.5
+2026-10-13T01:09:16.594779,Premier League,Will Coventry City FC win on 2026-10-19?,No,84.5
+2026-10-13T01:09:16.594785,Premier League,Will Chelsea FC win on 2026-10-24?,Yes,53.0
+2026-10-13T01:09:16.594789,Premier League,Will Chelsea FC win on 2026-10-24?,No,47.0
+2026-10-13T01:09:16.594795,Premier League,Will Manchester City be relegated from the 2026-27 Premier League?,Yes,24.8
+2026-10-13T01:09:16.594798,Premier League,Will Manchester City be relegated from the 2026-27 Premier League?,No,75.2
+2026-10-13T01:09:16.594805,Premier League,Will Manchester City FC win on 2026-10-17?,Yes,80.5
+2026-10-13T01:09:16.594808,Premier League,Will Manchester City FC win on 2026-10-17?,No,19.5
+2026-10-13T01:09:16.800814,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-10-13T01:09:16.800828,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-10-13T01:09:16.800838,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,Yes,2.45
+2026-10-13T01:09:16.800843,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,No,97.55
+2026-10-13T01:09:16.800850,Champions League,Will Bayern Munich win the 2026-27 UEFA Champions League Championship?,Yes,14.499999999999998
+2026-10-13T01:09:16.800855,Champions League,Will Bayern Munich win the 2026-27 UEFA Champions League Championship?,No,85.5
+2026-10-13T01:09:16.800862,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,22.5
+2026-10-13T01:09:16.800866,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,77.5
+2026-10-13T01:09:16.800872,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,1.95
+2026-10-13T01:09:16.800880,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,98.05
+2026-10-13T01:09:17.009785,MLB,Cleveland Guardians vs. Tampa Bay Rays,Cleveland Guardians,18.5
+2026-10-13T01:09:17.009798,MLB,Cleveland Guardians vs. Tampa Bay Rays,Tampa Bay Rays,81.5
+2026-10-13T01:09:17.009807,MLB,Cleveland Guardians vs. Tampa Bay Rays: O/U 6.5,Over,42.5
+2026-10-13T01:09:17.009810,MLB,Cleveland Guardians vs. Tampa Bay Rays: O/U 6.5,Under,57.49999999999999
+2026-10-13T01:09:17.009817,MLB,Spread: Tampa Bay Rays (-1.5),Tampa Bay Rays,63.5
+2026-10-13T01:09:17.009821,MLB,Spread: Tampa Bay Rays (-1.5),Cleveland Guardians,36.5
+2026-10-13T01:09:17.009827,MLB,Will the Cleveland Guardians win the 2026 World Series?,Yes,6.2
+2026-10-13T01:09:17.009830,MLB,Will the Cleveland Guardians win the 2026 World Series?,No,93.8
+2026-10-13T01:09:17.009837,MLB,Will the Los Angeles Dodgers win the 2026 World Series?,Yes,21.0
+2026-10-13T01:09:17.009840,MLB,Will the Los Angeles Dodgers win the 2026 World Series?,No,79.0

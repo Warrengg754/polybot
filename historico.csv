@@ -45249,3 +45249,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-10-14T11:27:10.231572,MLB,Milwaukee Brewers vs. Los Angeles Dodgers,Los Angeles Dodgers,61.5
 2026-10-14T11:27:10.231578,MLB,Will Cleveland Guardians win the 2026 American League Championship Series?,Yes,43.75
 2026-10-14T11:27:10.231582,MLB,Will Cleveland Guardians win the 2026 American League Championship Series?,No,56.25
+2026-10-14T15:56:08.575242,NBA,Will Philadelphia 76ers win the 2027 NBA Finals?,Yes,9.65
+2026-10-14T15:56:08.575273,NBA,Will Philadelphia 76ers win the 2027 NBA Finals?,No,90.35
+2026-10-14T15:56:08.575283,NBA,Will Boston Celtics win the 2027 NBA Finals?,Yes,5.5
+2026-10-14T15:56:08.575287,NBA,Will Boston Celtics win the 2027 NBA Finals?,No,94.5
+2026-10-14T15:56:08.575294,NBA,Pistons vs. Timberwolves,Pistons,40.5
+2026-10-14T15:56:08.575299,NBA,Pistons vs. Timberwolves,Timberwolves,59.5
+2026-10-14T15:56:08.575312,NBA,Will Portland Trail Blazers win the 2027 NBA Finals?,Yes,1.15
+2026-10-14T15:56:08.575318,NBA,Will Portland Trail Blazers win the 2027 NBA Finals?,No,98.85000000000001
+2026-10-14T15:56:08.575326,NBA,Will Houston Rockets win the 2027 NBA Finals?,Yes,2.55
+2026-10-14T15:56:08.575329,NBA,Will Houston Rockets win the 2027 NBA Finals?,No,97.45
+2026-10-14T15:56:08.902748,NFL,Seahawks vs. Broncos,Seahawks,56.49999999999999
+2026-10-14T15:56:08.902773,NFL,Seahawks vs. Broncos,Broncos,43.5
+2026-10-14T15:56:08.902782,NFL,Will the Los Angeles Rams win the 2027 NFL league championship?,Yes,10.5
+2026-10-14T15:56:08.902786,NFL,Will the Los Angeles Rams win the 2027 NFL league championship?,No,89.5
+2026-10-14T15:56:08.902793,NFL,Spread: Seahawks (-2.5),Seahawks,49.5
+2026-10-14T15:56:08.902796,NFL,Spread: Seahawks (-2.5),Broncos,50.5
+2026-10-14T15:56:08.902803,NFL,Will the Indianapolis Colts win the 2027 NFL league championship?,Yes,0.5499999999999999
+2026-10-14T15:56:08.902808,NFL,Will the Indianapolis Colts win the 2027 NFL league championship?,No,99.45
+2026-10-14T15:56:08.902814,NFL,Will the New Orleans Saints win the 2027 NFL league championship?,Yes,0.44999999999999996
+2026-10-14T15:56:08.902818,NFL,Will the New Orleans Saints win the 2027 NFL league championship?,No,99.55000000000001
+2026-10-14T15:56:09.306421,Premier League,Will Manchester City FC win on 2026-10-17?,Yes,80.5
+2026-10-14T15:56:09.306443,Premier League,Will Manchester City FC win on 2026-10-17?,No,19.5
+2026-10-14T15:56:09.306450,Premier League,Will Leeds United FC win on 2026-10-18?,Yes,40.5
+2026-10-14T15:56:09.306454,Premier League,Will Leeds United FC win on 2026-10-18?,No,59.5
+2026-10-14T15:56:09.306460,Premier League,Will Fulham FC win on 2026-10-17?,Yes,55.50000000000001
+2026-10-14T15:56:09.306464,Premier League,Will Fulham FC win on 2026-10-17?,No,44.5
+2026-10-14T15:56:09.306470,Premier League,Will Manchester United FC win on 2026-10-18?,Yes,32.5
+2026-10-14T15:56:09.306473,Premier League,Will Manchester United FC win on 2026-10-18?,No,67.5
+2026-10-14T15:56:09.306479,Premier League,Will Sunderland AFC win on 2026-10-18?,Yes,27.500000000000004
+2026-10-14T15:56:09.306483,Premier League,Will Sunderland AFC win on 2026-10-18?,No,72.5
+2026-10-14T15:56:09.623178,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-10-14T15:56:09.623201,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-10-14T15:56:09.623210,Champions League,Will Manchester United win the 2026-27 UEFA Champions League Championship?,Yes,1.6500000000000001
+2026-10-14T15:56:09.623215,Champions League,Will Manchester United win the 2026-27 UEFA Champions League Championship?,No,98.35000000000001
+2026-10-14T15:56:09.623222,Champions League,Will PSV Eindhoven win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-10-14T15:56:09.623226,Champions League,Will PSV Eindhoven win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-10-14T15:56:09.623232,Champions League,Will Manchester City win the 2026-27 UEFA Champions League Championship?,Yes,6.5
+2026-10-14T15:56:09.623236,Champions League,Will Manchester City win the 2026-27 UEFA Champions League Championship?,No,93.5
+2026-10-14T15:56:09.623243,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,Yes,2.25
+2026-10-14T15:56:09.623246,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,No,97.75
+2026-10-14T15:56:09.969177,MLB,Milwaukee Brewers vs. Los Angeles Dodgers,Milwaukee Brewers,39.5
+2026-10-14T15:56:09.969200,MLB,Milwaukee Brewers vs. Los Angeles Dodgers,Los Angeles Dodgers,60.5
+2026-10-14T15:56:09.969207,MLB,Will the Cleveland Guardians win the 2026 World Series?,Yes,14.299999999999999
+2026-10-14T15:56:09.969212,MLB,Will the Cleveland Guardians win the 2026 World Series?,No,85.7
+2026-10-14T15:56:09.969218,MLB,Will the Los Angeles Dodgers win the 2026 World Series?,Yes,21.5
+2026-10-14T15:56:09.969221,MLB,Will the Los Angeles Dodgers win the 2026 World Series?,No,78.5
+2026-10-14T15:56:09.969227,MLB,Will the Tampa Bay Rays win the 2026 World Series?,Yes,22.0
+2026-10-14T15:56:09.969230,MLB,Will the Tampa Bay Rays win the 2026 World Series?,No,78.0
+2026-10-14T15:56:09.969235,MLB,Milwaukee Brewers vs. Los Angeles Dodgers: O/U 7.5,Over,50.5
+2026-10-14T15:56:09.969238,MLB,Milwaukee Brewers vs. Los Angeles Dodgers: O/U 7.5,Under,49.5

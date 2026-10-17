@@ -46149,3 +46149,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-10-17T11:03:56.734237,MLB,Tampa Bay Rays vs. Cleveland Guardians,Cleveland Guardians,47.5
 2026-10-17T11:03:56.734244,MLB,Will the Tampa Bay Rays win the 2026 World Series?,Yes,15.65
 2026-10-17T11:03:56.734247,MLB,Will the Tampa Bay Rays win the 2026 World Series?,No,84.35000000000001
+2026-10-17T14:20:02.767832,NBA,Will Houston Rockets win the 2027 NBA Finals?,Yes,2.65
+2026-10-17T14:20:02.767865,NBA,Will Houston Rockets win the 2027 NBA Finals?,No,97.35000000000001
+2026-10-17T14:20:02.767876,NBA,Will Washington Wizards win the 2027 NBA Finals?,Yes,0.8500000000000001
+2026-10-17T14:20:02.767881,NBA,Will Washington Wizards win the 2027 NBA Finals?,No,99.15
+2026-10-17T14:20:02.767889,NBA,Will Detroit Pistons win the 2027 NBA Finals?,Yes,3.15
+2026-10-17T14:20:02.767896,NBA,Will Detroit Pistons win the 2027 NBA Finals?,No,96.85000000000001
+2026-10-17T14:20:02.767910,NBA,Will Los Angeles Lakers win the 2027 NBA Finals?,Yes,3.1
+2026-10-17T14:20:02.767915,NBA,Will Los Angeles Lakers win the 2027 NBA Finals?,No,96.89999999999999
+2026-10-17T14:20:02.767923,NBA,Will Minnesota Timberwolves win the 2027 NBA Finals?,Yes,6.550000000000001
+2026-10-17T14:20:02.767927,NBA,Will Minnesota Timberwolves win the 2027 NBA Finals?,No,93.45
+2026-10-17T14:20:03.012549,NFL,Saints vs. Giants,Saints,50.5
+2026-10-17T14:20:03.012569,NFL,Saints vs. Giants,Giants,49.5
+2026-10-17T14:20:03.012578,NFL,Panthers vs. Eagles,Panthers,61.5
+2026-10-17T14:20:03.012582,NFL,Panthers vs. Eagles,Eagles,38.5
+2026-10-17T14:20:03.012590,NFL,Spread: Ravens (-3.5),Ravens,46.5
+2026-10-17T14:20:03.012594,NFL,Spread: Ravens (-3.5),Browns,53.5
+2026-10-17T14:20:03.012602,NFL,Titans vs. Colts: O/U 44.5,Over,50.5
+2026-10-17T14:20:03.012606,NFL,Titans vs. Colts: O/U 44.5,Under,49.5
+2026-10-17T14:20:03.012614,NFL,Bears vs. Falcons,Bears,50.5
+2026-10-17T14:20:03.012618,NFL,Bears vs. Falcons,Falcons,49.5
+2026-10-17T14:20:03.252865,Premier League,Manchester City FC vs. Ipswich Town FC: O/U 3.5,Over,44.5
+2026-10-17T14:20:03.252885,Premier League,Manchester City FC vs. Ipswich Town FC: O/U 3.5,Under,55.50000000000001
+2026-10-17T14:20:03.252893,Premier League,Will Manchester City FC win on 2026-10-17?,Yes,79.5
+2026-10-17T14:20:03.252897,Premier League,Will Manchester City FC win on 2026-10-17?,No,20.5
+2026-10-17T14:20:03.252903,Premier League,Will Fulham FC win on 2026-10-17?,Yes,61.5
+2026-10-17T14:20:03.252906,Premier League,Will Fulham FC win on 2026-10-17?,No,38.5
+2026-10-17T14:20:03.252912,Premier League,Will Ipswich Town FC win on 2026-10-17?,Yes,6.5
+2026-10-17T14:20:03.252916,Premier League,Will Ipswich Town FC win on 2026-10-17?,No,93.5
+2026-10-17T14:20:03.252922,Premier League,Spread: Ipswich Town FC (-1.5),Ipswich Town FC,1.05
+2026-10-17T14:20:03.252926,Premier League,Spread: Ipswich Town FC (-1.5),Manchester City FC,98.95
+2026-10-17T14:20:03.511195,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-10-17T14:20:03.511217,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-10-17T14:20:03.511226,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,Yes,0.35000000000000003
+2026-10-17T14:20:03.511231,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,No,99.65
+2026-10-17T14:20:03.511238,Champions League,Will Sporting CP win the 2026-27 UEFA Champions League Championship?,Yes,0.65
+2026-10-17T14:20:03.511242,Champions League,Will Sporting CP win the 2026-27 UEFA Champions League Championship?,No,99.35000000000001
+2026-10-17T14:20:03.511249,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,Yes,10.5
+2026-10-17T14:20:03.511253,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,No,89.5
+2026-10-17T14:20:03.511260,Champions League,Will Villarreal win the 2026-27 UEFA Champions League Championship?,Yes,0.65
+2026-10-17T14:20:03.511264,Champions League,Will Villarreal win the 2026-27 UEFA Champions League Championship?,No,99.35000000000001
+2026-10-17T14:20:03.768164,MLB,Tampa Bay Rays vs. Cleveland Guardians,Tampa Bay Rays,50.5
+2026-10-17T14:20:03.768184,MLB,Tampa Bay Rays vs. Cleveland Guardians,Cleveland Guardians,49.5
+2026-10-17T14:20:03.768193,MLB,Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5,Over,50.5
+2026-10-17T14:20:03.768198,MLB,Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5,Under,49.5
+2026-10-17T14:20:03.768205,MLB,Tampa Bay Rays vs. Cleveland Guardians,Tampa Bay Rays,51.5
+2026-10-17T14:20:03.768209,MLB,Tampa Bay Rays vs. Cleveland Guardians,Cleveland Guardians,48.5
+2026-10-17T14:20:03.768216,MLB,Will there be a run scored in the first inning?: Tampa Bay Rays vs. Cleveland Guardians,Yes,44.0
+2026-10-17T14:20:03.768221,MLB,Will there be a run scored in the first inning?: Tampa Bay Rays vs. Cleveland Guardians,No,56.00000000000001
+2026-10-17T14:20:03.768230,MLB,Will the Tampa Bay Rays win the 2026 World Series?,Yes,15.85
+2026-10-17T14:20:03.768235,MLB,Will the Tampa Bay Rays win the 2026 World Series?,No,84.15

@@ -46449,3 +46449,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-10-18T04:58:40.690728,MLB,Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5,Under,0.05
 2026-10-18T04:58:40.690734,MLB,Spread: Tampa Bay Rays (-1.5),Tampa Bay Rays,40.5
 2026-10-18T04:58:40.690737,MLB,Spread: Tampa Bay Rays (-1.5),Cleveland Guardians,59.5
+2026-10-18T09:28:10.578925,NBA,Will Toronto Raptors win the 2027 NBA Finals?,Yes,3.65
+2026-10-18T09:28:10.578967,NBA,Will Toronto Raptors win the 2027 NBA Finals?,No,96.35000000000001
+2026-10-18T09:28:10.578991,NBA,Will San Antonio Spurs win the 2027 NBA Finals?,Yes,22.5
+2026-10-18T09:28:10.578996,NBA,Will San Antonio Spurs win the 2027 NBA Finals?,No,77.5
+2026-10-18T09:28:10.579003,NBA,Will Portland Trail Blazers win the 2027 NBA Finals?,Yes,1.25
+2026-10-18T09:28:10.579009,NBA,Will Portland Trail Blazers win the 2027 NBA Finals?,No,98.75
+2026-10-18T09:28:10.579024,NBA,Will Golden State Warriors win the 2027 NBA Finals?,Yes,1.05
+2026-10-18T09:28:10.579029,NBA,Will Golden State Warriors win the 2027 NBA Finals?,No,98.95
+2026-10-18T09:28:10.579036,NBA,Will LeBron James retire before next NBA season?,Yes,0.5499999999999999
+2026-10-18T09:28:10.579040,NBA,Will LeBron James retire before next NBA season?,No,99.45
+2026-10-18T09:28:10.777524,NFL,Spread: Jaguars (-2.5),Jaguars,50.5
+2026-10-18T09:28:10.777539,NFL,Spread: Jaguars (-2.5),Texans,49.5
+2026-10-18T09:28:10.777548,NFL,Spread: Eagles (-3.5),Eagles,26.5
+2026-10-18T09:28:10.777551,NFL,Spread: Eagles (-3.5),Panthers,73.5
+2026-10-18T09:28:10.777557,NFL,Spread: Browns (-3.5),Browns,25.5
+2026-10-18T09:28:10.777560,NFL,Spread: Browns (-3.5),Ravens,74.5
+2026-10-18T09:28:10.777567,NFL,Bears vs. Falcons,Bears,51.5
+2026-10-18T09:28:10.777570,NFL,Bears vs. Falcons,Falcons,48.5
+2026-10-18T09:28:10.777576,NFL,Spread: Chiefs (-3.5),Chiefs,67.5
+2026-10-18T09:28:10.777578,NFL,Spread: Chiefs (-3.5),Chargers,32.5
+2026-10-18T09:28:10.969295,Premier League,Will Brighton & Hove Albion FC win on 2026-10-18?,Yes,65.5
+2026-10-18T09:28:10.969311,Premier League,Will Brighton & Hove Albion FC win on 2026-10-18?,No,34.5
+2026-10-18T09:28:10.969320,Premier League,Nottingham Forest FC vs. Arsenal FC: O/U 2.5,Over,52.5
+2026-10-18T09:28:10.969323,Premier League,Nottingham Forest FC vs. Arsenal FC: O/U 2.5,Under,47.5
+2026-10-18T09:28:10.969330,Premier League,Spread: Nottingham Forest FC (-2.5),Nottingham Forest FC,1.15
+2026-10-18T09:28:10.969334,Premier League,Spread: Nottingham Forest FC (-2.5),Arsenal FC,98.85000000000001
+2026-10-18T09:28:10.969341,Premier League,Will Arsenal FC win on 2026-10-18?,Yes,62.5
+2026-10-18T09:28:10.969344,Premier League,Will Arsenal FC win on 2026-10-18?,No,37.5
+2026-10-18T09:28:10.969351,Premier League,Will Nottingham Forest FC win on 2026-10-18?,Yes,13.5
+2026-10-18T09:28:10.969354,Premier League,Will Nottingham Forest FC win on 2026-10-18?,No,86.5
+2026-10-18T09:28:11.162501,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-10-18T09:28:11.162519,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-10-18T09:28:11.162529,Champions League,Will Sporting CP win the 2026-27 UEFA Champions League Championship?,Yes,0.6
+2026-10-18T09:28:11.162533,Champions League,Will Sporting CP win the 2026-27 UEFA Champions League Championship?,No,99.4
+2026-10-18T09:28:11.162541,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,15.5
+2026-10-18T09:28:11.162545,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,84.5
+2026-10-18T09:28:11.162551,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,Yes,10.5
+2026-10-18T09:28:11.162555,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,No,89.5
+2026-10-18T09:28:11.162561,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,1.95
+2026-10-18T09:28:11.162569,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,98.05
+2026-10-18T09:28:11.352228,MLB,Tampa Bay Rays vs. Cleveland Guardians,Tampa Bay Rays,54.50000000000001
+2026-10-18T09:28:11.352245,MLB,Tampa Bay Rays vs. Cleveland Guardians,Cleveland Guardians,45.5
+2026-10-18T09:28:11.352254,MLB,Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5,Over,48.5
+2026-10-18T09:28:11.352258,MLB,Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5,Under,51.5
+2026-10-18T09:28:11.352264,MLB,Spread: Tampa Bay Rays (-1.5),Tampa Bay Rays,39.5
+2026-10-18T09:28:11.352267,MLB,Spread: Tampa Bay Rays (-1.5),Cleveland Guardians,60.5
+2026-10-18T09:28:11.352274,MLB,Will the Tampa Bay Rays win the 2026 World Series?,Yes,22.85
+2026-10-18T09:28:11.352277,MLB,Will the Tampa Bay Rays win the 2026 World Series?,No,77.14999999999999
+2026-10-18T09:28:11.352284,MLB,Will the Cleveland Guardians win the 2026 World Series?,Yes,13.55
+2026-10-18T09:28:11.352288,MLB,Will the Cleveland Guardians win the 2026 World Series?,No,86.45

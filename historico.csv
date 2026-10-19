@@ -46849,3 +46849,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-10-19T10:11:45.561764,MLB,Will the Tampa Bay Rays win the 2026 World Series?,No,68.15
 2026-10-19T10:11:45.561770,MLB,Will the Milwaukee Brewers win the 2026 World Series?,Yes,62.6
 2026-10-19T10:11:45.561773,MLB,Will the Milwaukee Brewers win the 2026 World Series?,No,37.4
+2026-10-19T17:05:44.561710,NBA,Will Chicago Bulls win the 2027 NBA Finals?,Yes,0.15
+2026-10-19T17:05:44.561738,NBA,Will Chicago Bulls win the 2027 NBA Finals?,No,99.85000000000001
+2026-10-19T17:05:44.561752,NBA,Will the New Orleans Pelicans be the 2027 NBA Western Conference Champion?,Yes,0.8500000000000001
+2026-10-19T17:05:44.561759,NBA,Will the New Orleans Pelicans be the 2027 NBA Western Conference Champion?,No,99.15
+2026-10-19T17:05:44.561793,NBA,Will LeBron James retire before next NBA season?,Yes,0.05
+2026-10-19T17:05:44.561801,NBA,Will LeBron James retire before next NBA season?,No,99.95
+2026-10-19T17:05:44.561818,NBA,Warriors vs. Lakers,Warriors,27.500000000000004
+2026-10-19T17:05:44.561824,NBA,Warriors vs. Lakers,Lakers,72.5
+2026-10-19T17:05:44.561833,NBA,Celtics vs. Pistons: O/U 222.5,Over,47.5
+2026-10-19T17:05:44.561837,NBA,Celtics vs. Pistons: O/U 222.5,Under,52.5
+2026-10-19T17:05:44.748528,NFL,Commanders vs. 49ers: O/U 52.5,Over,46.5
+2026-10-19T17:05:44.748546,NFL,Commanders vs. 49ers: O/U 52.5,Under,53.5
+2026-10-19T17:05:44.748556,NFL,Will the Cleveland Browns win the 2027 NFL league championship?,Yes,0.44999999999999996
+2026-10-19T17:05:44.748563,NFL,Will the Cleveland Browns win the 2027 NFL league championship?,No,99.55000000000001
+2026-10-19T17:05:44.748574,NFL,Commanders vs. 49ers,Commanders,21.5
+2026-10-19T17:05:44.748579,NFL,Commanders vs. 49ers,49ers,78.5
+2026-10-19T17:05:44.748588,NFL,Will the New Orleans Saints win the 2027 NFL league championship?,Yes,0.44999999999999996
+2026-10-19T17:05:44.748594,NFL,Will the New Orleans Saints win the 2027 NFL league championship?,No,99.55000000000001
+2026-10-19T17:05:44.748604,NFL,Spread: Commanders (-3.5),Commanders,11.5
+2026-10-19T17:05:44.748608,NFL,Spread: Commanders (-3.5),49ers,88.5
+2026-10-19T17:05:44.923219,Premier League,Will Tottenham Hotspur FC win on 2026-10-19?,Yes,63.5
+2026-10-19T17:05:44.923233,Premier League,Will Tottenham Hotspur FC win on 2026-10-19?,No,36.5
+2026-10-19T17:05:44.923242,Premier League,Will Tottenham Hotspur FC vs. Coventry City FC end in a draw?,Yes,20.5
+2026-10-19T17:05:44.923247,Premier League,Will Tottenham Hotspur FC vs. Coventry City FC end in a draw?,No,79.5
+2026-10-19T17:05:44.923259,Premier League,Tottenham Hotspur FC vs. Coventry City FC: O/U 10.5 Total Corners,Over,49.5
+2026-10-19T17:05:44.923263,Premier League,Tottenham Hotspur FC vs. Coventry City FC: O/U 10.5 Total Corners,Under,50.5
+2026-10-19T17:05:44.923275,Premier League,Spread: Tottenham Hotspur FC (-1.5),Tottenham Hotspur FC,38.5
+2026-10-19T17:05:44.923280,Premier League,Spread: Tottenham Hotspur FC (-1.5),Coventry City FC,61.5
+2026-10-19T17:05:44.923288,Premier League,Will Coventry City FC win on 2026-10-19?,Yes,15.5
+2026-10-19T17:05:44.923292,Premier League,Will Coventry City FC win on 2026-10-19?,No,84.5
+2026-10-19T17:05:45.099422,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-10-19T17:05:45.099439,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-10-19T17:05:45.099449,Champions League,Will Galatasaray win the 2026-27 UEFA Champions League Championship?,Yes,0.25
+2026-10-19T17:05:45.099454,Champions League,Will Galatasaray win the 2026-27 UEFA Champions League Championship?,No,99.75
+2026-10-19T17:05:45.099462,Champions League,Will Lille win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-10-19T17:05:45.099466,Champions League,Will Lille win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-10-19T17:05:45.099473,Champions League,Will Borussia Dortmund win the 2026-27 UEFA Champions League Championship?,Yes,0.8
+2026-10-19T17:05:45.099477,Champions League,Will Borussia Dortmund win the 2026-27 UEFA Champions League Championship?,No,99.2
+2026-10-19T17:05:45.099483,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,Yes,0.75
+2026-10-19T17:05:45.099487,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,No,99.25
+2026-10-19T17:05:45.269174,MLB,Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5,Over,0.05
+2026-10-19T17:05:45.269188,MLB,Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5,Under,99.95
+2026-10-19T17:05:45.269197,MLB,Cleveland Guardians vs. Tampa Bay Rays,Cleveland Guardians,41.5
+2026-10-19T17:05:45.269202,MLB,Cleveland Guardians vs. Tampa Bay Rays,Tampa Bay Rays,58.5
+2026-10-19T17:05:45.269209,MLB,Will the Cleveland Guardians win the 2026 World Series?,Yes,6.35
+2026-10-19T17:05:45.269213,MLB,Will the Cleveland Guardians win the 2026 World Series?,No,93.65
+2026-10-19T17:05:45.269219,MLB,Spread: Tampa Bay Rays (-1.5),Tampa Bay Rays,38.5
+2026-10-19T17:05:45.269222,MLB,Spread: Tampa Bay Rays (-1.5),Cleveland Guardians,61.5
+2026-10-19T17:05:45.269229,MLB,Will the Tampa Bay Rays win the 2026 World Series?,Yes,32.05
+2026-10-19T17:05:45.269232,MLB,Will the Tampa Bay Rays win the 2026 World Series?,No,67.95

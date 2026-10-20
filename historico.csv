@@ -47049,3 +47049,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-10-20T05:52:52.934899,MLB,Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5,Under,99.95
 2026-10-20T05:52:52.934906,MLB,Will Pat Murphy win the 2026 NL Manager of the Year?,Yes,84.45
 2026-10-20T05:52:52.934909,MLB,Will Pat Murphy win the 2026 NL Manager of the Year?,No,15.55
+2026-10-20T11:08:20.887639,NBA,Celtics vs. Pistons,Celtics,52.5
+2026-10-20T11:08:20.887677,NBA,Celtics vs. Pistons,Pistons,47.5
+2026-10-20T11:08:20.887685,NBA,Hornets vs. Nets,Hornets,42.5
+2026-10-20T11:08:20.887690,NBA,Hornets vs. Nets,Nets,57.49999999999999
+2026-10-20T11:08:20.887696,NBA,Warriors vs. Lakers,Warriors,34.5
+2026-10-20T11:08:20.887700,NBA,Warriors vs. Lakers,Lakers,65.5
+2026-10-20T11:08:20.887711,NBA,Thunder vs. Spurs,Thunder,48.5
+2026-10-20T11:08:20.887713,NBA,Thunder vs. Spurs,Spurs,51.5
+2026-10-20T11:08:20.887719,NBA,Will LeBron James retire before next NBA season?,Yes,0.05
+2026-10-20T11:08:20.887722,NBA,Will LeBron James retire before next NBA season?,No,99.95
+2026-10-20T11:08:21.218597,NFL,Will the Houston Texans win the 2027 NFL league championship?,Yes,2.85
+2026-10-20T11:08:21.218615,NFL,Will the Houston Texans win the 2027 NFL league championship?,No,97.15
+2026-10-20T11:08:21.218622,NFL,Will the Arizona Cardinals win the 2027 NFL league championship?,Yes,0.15
+2026-10-20T11:08:21.218625,NFL,Will the Arizona Cardinals win the 2027 NFL league championship?,No,99.85000000000001
+2026-10-20T11:08:21.218631,NFL,Spread: Steelers (-2.5),Steelers,58.5
+2026-10-20T11:08:21.218634,NFL,Spread: Steelers (-2.5),Saints,41.5
+2026-10-20T11:08:21.218639,NFL,Spread: Texans (-9.5),Texans,51.5
+2026-10-20T11:08:21.218641,NFL,Spread: Texans (-9.5),Giants,48.5
+2026-10-20T11:08:21.218646,NFL,Spread: Rams (-3.5),Rams,51.5
+2026-10-20T11:08:21.218648,NFL,Spread: Rams (-3.5),Raiders,48.5
+2026-10-20T11:08:21.553400,Premier League,Exact Score: Any Other Score?,Yes,37.5
+2026-10-20T11:08:21.553418,Premier League,Exact Score: Any Other Score?,No,62.5
+2026-10-20T11:08:21.553424,Premier League,Will Brighton & Hove Albion FC win on 2026-10-25?,Yes,31.5
+2026-10-20T11:08:21.553427,Premier League,Will Brighton & Hove Albion FC win on 2026-10-25?,No,68.5
+2026-10-20T11:08:21.553432,Premier League,Will Manchester City be relegated from the 2026-27 Premier League?,Yes,44.6
+2026-10-20T11:08:21.553435,Premier League,Will Manchester City be relegated from the 2026-27 Premier League?,No,55.400000000000006
+2026-10-20T11:08:21.553441,Premier League,Ipswich Town FC vs. Nottingham Forest FC: O/U 0.5,Over,94.0
+2026-10-20T11:08:21.553444,Premier League,Ipswich Town FC vs. Nottingham Forest FC: O/U 0.5,Under,6.0
+2026-10-20T11:08:21.553449,Premier League,Ipswich Town FC vs. Nottingham Forest FC: O/U 2.5,Over,54.50000000000001
+2026-10-20T11:08:21.553452,Premier League,Ipswich Town FC vs. Nottingham Forest FC: O/U 2.5,Under,45.5
+2026-10-20T11:08:21.897070,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-10-20T11:08:21.897088,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-10-20T11:08:21.897096,Champions League,Will Lille win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-10-20T11:08:21.897100,Champions League,Will Lille win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-10-20T11:08:21.897106,Champions League,Will Club Brugge win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-10-20T11:08:21.897109,Champions League,Will Club Brugge win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-10-20T11:08:21.897114,Champions League,Will Bodø/Glimt win the 2026-27 UEFA Champions League Championship?,Yes,0.25
+2026-10-20T11:08:21.897122,Champions League,Will Bodø/Glimt win the 2026-27 UEFA Champions League Championship?,No,99.75
+2026-10-20T11:08:21.897127,Champions League,Will Fenerbahçe win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-10-20T11:08:21.897130,Champions League,Will Fenerbahçe win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-10-20T11:08:22.265732,MLB,Will the Tampa Bay Rays win the 2026 World Series?,Yes,37.5
+2026-10-20T11:08:22.265750,MLB,Will the Tampa Bay Rays win the 2026 World Series?,No,62.5
+2026-10-20T11:08:22.265757,MLB,Will the Milwaukee Brewers win the 2026 World Series?,Yes,62.150000000000006
+2026-10-20T11:08:22.265760,MLB,Will the Milwaukee Brewers win the 2026 World Series?,No,37.85
+2026-10-20T11:08:22.265766,MLB,Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5,Over,0.05
+2026-10-20T11:08:22.265768,MLB,Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5,Under,99.95
+2026-10-20T11:08:22.265773,MLB,Will Pat Murphy win the 2026 NL Manager of the Year?,Yes,84.35000000000001
+2026-10-20T11:08:22.265791,MLB,Will Pat Murphy win the 2026 NL Manager of the Year?,No,15.65
+2026-10-20T11:08:22.265800,MLB,Will Ben Rice lead the 2026 MLB Postseason in home runs?,Yes,31.0
+2026-10-20T11:08:22.265805,MLB,Will Ben Rice lead the 2026 MLB Postseason in home runs?,No,69.0

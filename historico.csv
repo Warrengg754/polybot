@@ -47399,3 +47399,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-10-21T13:04:58.373436,MLB,Tampa Bay Rays vs. Milwaukee Brewers,Milwaukee Brewers,59.5
 2026-10-21T13:04:58.373440,MLB,Will A.J. Ewing win the 2026 NL Rookie of the Year award?,Yes,1.05
 2026-10-21T13:04:58.373442,MLB,Will A.J. Ewing win the 2026 NL Rookie of the Year award?,No,98.95
+2026-10-21T18:10:22.375239,NBA,Hornets vs. Nets,Hornets,51.5
+2026-10-21T18:10:22.375269,NBA,Hornets vs. Nets,Nets,48.5
+2026-10-21T18:10:22.375277,NBA,Spread: Clippers (-4.5),Clippers,52.5
+2026-10-21T18:10:22.375280,NBA,Spread: Clippers (-4.5),Kings,47.5
+2026-10-21T18:10:22.375285,NBA,Mavericks vs. Rockets,Mavericks,21.5
+2026-10-21T18:10:22.375289,NBA,Mavericks vs. Rockets,Rockets,78.5
+2026-10-21T18:10:22.375300,NBA,Pacers vs. Pelicans,Pacers,57.49999999999999
+2026-10-21T18:10:22.375303,NBA,Pacers vs. Pelicans,Pelicans,42.5
+2026-10-21T18:10:22.375308,NBA,Spread: Pacers (-3.5),Pacers,49.5
+2026-10-21T18:10:22.375310,NBA,Spread: Pacers (-3.5),Pelicans,50.5
+2026-10-21T18:10:22.512189,NFL,Will the Las Vegas Raiders win the 2027 NFL league championship?,Yes,0.6
+2026-10-21T18:10:22.512207,NFL,Will the Las Vegas Raiders win the 2027 NFL league championship?,No,99.4
+2026-10-21T18:10:22.512214,NFL,Chiefs vs. Seahawks,Chiefs,42.5
+2026-10-21T18:10:22.512217,NFL,Chiefs vs. Seahawks,Seahawks,57.49999999999999
+2026-10-21T18:10:22.512223,NFL,Bengals vs. Ravens,Bengals,49.5
+2026-10-21T18:10:22.512225,NFL,Bengals vs. Ravens,Ravens,50.5
+2026-10-21T18:10:22.512230,NFL,Spread: Bears (-3.5),Bears,44.5
+2026-10-21T18:10:22.512233,NFL,Spread: Bears (-3.5),Patriots,55.50000000000001
+2026-10-21T18:10:22.512238,NFL,Will the Cleveland Browns win the 2027 NFL league championship?,Yes,0.5
+2026-10-21T18:10:22.512241,NFL,Will the Cleveland Browns win the 2027 NFL league championship?,No,99.5
+2026-10-21T18:10:22.685666,Premier League,Will Brighton & Hove Albion FC win on 2026-10-25?,Yes,31.5
+2026-10-21T18:10:22.685684,Premier League,Will Brighton & Hove Albion FC win on 2026-10-25?,No,68.5
+2026-10-21T18:10:22.685690,Premier League,Exact Score: Any Other Score?,Yes,37.5
+2026-10-21T18:10:22.685695,Premier League,Exact Score: Any Other Score?,No,62.5
+2026-10-21T18:10:22.685700,Premier League,Will Brentford FC win on 2026-10-25?,Yes,56.49999999999999
+2026-10-21T18:10:22.685703,Premier League,Will Brentford FC win on 2026-10-25?,No,43.5
+2026-10-21T18:10:22.685708,Premier League,Will Liverpool FC win on 2026-10-25?,Yes,44.5
+2026-10-21T18:10:22.685710,Premier League,Will Liverpool FC win on 2026-10-25?,No,55.50000000000001
+2026-10-21T18:10:22.685715,Premier League,Will Manchester City FC win on 2026-10-24?,Yes,56.49999999999999
+2026-10-21T18:10:22.685718,Premier League,Will Manchester City FC win on 2026-10-24?,No,43.5
+2026-10-21T18:10:22.866196,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-10-21T18:10:22.866214,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-10-21T18:10:22.866222,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,18.5
+2026-10-21T18:10:22.866226,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,81.5
+2026-10-21T18:10:22.866232,Champions League,Will Viking win the 2026-27 UEFA Champions League Championship?,Yes,0.05
+2026-10-21T18:10:22.866235,Champions League,Will Viking win the 2026-27 UEFA Champions League Championship?,No,99.95
+2026-10-21T18:10:22.866240,Champions League,Will Club Brugge win the 2026-27 UEFA Champions League Championship?,Yes,0.2
+2026-10-21T18:10:22.866242,Champions League,Will Club Brugge win the 2026-27 UEFA Champions League Championship?,No,99.8
+2026-10-21T18:10:22.866247,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-10-21T18:10:22.866250,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-10-21T18:10:23.017949,MLB,Will the Tampa Bay Rays win the 2026 World Series?,Yes,37.2
+2026-10-21T18:10:23.017967,MLB,Will the Tampa Bay Rays win the 2026 World Series?,No,62.8
+2026-10-21T18:10:23.017974,MLB,Will the Milwaukee Brewers win the 2026 World Series?,Yes,62.849999999999994
+2026-10-21T18:10:23.017978,MLB,Will the Milwaukee Brewers win the 2026 World Series?,No,37.15
+2026-10-21T18:10:23.017983,MLB,Will Jacob Misiorowski win the 2026 World Series MVP?,Yes,9.2
+2026-10-21T18:10:23.017996,MLB,Will Jacob Misiorowski win the 2026 World Series MVP?,No,90.8
+2026-10-21T18:10:23.018001,MLB,Tampa Bay Rays vs. Milwaukee Brewers,Tampa Bay Rays,40.5
+2026-10-21T18:10:23.018004,MLB,Tampa Bay Rays vs. Milwaukee Brewers,Milwaukee Brewers,59.5
+2026-10-21T18:10:23.018009,MLB,Will A.J. Ewing win the 2026 NL Rookie of the Year award?,Yes,1.0999999999999999
+2026-10-21T18:10:23.018012,MLB,Will A.J. Ewing win the 2026 NL Rookie of the Year award?,No,98.9

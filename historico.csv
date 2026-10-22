@@ -47699,3 +47699,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-10-22T15:32:59.205296,MLB,Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5,Under,99.95
 2026-10-22T15:32:59.205302,MLB,Will William Contreras lead the 2026 MLB Postseason in RBI?,Yes,5.7
 2026-10-22T15:32:59.205306,MLB,Will William Contreras lead the 2026 MLB Postseason in RBI?,No,94.3
+2026-10-22T19:49:39.830394,NBA,Cavaliers vs. 76ers,Cavaliers,43.5
+2026-10-22T19:49:39.830431,NBA,Cavaliers vs. 76ers,76ers,56.49999999999999
+2026-10-22T19:49:39.830444,NBA,Spread: Thunder (-8.5),Thunder,48.5
+2026-10-22T19:49:39.830448,NBA,Spread: Thunder (-8.5),Nuggets,51.5
+2026-10-22T19:49:39.830456,NBA,Nuggets vs. Thunder,Nuggets,26.5
+2026-10-22T19:49:39.830461,NBA,Nuggets vs. Thunder,Thunder,73.5
+2026-10-22T19:49:39.830475,NBA,Spread: 76ers (-3.5),76ers,46.5
+2026-10-22T19:49:39.830479,NBA,Spread: 76ers (-3.5),Cavaliers,53.5
+2026-10-22T19:49:39.830486,NBA,Cavaliers vs. 76ers: O/U 232.5,Over,60.0
+2026-10-22T19:49:39.830489,NBA,Cavaliers vs. 76ers: O/U 232.5,Under,40.0
+2026-10-22T19:49:40.041539,NFL,Spread: Bears (-3.5),Bears,43.5
+2026-10-22T19:49:40.041562,NFL,Spread: Bears (-3.5),Patriots,56.49999999999999
+2026-10-22T19:49:40.041582,NFL,Spread: Bears (-2.5),Bears,53.5
+2026-10-22T19:49:40.041589,NFL,Spread: Bears (-2.5),Patriots,46.5
+2026-10-22T19:49:40.041604,NFL,Patriots vs. Bears,Patriots,40.5
+2026-10-22T19:49:40.041611,NFL,Patriots vs. Bears,Bears,59.5
+2026-10-22T19:49:40.041626,NFL,Patriots vs. Bears: O/U 50.5,Over,51.5
+2026-10-22T19:49:40.041633,NFL,Patriots vs. Bears: O/U 50.5,Under,48.5
+2026-10-22T19:49:40.041648,NFL,Spread: Ravens (-1.5),Ravens,50.0
+2026-10-22T19:49:40.041654,NFL,Spread: Ravens (-1.5),Bengals,50.0
+2026-10-22T19:49:40.286578,Premier League,Will Liverpool FC win on 2026-10-25?,Yes,45.5
+2026-10-22T19:49:40.286594,Premier League,Will Liverpool FC win on 2026-10-25?,No,54.50000000000001
+2026-10-22T19:49:40.286604,Premier League,Will Brighton & Hove Albion FC win on 2026-10-25?,Yes,30.5
+2026-10-22T19:49:40.286608,Premier League,Will Brighton & Hove Albion FC win on 2026-10-25?,No,69.5
+2026-10-22T19:49:40.286615,Premier League,Will Manchester City FC win on 2026-10-24?,Yes,59.5
+2026-10-22T19:49:40.286618,Premier League,Will Manchester City FC win on 2026-10-24?,No,40.5
+2026-10-22T19:49:40.286628,Premier League,Exact Score: Any Other Score?,Yes,30.0
+2026-10-22T19:49:40.286631,Premier League,Exact Score: Any Other Score?,No,70.0
+2026-10-22T19:49:40.286637,Premier League,Exact Score: Any Other Score?,Yes,30.0
+2026-10-22T19:49:40.286640,Premier League,Exact Score: Any Other Score?,No,70.0
+2026-10-22T19:49:40.498804,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-10-22T19:49:40.498821,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-10-22T19:49:40.498831,Champions League,Will LASK win the 2026-27 UEFA Champions League Championship?,Yes,0.05
+2026-10-22T19:49:40.498836,Champions League,Will LASK win the 2026-27 UEFA Champions League Championship?,No,99.95
+2026-10-22T19:49:40.498843,Champions League,Will Bayern Munich win the 2026-27 UEFA Champions League Championship?,Yes,13.5
+2026-10-22T19:49:40.498847,Champions League,Will Bayern Munich win the 2026-27 UEFA Champions League Championship?,No,86.5
+2026-10-22T19:49:40.498854,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,17.5
+2026-10-22T19:49:40.498858,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,82.5
+2026-10-22T19:49:40.498864,Champions League,Will Real Betis win the 2026-27 UEFA Champions League Championship?,Yes,0.8500000000000001
+2026-10-22T19:49:40.498869,Champions League,Will Real Betis win the 2026-27 UEFA Champions League Championship?,No,99.15
+2026-10-22T19:49:40.778195,MLB,Will the Milwaukee Brewers win the 2026 World Series?,Yes,63.14999999999999
+2026-10-22T19:49:40.778211,MLB,Will the Milwaukee Brewers win the 2026 World Series?,No,36.85
+2026-10-22T19:49:40.778220,MLB,Will the Tampa Bay Rays win the 2026 World Series?,Yes,37.0
+2026-10-22T19:49:40.778224,MLB,Will the Tampa Bay Rays win the 2026 World Series?,No,63.0
+2026-10-22T19:49:40.778231,MLB,Tampa Bay Rays vs. Milwaukee Brewers,Tampa Bay Rays,40.5
+2026-10-22T19:49:40.778234,MLB,Tampa Bay Rays vs. Milwaukee Brewers,Milwaukee Brewers,59.5
+2026-10-22T19:49:40.778241,MLB,Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5,Over,0.5
+2026-10-22T19:49:40.778244,MLB,Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5,Under,99.5
+2026-10-22T19:49:40.778251,MLB,Will Walt Weiss win the 2026 NL Manager of the Year?,Yes,24.5
+2026-10-22T19:49:40.778254,MLB,Will Walt Weiss win the 2026 NL Manager of the Year?,No,75.5

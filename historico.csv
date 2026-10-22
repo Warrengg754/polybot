@@ -47649,3 +47649,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-10-22T10:28:35.735250,MLB,Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5,Under,99.95
 2026-10-22T10:28:35.735257,MLB,Will William Contreras lead the 2026 MLB Postseason in RBI?,Yes,5.75
 2026-10-22T10:28:35.735260,MLB,Will William Contreras lead the 2026 MLB Postseason in RBI?,No,94.25
+2026-10-22T15:32:57.219707,NBA,Nuggets vs. Thunder,Nuggets,25.5
+2026-10-22T15:32:57.219735,NBA,Nuggets vs. Thunder,Thunder,74.5
+2026-10-22T15:32:57.219745,NBA,Cavaliers vs. 76ers,Cavaliers,43.5
+2026-10-22T15:32:57.219749,NBA,Cavaliers vs. 76ers,76ers,56.49999999999999
+2026-10-22T15:32:57.219757,NBA,Spread: 76ers (-3.5),76ers,47.0
+2026-10-22T15:32:57.219762,NBA,Spread: 76ers (-3.5),Cavaliers,53.0
+2026-10-22T15:32:57.219775,NBA,Will Utah Jazz win the 2027 NBA Finals?,Yes,0.65
+2026-10-22T15:32:57.219779,NBA,Will Utah Jazz win the 2027 NBA Finals?,No,99.35000000000001
+2026-10-22T15:32:57.219787,NBA,Will Indiana Pacers win the 2027 NBA Finals?,Yes,2.0500000000000003
+2026-10-22T15:32:57.219791,NBA,Will Indiana Pacers win the 2027 NBA Finals?,No,97.95
+2026-10-22T15:32:57.440235,NFL,Patriots vs. Bears,Patriots,40.5
+2026-10-22T15:32:57.440260,NFL,Patriots vs. Bears,Bears,59.5
+2026-10-22T15:32:57.440269,NFL,Will the Houston Texans win the 2027 NFL league championship?,Yes,2.9499999999999997
+2026-10-22T15:32:57.440273,NFL,Will the Houston Texans win the 2027 NFL league championship?,No,97.05
+2026-10-22T15:32:57.440281,NFL,Patriots vs. Bears: O/U 50.5,Over,51.5
+2026-10-22T15:32:57.440284,NFL,Patriots vs. Bears: O/U 50.5,Under,48.5
+2026-10-22T15:32:57.440291,NFL,Spread: Bears (-2.5),Bears,54.50000000000001
+2026-10-22T15:32:57.440295,NFL,Spread: Bears (-2.5),Patriots,45.5
+2026-10-22T15:32:57.440301,NFL,Bengals vs. Ravens,Bengals,51.5
+2026-10-22T15:32:57.440303,NFL,Bengals vs. Ravens,Ravens,48.5
+2026-10-22T15:32:57.656811,Premier League,Will Liverpool FC win on 2026-10-25?,Yes,45.5
+2026-10-22T15:32:57.656828,Premier League,Will Liverpool FC win on 2026-10-25?,No,54.50000000000001
+2026-10-22T15:32:57.656836,Premier League,Will Brighton & Hove Albion FC win on 2026-10-25?,Yes,30.5
+2026-10-22T15:32:57.656840,Premier League,Will Brighton & Hove Albion FC win on 2026-10-25?,No,69.5
+2026-10-22T15:32:57.656847,Premier League,Will Manchester City FC win on 2026-10-24?,Yes,59.5
+2026-10-22T15:32:57.656850,Premier League,Will Manchester City FC win on 2026-10-24?,No,40.5
+2026-10-22T15:32:57.656857,Premier League,Exact Score: Any Other Score?,Yes,30.0
+2026-10-22T15:32:57.656860,Premier League,Exact Score: Any Other Score?,No,70.0
+2026-10-22T15:32:57.656866,Premier League,Exact Score: Any Other Score?,Yes,30.0
+2026-10-22T15:32:57.656869,Premier League,Exact Score: Any Other Score?,No,70.0
+2026-10-22T15:32:57.878078,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-10-22T15:32:57.878094,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-10-22T15:32:57.878105,Champions League,Will Viking win the 2026-27 UEFA Champions League Championship?,Yes,0.05
+2026-10-22T15:32:57.878109,Champions League,Will Viking win the 2026-27 UEFA Champions League Championship?,No,99.95
+2026-10-22T15:32:57.878116,Champions League,Will LASK win the 2026-27 UEFA Champions League Championship?,Yes,0.05
+2026-10-22T15:32:57.878120,Champions League,Will LASK win the 2026-27 UEFA Champions League Championship?,No,99.95
+2026-10-22T15:32:57.878148,Champions League,Will Lille win the 2026-27 UEFA Champions League Championship?,Yes,0.05
+2026-10-22T15:32:57.878152,Champions League,Will Lille win the 2026-27 UEFA Champions League Championship?,No,99.95
+2026-10-22T15:32:57.878160,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,17.5
+2026-10-22T15:32:57.878164,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,82.5
+2026-10-22T15:32:59.205239,MLB,Will the Milwaukee Brewers win the 2026 World Series?,Yes,63.05
+2026-10-22T15:32:59.205263,MLB,Will the Milwaukee Brewers win the 2026 World Series?,No,36.95
+2026-10-22T15:32:59.205272,MLB,Will the Tampa Bay Rays win the 2026 World Series?,Yes,37.0
+2026-10-22T15:32:59.205275,MLB,Will the Tampa Bay Rays win the 2026 World Series?,No,63.0
+2026-10-22T15:32:59.205282,MLB,Tampa Bay Rays vs. Milwaukee Brewers,Tampa Bay Rays,40.5
+2026-10-22T15:32:59.205286,MLB,Tampa Bay Rays vs. Milwaukee Brewers,Milwaukee Brewers,59.5
+2026-10-22T15:32:59.205293,MLB,Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5,Over,0.05
+2026-10-22T15:32:59.205296,MLB,Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5,Under,99.95
+2026-10-22T15:32:59.205302,MLB,Will William Contreras lead the 2026 MLB Postseason in RBI?,Yes,5.7
+2026-10-22T15:32:59.205306,MLB,Will William Contreras lead the 2026 MLB Postseason in RBI?,No,94.3

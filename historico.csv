@@ -48199,3 +48199,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-10-24T09:01:20.892474,MLB,Will Junior Caminero win the 2026 World Series MVP?,No,93.7
 2026-10-24T09:01:20.892480,MLB,Jacob Misiorowski: Strikeouts O/U 6.5,Over,49.5
 2026-10-24T09:01:20.892483,MLB,Jacob Misiorowski: Strikeouts O/U 6.5,Under,50.5
+2026-10-24T13:29:40.867512,NBA,Heat vs. Hornets,Heat,56.49999999999999
+2026-10-24T13:29:40.867546,NBA,Heat vs. Hornets,Hornets,43.5
+2026-10-24T13:29:40.867558,NBA,Will Phoenix Suns win the 2027 NBA Finals?,Yes,0.35000000000000003
+2026-10-24T13:29:40.867563,NBA,Will Phoenix Suns win the 2027 NBA Finals?,No,99.65
+2026-10-24T13:29:40.867571,NBA,Will Chicago Bulls win the 2027 NBA Finals?,Yes,0.15
+2026-10-24T13:29:40.867577,NBA,Will Chicago Bulls win the 2027 NBA Finals?,No,99.85000000000001
+2026-10-24T13:29:40.867591,NBA,Bucks vs. 76ers,Bucks,15.5
+2026-10-24T13:29:40.867595,NBA,Bucks vs. 76ers,76ers,84.5
+2026-10-24T13:29:40.867602,NBA,Spread: Cavaliers (-10.5),Cavaliers,53.5
+2026-10-24T13:29:40.867606,NBA,Spread: Cavaliers (-10.5),Nets,46.5
+2026-10-24T13:29:41.099677,NFL,Spread: Panthers (-3.5),Panthers,41.5
+2026-10-24T13:29:41.099694,NFL,Spread: Panthers (-3.5),Buccaneers,58.5
+2026-10-24T13:29:41.099703,NFL,Bengals vs. Ravens,Bengals,52.5
+2026-10-24T13:29:41.099706,NFL,Bengals vs. Ravens,Ravens,47.5
+2026-10-24T13:29:41.099712,NFL,Rams vs. Raiders,Rams,61.5
+2026-10-24T13:29:41.099715,NFL,Rams vs. Raiders,Raiders,38.5
+2026-10-24T13:29:41.099721,NFL,Steelers vs. Saints,Steelers,60.5
+2026-10-24T13:29:41.099724,NFL,Steelers vs. Saints,Saints,39.5
+2026-10-24T13:29:41.099749,NFL,Spread: Vikings (-6.5),Vikings,49.5
+2026-10-24T13:29:41.099752,NFL,Spread: Vikings (-6.5),Colts,50.5
+2026-10-24T13:29:41.327830,Premier League,Will Manchester City FC win on 2026-10-24?,Yes,0.05
+2026-10-24T13:29:41.327846,Premier League,Will Manchester City FC win on 2026-10-24?,No,99.95
+2026-10-24T13:29:41.327855,Premier League,Will Aston Villa FC win on 2026-10-24?,Yes,99.95
+2026-10-24T13:29:41.327859,Premier League,Will Aston Villa FC win on 2026-10-24?,No,0.05
+2026-10-24T13:29:41.327865,Premier League,Aston Villa FC vs. Manchester City FC: O/U 3.5,Over,0.05
+2026-10-24T13:29:41.327869,Premier League,Aston Villa FC vs. Manchester City FC: O/U 3.5,Under,99.95
+2026-10-24T13:29:41.327875,Premier League,Arsenal FC vs. Everton FC: O/U 2.5,Over,56.49999999999999
+2026-10-24T13:29:41.327879,Premier League,Arsenal FC vs. Everton FC: O/U 2.5,Under,43.5
+2026-10-24T13:29:41.327886,Premier League,Will Chelsea FC win on 2026-10-24?,Yes,50.5
+2026-10-24T13:29:41.327889,Premier League,Will Chelsea FC win on 2026-10-24?,No,49.5
+2026-10-24T13:29:41.550281,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-10-24T13:29:41.550298,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-10-24T13:29:41.550308,Champions League,Will Aston Villa win the 2026-27 UEFA Champions League Championship?,Yes,1.25
+2026-10-24T13:29:41.550313,Champions League,Will Aston Villa win the 2026-27 UEFA Champions League Championship?,No,98.75
+2026-10-24T13:29:41.550320,Champions League,Will Club Brugge win the 2026-27 UEFA Champions League Championship?,Yes,0.4
+2026-10-24T13:29:41.550324,Champions League,Will Club Brugge win the 2026-27 UEFA Champions League Championship?,No,99.6
+2026-10-24T13:29:41.550331,Champions League,Will Bodø/Glimt win the 2026-27 UEFA Champions League Championship?,Yes,0.25
+2026-10-24T13:29:41.550339,Champions League,Will Bodø/Glimt win the 2026-27 UEFA Champions League Championship?,No,99.75
+2026-10-24T13:29:41.550346,Champions League,Will Bayern Munich win the 2026-27 UEFA Champions League Championship?,Yes,13.5
+2026-10-24T13:29:41.550350,Champions League,Will Bayern Munich win the 2026-27 UEFA Champions League Championship?,No,86.5
+2026-10-24T13:29:41.783137,MLB,Will the Tampa Bay Rays win the 2026 World Series?,Yes,26.55
+2026-10-24T13:29:41.783155,MLB,Will the Tampa Bay Rays win the 2026 World Series?,No,73.45
+2026-10-24T13:29:41.783163,MLB,Will the Milwaukee Brewers win the 2026 World Series?,Yes,73.4
+2026-10-24T13:29:41.783167,MLB,Will the Milwaukee Brewers win the 2026 World Series?,No,26.6
+2026-10-24T13:29:41.783173,MLB,Tampa Bay Rays vs. Milwaukee Brewers,Tampa Bay Rays,46.5
+2026-10-24T13:29:41.783177,MLB,Tampa Bay Rays vs. Milwaukee Brewers,Milwaukee Brewers,53.5
+2026-10-24T13:29:41.783184,MLB,Will Junior Caminero win the 2026 World Series MVP?,Yes,6.65
+2026-10-24T13:29:41.783187,MLB,Will Junior Caminero win the 2026 World Series MVP?,No,93.35
+2026-10-24T13:29:41.783193,MLB,Will Jacob Misiorowski win the 2026 World Series MVP?,Yes,2.0500000000000003
+2026-10-24T13:29:41.783197,MLB,Will Jacob Misiorowski win the 2026 World Series MVP?,No,97.95

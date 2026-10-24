@@ -48249,3 +48249,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-10-24T13:29:41.783187,MLB,Will Junior Caminero win the 2026 World Series MVP?,No,93.35
 2026-10-24T13:29:41.783193,MLB,Will Jacob Misiorowski win the 2026 World Series MVP?,Yes,2.0500000000000003
 2026-10-24T13:29:41.783197,MLB,Will Jacob Misiorowski win the 2026 World Series MVP?,No,97.95
+2026-10-24T16:53:08.652154,NBA,Heat vs. Hornets,Heat,55.50000000000001
+2026-10-24T16:53:08.652182,NBA,Heat vs. Hornets,Hornets,44.5
+2026-10-24T16:53:08.652193,NBA,Wizards vs. Bulls,Wizards,46.5
+2026-10-24T16:53:08.652196,NBA,Wizards vs. Bulls,Bulls,53.5
+2026-10-24T16:53:08.652203,NBA,Rockets vs. Hawks,Rockets,49.5
+2026-10-24T16:53:08.652208,NBA,Rockets vs. Hawks,Hawks,50.5
+2026-10-24T16:53:08.652221,NBA,Spread: Cavaliers (-11.5),Cavaliers,47.5
+2026-10-24T16:53:08.652224,NBA,Spread: Cavaliers (-11.5),Nets,52.5
+2026-10-24T16:53:08.652231,NBA,Will Phoenix Suns win the 2027 NBA Finals?,Yes,0.35000000000000003
+2026-10-24T16:53:08.652236,NBA,Will Phoenix Suns win the 2027 NBA Finals?,No,99.65
+2026-10-24T16:53:08.855423,NFL,Spread: Lions (-10.5),Lions,25.5
+2026-10-24T16:53:08.855435,NFL,Spread: Lions (-10.5),Packers,74.5
+2026-10-24T16:53:08.855443,NFL,Rams vs. Raiders,Rams,61.5
+2026-10-24T16:53:08.855446,NFL,Rams vs. Raiders,Raiders,38.5
+2026-10-24T16:53:08.855452,NFL,Bengals vs. Ravens,Bengals,52.5
+2026-10-24T16:53:08.855455,NFL,Bengals vs. Ravens,Ravens,47.5
+2026-10-24T16:53:08.855463,NFL,Steelers vs. Saints,Steelers,60.5
+2026-10-24T16:53:08.855467,NFL,Steelers vs. Saints,Saints,39.5
+2026-10-24T16:53:08.855473,NFL,Spread: Vikings (-6.5),Vikings,49.5
+2026-10-24T16:53:08.855475,NFL,Spread: Vikings (-6.5),Colts,50.5
+2026-10-24T16:53:09.070509,Premier League,Will Chelsea FC win on 2026-10-24?,Yes,48.5
+2026-10-24T16:53:09.070526,Premier League,Will Chelsea FC win on 2026-10-24?,No,51.5
+2026-10-24T16:53:09.070534,Premier League,Will Arsenal FC win on 2026-10-24?,Yes,99.95
+2026-10-24T16:53:09.070539,Premier League,Will Arsenal FC win on 2026-10-24?,No,0.05
+2026-10-24T16:53:09.070546,Premier League,Arsenal FC vs. Everton FC: O/U 2.5,Over,0.05
+2026-10-24T16:53:09.070550,Premier League,Arsenal FC vs. Everton FC: O/U 2.5,Under,99.95
+2026-10-24T16:53:09.070558,Premier League,Will Fulham FC win on 2026-10-24?,Yes,99.95
+2026-10-24T16:53:09.070561,Premier League,Will Fulham FC win on 2026-10-24?,No,0.05
+2026-10-24T16:53:09.070568,Premier League,Will Chelsea FC vs. Tottenham Hotspur FC end in a draw?,Yes,27.500000000000004
+2026-10-24T16:53:09.070573,Premier League,Will Chelsea FC vs. Tottenham Hotspur FC end in a draw?,No,72.5
+2026-10-24T16:53:09.295804,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-10-24T16:53:09.295820,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-10-24T16:53:09.295842,Champions League,Will Aston Villa win the 2026-27 UEFA Champions League Championship?,Yes,1.35
+2026-10-24T16:53:09.295852,Champions League,Will Aston Villa win the 2026-27 UEFA Champions League Championship?,No,98.65
+2026-10-24T16:53:09.295869,Champions League,Will Club Brugge win the 2026-27 UEFA Champions League Championship?,Yes,0.4
+2026-10-24T16:53:09.295877,Champions League,Will Club Brugge win the 2026-27 UEFA Champions League Championship?,No,99.6
+2026-10-24T16:53:09.295892,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,17.5
+2026-10-24T16:53:09.295896,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,82.5
+2026-10-24T16:53:09.295903,Champions League,Will Bodø/Glimt win the 2026-27 UEFA Champions League Championship?,Yes,0.25
+2026-10-24T16:53:09.295912,Champions League,Will Bodø/Glimt win the 2026-27 UEFA Champions League Championship?,No,99.75
+2026-10-24T16:53:09.878152,MLB,Tampa Bay Rays vs. Milwaukee Brewers,Tampa Bay Rays,47.5
+2026-10-24T16:53:09.878168,MLB,Tampa Bay Rays vs. Milwaukee Brewers,Milwaukee Brewers,52.5
+2026-10-24T16:53:09.878176,MLB,Will the Tampa Bay Rays win the 2026 World Series?,Yes,26.950000000000003
+2026-10-24T16:53:09.878181,MLB,Will the Tampa Bay Rays win the 2026 World Series?,No,73.05
+2026-10-24T16:53:09.878188,MLB,Will the Milwaukee Brewers win the 2026 World Series?,Yes,72.8
+2026-10-24T16:53:09.878191,MLB,Will the Milwaukee Brewers win the 2026 World Series?,No,27.200000000000003
+2026-10-24T16:53:09.878198,MLB,Spread: Tampa Bay Rays (-2.5),Tampa Bay Rays,23.5
+2026-10-24T16:53:09.878201,MLB,Spread: Tampa Bay Rays (-2.5),Milwaukee Brewers,76.5
+2026-10-24T16:53:09.878207,MLB,Spread: Tampa Bay Rays (-1.5),Tampa Bay Rays,33.5
+2026-10-24T16:53:09.878210,MLB,Spread: Tampa Bay Rays (-1.5),Milwaukee Brewers,66.5

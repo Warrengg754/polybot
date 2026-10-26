@@ -48749,3 +48749,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-10-25T23:04:42.442560,MLB,Spread: Tampa Bay Rays (-1.5),Milwaukee Brewers,66.5
 2026-10-25T23:04:42.442566,MLB,Will Gavin Williams lead the 2026 MLB Postseason in strikeouts?,Yes,79.0
 2026-10-25T23:04:42.442569,MLB,Will Gavin Williams lead the 2026 MLB Postseason in strikeouts?,No,21.0
+2026-10-26T01:31:04.099690,NBA,Pistons vs. 76ers,Pistons,72.5
+2026-10-26T01:31:04.099725,NBA,Pistons vs. 76ers,76ers,27.500000000000004
+2026-10-26T01:31:04.099736,NBA,Raptors vs. Timberwolves,Raptors,0.05
+2026-10-26T01:31:04.099740,NBA,Raptors vs. Timberwolves,Timberwolves,99.95
+2026-10-26T01:31:04.099747,NBA,Spread: Thunder (-16.5),Thunder,0.05
+2026-10-26T01:31:04.099752,NBA,Spread: Thunder (-16.5),Clippers,99.95
+2026-10-26T01:31:04.099765,NBA,Grizzlies vs. Kings,Grizzlies,53.5
+2026-10-26T01:31:04.099769,NBA,Grizzlies vs. Kings,Kings,46.5
+2026-10-26T01:31:04.099776,NBA,Clippers vs. Thunder,Clippers,0.05
+2026-10-26T01:31:04.099779,NBA,Clippers vs. Thunder,Thunder,99.95
+2026-10-26T01:31:04.315404,NFL,Chiefs vs. Seahawks,Chiefs,18.5
+2026-10-26T01:31:04.315421,NFL,Chiefs vs. Seahawks,Seahawks,81.5
+2026-10-26T01:31:04.315429,NFL,Spread: Chiefs (-3.5),Chiefs,8.5
+2026-10-26T01:31:04.315433,NFL,Spread: Chiefs (-3.5),Seahawks,91.5
+2026-10-26T01:31:04.315439,NFL,Spread: Seahawks (-2.5),Seahawks,78.5
+2026-10-26T01:31:04.315442,NFL,Spread: Seahawks (-2.5),Chiefs,21.5
+2026-10-26T01:31:04.315449,NFL,Chiefs vs. Seahawks: O/U 42.5,Over,18.5
+2026-10-26T01:31:04.315452,NFL,Chiefs vs. Seahawks: O/U 42.5,Under,81.5
+2026-10-26T01:31:04.315458,NFL,Spread: Seahawks (-3.5),Seahawks,70.0
+2026-10-26T01:31:04.315461,NFL,Spread: Seahawks (-3.5),Chiefs,30.0
+2026-10-26T01:31:04.568692,Premier League,Exact Score: Any Other Score?,Yes,29.5
+2026-10-26T01:31:04.568708,Premier League,Exact Score: Any Other Score?,No,70.5
+2026-10-26T01:31:04.568716,Premier League,Exact Score: Any Other Score?,Yes,29.5
+2026-10-26T01:31:04.568720,Premier League,Exact Score: Any Other Score?,No,70.5
+2026-10-26T01:31:04.568726,Premier League,Exact Score: Any Other Score?,Yes,29.5
+2026-10-26T01:31:04.568729,Premier League,Exact Score: Any Other Score?,No,70.5
+2026-10-26T01:31:04.568735,Premier League,Will Chelsea FC win on 2026-10-31?,Yes,52.5
+2026-10-26T01:31:04.568738,Premier League,Will Chelsea FC win on 2026-10-31?,No,47.5
+2026-10-26T01:31:04.568748,Premier League,Will Hull City be relegated from the 2026-27 Premier League?,Yes,53.5
+2026-10-26T01:31:04.568751,Premier League,Will Hull City be relegated from the 2026-27 Premier League?,No,46.5
+2026-10-26T01:31:04.822889,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-10-26T01:31:04.822907,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-10-26T01:31:04.822917,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,21.5
+2026-10-26T01:31:04.822922,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,78.5
+2026-10-26T01:31:04.822929,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,Yes,11.5
+2026-10-26T01:31:04.822933,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,No,88.5
+2026-10-26T01:31:04.822940,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,17.5
+2026-10-26T01:31:04.822944,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,82.5
+2026-10-26T01:31:04.822950,Champions League,Will Feyenoord win the 2026-27 UEFA Champions League Championship?,Yes,0.05
+2026-10-26T01:31:04.822954,Champions League,Will Feyenoord win the 2026-27 UEFA Champions League Championship?,No,99.95
+2026-10-26T01:31:05.068234,MLB,Will the Milwaukee Brewers win the 2026 World Series?,Yes,83.95
+2026-10-26T01:31:05.068252,MLB,Will the Milwaukee Brewers win the 2026 World Series?,No,16.05
+2026-10-26T01:31:05.068261,MLB,Will the Tampa Bay Rays win the 2026 World Series?,Yes,16.400000000000002
+2026-10-26T01:31:05.068265,MLB,Will the Tampa Bay Rays win the 2026 World Series?,No,83.6
+2026-10-26T01:31:05.068272,MLB,Milwaukee Brewers vs. Tampa Bay Rays,Milwaukee Brewers,48.5
+2026-10-26T01:31:05.068276,MLB,Milwaukee Brewers vs. Tampa Bay Rays,Tampa Bay Rays,51.5
+2026-10-26T01:31:05.068283,MLB,Spread: Tampa Bay Rays (-1.5),Tampa Bay Rays,33.5
+2026-10-26T01:31:05.068286,MLB,Spread: Tampa Bay Rays (-1.5),Milwaukee Brewers,66.5
+2026-10-26T01:31:05.068292,MLB,Will Gavin Williams lead the 2026 MLB Postseason in strikeouts?,Yes,80.0
+2026-10-26T01:31:05.068295,MLB,Will Gavin Williams lead the 2026 MLB Postseason in strikeouts?,No,20.0

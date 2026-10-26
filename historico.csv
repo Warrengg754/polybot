@@ -48849,3 +48849,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-10-26T07:33:12.840500,MLB,Will Owen Caissie win the 2026 NL Rookie of the Year award?,No,99.95
 2026-10-26T07:33:12.840505,MLB,Will William Contreras win the 2026 World Series MVP?,Yes,35.15
 2026-10-26T07:33:12.840508,MLB,Will William Contreras win the 2026 World Series MVP?,No,64.85
+2026-10-26T14:57:28.989075,NBA,Timberwolves vs. Cavaliers,Timberwolves,38.5
+2026-10-26T14:57:28.989112,NBA,Timberwolves vs. Cavaliers,Cavaliers,61.5
+2026-10-26T14:57:28.989124,NBA,Wizards vs. Hornets,Wizards,45.5
+2026-10-26T14:57:28.989128,NBA,Wizards vs. Hornets,Hornets,54.50000000000001
+2026-10-26T14:57:28.989137,NBA,Will Philadelphia 76ers win the 2027 NBA Finals?,Yes,11.25
+2026-10-26T14:57:28.989144,NBA,Will Philadelphia 76ers win the 2027 NBA Finals?,No,88.75
+2026-10-26T14:57:28.989159,NBA,Spread: Cavaliers (-3.5),Cavaliers,53.5
+2026-10-26T14:57:28.989164,NBA,Spread: Cavaliers (-3.5),Timberwolves,46.5
+2026-10-26T14:57:28.989172,NBA,Warriors vs. Nuggets,Warriors,28.499999999999996
+2026-10-26T14:57:28.989177,NBA,Warriors vs. Nuggets,Nuggets,71.5
+2026-10-26T14:57:29.175143,NFL,Cowboys vs. Eagles,Cowboys,66.5
+2026-10-26T14:57:29.175161,NFL,Cowboys vs. Eagles,Eagles,33.5
+2026-10-26T14:57:29.175167,NFL,Spread: Cowboys (-4.5),Cowboys,48.5
+2026-10-26T14:57:29.175169,NFL,Spread: Cowboys (-4.5),Eagles,51.5
+2026-10-26T14:57:29.175174,NFL,Spread: Cowboys (-10.5),Cowboys,30.5
+2026-10-26T14:57:29.175176,NFL,Spread: Cowboys (-10.5),Eagles,69.5
+2026-10-26T14:57:29.175181,NFL,Will the Houston Texans win the 2027 NFL league championship?,Yes,1.8499999999999999
+2026-10-26T14:57:29.175185,NFL,Will the Houston Texans win the 2027 NFL league championship?,No,98.15
+2026-10-26T14:57:29.175190,NFL,Will the Denver Broncos win the 2027 NFL league championship?,Yes,3.85
+2026-10-26T14:57:29.175193,NFL,Will the Denver Broncos win the 2027 NFL league championship?,No,96.15
+2026-10-26T14:57:29.369410,Premier League,Exact Score: Any Other Score?,Yes,35.5
+2026-10-26T14:57:29.369429,Premier League,Exact Score: Any Other Score?,No,64.5
+2026-10-26T14:57:29.369435,Premier League,Exact Score: Any Other Score?,Yes,25.0
+2026-10-26T14:57:29.369440,Premier League,Exact Score: Any Other Score?,No,75.0
+2026-10-26T14:57:29.369445,Premier League,Will Aston Villa FC win on 2026-10-31?,Yes,47.5
+2026-10-26T14:57:29.369448,Premier League,Will Aston Villa FC win on 2026-10-31?,No,52.5
+2026-10-26T14:57:29.369476,Premier League,Will Chelsea FC win on 2026-10-31?,Yes,53.5
+2026-10-26T14:57:29.369481,Premier League,Will Chelsea FC win on 2026-10-31?,No,46.5
+2026-10-26T14:57:29.369489,Premier League,Will Hull City be relegated from the 2026-27 Premier League?,Yes,51.5
+2026-10-26T14:57:29.369494,Premier League,Will Hull City be relegated from the 2026-27 Premier League?,No,48.5
+2026-10-26T14:57:29.558991,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-10-26T14:57:29.559010,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-10-26T14:57:29.559018,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,21.5
+2026-10-26T14:57:29.559022,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,78.5
+2026-10-26T14:57:29.559027,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,Yes,12.5
+2026-10-26T14:57:29.559030,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,No,87.5
+2026-10-26T14:57:29.559035,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,17.5
+2026-10-26T14:57:29.559038,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,82.5
+2026-10-26T14:57:29.559043,Champions League,Will Feyenoord win the 2026-27 UEFA Champions League Championship?,Yes,0.05
+2026-10-26T14:57:29.559046,Champions League,Will Feyenoord win the 2026-27 UEFA Champions League Championship?,No,99.95
+2026-10-26T14:57:29.753440,MLB,Milwaukee Brewers vs. Tampa Bay Rays,Milwaukee Brewers,48.5
+2026-10-26T14:57:29.753468,MLB,Milwaukee Brewers vs. Tampa Bay Rays,Tampa Bay Rays,51.5
+2026-10-26T14:57:29.753474,MLB,Will the Milwaukee Brewers win the 2026 World Series?,Yes,83.5
+2026-10-26T14:57:29.753478,MLB,Will the Milwaukee Brewers win the 2026 World Series?,No,16.5
+2026-10-26T14:57:29.753483,MLB,Spread: Milwaukee Brewers (-1.5),Milwaukee Brewers,34.5
+2026-10-26T14:57:29.753485,MLB,Spread: Milwaukee Brewers (-1.5),Tampa Bay Rays,65.5
+2026-10-26T14:57:29.753490,MLB,Will the Tampa Bay Rays win the 2026 World Series?,Yes,16.25
+2026-10-26T14:57:29.753492,MLB,Will the Tampa Bay Rays win the 2026 World Series?,No,83.75
+2026-10-26T14:57:29.753497,MLB,Will Owen Caissie win the 2026 NL Rookie of the Year award?,Yes,0.05
+2026-10-26T14:57:29.753500,MLB,Will Owen Caissie win the 2026 NL Rookie of the Year award?,No,99.95

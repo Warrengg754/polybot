@@ -49299,3 +49299,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-10-28T06:04:49.159111,MLB,Milwaukee Brewers vs. Tampa Bay Rays,Tampa Bay Rays,43.0
 2026-10-28T06:04:49.159116,MLB,Will Ben Rice lead the 2026 MLB Postseason in home runs?,Yes,96.05
 2026-10-28T06:04:49.159119,MLB,Will Ben Rice lead the 2026 MLB Postseason in home runs?,No,3.95
+2026-10-28T13:22:51.221983,NBA,Thunder vs. Mavericks,Thunder,66.5
+2026-10-28T13:22:51.222013,NBA,Thunder vs. Mavericks,Mavericks,33.5
+2026-10-28T13:22:51.222019,NBA,Warriors vs. Timberwolves,Warriors,40.5
+2026-10-28T13:22:51.222021,NBA,Warriors vs. Timberwolves,Timberwolves,59.5
+2026-10-28T13:22:51.222025,NBA,76ers vs. Pacers,76ers,64.5
+2026-10-28T13:22:51.222028,NBA,76ers vs. Pacers,Pacers,35.5
+2026-10-28T13:22:51.222037,NBA,Spread: Rockets (-8.5),Rockets,48.5
+2026-10-28T13:22:51.222039,NBA,Spread: Rockets (-8.5),Bucks,51.5
+2026-10-28T13:22:51.222043,NBA,Thunder vs. Mavericks: O/U 230.5,Over,44.5
+2026-10-28T13:22:51.222045,NBA,Thunder vs. Mavericks: O/U 230.5,Under,55.50000000000001
+2026-10-28T13:22:51.378689,NFL,Browns vs. Steelers,Browns,35.5
+2026-10-28T13:22:51.378708,NFL,Browns vs. Steelers,Steelers,64.5
+2026-10-28T13:22:51.378713,NFL,Will the Indianapolis Colts win the 2027 NFL league championship?,Yes,0.05
+2026-10-28T13:22:51.378716,NFL,Will the Indianapolis Colts win the 2027 NFL league championship?,No,99.95
+2026-10-28T13:22:51.378720,NFL,Will the San Francisco 49ers win the 2027 NFL league championship?,Yes,14.2
+2026-10-28T13:22:51.378722,NFL,Will the San Francisco 49ers win the 2027 NFL league championship?,No,85.8
+2026-10-28T13:22:51.378725,NFL,Spread: Steelers (-3.5),Steelers,48.5
+2026-10-28T13:22:51.378727,NFL,Spread: Steelers (-3.5),Browns,51.5
+2026-10-28T13:22:51.378730,NFL,Raiders vs. Jets,Raiders,46.5
+2026-10-28T13:22:51.378732,NFL,Raiders vs. Jets,Jets,53.5
+2026-10-28T13:22:51.576323,Premier League,Exact Score: Any Other Score?,Yes,24.5
+2026-10-28T13:22:51.576342,Premier League,Exact Score: Any Other Score?,No,75.5
+2026-10-28T13:22:51.576347,Premier League,Exact Score: Any Other Score?,Yes,24.5
+2026-10-28T13:22:51.576348,Premier League,Exact Score: Any Other Score?,No,75.5
+2026-10-28T13:22:51.576352,Premier League,Exact Score: Any Other Score?,Yes,24.5
+2026-10-28T13:22:51.576354,Premier League,Exact Score: Any Other Score?,No,75.5
+2026-10-28T13:22:51.576357,Premier League,Exact Score: Any Other Score?,Yes,22.5
+2026-10-28T13:22:51.576359,Premier League,Exact Score: Any Other Score?,No,77.5
+2026-10-28T13:22:51.576362,Premier League,Exact Score: Any Other Score?,Yes,24.5
+2026-10-28T13:22:51.576365,Premier League,Exact Score: Any Other Score?,No,75.5
+2026-10-28T13:22:51.752669,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-10-28T13:22:51.752688,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-10-28T13:22:51.752694,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,2.35
+2026-10-28T13:22:51.752701,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,97.65
+2026-10-28T13:22:51.752705,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,17.5
+2026-10-28T13:22:51.752707,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,82.5
+2026-10-28T13:22:51.752711,Champions League,Will Aston Villa win the 2026-27 UEFA Champions League Championship?,Yes,1.4500000000000002
+2026-10-28T13:22:51.752714,Champions League,Will Aston Villa win the 2026-27 UEFA Champions League Championship?,No,98.55000000000001
+2026-10-28T13:22:51.752717,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,Yes,1.6500000000000001
+2026-10-28T13:22:51.752719,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,No,98.35000000000001
+2026-10-28T13:22:51.934093,MLB,Will the Tampa Bay Rays win the 2026 World Series?,Yes,9.25
+2026-10-28T13:22:51.934113,MLB,Will the Tampa Bay Rays win the 2026 World Series?,No,90.75
+2026-10-28T13:22:51.934118,MLB,Will the Milwaukee Brewers win the 2026 World Series?,Yes,90.85
+2026-10-28T13:22:51.934120,MLB,Will the Milwaukee Brewers win the 2026 World Series?,No,9.15
+2026-10-28T13:22:51.934123,MLB,Milwaukee Brewers vs. Tampa Bay Rays,Milwaukee Brewers,58.5
+2026-10-28T13:22:51.934125,MLB,Milwaukee Brewers vs. Tampa Bay Rays,Tampa Bay Rays,41.5
+2026-10-28T13:22:51.934129,MLB,Will Jackson Chourio win the 2026 World Series MVP?,Yes,43.3
+2026-10-28T13:22:51.934130,MLB,Will Jackson Chourio win the 2026 World Series MVP?,No,56.699999999999996
+2026-10-28T13:22:51.934134,MLB,Will William Contreras win the 2026 World Series MVP?,Yes,25.4
+2026-10-28T13:22:51.934136,MLB,Will William Contreras win the 2026 World Series MVP?,No,74.6

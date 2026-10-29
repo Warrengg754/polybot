@@ -49549,3 +49549,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-10-29T09:36:23.105451,MLB,Will Kazuma Okamoto win the 2026 AL Rookie of the Year award?,No,99.95
 2026-10-29T09:36:23.105457,MLB,Will Kevin Cash win the 2026 AL Manager of the Year?,Yes,7.000000000000001
 2026-10-29T09:36:23.105461,MLB,Will Kevin Cash win the 2026 AL Manager of the Year?,No,93.0
+2026-10-29T16:44:33.548693,NBA,Grizzlies vs. Trail Blazers,Grizzlies,27.500000000000004
+2026-10-29T16:44:33.548739,NBA,Grizzlies vs. Trail Blazers,Trail Blazers,72.5
+2026-10-29T16:44:33.548747,NBA,Spread: Trail Blazers (-7.5),Trail Blazers,51.5
+2026-10-29T16:44:33.548750,NBA,Spread: Trail Blazers (-7.5),Grizzlies,48.5
+2026-10-29T16:44:33.548755,NBA,Cavaliers vs. Hawks,Cavaliers,48.5
+2026-10-29T16:44:33.548759,NBA,Cavaliers vs. Hawks,Hawks,51.5
+2026-10-29T16:44:33.548770,NBA,Kings vs. Pelicans,Kings,31.5
+2026-10-29T16:44:33.548773,NBA,Kings vs. Pelicans,Pelicans,68.5
+2026-10-29T16:44:33.548778,NBA,Grizzlies vs. Trail Blazers: O/U 233.5,Over,49.5
+2026-10-29T16:44:33.548780,NBA,Grizzlies vs. Trail Blazers: O/U 233.5,Under,50.5
+2026-10-29T16:44:33.700808,NFL,Panthers vs. Packers: O/U 46.5,Over,52.5
+2026-10-29T16:44:33.700828,NFL,Panthers vs. Packers: O/U 46.5,Under,47.5
+2026-10-29T16:44:33.700833,NFL,Spread: Packers (-3.5),Packers,50.5
+2026-10-29T16:44:33.700836,NFL,Spread: Packers (-3.5),Panthers,49.5
+2026-10-29T16:44:33.700840,NFL,Spread: Packers (-4.5),Packers,45.5
+2026-10-29T16:44:33.700843,NFL,Spread: Packers (-4.5),Panthers,54.50000000000001
+2026-10-29T16:44:33.700848,NFL,Spread: Cowboys (-6.5),Cowboys,54.50000000000001
+2026-10-29T16:44:33.700852,NFL,Spread: Cowboys (-6.5),Cardinals,45.5
+2026-10-29T16:44:33.700856,NFL,Will the Minnesota Vikings win the 2027 NFL league championship?,Yes,4.7
+2026-10-29T16:44:33.700859,NFL,Will the Minnesota Vikings win the 2027 NFL league championship?,No,95.3
+2026-10-29T16:44:33.875527,Premier League,Will Aston Villa FC win on 2026-10-31?,Yes,49.5
+2026-10-29T16:44:33.875547,Premier League,Will Aston Villa FC win on 2026-10-31?,No,50.5
+2026-10-29T16:44:33.875552,Premier League,Will Brentford FC win on 2026-10-31?,Yes,46.5
+2026-10-29T16:44:33.875555,Premier League,Will Brentford FC win on 2026-10-31?,No,53.5
+2026-10-29T16:44:33.875560,Premier League,Will Manchester City FC win on 2026-10-31?,Yes,59.5
+2026-10-29T16:44:33.875562,Premier League,Will Manchester City FC win on 2026-10-31?,No,40.5
+2026-10-29T16:44:33.875567,Premier League,Spread: Manchester United FC (-2.5),Manchester United FC,2.7
+2026-10-29T16:44:33.875570,Premier League,Spread: Manchester United FC (-2.5),Chelsea FC,97.3
+2026-10-29T16:44:33.875575,Premier League,Spread: Brighton & Hove Albion FC (-2.5),Brighton & Hove Albion FC,2.0
+2026-10-29T16:44:33.875579,Premier League,Spread: Brighton & Hove Albion FC (-2.5),Manchester City FC,98.0
+2026-10-29T16:44:34.053809,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-10-29T16:44:34.053830,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-10-29T16:44:34.053837,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,22.5
+2026-10-29T16:44:34.053841,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,77.5
+2026-10-29T16:44:34.053846,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,Yes,1.15
+2026-10-29T16:44:34.053849,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,No,98.85000000000001
+2026-10-29T16:44:34.053854,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,17.5
+2026-10-29T16:44:34.053858,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,82.5
+2026-10-29T16:44:34.053862,Champions League,Will VfB Stuttgart win the 2026-27 UEFA Champions League Championship?,Yes,0.65
+2026-10-29T16:44:34.053866,Champions League,Will VfB Stuttgart win the 2026-27 UEFA Champions League Championship?,No,99.35000000000001
+2026-10-29T16:44:34.248111,MLB,Will Kevin Cash win the 2026 AL Manager of the Year?,Yes,3.75
+2026-10-29T16:44:34.248139,MLB,Will Kevin Cash win the 2026 AL Manager of the Year?,No,96.25
+2026-10-29T16:44:34.248145,MLB,Will Kevin McGonigle win the 2026 AL Rookie of the Year award?,Yes,94.25
+2026-10-29T16:44:34.248148,MLB,Will Kevin McGonigle win the 2026 AL Rookie of the Year award?,No,5.75
+2026-10-29T16:44:34.248153,MLB,Will Will Venable win the 2026 AL Manager of the Year?,Yes,93.25
+2026-10-29T16:44:34.248156,MLB,Will Will Venable win the 2026 AL Manager of the Year?,No,6.75
+2026-10-29T16:44:34.248160,MLB,Will Pat Murphy win the 2026 NL Manager of the Year?,Yes,85.15
+2026-10-29T16:44:34.248163,MLB,Will Pat Murphy win the 2026 NL Manager of the Year?,No,14.85
+2026-10-29T16:44:34.248168,MLB,Will Junior Caminero win the 2026 American League MVP Award?,Yes,3.5999999999999996
+2026-10-29T16:44:34.248171,MLB,Will Junior Caminero win the 2026 American League MVP Award?,No,96.39999999999999

@@ -49599,3 +49599,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-10-29T16:44:34.248163,MLB,Will Pat Murphy win the 2026 NL Manager of the Year?,No,14.85
 2026-10-29T16:44:34.248168,MLB,Will Junior Caminero win the 2026 American League MVP Award?,Yes,3.5999999999999996
 2026-10-29T16:44:34.248171,MLB,Will Junior Caminero win the 2026 American League MVP Award?,No,96.39999999999999
+2026-10-29T21:38:56.308724,NBA,Spread: Trail Blazers (-7.5),Trail Blazers,50.5
+2026-10-29T21:38:56.308778,NBA,Spread: Trail Blazers (-7.5),Grizzlies,49.5
+2026-10-29T21:38:56.308784,NBA,Grizzlies vs. Trail Blazers,Grizzlies,27.500000000000004
+2026-10-29T21:38:56.308787,NBA,Grizzlies vs. Trail Blazers,Trail Blazers,72.5
+2026-10-29T21:38:56.308791,NBA,Cavaliers vs. Hawks,Cavaliers,48.5
+2026-10-29T21:38:56.308794,NBA,Cavaliers vs. Hawks,Hawks,51.5
+2026-10-29T21:38:56.308803,NBA,Cavaliers vs. Hawks: O/U 237.5,Over,49.5
+2026-10-29T21:38:56.308805,NBA,Cavaliers vs. Hawks: O/U 237.5,Under,50.5
+2026-10-29T21:38:56.308809,NBA,Grizzlies vs. Trail Blazers: O/U 233.5,Over,49.5
+2026-10-29T21:38:56.308811,NBA,Grizzlies vs. Trail Blazers: O/U 233.5,Under,50.5
+2026-10-29T21:38:56.471048,NFL,Spread: Packers (-3.5),Packers,50.5
+2026-10-29T21:38:56.471068,NFL,Spread: Packers (-3.5),Panthers,49.5
+2026-10-29T21:38:56.471073,NFL,Panthers vs. Packers,Panthers,36.5
+2026-10-29T21:38:56.471075,NFL,Panthers vs. Packers,Packers,63.5
+2026-10-29T21:38:56.471079,NFL,Panthers vs. Packers: O/U 46.5,Over,50.5
+2026-10-29T21:38:56.471081,NFL,Panthers vs. Packers: O/U 46.5,Under,49.5
+2026-10-29T21:38:56.471085,NFL,Spread: Cowboys (-6.5),Cowboys,54.50000000000001
+2026-10-29T21:38:56.471088,NFL,Spread: Cowboys (-6.5),Cardinals,45.5
+2026-10-29T21:38:56.471092,NFL,Will the Chicago Bears win the 2027 NFL league championship?,Yes,6.25
+2026-10-29T21:38:56.471094,NFL,Will the Chicago Bears win the 2027 NFL league championship?,No,93.75
+2026-10-29T21:38:56.632719,Premier League,Will Brentford FC win on 2026-10-31?,Yes,46.5
+2026-10-29T21:38:56.632757,Premier League,Will Brentford FC win on 2026-10-31?,No,53.5
+2026-10-29T21:38:56.632766,Premier League,Will Aston Villa FC win on 2026-10-31?,Yes,49.5
+2026-10-29T21:38:56.632769,Premier League,Will Aston Villa FC win on 2026-10-31?,No,50.5
+2026-10-29T21:38:56.632775,Premier League,Spread: Manchester United FC (-2.5),Manchester United FC,2.75
+2026-10-29T21:38:56.632778,Premier League,Spread: Manchester United FC (-2.5),Chelsea FC,97.25
+2026-10-29T21:38:56.632785,Premier League,Spread: Brighton & Hove Albion FC (-2.5),Brighton & Hove Albion FC,2.0
+2026-10-29T21:38:56.632788,Premier League,Spread: Brighton & Hove Albion FC (-2.5),Manchester City FC,98.0
+2026-10-29T21:38:56.632794,Premier League,Spread: Brighton & Hove Albion FC (-1.5),Brighton & Hove Albion FC,7.5
+2026-10-29T21:38:56.632797,Premier League,Spread: Brighton & Hove Albion FC (-1.5),Manchester City FC,92.5
+2026-10-29T21:38:56.797666,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-10-29T21:38:56.797686,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-10-29T21:38:56.797692,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,16.5
+2026-10-29T21:38:56.797695,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,83.5
+2026-10-29T21:38:56.797699,Champions League,Will Arsenal win the 2026-27 UEFA Champions League Championship?,Yes,12.5
+2026-10-29T21:38:56.797701,Champions League,Will Arsenal win the 2026-27 UEFA Champions League Championship?,No,87.5
+2026-10-29T21:38:56.797704,Champions League,Will Manchester City win the 2026-27 UEFA Champions League Championship?,Yes,6.5
+2026-10-29T21:38:56.797706,Champions League,Will Manchester City win the 2026-27 UEFA Champions League Championship?,No,93.5
+2026-10-29T21:38:56.797710,Champions League,Will Bayern Munich win the 2026-27 UEFA Champions League Championship?,Yes,13.5
+2026-10-29T21:38:56.797712,Champions League,Will Bayern Munich win the 2026-27 UEFA Champions League Championship?,No,86.5
+2026-10-29T21:38:56.985986,MLB,Will Kevin McGonigle win the 2026 AL Rookie of the Year award?,Yes,96.45
+2026-10-29T21:38:56.986007,MLB,Will Kevin McGonigle win the 2026 AL Rookie of the Year award?,No,3.55
+2026-10-29T21:38:56.986012,MLB,Will Sal Stewart win the 2026 NL Rookie of the Year award?,Yes,78.7
+2026-10-29T21:38:56.986014,MLB,Will Sal Stewart win the 2026 NL Rookie of the Year award?,No,21.3
+2026-10-29T21:38:56.986018,MLB,Will Jacob Misiorowski win the 2026 NL Cy Young Award?,Yes,96.25
+2026-10-29T21:38:56.986020,MLB,Will Jacob Misiorowski win the 2026 NL Cy Young Award?,No,3.75
+2026-10-29T21:38:56.986024,MLB,Will Cam Schlittler win the 2026 AL Cy Young Award?,Yes,96.85000000000001
+2026-10-29T21:38:56.986027,MLB,Will Cam Schlittler win the 2026 AL Cy Young Award?,No,3.15
+2026-10-29T21:38:56.986031,MLB,Will Pete Crow-Armstrong win the 2026 NL Platinum Glove award?,Yes,83.5
+2026-10-29T21:38:56.986033,MLB,Will Pete Crow-Armstrong win the 2026 NL Platinum Glove award?,No,16.5

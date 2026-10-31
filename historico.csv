@@ -50099,3 +50099,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-10-31T19:52:52.490127,MLB,Will Munetaka Murakami win the 2026 AL Rookie of the Year award?,No,97.85000000000001
 2026-10-31T19:52:52.490133,MLB,Will Cody Bellinger win a 2026 AL Gold Glove Award?,Yes,36.5
 2026-10-31T19:52:52.490137,MLB,Will Cody Bellinger win a 2026 AL Gold Glove Award?,No,63.5
+2026-10-31T23:09:59.568572,NBA,76ers vs. Hornets,76ers,63.5
+2026-10-31T23:09:59.568609,NBA,76ers vs. Hornets,Hornets,36.5
+2026-10-31T23:09:59.568620,NBA,Hawks vs. Pelicans,Hawks,65.5
+2026-10-31T23:09:59.568624,NBA,Hawks vs. Pelicans,Pelicans,34.5
+2026-10-31T23:09:59.568631,NBA,Spread: 76ers (-1.5),76ers,59.0
+2026-10-31T23:09:59.568636,NBA,Spread: 76ers (-1.5),Hornets,41.0
+2026-10-31T23:09:59.568649,NBA,Thunder vs. Rockets,Thunder,42.5
+2026-10-31T23:09:59.568652,NBA,Thunder vs. Rockets,Rockets,57.49999999999999
+2026-10-31T23:09:59.568662,NBA,Spread: Hawks (-4.5),Hawks,52.5
+2026-10-31T23:09:59.568665,NBA,Spread: Hawks (-4.5),Pelicans,47.5
+2026-10-31T23:09:59.688594,NFL,Spread: Bills (-13.5),Bills,19.5
+2026-10-31T23:09:59.688611,NFL,Spread: Bills (-13.5),Ravens,80.5
+2026-10-31T23:09:59.688619,NFL,Spread: Jets (-9.5),Jets,21.5
+2026-10-31T23:09:59.688622,NFL,Spread: Jets (-9.5),Raiders,78.5
+2026-10-31T23:09:59.688628,NFL,Spread: Browns (-3.5),Browns,24.5
+2026-10-31T23:09:59.688631,NFL,Spread: Browns (-3.5),Steelers,75.5
+2026-10-31T23:09:59.688637,NFL,Eagles vs. Commanders,Eagles,29.5
+2026-10-31T23:09:59.688640,NFL,Eagles vs. Commanders,Commanders,70.5
+2026-10-31T23:09:59.688646,NFL,Spread: Commanders (-6.5),Commanders,48.5
+2026-10-31T23:09:59.688649,NFL,Spread: Commanders (-6.5),Eagles,51.5
+2026-10-31T23:09:59.819905,Premier League,Will Arsenal FC win on 2026-11-01?,Yes,39.5
+2026-10-31T23:09:59.819922,Premier League,Will Arsenal FC win on 2026-11-01?,No,60.5
+2026-10-31T23:09:59.819931,Premier League,Liverpool FC vs. Arsenal FC: O/U 3.5,Over,29.5
+2026-10-31T23:09:59.819935,Premier League,Liverpool FC vs. Arsenal FC: O/U 3.5,Under,70.5
+2026-10-31T23:09:59.819941,Premier League,Liverpool FC vs. Arsenal FC: O/U 2.5,Over,50.5
+2026-10-31T23:09:59.819945,Premier League,Liverpool FC vs. Arsenal FC: O/U 2.5,Under,49.5
+2026-10-31T23:09:59.819951,Premier League,Will Manchester United be relegated from the 2026-27 Premier League?,Yes,7.75
+2026-10-31T23:09:59.819955,Premier League,Will Manchester United be relegated from the 2026-27 Premier League?,No,92.25
+2026-10-31T23:09:59.819961,Premier League,Will Liverpool FC win on 2026-11-01?,Yes,33.5
+2026-10-31T23:09:59.819964,Premier League,Will Liverpool FC win on 2026-11-01?,No,66.5
+2026-10-31T23:09:59.948269,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-10-31T23:09:59.948287,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-10-31T23:09:59.948296,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,16.5
+2026-10-31T23:09:59.948301,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,83.5
+2026-10-31T23:09:59.948308,Champions League,Will Club Brugge win the 2026-27 UEFA Champions League Championship?,Yes,0.3
+2026-10-31T23:09:59.948311,Champions League,Will Club Brugge win the 2026-27 UEFA Champions League Championship?,No,99.7
+2026-10-31T23:09:59.948318,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,2.0
+2026-10-31T23:09:59.948326,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,98.0
+2026-10-31T23:09:59.948333,Champions League,Will Bayern Munich win the 2026-27 UEFA Champions League Championship?,Yes,13.0
+2026-10-31T23:09:59.948336,Champions League,Will Bayern Munich win the 2026-27 UEFA Champions League Championship?,No,87.0
+2026-10-31T23:10:00.109523,MLB,Will Jacob Misiorowski win the 2026 NL Cy Young Award?,Yes,98.45
+2026-10-31T23:10:00.109542,MLB,Will Jacob Misiorowski win the 2026 NL Cy Young Award?,No,1.55
+2026-10-31T23:10:00.109551,MLB,Will Munetaka Murakami win the 2026 AL Rookie of the Year award?,Yes,2.15
+2026-10-31T23:10:00.109554,MLB,Will Munetaka Murakami win the 2026 AL Rookie of the Year award?,No,97.85000000000001
+2026-10-31T23:10:00.109562,MLB,Will Cody Bellinger win a 2026 AL Gold Glove Award?,Yes,28.000000000000004
+2026-10-31T23:10:00.109566,MLB,Will Cody Bellinger win a 2026 AL Gold Glove Award?,No,72.0
+2026-10-31T23:10:00.109572,MLB,Will Will Venable win the 2026 AL Manager of the Year?,Yes,93.60000000000001
+2026-10-31T23:10:00.109576,MLB,Will Will Venable win the 2026 AL Manager of the Year?,No,6.4
+2026-10-31T23:10:00.109582,MLB,Will Cam Schlittler win the 2026 AL Cy Young Award?,Yes,97.45
+2026-10-31T23:10:00.109585,MLB,Will Cam Schlittler win the 2026 AL Cy Young Award?,No,2.55

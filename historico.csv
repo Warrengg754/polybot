@@ -49949,3 +49949,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-10-31T04:44:10.618613,MLB,Will Pete Crow-Armstrong win the 2026 NL Platinum Glove award?,No,5.5
 2026-10-31T04:44:10.618617,MLB,Will Vladimir Guerrero Jr. win the 2026 AL Platinum Glove award?,Yes,6.15
 2026-10-31T04:44:10.618618,MLB,Will Vladimir Guerrero Jr. win the 2026 AL Platinum Glove award?,No,93.85
+2026-10-31T10:46:23.345140,NBA,Cavaliers vs. Bucks,Cavaliers,74.5
+2026-10-31T10:46:23.345175,NBA,Cavaliers vs. Bucks,Bucks,25.5
+2026-10-31T10:46:23.345185,NBA,76ers vs. Hornets,76ers,52.5
+2026-10-31T10:46:23.345189,NBA,76ers vs. Hornets,Hornets,47.5
+2026-10-31T10:46:23.345197,NBA,Will Dallas Mavericks win the 2027 NBA Finals?,Yes,1.05
+2026-10-31T10:46:23.345204,NBA,Will Dallas Mavericks win the 2027 NBA Finals?,No,98.95
+2026-10-31T10:46:23.345220,NBA,Will Oklahoma City Thunder win the 2027 NBA Finals?,Yes,13.5
+2026-10-31T10:46:23.345224,NBA,Will Oklahoma City Thunder win the 2027 NBA Finals?,No,86.5
+2026-10-31T10:46:23.345232,NBA,Trail Blazers vs. Jazz,Trail Blazers,68.5
+2026-10-31T10:46:23.345236,NBA,Trail Blazers vs. Jazz,Jazz,31.5
+2026-10-31T10:46:23.548904,NFL,Spread: Commanders (-5.5),Commanders,52.5
+2026-10-31T10:46:23.548923,NFL,Spread: Commanders (-5.5),Eagles,47.5
+2026-10-31T10:46:23.548931,NFL,Spread: Commanders (-6.5),Commanders,48.5
+2026-10-31T10:46:23.548935,NFL,Spread: Commanders (-6.5),Eagles,51.5
+2026-10-31T10:46:23.548943,NFL,Eagles vs. Commanders,Eagles,29.5
+2026-10-31T10:46:23.548946,NFL,Eagles vs. Commanders,Commanders,70.5
+2026-10-31T10:46:23.548954,NFL,Spread: Jets (-7.5),Jets,25.5
+2026-10-31T10:46:23.548957,NFL,Spread: Jets (-7.5),Raiders,74.5
+2026-10-31T10:46:23.548964,NFL,Spread: Jets (-9.5),Jets,21.5
+2026-10-31T10:46:23.548968,NFL,Spread: Jets (-9.5),Raiders,78.5
+2026-10-31T10:46:23.756479,Premier League,Will Chelsea FC win on 2026-10-31?,Yes,46.5
+2026-10-31T10:46:23.756498,Premier League,Will Chelsea FC win on 2026-10-31?,No,53.5
+2026-10-31T10:46:23.756505,Premier League,Manchester City FC vs. Brighton & Hove Albion FC: O/U 3.5,Over,41.5
+2026-10-31T10:46:23.756509,Premier League,Manchester City FC vs. Brighton & Hove Albion FC: O/U 3.5,Under,58.5
+2026-10-31T10:46:23.756515,Premier League,Aston Villa FC vs. Fulham FC: O/U 2.5,Over,53.5
+2026-10-31T10:46:23.756518,Premier League,Aston Villa FC vs. Fulham FC: O/U 2.5,Under,46.5
+2026-10-31T10:46:23.756524,Premier League,Will Aston Villa FC win on 2026-10-31?,Yes,44.5
+2026-10-31T10:46:23.756527,Premier League,Will Aston Villa FC win on 2026-10-31?,No,55.50000000000001
+2026-10-31T10:46:23.756534,Premier League,Manchester City FC vs. Brighton & Hove Albion FC: O/U 2.5,Over,64.5
+2026-10-31T10:46:23.756538,Premier League,Manchester City FC vs. Brighton & Hove Albion FC: O/U 2.5,Under,35.5
+2026-10-31T10:46:23.975602,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-10-31T10:46:23.975620,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-10-31T10:46:23.975629,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,Yes,13.5
+2026-10-31T10:46:23.975634,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,No,86.5
+2026-10-31T10:46:23.975640,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,2.0
+2026-10-31T10:46:23.975647,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,98.0
+2026-10-31T10:46:23.975654,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,Yes,1.6500000000000001
+2026-10-31T10:46:23.975658,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,No,98.35000000000001
+2026-10-31T10:46:23.975665,Champions League,Will AEK Athens finish 9th-24th in UCL league phase?,Yes,23.5
+2026-10-31T10:46:23.975668,Champions League,Will AEK Athens finish 9th-24th in UCL league phase?,No,76.5
+2026-10-31T10:46:24.219312,MLB,Will Pat Murphy win the 2026 NL Manager of the Year?,Yes,92.5
+2026-10-31T10:46:24.219333,MLB,Will Pat Murphy win the 2026 NL Manager of the Year?,No,7.5
+2026-10-31T10:46:24.219342,MLB,Will Cam Schlittler win the 2026 AL Cy Young Award?,Yes,98.45
+2026-10-31T10:46:24.219346,MLB,Will Cam Schlittler win the 2026 AL Cy Young Award?,No,1.55
+2026-10-31T10:46:24.219354,MLB,Will Jacob Misiorowski win the 2026 NL Cy Young Award?,Yes,98.5
+2026-10-31T10:46:24.219357,MLB,Will Jacob Misiorowski win the 2026 NL Cy Young Award?,No,1.5
+2026-10-31T10:46:24.219365,MLB,Will Pete Crow-Armstrong win the 2026 NL Platinum Glove award?,Yes,92.95
+2026-10-31T10:46:24.219369,MLB,Will Pete Crow-Armstrong win the 2026 NL Platinum Glove award?,No,7.049999999999999
+2026-10-31T10:46:24.219377,MLB,Will Gabriel Moreno win the 2026 NL Platinum Glove award?,Yes,0.7000000000000001
+2026-10-31T10:46:24.219383,MLB,Will Gabriel Moreno win the 2026 NL Platinum Glove award?,No,99.3

@@ -50149,3 +50149,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-10-31T23:10:00.109576,MLB,Will Will Venable win the 2026 AL Manager of the Year?,No,6.4
 2026-10-31T23:10:00.109582,MLB,Will Cam Schlittler win the 2026 AL Cy Young Award?,Yes,97.45
 2026-10-31T23:10:00.109585,MLB,Will Cam Schlittler win the 2026 AL Cy Young Award?,No,2.55
+2026-11-01T02:28:25.735021,NBA,Thunder vs. Rockets,Thunder,0.4
+2026-11-01T02:28:25.735061,NBA,Thunder vs. Rockets,Rockets,99.6
+2026-11-01T02:28:25.735070,NBA,Cavaliers vs. Bucks,Cavaliers,99.95
+2026-11-01T02:28:25.735073,NBA,Cavaliers vs. Bucks,Bucks,0.05
+2026-11-01T02:28:25.735079,NBA,Spread: Rockets (-2.5),Rockets,98.95
+2026-11-01T02:28:25.735083,NBA,Spread: Rockets (-2.5),Thunder,1.05
+2026-11-01T02:28:25.735094,NBA,Timberwolves vs. Spurs,Timberwolves,0.05
+2026-11-01T02:28:25.735097,NBA,Timberwolves vs. Spurs,Spurs,99.95
+2026-11-01T02:28:25.735102,NBA,Spread: Cavaliers (-9.5),Cavaliers,99.95
+2026-11-01T02:28:25.735104,NBA,Spread: Cavaliers (-9.5),Bucks,0.05
+2026-11-01T02:28:25.856609,NFL,Chiefs vs. Broncos,Chiefs,51.5
+2026-11-01T02:28:25.856628,NFL,Chiefs vs. Broncos,Broncos,48.5
+2026-11-01T02:28:25.856635,NFL,Eagles vs. Commanders,Eagles,29.5
+2026-11-01T02:28:25.856637,NFL,Eagles vs. Commanders,Commanders,70.5
+2026-11-01T02:28:25.856642,NFL,Spread: Lions (-3.5),Lions,47.5
+2026-11-01T02:28:25.856644,NFL,Spread: Lions (-3.5),Vikings,52.5
+2026-11-01T02:28:25.856649,NFL,Spread: Commanders (-17.5),Commanders,17.5
+2026-11-01T02:28:25.856652,NFL,Spread: Commanders (-17.5),Eagles,82.5
+2026-11-01T02:28:25.856656,NFL,Falcons vs. Buccaneers,Falcons,44.5
+2026-11-01T02:28:25.856658,NFL,Falcons vs. Buccaneers,Buccaneers,55.50000000000001
+2026-11-01T02:28:25.983120,Premier League,Will Arsenal FC win on 2026-11-01?,Yes,39.5
+2026-11-01T02:28:25.983138,Premier League,Will Arsenal FC win on 2026-11-01?,No,60.5
+2026-11-01T02:28:25.983144,Premier League,Liverpool FC vs. Arsenal FC: Draw at halftime?,Yes,43.5
+2026-11-01T02:28:25.983147,Premier League,Liverpool FC vs. Arsenal FC: Draw at halftime?,No,56.49999999999999
+2026-11-01T02:28:25.983152,Premier League,Will Liverpool FC win on 2026-11-01?,Yes,33.5
+2026-11-01T02:28:25.983155,Premier League,Will Liverpool FC win on 2026-11-01?,No,66.5
+2026-11-01T02:28:25.983159,Premier League,Spread: Liverpool FC (-2.5),Liverpool FC,4.5
+2026-11-01T02:28:25.983162,Premier League,Spread: Liverpool FC (-2.5),Arsenal FC,95.5
+2026-11-01T02:28:25.983167,Premier League,Liverpool FC vs. Arsenal FC: O/U 3.5,Over,29.5
+2026-11-01T02:28:25.983169,Premier League,Liverpool FC vs. Arsenal FC: O/U 3.5,Under,70.5
+2026-11-01T02:28:26.121592,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-01T02:28:26.121611,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-01T02:28:26.121618,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,16.5
+2026-11-01T02:28:26.121622,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,83.5
+2026-11-01T02:28:26.121627,Champions League,Will Club Brugge win the 2026-27 UEFA Champions League Championship?,Yes,0.3
+2026-11-01T02:28:26.121630,Champions League,Will Club Brugge win the 2026-27 UEFA Champions League Championship?,No,99.7
+2026-11-01T02:28:26.121635,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,2.0
+2026-11-01T02:28:26.121642,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,98.0
+2026-11-01T02:28:26.121647,Champions League,Will Bayern Munich win the 2026-27 UEFA Champions League Championship?,Yes,13.0
+2026-11-01T02:28:26.121650,Champions League,Will Bayern Munich win the 2026-27 UEFA Champions League Championship?,No,87.0
+2026-11-01T02:28:26.293894,MLB,Will Will Venable win the 2026 AL Manager of the Year?,Yes,93.60000000000001
+2026-11-01T02:28:26.293914,MLB,Will Will Venable win the 2026 AL Manager of the Year?,No,6.4
+2026-11-01T02:28:26.293921,MLB,Will Pete Crow-Armstrong win the 2026 NL Platinum Glove award?,Yes,97.8
+2026-11-01T02:28:26.293924,MLB,Will Pete Crow-Armstrong win the 2026 NL Platinum Glove award?,No,2.1999999999999997
+2026-11-01T02:28:26.293930,MLB,Will Juan Soto win the 2026 National League MVP Award?,Yes,0.05
+2026-11-01T02:28:26.293932,MLB,Will Juan Soto win the 2026 National League MVP Award?,No,99.95
+2026-11-01T02:28:26.293937,MLB,Will Matt Olson win a 2026 NL Gold Glove Award?,Yes,86.05000000000001
+2026-11-01T02:28:26.293940,MLB,Will Matt Olson win a 2026 NL Gold Glove Award?,No,13.950000000000001
+2026-11-01T02:28:26.293945,MLB,Will Cody Bellinger win a 2026 AL Gold Glove Award?,Yes,68.0
+2026-11-01T02:28:26.293948,MLB,Will Cody Bellinger win a 2026 AL Gold Glove Award?,No,32.0

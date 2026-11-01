@@ -50249,3 +50249,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-11-01T09:37:26.671385,MLB,Will Sal Stewart win the 2026 NL Rookie of the Year award?,No,13.900000000000002
 2026-11-01T09:37:26.671389,MLB,Will Pete Crow-Armstrong win the 2026 NL Platinum Glove award?,Yes,94.75
 2026-11-01T09:37:26.671392,MLB,Will Pete Crow-Armstrong win the 2026 NL Platinum Glove award?,No,5.25
+2026-11-01T16:38:54.421680,NBA,Celtics vs. Magic,Celtics,70.5
+2026-11-01T16:38:54.421711,NBA,Celtics vs. Magic,Magic,29.5
+2026-11-01T16:38:54.421719,NBA,Clippers vs. Warriors,Clippers,45.5
+2026-11-01T16:38:54.421722,NBA,Clippers vs. Warriors,Warriors,54.50000000000001
+2026-11-01T16:38:54.421727,NBA,Celtics vs. Magic: O/U 222.5,Over,47.5
+2026-11-01T16:38:54.421732,NBA,Celtics vs. Magic: O/U 222.5,Under,52.5
+2026-11-01T16:38:54.421743,NBA,Raptors vs. Lakers,Raptors,42.5
+2026-11-01T16:38:54.421745,NBA,Raptors vs. Lakers,Lakers,57.49999999999999
+2026-11-01T16:38:54.421751,NBA,Nets vs. Pacers,Nets,38.5
+2026-11-01T16:38:54.421754,NBA,Nets vs. Pacers,Pacers,61.5
+2026-11-01T16:38:54.589696,NFL,Cardinals vs. Cowboys,Cardinals,24.5
+2026-11-01T16:38:54.589714,NFL,Cardinals vs. Cowboys,Cowboys,75.5
+2026-11-01T16:38:54.589721,NFL,Chiefs vs. Broncos,Chiefs,50.5
+2026-11-01T16:38:54.589723,NFL,Chiefs vs. Broncos,Broncos,49.5
+2026-11-01T16:38:54.589728,NFL,Spread: Commanders (-6.5),Commanders,46.5
+2026-11-01T16:38:54.589730,NFL,Spread: Commanders (-6.5),Eagles,53.5
+2026-11-01T16:38:54.589735,NFL,Falcons vs. Buccaneers,Falcons,45.5
+2026-11-01T16:38:54.589737,NFL,Falcons vs. Buccaneers,Buccaneers,54.50000000000001
+2026-11-01T16:38:54.589742,NFL,Raiders vs. Jets,Raiders,46.5
+2026-11-01T16:38:54.589744,NFL,Raiders vs. Jets,Jets,53.5
+2026-11-01T16:38:54.742669,Premier League,Liverpool FC vs. Arsenal FC: O/U 2.5,Over,53.5
+2026-11-01T16:38:54.742688,Premier League,Liverpool FC vs. Arsenal FC: O/U 2.5,Under,46.5
+2026-11-01T16:38:54.742694,Premier League,Will Arsenal FC win on 2026-11-01?,Yes,38.5
+2026-11-01T16:38:54.742696,Premier League,Will Arsenal FC win on 2026-11-01?,No,61.5
+2026-11-01T16:38:54.742701,Premier League,Will Liverpool FC win on 2026-11-01?,Yes,34.5
+2026-11-01T16:38:54.742703,Premier League,Will Liverpool FC win on 2026-11-01?,No,65.5
+2026-11-01T16:38:54.742708,Premier League,Liverpool FC vs. Arsenal FC: Both Teams to Score,Yes,58.5
+2026-11-01T16:38:54.742710,Premier League,Liverpool FC vs. Arsenal FC: Both Teams to Score,No,41.5
+2026-11-01T16:38:54.742715,Premier League,Spread: Liverpool FC (-2.5),Liverpool FC,4.5
+2026-11-01T16:38:54.742717,Premier League,Spread: Liverpool FC (-2.5),Arsenal FC,95.5
+2026-11-01T16:38:54.932420,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-01T16:38:54.932439,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-01T16:38:54.932446,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,16.5
+2026-11-01T16:38:54.932450,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,83.5
+2026-11-01T16:38:54.932455,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,Yes,13.5
+2026-11-01T16:38:54.932458,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,No,86.5
+2026-11-01T16:38:54.932463,Champions League,Will Club Brugge win the 2026-27 UEFA Champions League Championship?,Yes,0.3
+2026-11-01T16:38:54.932465,Champions League,Will Club Brugge win the 2026-27 UEFA Champions League Championship?,No,99.7
+2026-11-01T16:38:54.932470,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-01T16:38:54.932473,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-01T16:38:55.145598,MLB,Will Cam Smith win a 2026 AL Gold Glove Award?,Yes,4.5
+2026-11-01T16:38:55.145618,MLB,Will Cam Smith win a 2026 AL Gold Glove Award?,No,95.5
+2026-11-01T16:38:55.145624,MLB,Will Chase Meidroth win the 2026 AL Platinum Glove award?,Yes,20.5
+2026-11-01T16:38:55.145627,MLB,Will Chase Meidroth win the 2026 AL Platinum Glove award?,No,79.5
+2026-11-01T16:38:55.145632,MLB,Will Taylor Walls win a 2026 AL Gold Glove Award?,Yes,10.5
+2026-11-01T16:38:55.145634,MLB,Will Taylor Walls win a 2026 AL Gold Glove Award?,No,89.5
+2026-11-01T16:38:55.145638,MLB,Will Caleb Durbin win a 2026 AL Gold Glove Award?,Yes,90.0
+2026-11-01T16:38:55.145641,MLB,Will Caleb Durbin win a 2026 AL Gold Glove Award?,No,10.0
+2026-11-01T16:38:55.145645,MLB,Will TJ Rumfield win a 2026 NL Gold Glove Award?,Yes,1.8499999999999999
+2026-11-01T16:38:55.145648,MLB,Will TJ Rumfield win a 2026 NL Gold Glove Award?,No,98.15

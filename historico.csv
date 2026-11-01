@@ -50299,3 +50299,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-11-01T16:38:55.145641,MLB,Will Caleb Durbin win a 2026 AL Gold Glove Award?,No,10.0
 2026-11-01T16:38:55.145645,MLB,Will TJ Rumfield win a 2026 NL Gold Glove Award?,Yes,1.8499999999999999
 2026-11-01T16:38:55.145648,MLB,Will TJ Rumfield win a 2026 NL Gold Glove Award?,No,98.15
+2026-11-01T20:59:52.579427,NBA,Celtics vs. Magic,Celtics,70.5
+2026-11-01T20:59:52.579463,NBA,Celtics vs. Magic,Magic,29.5
+2026-11-01T20:59:52.579469,NBA,Spread: Celtics (-7.5),Celtics,48.0
+2026-11-01T20:59:52.579471,NBA,Spread: Celtics (-7.5),Magic,52.0
+2026-11-01T20:59:52.579476,NBA,Raptors vs. Lakers,Raptors,41.5
+2026-11-01T20:59:52.579479,NBA,Raptors vs. Lakers,Lakers,58.5
+2026-11-01T20:59:52.579488,NBA,Spread: Celtics (-6.5),Celtics,52.5
+2026-11-01T20:59:52.579490,NBA,Spread: Celtics (-6.5),Magic,47.5
+2026-11-01T20:59:52.579495,NBA,Celtics vs. Magic: O/U 222.5,Over,40.0
+2026-11-01T20:59:52.579497,NBA,Celtics vs. Magic: O/U 222.5,Under,60.0
+2026-11-01T20:59:52.737957,NFL,Raiders vs. Jets,Raiders,96.5
+2026-11-01T20:59:52.737980,NFL,Raiders vs. Jets,Jets,3.5000000000000004
+2026-11-01T20:59:52.737986,NFL,Ravens vs. Bills,Ravens,0.44999999999999996
+2026-11-01T20:59:52.737989,NFL,Ravens vs. Bills,Bills,99.55000000000001
+2026-11-01T20:59:52.737993,NFL,Vikings vs. Lions,Vikings,15.5
+2026-11-01T20:59:52.737995,NFL,Vikings vs. Lions,Lions,84.5
+2026-11-01T20:59:52.737999,NFL,Browns vs. Steelers,Browns,0.05
+2026-11-01T20:59:52.738001,NFL,Browns vs. Steelers,Steelers,99.95
+2026-11-01T20:59:52.738005,NFL,Cardinals vs. Cowboys,Cardinals,2.45
+2026-11-01T20:59:52.738007,NFL,Cardinals vs. Cowboys,Cowboys,97.55
+2026-11-01T20:59:52.911709,Premier League,Will Newcastle United FC win on 2026-11-02?,Yes,42.5
+2026-11-01T20:59:52.911731,Premier League,Will Newcastle United FC win on 2026-11-02?,No,57.49999999999999
+2026-11-01T20:59:52.911737,Premier League,Exact Score: Any Other Score?,Yes,5.0
+2026-11-01T20:59:52.911739,Premier League,Exact Score: Any Other Score?,No,95.0
+2026-11-01T20:59:52.911746,Premier League,Will Everton FC win on 2026-11-02?,Yes,30.5
+2026-11-01T20:59:52.911748,Premier League,Will Everton FC win on 2026-11-02?,No,69.5
+2026-11-01T20:59:52.911752,Premier League,Will Newcastle United FC vs. Everton FC end in a draw?,Yes,27.500000000000004
+2026-11-01T20:59:52.911755,Premier League,Will Newcastle United FC vs. Everton FC end in a draw?,No,72.5
+2026-11-01T20:59:52.911759,Premier League,Alexander Isak: Anytime Goalscorer,Yes,50.0
+2026-11-01T20:59:52.911760,Premier League,Alexander Isak: Anytime Goalscorer,No,50.0
+2026-11-01T20:59:53.088654,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-01T20:59:53.088675,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-01T20:59:53.088681,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,16.5
+2026-11-01T20:59:53.088684,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,83.5
+2026-11-01T20:59:53.088689,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,Yes,13.5
+2026-11-01T20:59:53.088691,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,No,86.5
+2026-11-01T20:59:53.088695,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-01T20:59:53.088697,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-01T20:59:53.088701,Champions League,Will Lamine Yamal record the most assists in the 2026-27 UEFA Champions League?,Yes,28.999999999999996
+2026-11-01T20:59:53.088704,Champions League,Will Lamine Yamal record the most assists in the 2026-27 UEFA Champions League?,No,71.0
+2026-11-01T20:59:53.302513,MLB,Will Chase Meidroth win the 2026 AL Platinum Glove award?,Yes,5.949999999999999
+2026-11-01T20:59:53.302539,MLB,Will Chase Meidroth win the 2026 AL Platinum Glove award?,No,94.05
+2026-11-01T20:59:53.302544,MLB,Will Cam Smith win a 2026 AL Gold Glove Award?,Yes,4.5
+2026-11-01T20:59:53.302547,MLB,Will Cam Smith win a 2026 AL Gold Glove Award?,No,95.5
+2026-11-01T20:59:53.302551,MLB,Will Will Venable win the 2026 AL Manager of the Year?,Yes,95.6
+2026-11-01T20:59:53.302553,MLB,Will Will Venable win the 2026 AL Manager of the Year?,No,4.3999999999999995
+2026-11-01T20:59:53.302557,MLB,Will Taylor Walls win a 2026 AL Gold Glove Award?,Yes,10.5
+2026-11-01T20:59:53.302559,MLB,Will Taylor Walls win a 2026 AL Gold Glove Award?,No,89.5
+2026-11-01T20:59:53.302562,MLB,Will Caleb Durbin win a 2026 AL Gold Glove Award?,Yes,90.5
+2026-11-01T20:59:53.302564,MLB,Will Caleb Durbin win a 2026 AL Gold Glove Award?,No,9.5

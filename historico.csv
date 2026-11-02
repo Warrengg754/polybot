@@ -50499,3 +50499,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-11-02T17:22:51.000554,MLB,Will Carson Benge win the 2026 NL Rookie of the Year award?,No,90.2
 2026-11-02T17:22:51.000560,MLB,Will Matt Olson win the 2026 NL Platinum Glove award?,Yes,0.6
 2026-11-02T17:22:51.000563,MLB,Will Matt Olson win the 2026 NL Platinum Glove award?,No,99.4
+2026-11-02T23:59:41.702227,NBA,Spread: Cavaliers (-4.5),Cavaliers,48.5
+2026-11-02T23:59:41.702276,NBA,Spread: Cavaliers (-4.5),Thunder,51.5
+2026-11-02T23:59:41.702286,NBA,Hawks vs. Pacers,Hawks,77.5
+2026-11-02T23:59:41.702289,NBA,Hawks vs. Pacers,Pacers,22.5
+2026-11-02T23:59:41.702296,NBA,Spread: Rockets (-4.5),Rockets,50.5
+2026-11-02T23:59:41.702301,NBA,Spread: Rockets (-4.5),Celtics,49.5
+2026-11-02T23:59:41.702314,NBA,Raptors vs. Clippers,Raptors,61.5
+2026-11-02T23:59:41.702317,NBA,Raptors vs. Clippers,Clippers,38.5
+2026-11-02T23:59:41.702323,NBA,Pelicans vs. Grizzlies,Pelicans,33.5
+2026-11-02T23:59:41.702326,NBA,Pelicans vs. Grizzlies,Grizzlies,66.5
+2026-11-02T23:59:41.908851,NFL,Bears vs. Seahawks,Bears,38.5
+2026-11-02T23:59:41.908873,NFL,Bears vs. Seahawks,Seahawks,61.5
+2026-11-02T23:59:41.908880,NFL,Spread: Seahawks (-2.5),Seahawks,56.49999999999999
+2026-11-02T23:59:41.908884,NFL,Spread: Seahawks (-2.5),Bears,43.5
+2026-11-02T23:59:41.908890,NFL,Bears vs. Seahawks: O/U 46.5,Over,49.5
+2026-11-02T23:59:41.908892,NFL,Bears vs. Seahawks: O/U 46.5,Under,50.5
+2026-11-02T23:59:41.908898,NFL,Will the Baltimore Ravens win the 2027 NFL league championship?,Yes,0.75
+2026-11-02T23:59:41.908902,NFL,Will the Baltimore Ravens win the 2027 NFL league championship?,No,99.25
+2026-11-02T23:59:41.908908,NFL,Spread: Seahawks (-10.5),Seahawks,23.5
+2026-11-02T23:59:41.908911,NFL,Spread: Seahawks (-10.5),Bears,76.5
+2026-11-02T23:59:42.137584,Premier League,Will Newcastle United FC win on 2026-11-07?,Yes,26.5
+2026-11-02T23:59:42.137607,Premier League,Will Newcastle United FC win on 2026-11-07?,No,73.5
+2026-11-02T23:59:42.137614,Premier League,Will Sunderland be relegated from the 2026-27 Premier League?,Yes,41.5
+2026-11-02T23:59:42.137618,Premier League,Will Sunderland be relegated from the 2026-27 Premier League?,No,58.5
+2026-11-02T23:59:42.137624,Premier League,Will Manchester City be relegated from the 2026-27 Premier League?,Yes,44.0
+2026-11-02T23:59:42.137628,Premier League,Will Manchester City be relegated from the 2026-27 Premier League?,No,56.00000000000001
+2026-11-02T23:59:42.137635,Premier League,Will Chelsea FC win on 2026-11-08?,Yes,47.5
+2026-11-02T23:59:42.137638,Premier League,Will Chelsea FC win on 2026-11-08?,No,52.5
+2026-11-02T23:59:42.137646,Premier League,Will Manchester United FC win on 2026-11-08?,Yes,42.5
+2026-11-02T23:59:42.137649,Premier League,Will Manchester United FC win on 2026-11-08?,No,57.49999999999999
+2026-11-02T23:59:42.359780,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-02T23:59:42.359803,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-02T23:59:42.359812,Champions League,Will Arsenal win the 2026-27 UEFA Champions League Championship?,Yes,13.5
+2026-11-02T23:59:42.359817,Champions League,Will Arsenal win the 2026-27 UEFA Champions League Championship?,No,86.5
+2026-11-02T23:59:42.359823,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,17.5
+2026-11-02T23:59:42.359827,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,82.5
+2026-11-02T23:59:42.359833,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,22.5
+2026-11-02T23:59:42.359836,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,77.5
+2026-11-02T23:59:42.359842,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,Yes,13.5
+2026-11-02T23:59:42.359846,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,No,86.5
+2026-11-02T23:59:42.608247,MLB,Will Sal Stewart win the 2026 NL Rookie of the Year award?,Yes,89.4
+2026-11-02T23:59:42.608277,MLB,Will Sal Stewart win the 2026 NL Rookie of the Year award?,No,10.6
+2026-11-02T23:59:42.608289,MLB,Will Cam Schlittler win the 2026 American League MVP Award?,Yes,0.95
+2026-11-02T23:59:42.608293,MLB,Will Cam Schlittler win the 2026 American League MVP Award?,No,99.05000000000001
+2026-11-02T23:59:42.608300,MLB,Will Carson Benge win the 2026 NL Rookie of the Year award?,Yes,10.299999999999999
+2026-11-02T23:59:42.608304,MLB,Will Carson Benge win the 2026 NL Rookie of the Year award?,No,89.7
+2026-11-02T23:59:42.608310,MLB,Will Matt Olson win the 2026 NL Platinum Glove award?,Yes,0.75
+2026-11-02T23:59:42.608314,MLB,Will Matt Olson win the 2026 NL Platinum Glove award?,No,99.25
+2026-11-02T23:59:42.608320,MLB,Will Kerry Carpenter win the 2026 Edgar Martinez Outstanding Designated Hitter Award?,Yes,1.0
+2026-11-02T23:59:42.608324,MLB,Will Kerry Carpenter win the 2026 Edgar Martinez Outstanding Designated Hitter Award?,No,99.0

@@ -50449,3 +50449,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-11-02T07:27:54.953384,MLB,Will Will Venable win the 2026 AL Manager of the Year?,No,3.85
 2026-11-02T07:27:54.953391,MLB,Will Matt Olson win the 2026 NL Platinum Glove award?,Yes,0.7000000000000001
 2026-11-02T07:27:54.953395,MLB,Will Matt Olson win the 2026 NL Platinum Glove award?,No,99.3
+2026-11-02T17:22:50.307233,NBA,Suns vs. Warriors,Suns,43.5
+2026-11-02T17:22:50.307269,NBA,Suns vs. Warriors,Warriors,56.49999999999999
+2026-11-02T17:22:50.307280,NBA,Spread: Rockets (-4.5),Rockets,53.5
+2026-11-02T17:22:50.307284,NBA,Spread: Rockets (-4.5),Celtics,46.5
+2026-11-02T17:22:50.307291,NBA,Pelicans vs. Grizzlies,Pelicans,35.5
+2026-11-02T17:22:50.307297,NBA,Pelicans vs. Grizzlies,Grizzlies,64.5
+2026-11-02T17:22:50.307312,NBA,Heat vs. Lakers,Heat,44.5
+2026-11-02T17:22:50.307316,NBA,Heat vs. Lakers,Lakers,55.50000000000001
+2026-11-02T17:22:50.307323,NBA,Wizards vs. Magic,Wizards,41.5
+2026-11-02T17:22:50.307327,NBA,Wizards vs. Magic,Magic,58.5
+2026-11-02T17:22:50.466067,NFL,Bears vs. Seahawks,Bears,37.5
+2026-11-02T17:22:50.466085,NFL,Bears vs. Seahawks,Seahawks,62.5
+2026-11-02T17:22:50.466093,NFL,Will the Baltimore Ravens win the 2027 NFL league championship?,Yes,1.25
+2026-11-02T17:22:50.466097,NFL,Will the Baltimore Ravens win the 2027 NFL league championship?,No,98.75
+2026-11-02T17:22:50.466103,NFL,Bears vs. Seahawks: O/U 46.5,Over,49.5
+2026-11-02T17:22:50.466106,NFL,Bears vs. Seahawks: O/U 46.5,Under,50.5
+2026-11-02T17:22:50.466113,NFL,Spread: Seahawks (-10.5),Seahawks,24.5
+2026-11-02T17:22:50.466116,NFL,Spread: Seahawks (-10.5),Bears,75.5
+2026-11-02T17:22:50.466121,NFL,Spread: Seahawks (-3.5),Seahawks,47.5
+2026-11-02T17:22:50.466124,NFL,Spread: Seahawks (-3.5),Bears,52.5
+2026-11-02T17:22:50.623136,Premier League,Will Newcastle United FC win on 2026-11-02?,Yes,44.5
+2026-11-02T17:22:50.623154,Premier League,Will Newcastle United FC win on 2026-11-02?,No,55.50000000000001
+2026-11-02T17:22:50.623163,Premier League,Will Everton FC win on 2026-11-02?,Yes,29.5
+2026-11-02T17:22:50.623170,Premier League,Will Everton FC win on 2026-11-02?,No,70.5
+2026-11-02T17:22:50.623176,Premier League,Newcastle United FC vs. Everton FC: O/U 2.5,Over,56.49999999999999
+2026-11-02T17:22:50.623180,Premier League,Newcastle United FC vs. Everton FC: O/U 2.5,Under,43.5
+2026-11-02T17:22:50.623187,Premier League,Exact Score: Newcastle United FC 2 - 3 Everton FC?,Yes,2.8000000000000003
+2026-11-02T17:22:50.623191,Premier League,Exact Score: Newcastle United FC 2 - 3 Everton FC?,No,97.2
+2026-11-02T17:22:50.623197,Premier League,Will Newcastle United FC vs. Everton FC end in a draw?,Yes,26.5
+2026-11-02T17:22:50.623200,Premier League,Will Newcastle United FC vs. Everton FC end in a draw?,No,73.5
+2026-11-02T17:22:50.810979,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-02T17:22:50.810997,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-02T17:22:50.811007,Champions League,Will Arsenal win the 2026-27 UEFA Champions League Championship?,Yes,13.5
+2026-11-02T17:22:50.811012,Champions League,Will Arsenal win the 2026-27 UEFA Champions League Championship?,No,86.5
+2026-11-02T17:22:50.811019,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,17.5
+2026-11-02T17:22:50.811024,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,82.5
+2026-11-02T17:22:50.811031,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,22.5
+2026-11-02T17:22:50.811035,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,77.5
+2026-11-02T17:22:50.811042,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,2.15
+2026-11-02T17:22:50.811050,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,97.85000000000001
+2026-11-02T17:22:51.000500,MLB,Will Sal Stewart win the 2026 NL Rookie of the Year award?,Yes,90.7
+2026-11-02T17:22:51.000519,MLB,Will Sal Stewart win the 2026 NL Rookie of the Year award?,No,9.3
+2026-11-02T17:22:51.000527,MLB,Will Vladimir Guerrero Jr. win the 2026 AL Platinum Glove award?,Yes,0.1
+2026-11-02T17:22:51.000533,MLB,Will Vladimir Guerrero Jr. win the 2026 AL Platinum Glove award?,No,99.9
+2026-11-02T17:22:51.000540,MLB,Will Chase Meidroth win the 2026 AL Platinum Glove award?,Yes,3.95
+2026-11-02T17:22:51.000544,MLB,Will Chase Meidroth win the 2026 AL Platinum Glove award?,No,96.05
+2026-11-02T17:22:51.000550,MLB,Will Carson Benge win the 2026 NL Rookie of the Year award?,Yes,9.8
+2026-11-02T17:22:51.000554,MLB,Will Carson Benge win the 2026 NL Rookie of the Year award?,No,90.2
+2026-11-02T17:22:51.000560,MLB,Will Matt Olson win the 2026 NL Platinum Glove award?,Yes,0.6
+2026-11-02T17:22:51.000563,MLB,Will Matt Olson win the 2026 NL Platinum Glove award?,No,99.4

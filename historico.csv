@@ -50599,3 +50599,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-11-03T06:32:54.847796,MLB,Will Chad Tracy win the 2026 AL Manager of the Year?,No,99.85000000000001
 2026-11-03T06:32:54.847803,MLB,Will Cam Schlittler win the 2026 American League MVP Award?,Yes,0.95
 2026-11-03T06:32:54.847806,MLB,Will Cam Schlittler win the 2026 American League MVP Award?,No,99.05000000000001
+2026-11-03T14:54:12.973190,NBA,Will Golden State Warriors win the 2027 NBA Finals?,Yes,1.95
+2026-11-03T14:54:12.973232,NBA,Will Golden State Warriors win the 2027 NBA Finals?,No,98.05
+2026-11-03T14:54:12.973238,NBA,Will Miami Heat win the 2027 NBA Finals?,Yes,2.25
+2026-11-03T14:54:12.973240,NBA,Will Miami Heat win the 2027 NBA Finals?,No,97.75
+2026-11-03T14:54:12.973244,NBA,Will Denver Nuggets win the 2027 NBA Finals?,Yes,3.15
+2026-11-03T14:54:12.973248,NBA,Will Denver Nuggets win the 2027 NBA Finals?,No,96.85000000000001
+2026-11-03T14:54:12.973257,NBA,Will Toronto Raptors win the 2027 NBA Finals?,Yes,3.5999999999999996
+2026-11-03T14:54:12.973260,NBA,Will Toronto Raptors win the 2027 NBA Finals?,No,96.39999999999999
+2026-11-03T14:54:12.973264,NBA,Will Portland Trail Blazers win the 2027 NBA Finals?,Yes,2.5
+2026-11-03T14:54:12.973266,NBA,Will Portland Trail Blazers win the 2027 NBA Finals?,No,97.5
+2026-11-03T14:54:13.149246,NFL,Will the Baltimore Ravens win the 2027 NFL league championship?,Yes,0.8500000000000001
+2026-11-03T14:54:13.149271,NFL,Will the Baltimore Ravens win the 2027 NFL league championship?,No,99.15
+2026-11-03T14:54:13.149280,NFL,Will the New England Patriots win the 2027 NFL league championship?,Yes,3.3000000000000003
+2026-11-03T14:54:13.149284,NFL,Will the New England Patriots win the 2027 NFL league championship?,No,96.7
+2026-11-03T14:54:13.149291,NFL,Will the Seattle Seahawks win the 2027 NFL league championship?,Yes,5.5
+2026-11-03T14:54:13.149294,NFL,Will the Seattle Seahawks win the 2027 NFL league championship?,No,94.5
+2026-11-03T14:54:13.149300,NFL,Will the Chicago Bears win the 2027 NFL league championship?,Yes,10.6
+2026-11-03T14:54:13.149304,NFL,Will the Chicago Bears win the 2027 NFL league championship?,No,89.4
+2026-11-03T14:54:13.149310,NFL,Will the Cleveland Browns win the 2027 NFL league championship?,Yes,0.4
+2026-11-03T14:54:13.149313,NFL,Will the Cleveland Browns win the 2027 NFL league championship?,No,99.6
+2026-11-03T14:54:13.315123,Premier League,Will Manchester City FC win on 2026-11-07?,Yes,56.49999999999999
+2026-11-03T14:54:13.315143,Premier League,Will Manchester City FC win on 2026-11-07?,No,43.5
+2026-11-03T14:54:13.315149,Premier League,Will Manchester City be relegated from the 2026-27 Premier League?,Yes,51.2
+2026-11-03T14:54:13.315151,Premier League,Will Manchester City be relegated from the 2026-27 Premier League?,No,48.8
+2026-11-03T14:54:13.315155,Premier League,Will Newcastle United FC win on 2026-11-07?,Yes,26.5
+2026-11-03T14:54:13.315157,Premier League,Will Newcastle United FC win on 2026-11-07?,No,73.5
+2026-11-03T14:54:13.315160,Premier League,Will Hull City be relegated from the 2026-27 Premier League?,Yes,53.5
+2026-11-03T14:54:13.315162,Premier League,Will Hull City be relegated from the 2026-27 Premier League?,No,46.5
+2026-11-03T14:54:13.315166,Premier League,Will Coventry City FC win on 2026-11-06?,Yes,19.5
+2026-11-03T14:54:13.315167,Premier League,Will Coventry City FC win on 2026-11-06?,No,80.5
+2026-11-03T14:54:13.477036,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-03T14:54:13.477057,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-03T14:54:13.477063,Champions League,Will Roma win the 2026-27 UEFA Champions League Championship?,Yes,0.7000000000000001
+2026-11-03T14:54:13.477066,Champions League,Will Roma win the 2026-27 UEFA Champions League Championship?,No,99.3
+2026-11-03T14:54:13.477070,Champions League,Will Arsenal win the 2026-27 UEFA Champions League Championship?,Yes,14.499999999999998
+2026-11-03T14:54:13.477072,Champions League,Will Arsenal win the 2026-27 UEFA Champions League Championship?,No,85.5
+2026-11-03T14:54:13.477076,Champions League,Will VfB Stuttgart win the 2026-27 UEFA Champions League Championship?,Yes,0.5499999999999999
+2026-11-03T14:54:13.477078,Champions League,Will VfB Stuttgart win the 2026-27 UEFA Champions League Championship?,No,99.45
+2026-11-03T14:54:13.477082,Champions League,Will Bayern Munich win the 2026-27 UEFA Champions League Championship?,Yes,12.5
+2026-11-03T14:54:13.477084,Champions League,Will Bayern Munich win the 2026-27 UEFA Champions League Championship?,No,87.5
+2026-11-03T14:54:13.657114,MLB,Will Sal Stewart win the 2026 NL Rookie of the Year award?,Yes,81.69999999999999
+2026-11-03T14:54:13.657133,MLB,Will Sal Stewart win the 2026 NL Rookie of the Year award?,No,18.3
+2026-11-03T14:54:13.657138,MLB,Will Munetaka Murakami win the 2026 AL Rookie of the Year award?,Yes,0.2
+2026-11-03T14:54:13.657140,MLB,Will Munetaka Murakami win the 2026 AL Rookie of the Year award?,No,99.8
+2026-11-03T14:54:13.657144,MLB,Will Chad Tracy win the 2026 AL Manager of the Year?,Yes,0.15
+2026-11-03T14:54:13.657146,MLB,Will Chad Tracy win the 2026 AL Manager of the Year?,No,99.85000000000001
+2026-11-03T14:54:13.657150,MLB,Will Payton Tolle win the 2026 AL Rookie of the Year award?,Yes,0.15
+2026-11-03T14:54:13.657151,MLB,Will Payton Tolle win the 2026 AL Rookie of the Year award?,No,99.85000000000001
+2026-11-03T14:54:13.657155,MLB,Will Yoshinobu Yamamoto win the 2026 NL Cy Young Award?,Yes,0.8999999999999999
+2026-11-03T14:54:13.657157,MLB,Will Yoshinobu Yamamoto win the 2026 NL Cy Young Award?,No,99.1

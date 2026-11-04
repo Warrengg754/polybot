@@ -50749,3 +50749,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-11-04T01:06:29.107424,MLB,Will Carson Benge win the 2026 NL Rookie of the Year award?,No,88.75
 2026-11-04T01:06:29.107430,MLB,Will Alex Cora win the 2026 AL Manager of the Year?,Yes,0.15
 2026-11-04T01:06:29.107433,MLB,Will Alex Cora win the 2026 AL Manager of the Year?,No,99.85000000000001
+2026-11-04T07:52:34.975998,NBA,76ers vs. Pistons,76ers,45.5
+2026-11-04T07:52:34.976030,NBA,76ers vs. Pistons,Pistons,54.50000000000001
+2026-11-04T07:52:34.976039,NBA,Will Golden State Warriors win the 2027 NBA Finals?,Yes,1.6500000000000001
+2026-11-04T07:52:34.976042,NBA,Will Golden State Warriors win the 2027 NBA Finals?,No,98.35000000000001
+2026-11-04T07:52:34.976049,NBA,Bucks vs. Celtics,Bucks,17.5
+2026-11-04T07:52:34.976053,NBA,Bucks vs. Celtics,Celtics,82.5
+2026-11-04T07:52:34.976063,NBA,Hawks vs. Wizards,Hawks,56.49999999999999
+2026-11-04T07:52:34.976066,NBA,Hawks vs. Wizards,Wizards,43.5
+2026-11-04T07:52:34.976071,NBA,Will Washington Wizards win the 2027 NBA Finals?,Yes,0.44999999999999996
+2026-11-04T07:52:34.976074,NBA,Will Washington Wizards win the 2027 NBA Finals?,No,99.55000000000001
+2026-11-04T07:52:35.177366,NFL,Bengals vs. Falcons: O/U 52.5,Over,50.0
+2026-11-04T07:52:35.177384,NFL,Bengals vs. Falcons: O/U 52.5,Under,50.0
+2026-11-04T07:52:35.177390,NFL,Cardinals vs. Seahawks,Cardinals,16.5
+2026-11-04T07:52:35.177393,NFL,Cardinals vs. Seahawks,Seahawks,83.5
+2026-11-04T07:52:35.177398,NFL,Jaguars vs. Ravens,Jaguars,81.5
+2026-11-04T07:52:35.177400,NFL,Jaguars vs. Ravens,Ravens,18.5
+2026-11-04T07:52:35.177405,NFL,Packers vs. Patriots,Packers,38.5
+2026-11-04T07:52:35.177407,NFL,Packers vs. Patriots,Patriots,61.5
+2026-11-04T07:52:35.177412,NFL,Will the Denver Broncos win the 2027 NFL league championship?,Yes,4.3999999999999995
+2026-11-04T07:52:35.177415,NFL,Will the Denver Broncos win the 2027 NFL league championship?,No,95.6
+2026-11-04T07:52:35.407531,Premier League,Spread: Hull City AFC (-3.5),Hull City AFC,0.2
+2026-11-04T07:52:35.407549,Premier League,Spread: Hull City AFC (-3.5),Arsenal FC,99.8
+2026-11-04T07:52:35.407556,Premier League,Will Hull City be relegated from the 2026-27 Premier League?,Yes,52.5
+2026-11-04T07:52:35.407560,Premier League,Will Hull City be relegated from the 2026-27 Premier League?,No,47.5
+2026-11-04T07:52:35.407565,Premier League,Will Manchester City be relegated from the 2026-27 Premier League?,Yes,41.949999999999996
+2026-11-04T07:52:35.407568,Premier League,Will Manchester City be relegated from the 2026-27 Premier League?,No,58.050000000000004
+2026-11-04T07:52:35.407573,Premier League,Will Aston Villa FC win on 2026-11-08?,Yes,30.5
+2026-11-04T07:52:35.407578,Premier League,Will Aston Villa FC win on 2026-11-08?,No,69.5
+2026-11-04T07:52:35.407582,Premier League,Will Manchester City FC win on 2026-11-07?,Yes,56.49999999999999
+2026-11-04T07:52:35.407585,Premier League,Will Manchester City FC win on 2026-11-07?,No,43.5
+2026-11-04T07:52:35.619304,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-04T07:52:35.619321,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-04T07:52:35.619328,Champions League,Will Galatasaray win the 2026-27 UEFA Champions League Championship?,Yes,0.25
+2026-11-04T07:52:35.619332,Champions League,Will Galatasaray win the 2026-27 UEFA Champions League Championship?,No,99.75
+2026-11-04T07:52:35.619337,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,18.5
+2026-11-04T07:52:35.619340,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,81.5
+2026-11-04T07:52:35.619346,Champions League,Will VfB Stuttgart win the 2026-27 UEFA Champions League Championship?,Yes,0.44999999999999996
+2026-11-04T07:52:35.619349,Champions League,Will VfB Stuttgart win the 2026-27 UEFA Champions League Championship?,No,99.55000000000001
+2026-11-04T07:52:35.619355,Champions League,Will LASK win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-04T07:52:35.619357,Champions League,Will LASK win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-04T07:52:35.849575,MLB,Will Sal Stewart win the 2026 NL Rookie of the Year award?,Yes,94.15
+2026-11-04T07:52:35.849594,MLB,Will Sal Stewart win the 2026 NL Rookie of the Year award?,No,5.8500000000000005
+2026-11-04T07:52:35.849601,MLB,Will Aaron Boone win the 2026 AL Manager of the Year?,Yes,0.1
+2026-11-04T07:52:35.849603,MLB,Will Aaron Boone win the 2026 AL Manager of the Year?,No,99.9
+2026-11-04T07:52:35.849609,MLB,Will Will Venable win the 2026 AL Manager of the Year?,Yes,94.75
+2026-11-04T07:52:35.849611,MLB,Will Will Venable win the 2026 AL Manager of the Year?,No,5.25
+2026-11-04T07:52:35.849616,MLB,Will Carson Williams win the 2026 AL Rookie of the Year award?,Yes,0.05
+2026-11-04T07:52:35.849619,MLB,Will Carson Williams win the 2026 AL Rookie of the Year award?,No,99.95
+2026-11-04T07:52:35.849623,MLB,Will Carson Benge win the 2026 NL Rookie of the Year award?,Yes,4.95
+2026-11-04T07:52:35.849625,MLB,Will Carson Benge win the 2026 NL Rookie of the Year award?,No,95.05

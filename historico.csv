@@ -50899,3 +50899,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-11-04T22:04:03.548037,MLB,Will Aaron Boone win the 2026 AL Manager of the Year?,No,99.9
 2026-11-04T22:04:03.548044,MLB,Will Los Angeles Dodgers advance to the World Series in the 2027 MLB Playoffs?,Yes,15.5
 2026-11-04T22:04:03.548049,MLB,Will Los Angeles Dodgers advance to the World Series in the 2027 MLB Playoffs?,No,84.5
+2026-11-05T02:41:10.016575,NBA,76ers vs. Pistons,76ers,97.95
+2026-11-05T02:41:10.016609,NBA,76ers vs. Pistons,Pistons,2.0500000000000003
+2026-11-05T02:41:10.016628,NBA,Bucks vs. Celtics,Bucks,34.65
+2026-11-05T02:41:10.016634,NBA,Bucks vs. Celtics,Celtics,65.35
+2026-11-05T02:41:10.016647,NBA,Spread: Grizzlies (-5.5),Grizzlies,54.0
+2026-11-05T02:41:10.016656,NBA,Spread: Grizzlies (-5.5),Pacers,46.0
+2026-11-05T02:41:10.016675,NBA,Pacers vs. Grizzlies,Pacers,26.5
+2026-11-05T02:41:10.016681,NBA,Pacers vs. Grizzlies,Grizzlies,73.5
+2026-11-05T02:41:10.016692,NBA,Spread: Thunder (-3.5),Thunder,79.0
+2026-11-05T02:41:10.016698,NBA,Spread: Thunder (-3.5),Cavaliers,21.0
+2026-11-05T02:41:10.145562,NFL,Jaguars vs. Ravens: O/U 40.5,Over,45.5
+2026-11-05T02:41:10.145579,NFL,Jaguars vs. Ravens: O/U 40.5,Under,54.50000000000001
+2026-11-05T02:41:10.145587,NFL,Jaguars vs. Ravens,Jaguars,81.5
+2026-11-05T02:41:10.145591,NFL,Jaguars vs. Ravens,Ravens,18.5
+2026-11-05T02:41:10.145597,NFL,Will the Seattle Seahawks win the 2027 NFL league championship?,Yes,4.5
+2026-11-05T02:41:10.145600,NFL,Will the Seattle Seahawks win the 2027 NFL league championship?,No,95.5
+2026-11-05T02:41:10.145607,NFL,Will the Baltimore Ravens win the 2027 NFL league championship?,Yes,0.65
+2026-11-05T02:41:10.145611,NFL,Will the Baltimore Ravens win the 2027 NFL league championship?,No,99.35000000000001
+2026-11-05T02:41:10.145618,NFL,Spread: Rams (-5.5),Rams,47.5
+2026-11-05T02:41:10.145621,NFL,Spread: Rams (-5.5),Commanders,52.5
+2026-11-05T02:41:10.294809,Premier League,Exact Score: Any Other Score?,Yes,17.0
+2026-11-05T02:41:10.294823,Premier League,Exact Score: Any Other Score?,No,83.0
+2026-11-05T02:41:10.294834,Premier League,Will Hull City AFC win on 2026-11-07?,Yes,4.7
+2026-11-05T02:41:10.294838,Premier League,Will Hull City AFC win on 2026-11-07?,No,95.3
+2026-11-05T02:41:10.294845,Premier League,Spread: Hull City AFC (-3.5),Hull City AFC,0.05
+2026-11-05T02:41:10.294849,Premier League,Spread: Hull City AFC (-3.5),Arsenal FC,99.95
+2026-11-05T02:41:10.294855,Premier League,Exact Score: Any Other Score?,Yes,19.5
+2026-11-05T02:41:10.294858,Premier League,Exact Score: Any Other Score?,No,80.5
+2026-11-05T02:41:10.294865,Premier League,Will Arsenal FC win on 2026-11-07?,Yes,84.5
+2026-11-05T02:41:10.294868,Premier League,Will Arsenal FC win on 2026-11-07?,No,15.5
+2026-11-05T02:41:10.423747,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-05T02:41:10.423783,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-05T02:41:10.423807,Champions League,Will Fenerbahçe win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-05T02:41:10.423817,Champions League,Will Fenerbahçe win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-05T02:41:10.423825,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,Yes,14.499999999999998
+2026-11-05T02:41:10.423829,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,No,85.5
+2026-11-05T02:41:10.423836,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,18.5
+2026-11-05T02:41:10.423840,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,81.5
+2026-11-05T02:41:10.423847,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,Yes,1.95
+2026-11-05T02:41:10.423851,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,No,98.05
+2026-11-05T02:41:10.560097,MLB,Will Sal Stewart win the 2026 NL Rookie of the Year award?,Yes,94.05
+2026-11-05T02:41:10.560115,MLB,Will Sal Stewart win the 2026 NL Rookie of the Year award?,No,5.949999999999999
+2026-11-05T02:41:10.560124,MLB,Will Carson Benge win the 2026 NL Rookie of the Year award?,Yes,6.05
+2026-11-05T02:41:10.560128,MLB,Will Carson Benge win the 2026 NL Rookie of the Year award?,No,93.95
+2026-11-05T02:41:10.560135,MLB,Will JJ Wetherholt win the 2026 NL Rookie of the Year award?,Yes,0.05
+2026-11-05T02:41:10.560138,MLB,Will JJ Wetherholt win the 2026 NL Rookie of the Year award?,No,99.95
+2026-11-05T02:41:10.560145,MLB,Will Los Angeles Dodgers advance to the World Series in the 2027 MLB Playoffs?,Yes,15.5
+2026-11-05T02:41:10.560149,MLB,Will Los Angeles Dodgers advance to the World Series in the 2027 MLB Playoffs?,No,84.5
+2026-11-05T02:41:10.560155,MLB,Will Washington Nationals advance to the World Series in the 2027 MLB Playoffs?,Yes,4.0
+2026-11-05T02:41:10.560158,MLB,Will Washington Nationals advance to the World Series in the 2027 MLB Playoffs?,No,96.0

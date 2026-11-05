@@ -51049,3 +51049,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-11-05T18:33:42.524419,MLB,Will Shohei Ohtani win the 2026 National League MVP Award?,No,98.45
 2026-11-05T18:33:42.524425,MLB,Will Walt Weiss win the 2026 NL Manager of the Year?,Yes,1.3
 2026-11-05T18:33:42.524428,MLB,Will Walt Weiss win the 2026 NL Manager of the Year?,No,98.7
+2026-11-05T23:57:37.009202,NBA,Magic vs. Suns,Magic,48.5
+2026-11-05T23:57:37.009240,NBA,Magic vs. Suns,Suns,51.5
+2026-11-05T23:57:37.009251,NBA,Spread: Warriors (-6.5),Warriors,40.5
+2026-11-05T23:57:37.009255,NBA,Spread: Warriors (-6.5),Heat,59.5
+2026-11-05T23:57:37.009262,NBA,Heat vs. Warriors,Heat,39.5
+2026-11-05T23:57:37.009267,NBA,Heat vs. Warriors,Warriors,60.5
+2026-11-05T23:57:37.009279,NBA,Will Golden State Warriors win the 2027 NBA Finals?,Yes,1.7000000000000002
+2026-11-05T23:57:37.009284,NBA,Will Golden State Warriors win the 2027 NBA Finals?,No,98.3
+2026-11-05T23:57:37.009292,NBA,Magic vs. Suns: O/U 222.5,Over,50.5
+2026-11-05T23:57:37.009295,NBA,Magic vs. Suns: O/U 222.5,Under,49.5
+2026-11-05T23:57:37.131919,NFL,Jaguars vs. Ravens,Jaguars,79.5
+2026-11-05T23:57:37.131936,NFL,Jaguars vs. Ravens,Ravens,20.5
+2026-11-05T23:57:37.131944,NFL,Spread: Jaguars (-9.5),Jaguars,49.5
+2026-11-05T23:57:37.131948,NFL,Spread: Jaguars (-9.5),Ravens,50.5
+2026-11-05T23:57:37.131954,NFL,Jaguars vs. Ravens: O/U 38.5,Over,55.50000000000001
+2026-11-05T23:57:37.131958,NFL,Jaguars vs. Ravens: O/U 38.5,Under,44.5
+2026-11-05T23:57:37.131964,NFL,Spread: Jaguars (-10.5),Jaguars,44.5
+2026-11-05T23:57:37.131967,NFL,Spread: Jaguars (-10.5),Ravens,55.50000000000001
+2026-11-05T23:57:37.131973,NFL,Lions vs. Dolphins,Lions,74.5
+2026-11-05T23:57:37.131976,NFL,Lions vs. Dolphins,Dolphins,25.5
+2026-11-05T23:57:37.255424,Premier League,Will Manchester City FC win on 2026-11-07?,Yes,56.49999999999999
+2026-11-05T23:57:37.255445,Premier League,Will Manchester City FC win on 2026-11-07?,No,43.5
+2026-11-05T23:57:37.255457,Premier League,Will Nottingham Forest FC win on 2026-11-07?,Yes,19.5
+2026-11-05T23:57:37.255461,Premier League,Will Nottingham Forest FC win on 2026-11-07?,No,80.5
+2026-11-05T23:57:37.255468,Premier League,Exact Score: Any Other Score?,Yes,14.499999999999998
+2026-11-05T23:57:37.255471,Premier League,Exact Score: Any Other Score?,No,85.5
+2026-11-05T23:57:37.255478,Premier League,Exact Score: Any Other Score?,Yes,11.5
+2026-11-05T23:57:37.255481,Premier League,Exact Score: Any Other Score?,No,88.5
+2026-11-05T23:57:37.255509,Premier League,Will Everton FC win on 2026-11-06?,Yes,56.49999999999999
+2026-11-05T23:57:37.255517,Premier League,Will Everton FC win on 2026-11-06?,No,43.5
+2026-11-05T23:57:37.379427,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-05T23:57:37.379444,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-05T23:57:37.379454,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-05T23:57:37.379467,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-05T23:57:37.379475,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,18.5
+2026-11-05T23:57:37.379479,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,81.5
+2026-11-05T23:57:37.379486,Champions League,Will Galatasaray win the 2026-27 UEFA Champions League Championship?,Yes,0.25
+2026-11-05T23:57:37.379512,Champions League,Will Galatasaray win the 2026-27 UEFA Champions League Championship?,No,99.75
+2026-11-05T23:57:37.379526,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,1.6
+2026-11-05T23:57:37.379534,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,98.4
+2026-11-05T23:57:37.561379,MLB,Will Sal Stewart win the 2026 NL Rookie of the Year award?,Yes,99.5
+2026-11-05T23:57:37.561397,MLB,Will Sal Stewart win the 2026 NL Rookie of the Year award?,No,0.5
+2026-11-05T23:57:37.561406,MLB,Will Carson Benge win the 2026 NL Rookie of the Year award?,Yes,0.3
+2026-11-05T23:57:37.561410,MLB,Will Carson Benge win the 2026 NL Rookie of the Year award?,No,99.7
+2026-11-05T23:57:37.561417,MLB,Will Shohei Ohtani win the 2026 National League MVP Award?,Yes,1.2
+2026-11-05T23:57:37.561420,MLB,Will Shohei Ohtani win the 2026 National League MVP Award?,No,98.8
+2026-11-05T23:57:37.561427,MLB,Will Walt Weiss win the 2026 NL Manager of the Year?,Yes,1.25
+2026-11-05T23:57:37.561430,MLB,Will Walt Weiss win the 2026 NL Manager of the Year?,No,98.75
+2026-11-05T23:57:37.561436,MLB,Will Los Angeles Dodgers advance to the World Series in the 2027 MLB Playoffs?,Yes,69.0
+2026-11-05T23:57:37.561440,MLB,Will Los Angeles Dodgers advance to the World Series in the 2027 MLB Playoffs?,No,31.0

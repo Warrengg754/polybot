@@ -51099,3 +51099,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-11-05T23:57:37.561430,MLB,Will Walt Weiss win the 2026 NL Manager of the Year?,No,98.75
 2026-11-05T23:57:37.561436,MLB,Will Los Angeles Dodgers advance to the World Series in the 2027 MLB Playoffs?,Yes,69.0
 2026-11-05T23:57:37.561440,MLB,Will Los Angeles Dodgers advance to the World Series in the 2027 MLB Playoffs?,No,31.0
+2026-11-06T06:20:35.740314,NBA,76ers vs. Cavaliers,76ers,57.49999999999999
+2026-11-06T06:20:35.740353,NBA,76ers vs. Cavaliers,Cavaliers,42.5
+2026-11-06T06:20:35.740360,NBA,Will Oklahoma City Thunder win the 2027 NBA Finals?,Yes,14.499999999999998
+2026-11-06T06:20:35.740363,NBA,Will Oklahoma City Thunder win the 2027 NBA Finals?,No,85.5
+2026-11-06T06:20:35.740367,NBA,Will Houston Rockets win the 2027 NBA Finals?,Yes,6.1
+2026-11-06T06:20:35.740370,NBA,Will Houston Rockets win the 2027 NBA Finals?,No,93.89999999999999
+2026-11-06T06:20:35.740379,NBA,Will Atlanta Hawks win the 2027 NBA Finals?,Yes,1.05
+2026-11-06T06:20:35.740381,NBA,Will Atlanta Hawks win the 2027 NBA Finals?,No,98.95
+2026-11-06T06:20:35.740384,NBA,Will Memphis Grizzlies win the 2027 NBA Finals?,Yes,0.75
+2026-11-06T06:20:35.740388,NBA,Will Memphis Grizzlies win the 2027 NBA Finals?,No,99.25
+2026-11-06T06:20:35.905831,NFL,Lions vs. Dolphins,Lions,74.5
+2026-11-06T06:20:35.905848,NFL,Lions vs. Dolphins,Dolphins,25.5
+2026-11-06T06:20:35.905867,NFL,Bills vs. Vikings,Bills,62.5
+2026-11-06T06:20:35.905869,NFL,Bills vs. Vikings,Vikings,37.5
+2026-11-06T06:20:35.905872,NFL,Spread: 49ers (-9.5),49ers,51.5
+2026-11-06T06:20:35.905874,NFL,Spread: 49ers (-9.5),Raiders,48.5
+2026-11-06T06:20:35.905877,NFL,Will the Jacksonville Jaguars win the 2027 NFL league championship?,Yes,9.1
+2026-11-06T06:20:35.905880,NFL,Will the Jacksonville Jaguars win the 2027 NFL league championship?,No,90.9
+2026-11-06T06:20:35.905884,NFL,Spread: Chiefs (-3.5),Chiefs,73.5
+2026-11-06T06:20:35.905885,NFL,Spread: Chiefs (-3.5),Jets,26.5
+2026-11-06T06:20:36.116036,Premier League,Will Manchester City FC win on 2026-11-07?,Yes,56.49999999999999
+2026-11-06T06:20:36.116052,Premier League,Will Manchester City FC win on 2026-11-07?,No,43.5
+2026-11-06T06:20:36.116058,Premier League,Will Everton FC win on 2026-11-06?,Yes,56.49999999999999
+2026-11-06T06:20:36.116060,Premier League,Will Everton FC win on 2026-11-06?,No,43.5
+2026-11-06T06:20:36.116064,Premier League,Exact Score: Any Other Score?,Yes,19.5
+2026-11-06T06:20:36.116065,Premier League,Exact Score: Any Other Score?,No,80.5
+2026-11-06T06:20:36.116069,Premier League,Will Nottingham Forest FC win on 2026-11-07?,Yes,19.5
+2026-11-06T06:20:36.116070,Premier League,Will Nottingham Forest FC win on 2026-11-07?,No,80.5
+2026-11-06T06:20:36.116074,Premier League,Exact Score: Any Other Score?,Yes,14.499999999999998
+2026-11-06T06:20:36.116076,Premier League,Exact Score: Any Other Score?,No,85.5
+2026-11-06T06:20:36.304919,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-06T06:20:36.304933,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-06T06:20:36.304939,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-06T06:20:36.304944,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-06T06:20:36.304948,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,18.5
+2026-11-06T06:20:36.304950,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,81.5
+2026-11-06T06:20:36.304954,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,1.55
+2026-11-06T06:20:36.304960,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,98.45
+2026-11-06T06:20:36.304964,Champions League,Will Napoli win the 2026-27 UEFA Champions League Championship?,Yes,0.25
+2026-11-06T06:20:36.304966,Champions League,Will Napoli win the 2026-27 UEFA Champions League Championship?,No,99.75
+2026-11-06T06:20:36.520701,MLB,Will Sal Stewart win the 2026 NL Rookie of the Year award?,Yes,99.5
+2026-11-06T06:20:36.520717,MLB,Will Sal Stewart win the 2026 NL Rookie of the Year award?,No,0.5
+2026-11-06T06:20:36.520722,MLB,Will Carson Benge win the 2026 NL Rookie of the Year award?,Yes,0.4
+2026-11-06T06:20:36.520724,MLB,Will Carson Benge win the 2026 NL Rookie of the Year award?,No,99.6
+2026-11-06T06:20:36.520728,MLB,Will Dylan Cease win the 2026 AL Cy Young Award?,Yes,1.7999999999999998
+2026-11-06T06:20:36.520730,MLB,Will Dylan Cease win the 2026 AL Cy Young Award?,No,98.2
+2026-11-06T06:20:36.520734,MLB,Will Detroit Tigers advance to the World Series in the 2027 MLB Playoffs?,Yes,11.0
+2026-11-06T06:20:36.520736,MLB,Will Detroit Tigers advance to the World Series in the 2027 MLB Playoffs?,No,89.0
+2026-11-06T06:20:36.520739,MLB,Will Walt Weiss win the 2026 NL Manager of the Year?,Yes,1.25
+2026-11-06T06:20:36.520741,MLB,Will Walt Weiss win the 2026 NL Manager of the Year?,No,98.75

@@ -51199,3 +51199,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-11-06T14:30:15.317409,MLB,Will Kevin McGonigle win the 2026 AL Rookie of the Year award?,No,1.6
 2026-11-06T14:30:15.317415,MLB,Will Detroit Tigers advance to the World Series in the 2027 MLB Playoffs?,Yes,9.0
 2026-11-06T14:30:15.317419,MLB,Will Detroit Tigers advance to the World Series in the 2027 MLB Playoffs?,No,91.0
+2026-11-06T20:44:00.266361,NBA,Thunder vs. Grizzlies,Thunder,61.5
+2026-11-06T20:44:00.266400,NBA,Thunder vs. Grizzlies,Grizzlies,38.5
+2026-11-06T20:44:00.266408,NBA,76ers vs. Cavaliers,76ers,58.5
+2026-11-06T20:44:00.266411,NBA,76ers vs. Cavaliers,Cavaliers,41.5
+2026-11-06T20:44:00.266417,NBA,Spurs vs. Kings,Spurs,89.5
+2026-11-06T20:44:00.266421,NBA,Spurs vs. Kings,Kings,10.5
+2026-11-06T20:44:00.266431,NBA,Spurs vs. Kings: O/U 229.5,Over,55.50000000000001
+2026-11-06T20:44:00.266435,NBA,Spurs vs. Kings: O/U 229.5,Under,44.5
+2026-11-06T20:44:00.266441,NBA,Jazz vs. Mavericks,Jazz,29.5
+2026-11-06T20:44:00.266443,NBA,Jazz vs. Mavericks,Mavericks,70.5
+2026-11-06T20:44:00.472839,NFL,Will the Tampa Bay Buccaneers win the 2027 NFL league championship?,Yes,0.8
+2026-11-06T20:44:00.472859,NFL,Will the Tampa Bay Buccaneers win the 2027 NFL league championship?,No,99.2
+2026-11-06T20:44:00.472866,NFL,Spread: Patriots (-3.5),Patriots,47.5
+2026-11-06T20:44:00.472869,NFL,Spread: Patriots (-3.5),Packers,52.5
+2026-11-06T20:44:00.472875,NFL,Spread: Chiefs (-9.5),Chiefs,51.5
+2026-11-06T20:44:00.472877,NFL,Spread: Chiefs (-9.5),Jets,48.5
+2026-11-06T20:44:00.472882,NFL,Will the Kansas City Chiefs win the 2027 NFL league championship?,Yes,8.85
+2026-11-06T20:44:00.472886,NFL,Will the Kansas City Chiefs win the 2027 NFL league championship?,No,91.14999999999999
+2026-11-06T20:44:00.472891,NFL,Spread: Bears (-6.5),Bears,47.5
+2026-11-06T20:44:00.472894,NFL,Spread: Bears (-6.5),Buccaneers,52.5
+2026-11-06T20:44:00.655278,Premier League,Will Everton FC win on 2026-11-06?,Yes,46.5
+2026-11-06T20:44:00.655296,Premier League,Will Everton FC win on 2026-11-06?,No,53.5
+2026-11-06T20:44:00.655303,Premier League,Will Coventry City FC win on 2026-11-06?,Yes,20.5
+2026-11-06T20:44:00.655306,Premier League,Will Coventry City FC win on 2026-11-06?,No,79.5
+2026-11-06T20:44:00.655311,Premier League,Everton FC vs. Coventry City FC: O/U 2.5,Over,25.5
+2026-11-06T20:44:00.655314,Premier League,Everton FC vs. Coventry City FC: O/U 2.5,Under,74.5
+2026-11-06T20:44:00.655319,Premier League,Spread: Everton FC (-1.5),Everton FC,18.0
+2026-11-06T20:44:00.655322,Premier League,Spread: Everton FC (-1.5),Coventry City FC,82.0
+2026-11-06T20:44:00.655327,Premier League,Will Manchester City FC win on 2026-11-07?,Yes,55.50000000000001
+2026-11-06T20:44:00.655330,Premier League,Will Manchester City FC win on 2026-11-07?,No,44.5
+2026-11-06T20:44:00.845822,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-06T20:44:00.845841,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-06T20:44:00.845849,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-06T20:44:00.845853,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-06T20:44:00.845859,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,Yes,2.45
+2026-11-06T20:44:00.845862,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,No,97.55
+2026-11-06T20:44:00.845867,Champions League,Will Liverpool win the 2026-27 UEFA Champions League Championship?,Yes,3.55
+2026-11-06T20:44:00.845870,Champions League,Will Liverpool win the 2026-27 UEFA Champions League Championship?,No,96.45
+2026-11-06T20:44:00.845874,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,1.6500000000000001
+2026-11-06T20:44:00.845882,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,98.35000000000001
+2026-11-06T20:44:01.075463,MLB,Will Pete Crow-Armstrong win the 2026 NL Platinum Glove award?,Yes,91.45
+2026-11-06T20:44:01.075482,MLB,Will Pete Crow-Armstrong win the 2026 NL Platinum Glove award?,No,8.55
+2026-11-06T20:44:01.075489,MLB,Will Dylan Cease win the 2026 AL Cy Young Award?,Yes,0.35000000000000003
+2026-11-06T20:44:01.075492,MLB,Will Dylan Cease win the 2026 AL Cy Young Award?,No,99.65
+2026-11-06T20:44:01.075498,MLB,Will Shohei Ohtani win the 2026 National League MVP Award?,Yes,1.6500000000000001
+2026-11-06T20:44:01.075501,MLB,Will Shohei Ohtani win the 2026 National League MVP Award?,No,98.35000000000001
+2026-11-06T20:44:01.075507,MLB,Will Sal Stewart win the 2026 NL Rookie of the Year award?,Yes,99.25
+2026-11-06T20:44:01.075510,MLB,Will Sal Stewart win the 2026 NL Rookie of the Year award?,No,0.75
+2026-11-06T20:44:01.075515,MLB,Will Kevin McGonigle win the 2026 AL Rookie of the Year award?,Yes,98.75
+2026-11-06T20:44:01.075518,MLB,Will Kevin McGonigle win the 2026 AL Rookie of the Year award?,No,1.25

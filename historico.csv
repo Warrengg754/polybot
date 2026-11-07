@@ -51449,3 +51449,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-11-07T18:30:40.187948,MLB,Will Brandon Woodruff win the 2026 NL Comeback Player of the Year award?,No,99.85000000000001
 2026-11-07T18:30:40.187951,MLB,Will Zack Wheeler win the 2026 NL Comeback Player of the Year award?,Yes,98.7
 2026-11-07T18:30:40.187953,MLB,Will Zack Wheeler win the 2026 NL Comeback Player of the Year award?,No,1.3
+2026-11-07T22:31:41.719922,NBA,Spread: Nuggets (-7.5),Nuggets,61.0
+2026-11-07T22:31:41.719962,NBA,Spread: Nuggets (-7.5),Pacers,39.0
+2026-11-07T22:31:41.719971,NBA,Nuggets vs. Pacers,Nuggets,80.5
+2026-11-07T22:31:41.719975,NBA,Nuggets vs. Pacers,Pacers,19.5
+2026-11-07T22:31:41.719981,NBA,Nuggets vs. Pacers: O/U 229.5,Over,45.0
+2026-11-07T22:31:41.719986,NBA,Nuggets vs. Pacers: O/U 229.5,Under,55.00000000000001
+2026-11-07T22:31:41.720000,NBA,Magic vs. Warriors,Magic,27.500000000000004
+2026-11-07T22:31:41.720004,NBA,Magic vs. Warriors,Warriors,72.5
+2026-11-07T22:31:41.720010,NBA,Knicks vs. Cavaliers: O/U 222.5,Over,52.5
+2026-11-07T22:31:41.720013,NBA,Knicks vs. Cavaliers: O/U 222.5,Under,47.5
+2026-11-07T22:31:41.937633,NFL,Spread: Broncos (-2.5),Broncos,52.5
+2026-11-07T22:31:41.937654,NFL,Spread: Broncos (-2.5),Panthers,47.5
+2026-11-07T22:31:41.937661,NFL,Spread: Giants (-3.5),Giants,45.5
+2026-11-07T22:31:41.937664,NFL,Spread: Giants (-3.5),Eagles,54.50000000000001
+2026-11-07T22:31:41.937671,NFL,Spread: Colts (-3.5),Colts,20.5
+2026-11-07T22:31:41.937674,NFL,Spread: Colts (-3.5),Cowboys,79.5
+2026-11-07T22:31:41.937680,NFL,Spread: Giants (-2.5),Giants,54.50000000000001
+2026-11-07T22:31:41.937683,NFL,Spread: Giants (-2.5),Eagles,45.5
+2026-11-07T22:31:41.937688,NFL,Bengals vs. Falcons,Bengals,61.5
+2026-11-07T22:31:41.937691,NFL,Bengals vs. Falcons,Falcons,38.5
+2026-11-07T22:31:42.157930,Premier League,Will Liverpool FC win on 2026-11-08?,Yes,61.5
+2026-11-07T22:31:42.157953,Premier League,Will Liverpool FC win on 2026-11-08?,No,38.5
+2026-11-07T22:31:42.157960,Premier League,Will Chelsea FC win on 2026-11-08?,Yes,48.5
+2026-11-07T22:31:42.157963,Premier League,Will Chelsea FC win on 2026-11-08?,No,51.5
+2026-11-07T22:31:42.157968,Premier League,Will Brighton & Hove Albion FC win on 2026-11-08?,Yes,52.5
+2026-11-07T22:31:42.157972,Premier League,Will Brighton & Hove Albion FC win on 2026-11-08?,No,47.5
+2026-11-07T22:31:42.157977,Premier League,Will Aston Villa FC win on 2026-11-08?,Yes,29.5
+2026-11-07T22:31:42.157980,Premier League,Will Aston Villa FC win on 2026-11-08?,No,70.5
+2026-11-07T22:31:42.157986,Premier League,Sunderland AFC vs. Chelsea FC: Both Teams to Score,Yes,56.49999999999999
+2026-11-07T22:31:42.157990,Premier League,Sunderland AFC vs. Chelsea FC: Both Teams to Score,No,43.5
+2026-11-07T22:31:42.375029,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-07T22:31:42.375050,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-07T22:31:42.375059,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,19.5
+2026-11-07T22:31:42.375065,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,80.5
+2026-11-07T22:31:42.375071,Champions League,Will Liverpool win the 2026-27 UEFA Champions League Championship?,Yes,3.55
+2026-11-07T22:31:42.375075,Champions League,Will Liverpool win the 2026-27 UEFA Champions League Championship?,No,96.45
+2026-11-07T22:31:42.375081,Champions League,Will Manchester City win the 2026-27 UEFA Champions League Championship?,Yes,5.5
+2026-11-07T22:31:42.375085,Champions League,Will Manchester City win the 2026-27 UEFA Champions League Championship?,No,94.5
+2026-11-07T22:31:42.375091,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,Yes,1.4500000000000002
+2026-11-07T22:31:42.375095,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,No,98.55000000000001
+2026-11-07T22:31:42.639104,MLB,Will Milwaukee Brewers advance to the World Series in the 2027 MLB Playoffs?,Yes,24.0
+2026-11-07T22:31:42.639126,MLB,Will Milwaukee Brewers advance to the World Series in the 2027 MLB Playoffs?,No,76.0
+2026-11-07T22:31:42.639133,MLB,Will Carson Benge win the 2026 NL Rookie of the Year award?,Yes,0.8
+2026-11-07T22:31:42.639137,MLB,Will Carson Benge win the 2026 NL Rookie of the Year award?,No,99.2
+2026-11-07T22:31:42.639144,MLB,Will Cam Schlittler win the 2026 American League MVP Award?,Yes,0.05
+2026-11-07T22:31:42.639147,MLB,Will Cam Schlittler win the 2026 American League MVP Award?,No,99.95
+2026-11-07T22:31:42.639153,MLB,Will Texas Rangers advance to the World Series in the 2027 MLB Playoffs?,Yes,33.0
+2026-11-07T22:31:42.639157,MLB,Will Texas Rangers advance to the World Series in the 2027 MLB Playoffs?,No,67.0
+2026-11-07T22:31:42.639162,MLB,Will New York Yankees advance to the World Series in the 2027 MLB Playoffs?,Yes,26.0
+2026-11-07T22:31:42.639166,MLB,Will New York Yankees advance to the World Series in the 2027 MLB Playoffs?,No,74.0

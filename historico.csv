@@ -51349,3 +51349,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-11-07T06:53:14.010180,MLB,Will Tanner Bibee win the 2026 AL Platinum Glove award?,No,99.95
 2026-11-07T06:53:14.010185,MLB,Will Caleb Durbin win the 2026 AL Platinum Glove award?,Yes,0.05
 2026-11-07T06:53:14.010187,MLB,Will Caleb Durbin win the 2026 AL Platinum Glove award?,No,99.95
+2026-11-07T13:47:10.239147,NBA,Will Orlando Magic win the 2027 NBA Finals?,Yes,0.6
+2026-11-07T13:47:10.239191,NBA,Will Orlando Magic win the 2027 NBA Finals?,No,99.4
+2026-11-07T13:47:10.239213,NBA,Will Charlotte Hornets win the 2027 NBA Finals?,Yes,0.25
+2026-11-07T13:47:10.239222,NBA,Will Charlotte Hornets win the 2027 NBA Finals?,No,99.75
+2026-11-07T13:47:10.239237,NBA,Spurs vs. Trail Blazers,Spurs,66.5
+2026-11-07T13:47:10.239247,NBA,Spurs vs. Trail Blazers,Trail Blazers,33.5
+2026-11-07T13:47:10.239268,NBA,Will Golden State Warriors win the 2027 NBA Finals?,Yes,2.25
+2026-11-07T13:47:10.239281,NBA,Will Golden State Warriors win the 2027 NBA Finals?,No,97.75
+2026-11-07T13:47:10.239296,NBA,Will Denver Nuggets win the 2027 NBA Finals?,Yes,2.45
+2026-11-07T13:47:10.239302,NBA,Will Denver Nuggets win the 2027 NBA Finals?,No,97.55
+2026-11-07T13:47:10.431883,NFL,Spread: Broncos (-2.5),Broncos,52.5
+2026-11-07T13:47:10.431900,NFL,Spread: Broncos (-2.5),Panthers,47.5
+2026-11-07T13:47:10.431908,NFL,Spread: Colts (-3.5),Colts,19.5
+2026-11-07T13:47:10.431912,NFL,Spread: Colts (-3.5),Cowboys,80.5
+2026-11-07T13:47:10.431918,NFL,Bengals vs. Falcons,Bengals,61.5
+2026-11-07T13:47:10.431921,NFL,Bengals vs. Falcons,Falcons,38.5
+2026-11-07T13:47:10.431927,NFL,Will the Tampa Bay Buccaneers win the 2027 NFL league championship?,Yes,0.8
+2026-11-07T13:47:10.431931,NFL,Will the Tampa Bay Buccaneers win the 2027 NFL league championship?,No,99.2
+2026-11-07T13:47:10.431938,NFL,Spread: Patriots (-3.5),Patriots,47.5
+2026-11-07T13:47:10.431941,NFL,Spread: Patriots (-3.5),Packers,52.5
+2026-11-07T13:47:10.621566,Premier League,Will Tottenham Hotspur FC win on 2026-11-07?,Yes,32.5
+2026-11-07T13:47:10.621585,Premier League,Will Tottenham Hotspur FC win on 2026-11-07?,No,67.5
+2026-11-07T13:47:10.621593,Premier League,Will Leeds United FC win on 2026-11-07?,Yes,25.5
+2026-11-07T13:47:10.621597,Premier League,Will Leeds United FC win on 2026-11-07?,No,74.5
+2026-11-07T13:47:10.621603,Premier League,Leeds United FC vs. Tottenham Hotspur FC: O/U 2.5,Over,13.0
+2026-11-07T13:47:10.621607,Premier League,Leeds United FC vs. Tottenham Hotspur FC: O/U 2.5,Under,87.0
+2026-11-07T13:47:10.621613,Premier League,Will Manchester City FC win on 2026-11-07?,Yes,57.49999999999999
+2026-11-07T13:47:10.621617,Premier League,Will Manchester City FC win on 2026-11-07?,No,42.5
+2026-11-07T13:47:10.621624,Premier League,Will Arsenal FC win on 2026-11-07?,Yes,85.5
+2026-11-07T13:47:10.621627,Premier League,Will Arsenal FC win on 2026-11-07?,No,14.499999999999998
+2026-11-07T13:47:10.812324,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-07T13:47:10.812342,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-07T13:47:10.812351,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,19.5
+2026-11-07T13:47:10.812356,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,80.5
+2026-11-07T13:47:10.812363,Champions League,Will Liverpool win the 2026-27 UEFA Champions League Championship?,Yes,3.55
+2026-11-07T13:47:10.812370,Champions League,Will Liverpool win the 2026-27 UEFA Champions League Championship?,No,96.45
+2026-11-07T13:47:10.812377,Champions League,Will Manchester City win the 2026-27 UEFA Champions League Championship?,Yes,5.5
+2026-11-07T13:47:10.812381,Champions League,Will Manchester City win the 2026-27 UEFA Champions League Championship?,No,94.5
+2026-11-07T13:47:10.812387,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,Yes,1.4500000000000002
+2026-11-07T13:47:10.812391,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,No,98.55000000000001
+2026-11-07T13:47:11.065574,MLB,Will Shohei Ohtani win the 2026 National League MVP Award?,Yes,1.6
+2026-11-07T13:47:11.065591,MLB,Will Shohei Ohtani win the 2026 National League MVP Award?,No,98.4
+2026-11-07T13:47:11.065599,MLB,Will Pete Crow-Armstrong win the 2026 National League MVP Award?,Yes,98.05
+2026-11-07T13:47:11.065603,MLB,Will Pete Crow-Armstrong win the 2026 National League MVP Award?,No,1.95
+2026-11-07T13:47:11.065610,MLB,Will Sal Stewart win the 2026 NL Rookie of the Year award?,Yes,98.7
+2026-11-07T13:47:11.065613,MLB,Will Sal Stewart win the 2026 NL Rookie of the Year award?,No,1.3
+2026-11-07T13:47:11.065619,MLB,Will Cam Schlittler win the 2026 American League MVP Award?,Yes,0.15
+2026-11-07T13:47:11.065622,MLB,Will Cam Schlittler win the 2026 American League MVP Award?,No,99.85000000000001
+2026-11-07T13:47:11.065629,MLB,Will Shota Imanaga win the 2026 NL Comeback Player of the Year award?,Yes,0.15
+2026-11-07T13:47:11.065633,MLB,Will Shota Imanaga win the 2026 NL Comeback Player of the Year award?,No,99.85000000000001

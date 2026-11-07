@@ -51249,3 +51249,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-11-06T20:44:01.075510,MLB,Will Sal Stewart win the 2026 NL Rookie of the Year award?,No,0.75
 2026-11-06T20:44:01.075515,MLB,Will Kevin McGonigle win the 2026 AL Rookie of the Year award?,Yes,98.75
 2026-11-06T20:44:01.075518,MLB,Will Kevin McGonigle win the 2026 AL Rookie of the Year award?,No,1.25
+2026-11-07T00:42:12.489482,NBA,Wizards vs. Hawks,Wizards,29.5
+2026-11-07T00:42:12.489519,NBA,Wizards vs. Hawks,Hawks,70.5
+2026-11-07T00:42:12.489527,NBA,Thunder vs. Grizzlies,Thunder,60.5
+2026-11-07T00:42:12.489529,NBA,Thunder vs. Grizzlies,Grizzlies,39.5
+2026-11-07T00:42:12.489534,NBA,Spurs vs. Kings,Spurs,90.5
+2026-11-07T00:42:12.489538,NBA,Spurs vs. Kings,Kings,9.5
+2026-11-07T00:42:12.489548,NBA,76ers vs. Cavaliers,76ers,57.49999999999999
+2026-11-07T00:42:12.489551,NBA,76ers vs. Cavaliers,Cavaliers,42.5
+2026-11-07T00:42:12.489557,NBA,Raptors vs. Bucks,Raptors,58.5
+2026-11-07T00:42:12.489559,NBA,Raptors vs. Bucks,Bucks,41.5
+2026-11-07T00:42:12.698695,NFL,Spread: Broncos (-2.5),Broncos,52.5
+2026-11-07T00:42:12.698714,NFL,Spread: Broncos (-2.5),Panthers,47.5
+2026-11-07T00:42:12.698720,NFL,Will the Tampa Bay Buccaneers win the 2027 NFL league championship?,Yes,0.75
+2026-11-07T00:42:12.698723,NFL,Will the Tampa Bay Buccaneers win the 2027 NFL league championship?,No,99.25
+2026-11-07T00:42:12.698729,NFL,Jets vs. Chiefs,Jets,19.5
+2026-11-07T00:42:12.698731,NFL,Jets vs. Chiefs,Chiefs,80.5
+2026-11-07T00:42:12.698736,NFL,Spread: Patriots (-3.5),Patriots,47.5
+2026-11-07T00:42:12.698738,NFL,Spread: Patriots (-3.5),Packers,52.5
+2026-11-07T00:42:12.698742,NFL,Spread: Chiefs (-9.5),Chiefs,50.5
+2026-11-07T00:42:12.698744,NFL,Spread: Chiefs (-9.5),Jets,49.5
+2026-11-07T00:42:12.904217,Premier League,Spread: Hull City AFC (-1.5),Hull City AFC,0.65
+2026-11-07T00:42:12.904235,Premier League,Spread: Hull City AFC (-1.5),Arsenal FC,99.35000000000001
+2026-11-07T00:42:12.904242,Premier League,Will Manchester City FC win on 2026-11-07?,Yes,56.49999999999999
+2026-11-07T00:42:12.904245,Premier League,Will Manchester City FC win on 2026-11-07?,No,43.5
+2026-11-07T00:42:12.904251,Premier League,Spread: Nottingham Forest FC (-2.5),Nottingham Forest FC,2.0500000000000003
+2026-11-07T00:42:12.904254,Premier League,Spread: Nottingham Forest FC (-2.5),Manchester City FC,97.95
+2026-11-07T00:42:12.904260,Premier League,Will Hull City AFC win on 2026-11-07?,Yes,4.15
+2026-11-07T00:42:12.904262,Premier League,Will Hull City AFC win on 2026-11-07?,No,95.85000000000001
+2026-11-07T00:42:12.904267,Premier League,Exact Score: Any Other Score?,Yes,7.5
+2026-11-07T00:42:12.904270,Premier League,Exact Score: Any Other Score?,No,92.5
+2026-11-07T00:42:13.121027,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-07T00:42:13.121044,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-07T00:42:13.121052,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,19.5
+2026-11-07T00:42:13.121056,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,80.5
+2026-11-07T00:42:13.121061,Champions League,Will Liverpool win the 2026-27 UEFA Champions League Championship?,Yes,3.55
+2026-11-07T00:42:13.121064,Champions League,Will Liverpool win the 2026-27 UEFA Champions League Championship?,No,96.45
+2026-11-07T00:42:13.121069,Champions League,Will Manchester City win the 2026-27 UEFA Champions League Championship?,Yes,5.5
+2026-11-07T00:42:13.121071,Champions League,Will Manchester City win the 2026-27 UEFA Champions League Championship?,No,94.5
+2026-11-07T00:42:13.121076,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,Yes,1.4500000000000002
+2026-11-07T00:42:13.121079,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,No,98.55000000000001
+2026-11-07T00:42:13.353910,MLB,Will Ceddanne Rafaela win the 2026 AL Platinum Glove award?,Yes,89.5
+2026-11-07T00:42:13.353928,MLB,Will Ceddanne Rafaela win the 2026 AL Platinum Glove award?,No,10.5
+2026-11-07T00:42:13.353935,MLB,Will Taylor Walls win the 2026 AL Platinum Glove award?,Yes,7.35
+2026-11-07T00:42:13.353938,MLB,Will Taylor Walls win the 2026 AL Platinum Glove award?,No,92.65
+2026-11-07T00:42:13.353943,MLB,Will Cody Bellinger win the 2026 AL Platinum Glove award?,Yes,7.5
+2026-11-07T00:42:13.353945,MLB,Will Cody Bellinger win the 2026 AL Platinum Glove award?,No,92.5
+2026-11-07T00:42:13.353951,MLB,Will Dillon Dingler win the 2026 AL Platinum Glove award?,Yes,5.65
+2026-11-07T00:42:13.353953,MLB,Will Dillon Dingler win the 2026 AL Platinum Glove award?,No,94.35
+2026-11-07T00:42:13.353958,MLB,Will Cole Young win the 2026 AL Platinum Glove award?,Yes,0.15
+2026-11-07T00:42:13.353960,MLB,Will Cole Young win the 2026 AL Platinum Glove award?,No,99.85000000000001

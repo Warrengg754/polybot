@@ -51399,3 +51399,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-11-07T13:47:11.065622,MLB,Will Cam Schlittler win the 2026 American League MVP Award?,No,99.85000000000001
 2026-11-07T13:47:11.065629,MLB,Will Shota Imanaga win the 2026 NL Comeback Player of the Year award?,Yes,0.15
 2026-11-07T13:47:11.065633,MLB,Will Shota Imanaga win the 2026 NL Comeback Player of the Year award?,No,99.85000000000001
+2026-11-07T18:30:39.364229,NBA,Will Orlando Magic win the 2027 NBA Finals?,Yes,0.6
+2026-11-07T18:30:39.364269,NBA,Will Orlando Magic win the 2027 NBA Finals?,No,99.4
+2026-11-07T18:30:39.364275,NBA,Will Charlotte Hornets win the 2027 NBA Finals?,Yes,0.25
+2026-11-07T18:30:39.364278,NBA,Will Charlotte Hornets win the 2027 NBA Finals?,No,99.75
+2026-11-07T18:30:39.364282,NBA,Will Portland Trail Blazers win the 2027 NBA Finals?,Yes,2.75
+2026-11-07T18:30:39.364286,NBA,Will Portland Trail Blazers win the 2027 NBA Finals?,No,97.25
+2026-11-07T18:30:39.364294,NBA,Spurs vs. Trail Blazers,Spurs,65.5
+2026-11-07T18:30:39.364296,NBA,Spurs vs. Trail Blazers,Trail Blazers,34.5
+2026-11-07T18:30:39.364300,NBA,Spread: Nuggets (-7.5),Nuggets,51.5
+2026-11-07T18:30:39.364302,NBA,Spread: Nuggets (-7.5),Pacers,48.5
+2026-11-07T18:30:39.524463,NFL,Spread: Broncos (-2.5),Broncos,52.5
+2026-11-07T18:30:39.524481,NFL,Spread: Broncos (-2.5),Panthers,47.5
+2026-11-07T18:30:39.524486,NFL,Spread: Giants (-3.5),Giants,45.5
+2026-11-07T18:30:39.524488,NFL,Spread: Giants (-3.5),Eagles,54.50000000000001
+2026-11-07T18:30:39.524493,NFL,Spread: Giants (-2.5),Giants,54.50000000000001
+2026-11-07T18:30:39.524494,NFL,Spread: Giants (-2.5),Eagles,45.5
+2026-11-07T18:30:39.524498,NFL,Bengals vs. Falcons,Bengals,61.5
+2026-11-07T18:30:39.524500,NFL,Bengals vs. Falcons,Falcons,38.5
+2026-11-07T18:30:39.524503,NFL,Spread: Colts (-3.5),Colts,19.5
+2026-11-07T18:30:39.524505,NFL,Spread: Colts (-3.5),Cowboys,80.5
+2026-11-07T18:30:39.713789,Premier League,Will Manchester City FC win on 2026-11-07?,Yes,11.5
+2026-11-07T18:30:39.713809,Premier League,Will Manchester City FC win on 2026-11-07?,No,88.5
+2026-11-07T18:30:39.713814,Premier League,Will Nottingham Forest FC win on 2026-11-07?,Yes,70.5
+2026-11-07T18:30:39.713816,Premier League,Will Nottingham Forest FC win on 2026-11-07?,No,29.5
+2026-11-07T18:30:39.713819,Premier League,Nottingham Forest FC vs. Manchester City FC: O/U 1.5,Over,99.95
+2026-11-07T18:30:39.713822,Premier League,Nottingham Forest FC vs. Manchester City FC: O/U 1.5,Under,0.05
+2026-11-07T18:30:39.713825,Premier League,Nottingham Forest FC vs. Manchester City FC: O/U 2.5,Over,86.5
+2026-11-07T18:30:39.713827,Premier League,Nottingham Forest FC vs. Manchester City FC: O/U 2.5,Under,13.5
+2026-11-07T18:30:39.713831,Premier League,Spread: Manchester City FC (-1.5),Manchester City FC,3.0
+2026-11-07T18:30:39.713833,Premier League,Spread: Manchester City FC (-1.5),Nottingham Forest FC,97.0
+2026-11-07T18:30:39.891579,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-07T18:30:39.891599,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-07T18:30:39.891605,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,18.5
+2026-11-07T18:30:39.891608,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,81.5
+2026-11-07T18:30:39.891612,Champions League,Will Liverpool win the 2026-27 UEFA Champions League Championship?,Yes,3.55
+2026-11-07T18:30:39.891616,Champions League,Will Liverpool win the 2026-27 UEFA Champions League Championship?,No,96.45
+2026-11-07T18:30:39.891620,Champions League,Will Manchester City win the 2026-27 UEFA Champions League Championship?,Yes,5.5
+2026-11-07T18:30:39.891621,Champions League,Will Manchester City win the 2026-27 UEFA Champions League Championship?,No,94.5
+2026-11-07T18:30:39.891625,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,Yes,1.4500000000000002
+2026-11-07T18:30:39.891627,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,No,98.55000000000001
+2026-11-07T18:30:40.187909,MLB,Will Shota Imanaga win the 2026 NL Comeback Player of the Year award?,Yes,0.15
+2026-11-07T18:30:40.187928,MLB,Will Shota Imanaga win the 2026 NL Comeback Player of the Year award?,No,99.85000000000001
+2026-11-07T18:30:40.187934,MLB,Will O'Neil Cruz win the 2026 NL Comeback Player of the Year award?,Yes,0.15
+2026-11-07T18:30:40.187936,MLB,Will O'Neil Cruz win the 2026 NL Comeback Player of the Year award?,No,99.85000000000001
+2026-11-07T18:30:40.187940,MLB,Will Michael Harris II win the 2026 NL Comeback Player of the Year award?,Yes,0.15
+2026-11-07T18:30:40.187942,MLB,Will Michael Harris II win the 2026 NL Comeback Player of the Year award?,No,99.85000000000001
+2026-11-07T18:30:40.187946,MLB,Will Brandon Woodruff win the 2026 NL Comeback Player of the Year award?,Yes,0.15
+2026-11-07T18:30:40.187948,MLB,Will Brandon Woodruff win the 2026 NL Comeback Player of the Year award?,No,99.85000000000001
+2026-11-07T18:30:40.187951,MLB,Will Zack Wheeler win the 2026 NL Comeback Player of the Year award?,Yes,98.7
+2026-11-07T18:30:40.187953,MLB,Will Zack Wheeler win the 2026 NL Comeback Player of the Year award?,No,1.3

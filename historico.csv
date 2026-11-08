@@ -51599,3 +51599,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-11-08T09:21:53.072752,MLB,Will Carson Benge win the 2026 NL Rookie of the Year award?,No,99.4
 2026-11-08T09:21:53.072756,MLB,Will Sal Stewart win the 2026 NL Rookie of the Year award?,Yes,99.25
 2026-11-08T09:21:53.072759,MLB,Will Sal Stewart win the 2026 NL Rookie of the Year award?,No,0.75
+2026-11-08T16:11:41.658115,NBA,76ers vs. Bulls,76ers,78.5
+2026-11-08T16:11:41.658155,NBA,76ers vs. Bulls,Bulls,21.5
+2026-11-08T16:11:41.658163,NBA,Lakers vs. Pistons,Lakers,36.5
+2026-11-08T16:11:41.658165,NBA,Lakers vs. Pistons,Pistons,63.5
+2026-11-08T16:11:41.658168,NBA,Celtics vs. Bucks: O/U 222.5,Over,49.5
+2026-11-08T16:11:41.658171,NBA,Celtics vs. Bucks: O/U 222.5,Under,50.5
+2026-11-08T16:11:41.658180,NBA,Spread: 76ers (-9.5),76ers,48.5
+2026-11-08T16:11:41.658181,NBA,Spread: 76ers (-9.5),Bulls,51.5
+2026-11-08T16:11:41.658185,NBA,Spread: Mavericks (-9.5),Mavericks,43.5
+2026-11-08T16:11:41.658187,NBA,Spread: Mavericks (-9.5),Nets,56.49999999999999
+2026-11-08T16:11:41.855846,NFL,Giants vs. Eagles,Giants,58.5
+2026-11-08T16:11:41.855856,NFL,Giants vs. Eagles,Eagles,41.5
+2026-11-08T16:11:41.855860,NFL,Spread: Bengals (-3.5),Bengals,85.5
+2026-11-08T16:11:41.855862,NFL,Spread: Bengals (-3.5),Falcons,14.499999999999998
+2026-11-08T16:11:41.855866,NFL,Bengals vs. Falcons,Bengals,93.5
+2026-11-08T16:11:41.855868,NFL,Bengals vs. Falcons,Falcons,6.5
+2026-11-08T16:11:41.855872,NFL,Spread: Texans (-5.5),Texans,48.5
+2026-11-08T16:11:41.855873,NFL,Spread: Texans (-5.5),Chargers,51.5
+2026-11-08T16:11:41.855876,NFL,Lions vs. Dolphins,Lions,74.5
+2026-11-08T16:11:41.855878,NFL,Lions vs. Dolphins,Dolphins,25.5
+2026-11-08T16:11:42.025461,Premier League,Will Chelsea FC win on 2026-11-08?,Yes,0.05
+2026-11-08T16:11:42.025469,Premier League,Will Chelsea FC win on 2026-11-08?,No,99.95
+2026-11-08T16:11:42.025474,Premier League,Will Brighton & Hove Albion FC win on 2026-11-08?,Yes,99.95
+2026-11-08T16:11:42.025476,Premier League,Will Brighton & Hove Albion FC win on 2026-11-08?,No,0.05
+2026-11-08T16:11:42.025480,Premier League,Will Liverpool FC win on 2026-11-08?,Yes,99.95
+2026-11-08T16:11:42.025481,Premier League,Will Liverpool FC win on 2026-11-08?,No,0.05
+2026-11-08T16:11:42.025485,Premier League,Will Sunderland AFC win on 2026-11-08?,Yes,99.95
+2026-11-08T16:11:42.025486,Premier League,Will Sunderland AFC win on 2026-11-08?,No,0.05
+2026-11-08T16:11:42.025490,Premier League,Will Manchester United FC win on 2026-11-08?,Yes,48.5
+2026-11-08T16:11:42.025492,Premier League,Will Manchester United FC win on 2026-11-08?,No,51.5
+2026-11-08T16:11:42.196550,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-08T16:11:42.196565,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-08T16:11:42.196571,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,19.5
+2026-11-08T16:11:42.196574,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,80.5
+2026-11-08T16:11:42.196578,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,1.55
+2026-11-08T16:11:42.196585,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,98.45
+2026-11-08T16:11:42.196589,Champions League,Will Roma win the 2026-27 UEFA Champions League Championship?,Yes,0.5499999999999999
+2026-11-08T16:11:42.196591,Champions League,Will Roma win the 2026-27 UEFA Champions League Championship?,No,99.45
+2026-11-08T16:11:42.196594,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,23.5
+2026-11-08T16:11:42.196596,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,76.5
+2026-11-08T16:11:42.442054,MLB,Will Jacob Misiorowski win the 2026 NL Cy Young Award?,Yes,99.45
+2026-11-08T16:11:42.442066,MLB,Will Jacob Misiorowski win the 2026 NL Cy Young Award?,No,0.5499999999999999
+2026-11-08T16:11:42.442072,MLB,Will Will Venable win the 2026 AL Manager of the Year?,Yes,98.6
+2026-11-08T16:11:42.442074,MLB,Will Will Venable win the 2026 AL Manager of the Year?,No,1.4000000000000001
+2026-11-08T16:11:42.442078,MLB,Will Milwaukee Brewers advance to the World Series in the 2027 MLB Playoffs?,Yes,25.5
+2026-11-08T16:11:42.442080,MLB,Will Milwaukee Brewers advance to the World Series in the 2027 MLB Playoffs?,No,74.5
+2026-11-08T16:11:42.442083,MLB,Will Carson Benge win the 2026 NL Rookie of the Year award?,Yes,0.6
+2026-11-08T16:11:42.442085,MLB,Will Carson Benge win the 2026 NL Rookie of the Year award?,No,99.4
+2026-11-08T16:11:42.442088,MLB,Will Sal Stewart win the 2026 NL Rookie of the Year award?,Yes,99.25
+2026-11-08T16:11:42.442090,MLB,Will Sal Stewart win the 2026 NL Rookie of the Year award?,No,0.75

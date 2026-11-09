@@ -51699,3 +51699,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-11-08T20:41:16.608098,MLB,Will Milwaukee Brewers advance to the World Series in the 2027 MLB Playoffs?,No,74.5
 2026-11-08T20:41:16.608103,MLB,Will Pete Crow-Armstrong win the 2026 National League Hank Aaron Award?,Yes,98.8
 2026-11-08T20:41:16.608105,MLB,Will Pete Crow-Armstrong win the 2026 National League Hank Aaron Award?,No,1.2
+2026-11-09T00:37:22.487073,NBA,Lakers vs. Pistons,Lakers,83.5
+2026-11-09T00:37:22.487110,NBA,Lakers vs. Pistons,Pistons,16.5
+2026-11-09T00:37:22.487121,NBA,Spread: Mavericks (-7.5),Mavericks,48.5
+2026-11-09T00:37:22.487125,NBA,Spread: Mavericks (-7.5),Nets,51.5
+2026-11-09T00:37:22.487132,NBA,Jazz vs. Timberwolves: O/U 222.5,Over,40.0
+2026-11-09T00:37:22.487137,NBA,Jazz vs. Timberwolves: O/U 222.5,Under,60.0
+2026-11-09T00:37:22.487150,NBA,Nets vs. Mavericks,Nets,27.500000000000004
+2026-11-09T00:37:22.487154,NBA,Nets vs. Mavericks,Mavericks,72.5
+2026-11-09T00:37:22.487161,NBA,Jazz vs. Timberwolves,Jazz,19.5
+2026-11-09T00:37:22.487164,NBA,Jazz vs. Timberwolves,Timberwolves,80.5
+2026-11-09T00:37:22.686565,NFL,Texans vs. Chargers,Texans,99.95
+2026-11-09T00:37:22.686581,NFL,Texans vs. Chargers,Chargers,0.05
+2026-11-09T00:37:22.686589,NFL,Cardinals vs. Seahawks,Cardinals,0.05
+2026-11-09T00:37:22.686593,NFL,Cardinals vs. Seahawks,Seahawks,99.95
+2026-11-09T00:37:22.686599,NFL,Packers vs. Patriots,Packers,99.95
+2026-11-09T00:37:22.686602,NFL,Packers vs. Patriots,Patriots,0.05
+2026-11-09T00:37:22.686608,NFL,Spread: Texans (-5.5),Texans,99.95
+2026-11-09T00:37:22.686611,NFL,Spread: Texans (-5.5),Chargers,0.05
+2026-11-09T00:37:22.686617,NFL,Buccaneers vs. Bears,Buccaneers,28.499999999999996
+2026-11-09T00:37:22.686620,NFL,Buccaneers vs. Bears,Bears,71.5
+2026-11-09T00:37:22.907739,Premier League,Exact Score: Any Other Score?,Yes,12.5
+2026-11-09T00:37:22.907762,Premier League,Exact Score: Any Other Score?,No,87.5
+2026-11-09T00:37:22.907778,Premier League,Will Manchester United be relegated from the 2026-27 Premier League?,Yes,8.7
+2026-11-09T00:37:22.907785,Premier League,Will Manchester United be relegated from the 2026-27 Premier League?,No,91.3
+2026-11-09T00:37:22.907798,Premier League,Will Chelsea FC win on 2026-11-21?,Yes,52.5
+2026-11-09T00:37:22.907805,Premier League,Will Chelsea FC win on 2026-11-21?,No,47.5
+2026-11-09T00:37:22.907812,Premier League,Will Sunderland be relegated from the 2026-27 Premier League?,Yes,30.0
+2026-11-09T00:37:22.907815,Premier League,Will Sunderland be relegated from the 2026-27 Premier League?,No,70.0
+2026-11-09T00:37:22.907822,Premier League,Will Manchester City FC win on 2026-11-21?,Yes,66.5
+2026-11-09T00:37:22.907830,Premier League,Will Manchester City FC win on 2026-11-21?,No,33.5
+2026-11-09T00:37:23.127696,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-09T00:37:23.127714,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-09T00:37:23.127723,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,18.5
+2026-11-09T00:37:23.127728,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,81.5
+2026-11-09T00:37:23.127734,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,Yes,1.7000000000000002
+2026-11-09T00:37:23.127739,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,No,98.3
+2026-11-09T00:37:23.127745,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,1.55
+2026-11-09T00:37:23.127752,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,98.45
+2026-11-09T00:37:23.127759,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,23.5
+2026-11-09T00:37:23.127763,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,76.5
+2026-11-09T00:37:23.416568,MLB,Will Will Venable win the 2026 AL Manager of the Year?,Yes,98.6
+2026-11-09T00:37:23.416586,MLB,Will Will Venable win the 2026 AL Manager of the Year?,No,1.4000000000000001
+2026-11-09T00:37:23.416596,MLB,Will Milwaukee Brewers advance to the World Series in the 2027 MLB Playoffs?,Yes,25.5
+2026-11-09T00:37:23.416600,MLB,Will Milwaukee Brewers advance to the World Series in the 2027 MLB Playoffs?,No,74.5
+2026-11-09T00:37:23.416607,MLB,Will Sal Stewart win the 2026 NL Rookie of the Year award?,Yes,99.25
+2026-11-09T00:37:23.416610,MLB,Will Sal Stewart win the 2026 NL Rookie of the Year award?,No,0.75
+2026-11-09T00:37:23.416617,MLB,Will Ben Rice win the 2026 American League Hank Aaron Award?,Yes,0.15
+2026-11-09T00:37:23.416620,MLB,Will Ben Rice win the 2026 American League Hank Aaron Award?,No,99.85000000000001
+2026-11-09T00:37:23.416627,MLB,Will Pete Alonso win the 2026 American League Hank Aaron Award?,Yes,0.15
+2026-11-09T00:37:23.416630,MLB,Will Pete Alonso win the 2026 American League Hank Aaron Award?,No,99.85000000000001

@@ -51749,3 +51749,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-11-09T00:37:23.416620,MLB,Will Ben Rice win the 2026 American League Hank Aaron Award?,No,99.85000000000001
 2026-11-09T00:37:23.416627,MLB,Will Pete Alonso win the 2026 American League Hank Aaron Award?,Yes,0.15
 2026-11-09T00:37:23.416630,MLB,Will Pete Alonso win the 2026 American League Hank Aaron Award?,No,99.85000000000001
+2026-11-09T07:43:39.487745,NBA,Nuggets vs. Rockets,Nuggets,25.5
+2026-11-09T07:43:39.487785,NBA,Nuggets vs. Rockets,Rockets,74.5
+2026-11-09T07:43:39.487793,NBA,Lakers vs. Hawks,Lakers,55.50000000000001
+2026-11-09T07:43:39.487798,NBA,Lakers vs. Hawks,Hawks,44.5
+2026-11-09T07:43:39.487804,NBA,Will Los Angeles Lakers win the 2027 NBA Finals?,Yes,4.05
+2026-11-09T07:43:39.487810,NBA,Will Los Angeles Lakers win the 2027 NBA Finals?,No,95.95
+2026-11-09T07:43:39.487823,NBA,Pelicans vs. Warriors,Pelicans,21.5
+2026-11-09T07:43:39.487827,NBA,Pelicans vs. Warriors,Warriors,78.5
+2026-11-09T07:43:39.487833,NBA,Cavaliers vs. Hornets,Cavaliers,76.5
+2026-11-09T07:43:39.487836,NBA,Cavaliers vs. Hornets,Hornets,23.5
+2026-11-09T07:43:39.628039,NFL,Spread: Bills (-3.5),Bills,46.5
+2026-11-09T07:43:39.628060,NFL,Spread: Bills (-3.5),Vikings,53.5
+2026-11-09T07:43:39.628067,NFL,Bills vs. Vikings: O/U 44.5,Over,48.5
+2026-11-09T07:43:39.628070,NFL,Bills vs. Vikings: O/U 44.5,Under,51.5
+2026-11-09T07:43:39.628076,NFL,Will the Philadelphia Eagles win the 2027 NFL league championship?,Yes,0.15
+2026-11-09T07:43:39.628079,NFL,Will the Philadelphia Eagles win the 2027 NFL league championship?,No,99.85000000000001
+2026-11-09T07:43:39.628087,NFL,Bills vs. Vikings,Bills,61.5
+2026-11-09T07:43:39.628090,NFL,Bills vs. Vikings,Vikings,38.5
+2026-11-09T07:43:39.628095,NFL,Spread: Vikings (-14.5),Vikings,5.65
+2026-11-09T07:43:39.628098,NFL,Spread: Vikings (-14.5),Bills,94.35
+2026-11-09T07:43:39.779142,Premier League,Exact Score: Any Other Score?,Yes,12.5
+2026-11-09T07:43:39.779165,Premier League,Exact Score: Any Other Score?,No,87.5
+2026-11-09T07:43:39.779173,Premier League,Will Manchester United be relegated from the 2026-27 Premier League?,Yes,8.25
+2026-11-09T07:43:39.779176,Premier League,Will Manchester United be relegated from the 2026-27 Premier League?,No,91.75
+2026-11-09T07:43:39.779210,Premier League,Will Chelsea FC win on 2026-11-21?,Yes,52.5
+2026-11-09T07:43:39.779215,Premier League,Will Chelsea FC win on 2026-11-21?,No,47.5
+2026-11-09T07:43:39.779228,Premier League,Will Hull City be relegated from the 2026-27 Premier League?,Yes,56.49999999999999
+2026-11-09T07:43:39.779232,Premier League,Will Hull City be relegated from the 2026-27 Premier League?,No,43.5
+2026-11-09T07:43:39.779239,Premier League,Will Sunderland be relegated from the 2026-27 Premier League?,Yes,28.499999999999996
+2026-11-09T07:43:39.779243,Premier League,Will Sunderland be relegated from the 2026-27 Premier League?,No,71.5
+2026-11-09T07:43:39.920954,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-09T07:43:39.920977,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-09T07:43:39.920986,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,18.5
+2026-11-09T07:43:39.920991,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,81.5
+2026-11-09T07:43:39.920997,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,Yes,1.6500000000000001
+2026-11-09T07:43:39.921002,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,No,98.35000000000001
+2026-11-09T07:43:39.921008,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,1.55
+2026-11-09T07:43:39.921016,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,98.45
+2026-11-09T07:43:39.921023,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,23.5
+2026-11-09T07:43:39.921026,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,76.5
+2026-11-09T07:43:40.138949,MLB,Will Don Mattingly win the 2026 NL Manager of the Year?,Yes,1.05
+2026-11-09T07:43:40.138971,MLB,Will Don Mattingly win the 2026 NL Manager of the Year?,No,98.95
+2026-11-09T07:43:40.138978,MLB,Will Carson Benge win the 2026 NL Rookie of the Year award?,Yes,1.2
+2026-11-09T07:43:40.138981,MLB,Will Carson Benge win the 2026 NL Rookie of the Year award?,No,98.8
+2026-11-09T07:43:40.138987,MLB,Will Sal Stewart win the 2026 NL Rookie of the Year award?,Yes,98.8
+2026-11-09T07:43:40.138991,MLB,Will Sal Stewart win the 2026 NL Rookie of the Year award?,No,1.2
+2026-11-09T07:43:40.138996,MLB,Will Cam Schlittler win the 2026 AL Cy Young Award?,Yes,99.65
+2026-11-09T07:43:40.138999,MLB,Will Cam Schlittler win the 2026 AL Cy Young Award?,No,0.35000000000000003
+2026-11-09T07:43:40.139006,MLB,Will Dylan Cease win the 2026 AL Cy Young Award?,Yes,0.35000000000000003
+2026-11-09T07:43:40.139010,MLB,Will Dylan Cease win the 2026 AL Cy Young Award?,No,99.65

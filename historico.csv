@@ -51799,3 +51799,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-11-09T07:43:40.138999,MLB,Will Cam Schlittler win the 2026 AL Cy Young Award?,No,0.35000000000000003
 2026-11-09T07:43:40.139006,MLB,Will Dylan Cease win the 2026 AL Cy Young Award?,Yes,0.35000000000000003
 2026-11-09T07:43:40.139010,MLB,Will Dylan Cease win the 2026 AL Cy Young Award?,No,99.65
+2026-11-10T01:44:12.416011,NBA,Lakers vs. Hawks,Lakers,77.5
+2026-11-10T01:44:12.416038,NBA,Lakers vs. Hawks,Hawks,22.5
+2026-11-10T01:44:12.416050,NBA,Grizzlies vs. Raptors,Grizzlies,67.5
+2026-11-10T01:44:12.416054,NBA,Grizzlies vs. Raptors,Raptors,32.5
+2026-11-10T01:44:12.416061,NBA,Nuggets vs. Rockets,Nuggets,35.5
+2026-11-10T01:44:12.416066,NBA,Nuggets vs. Rockets,Rockets,64.5
+2026-11-10T01:44:12.416079,NBA,Spread: Pistons (-9.5),Pistons,69.0
+2026-11-10T01:44:12.416083,NBA,Spread: Pistons (-9.5),Wizards,31.0
+2026-11-10T01:44:12.416090,NBA,Spread: Spurs (-9.5),Spurs,48.5
+2026-11-10T01:44:12.416093,NBA,Spread: Spurs (-9.5),Suns,51.5
+2026-11-10T01:44:12.558146,NFL,Bills vs. Vikings,Bills,65.5
+2026-11-10T01:44:12.558159,NFL,Bills vs. Vikings,Vikings,34.5
+2026-11-10T01:44:12.558167,NFL,Spread: Bills (-3.5),Bills,50.5
+2026-11-10T01:44:12.558170,NFL,Spread: Bills (-3.5),Vikings,49.5
+2026-11-10T01:44:12.558177,NFL,Spread: Bills (-4.5),Bills,48.5
+2026-11-10T01:44:12.558179,NFL,Spread: Bills (-4.5),Vikings,51.5
+2026-11-10T01:44:12.558186,NFL,Bills vs. Vikings: O/U 44.5,Over,34.5
+2026-11-10T01:44:12.558189,NFL,Bills vs. Vikings: O/U 44.5,Under,65.5
+2026-11-10T01:44:12.558195,NFL,Spread: Bills (-2.5),Bills,62.5
+2026-11-10T01:44:12.558197,NFL,Spread: Bills (-2.5),Vikings,37.5
+2026-11-10T01:44:12.712905,Premier League,Exact Score: Any Other Score?,Yes,14.000000000000002
+2026-11-10T01:44:12.712921,Premier League,Exact Score: Any Other Score?,No,86.0
+2026-11-10T01:44:12.712930,Premier League,Will Manchester United be relegated from the 2026-27 Premier League?,Yes,3.65
+2026-11-10T01:44:12.712935,Premier League,Will Manchester United be relegated from the 2026-27 Premier League?,No,96.35000000000001
+2026-11-10T01:44:12.712943,Premier League,Will Manchester City be relegated from the 2026-27 Premier League?,Yes,40.45
+2026-11-10T01:44:12.712946,Premier League,Will Manchester City be relegated from the 2026-27 Premier League?,No,59.550000000000004
+2026-11-10T01:44:12.712953,Premier League,Will Hull City be relegated from the 2026-27 Premier League?,Yes,55.50000000000001
+2026-11-10T01:44:12.712958,Premier League,Will Hull City be relegated from the 2026-27 Premier League?,No,44.5
+2026-11-10T01:44:12.712964,Premier League,Will Chelsea FC win on 2026-11-21?,Yes,50.5
+2026-11-10T01:44:12.712967,Premier League,Will Chelsea FC win on 2026-11-21?,No,49.5
+2026-11-10T01:44:12.858241,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-10T01:44:12.858258,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-10T01:44:12.858268,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,1.7500000000000002
+2026-11-10T01:44:12.858278,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,98.25
+2026-11-10T01:44:12.858286,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,Yes,1.35
+2026-11-10T01:44:12.858290,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,No,98.65
+2026-11-10T01:44:12.858297,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,Yes,0.1
+2026-11-10T01:44:12.858301,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,No,99.9
+2026-11-10T01:44:12.858308,Champions League,Will Aston Villa win the 2026-27 UEFA Champions League Championship?,Yes,1.15
+2026-11-10T01:44:12.858312,Champions League,Will Aston Villa win the 2026-27 UEFA Champions League Championship?,No,98.85000000000001
+2026-11-10T01:44:13.011069,MLB,Will Sal Stewart win the 2026 NL Rookie of the Year award?,Yes,99.95
+2026-11-10T01:44:13.011091,MLB,Will Sal Stewart win the 2026 NL Rookie of the Year award?,No,0.05
+2026-11-10T01:44:13.011107,MLB,Will Kevin McGonigle win the 2026 AL Rookie of the Year award?,Yes,99.95
+2026-11-10T01:44:13.011115,MLB,Will Kevin McGonigle win the 2026 AL Rookie of the Year award?,No,0.05
+2026-11-10T01:44:13.011128,MLB,Will Carson Benge win the 2026 NL Rookie of the Year award?,Yes,0.05
+2026-11-10T01:44:13.011134,MLB,Will Carson Benge win the 2026 NL Rookie of the Year award?,No,99.95
+2026-11-10T01:44:13.011147,MLB,Will Walt Weiss win the 2026 NL Manager of the Year?,Yes,1.0999999999999999
+2026-11-10T01:44:13.011155,MLB,Will Walt Weiss win the 2026 NL Manager of the Year?,No,98.9
+2026-11-10T01:44:13.011168,MLB,Will Don Mattingly win the 2026 NL Manager of the Year?,Yes,0.25
+2026-11-10T01:44:13.011174,MLB,Will Don Mattingly win the 2026 NL Manager of the Year?,No,99.75

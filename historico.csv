@@ -51999,3 +51999,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-11-10T22:28:33.780154,MLB,Will Texas Rangers advance to the World Series in the 2027 MLB Playoffs?,No,48.0
 2026-11-10T22:28:33.780158,MLB,Will Cleveland Guardians advance to the World Series in the 2027 MLB Playoffs?,Yes,19.5
 2026-11-10T22:28:33.780160,MLB,Will Cleveland Guardians advance to the World Series in the 2027 MLB Playoffs?,No,80.5
+2026-11-11T02:10:07.581804,NBA,Celtics vs. 76ers,Celtics,76.5
+2026-11-11T02:10:07.581835,NBA,Celtics vs. 76ers,76ers,23.5
+2026-11-11T02:10:07.581845,NBA,Heat vs. Jazz,Heat,75.5
+2026-11-11T02:10:07.581848,NBA,Heat vs. Jazz,Jazz,24.5
+2026-11-11T02:10:07.581855,NBA,Spread: Knicks (-15.5),Knicks,80.5
+2026-11-11T02:10:07.581860,NBA,Spread: Knicks (-15.5),Bucks,19.5
+2026-11-11T02:10:07.581872,NBA,Spread: Heat (-8.5),Heat,48.5
+2026-11-11T02:10:07.581875,NBA,Spread: Heat (-8.5),Jazz,51.5
+2026-11-11T02:10:07.581882,NBA,Bucks vs. Knicks,Bucks,0.8500000000000001
+2026-11-11T02:10:07.581886,NBA,Bucks vs. Knicks,Knicks,99.15
+2026-11-11T02:10:07.795798,NFL,Will the Minnesota Vikings win the 2027 NFL league championship?,Yes,5.7
+2026-11-11T02:10:07.795811,NFL,Will the Minnesota Vikings win the 2027 NFL league championship?,No,94.3
+2026-11-11T02:10:07.795820,NFL,Will the Las Vegas Raiders win the 2027 NFL league championship?,Yes,0.15
+2026-11-11T02:10:07.795824,NFL,Will the Las Vegas Raiders win the 2027 NFL league championship?,No,99.85000000000001
+2026-11-11T02:10:07.795833,NFL,Spread: Packers (-5.5),Packers,43.5
+2026-11-11T02:10:07.795837,NFL,Spread: Packers (-5.5),Vikings,56.49999999999999
+2026-11-11T02:10:07.795845,NFL,Will the Jacksonville Jaguars win the 2027 NFL league championship?,Yes,12.15
+2026-11-11T02:10:07.795848,NFL,Will the Jacksonville Jaguars win the 2027 NFL league championship?,No,87.85
+2026-11-11T02:10:07.795855,NFL,Commanders vs. Giants,Commanders,43.5
+2026-11-11T02:10:07.795858,NFL,Commanders vs. Giants,Giants,56.49999999999999
+2026-11-11T02:10:08.012780,Premier League,Exact Score: Any Other Score?,Yes,20.5
+2026-11-11T02:10:08.012796,Premier League,Exact Score: Any Other Score?,No,79.5
+2026-11-11T02:10:08.012805,Premier League,Exact Score: Any Other Score?,Yes,12.5
+2026-11-11T02:10:08.012808,Premier League,Exact Score: Any Other Score?,No,87.5
+2026-11-11T02:10:08.012814,Premier League,Exact Score: Any Other Score?,Yes,14.000000000000002
+2026-11-11T02:10:08.012818,Premier League,Exact Score: Any Other Score?,No,86.0
+2026-11-11T02:10:08.012824,Premier League,Will Manchester City qualify for the 2027-28 UEFA Champions League?,Yes,35.5
+2026-11-11T02:10:08.012828,Premier League,Will Manchester City qualify for the 2027-28 UEFA Champions League?,No,64.5
+2026-11-11T02:10:08.012835,Premier League,Will Manchester City be relegated from the 2026-27 Premier League?,Yes,40.35
+2026-11-11T02:10:08.012838,Premier League,Will Manchester City be relegated from the 2026-27 Premier League?,No,59.650000000000006
+2026-11-11T02:10:08.232532,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-11T02:10:08.232549,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-11T02:10:08.232559,Champions League,Will Villarreal win the 2026-27 UEFA Champions League Championship?,Yes,0.25
+2026-11-11T02:10:08.232564,Champions League,Will Villarreal win the 2026-27 UEFA Champions League Championship?,No,99.75
+2026-11-11T02:10:08.232571,Champions League,Will RB Leipzig win the 2026-27 UEFA Champions League Championship?,Yes,0.2
+2026-11-11T02:10:08.232575,Champions League,Will RB Leipzig win the 2026-27 UEFA Champions League Championship?,No,99.8
+2026-11-11T02:10:08.232581,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-11T02:10:08.232585,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-11T02:10:08.232592,Champions League,Will Napoli win the 2026-27 UEFA Champions League Championship?,Yes,0.3
+2026-11-11T02:10:08.232595,Champions League,Will Napoli win the 2026-27 UEFA Champions League Championship?,No,99.7
+2026-11-11T02:10:08.522551,MLB,Will Pat Murphy win the 2026 NL Manager of the Year?,Yes,98.85000000000001
+2026-11-11T02:10:08.522568,MLB,Will Pat Murphy win the 2026 NL Manager of the Year?,No,1.15
+2026-11-11T02:10:08.522577,MLB,Will Will Venable win the 2026 AL Manager of the Year?,Yes,99.95
+2026-11-11T02:10:08.522581,MLB,Will Will Venable win the 2026 AL Manager of the Year?,No,0.05
+2026-11-11T02:10:08.522587,MLB,Will Kevin Cash win the 2026 AL Manager of the Year?,Yes,0.05
+2026-11-11T02:10:08.522591,MLB,Will Kevin Cash win the 2026 AL Manager of the Year?,No,99.95
+2026-11-11T02:10:08.522597,MLB,Will Walt Weiss win the 2026 NL Manager of the Year?,Yes,0.05
+2026-11-11T02:10:08.522600,MLB,Will Walt Weiss win the 2026 NL Manager of the Year?,No,99.95
+2026-11-11T02:10:08.522605,MLB,Will Don Mattingly win the 2026 NL Manager of the Year?,Yes,0.1
+2026-11-11T02:10:08.522608,MLB,Will Don Mattingly win the 2026 NL Manager of the Year?,No,99.9

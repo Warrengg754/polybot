@@ -52349,3 +52349,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-11-12T22:37:40.811209,MLB,Will Pete Crow-Armstrong win the 2026 National League MVP Award?,No,0.3
 2026-11-12T22:37:40.811215,MLB,Will Colorado Rockies advance to the World Series in the 2027 MLB Playoffs?,Yes,4.0
 2026-11-12T22:37:40.811219,MLB,Will Colorado Rockies advance to the World Series in the 2027 MLB Playoffs?,No,96.0
+2026-11-13T03:15:34.508363,NBA,Pistons vs. Wizards,Pistons,98.15
+2026-11-13T03:15:34.508391,NBA,Pistons vs. Wizards,Wizards,1.8499999999999999
+2026-11-13T03:15:34.508404,NBA,Hornets vs. Suns,Hornets,24.5
+2026-11-13T03:15:34.508409,NBA,Hornets vs. Suns,Suns,75.5
+2026-11-13T03:15:34.508418,NBA,Spread: Timberwolves (-6.5),Timberwolves,99.95
+2026-11-13T03:15:34.508425,NBA,Spread: Timberwolves (-6.5),Mavericks,0.05
+2026-11-13T03:15:34.508442,NBA,Mavericks vs. Timberwolves,Mavericks,0.05
+2026-11-13T03:15:34.508446,NBA,Mavericks vs. Timberwolves,Timberwolves,99.95
+2026-11-13T03:15:34.508455,NBA,Spread: Pistons (-10.5),Pistons,5.0
+2026-11-13T03:15:34.508459,NBA,Spread: Pistons (-10.5),Wizards,95.0
+2026-11-13T03:15:34.720785,NFL,Commanders vs. Giants,Commanders,43.5
+2026-11-13T03:15:34.720797,NFL,Commanders vs. Giants,Giants,56.49999999999999
+2026-11-13T03:15:34.720804,NFL,Spread: Giants (-1.5),Giants,50.5
+2026-11-13T03:15:34.720806,NFL,Spread: Giants (-1.5),Commanders,49.5
+2026-11-13T03:15:34.720811,NFL,Spread: Giants (-2.5),Giants,48.5
+2026-11-13T03:15:34.720813,NFL,Spread: Giants (-2.5),Commanders,51.5
+2026-11-13T03:15:34.720818,NFL,Spread: Giants (-3.5),Giants,34.5
+2026-11-13T03:15:34.720820,NFL,Spread: Giants (-3.5),Commanders,65.5
+2026-11-13T03:15:34.720824,NFL,Commanders vs. Giants: O/U 40.5,Over,89.5
+2026-11-13T03:15:34.720827,NFL,Commanders vs. Giants: O/U 40.5,Under,10.5
+2026-11-13T03:15:34.925807,Premier League,Exact Score: Any Other Score?,Yes,18.5
+2026-11-13T03:15:34.925818,Premier League,Exact Score: Any Other Score?,No,81.5
+2026-11-13T03:15:34.925824,Premier League,Exact Score: Any Other Score?,Yes,18.0
+2026-11-13T03:15:34.925827,Premier League,Exact Score: Any Other Score?,No,82.0
+2026-11-13T03:15:34.925832,Premier League,Exact Score: Any Other Score?,Yes,18.5
+2026-11-13T03:15:34.925834,Premier League,Exact Score: Any Other Score?,No,81.5
+2026-11-13T03:15:34.925839,Premier League,Exact Score: Any Other Score?,Yes,14.499999999999998
+2026-11-13T03:15:34.925842,Premier League,Exact Score: Any Other Score?,No,85.5
+2026-11-13T03:15:34.925847,Premier League,Exact Score: Any Other Score?,Yes,15.0
+2026-11-13T03:15:34.925849,Premier League,Exact Score: Any Other Score?,No,85.0
+2026-11-13T03:15:35.133907,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-13T03:15:35.133919,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-13T03:15:35.133927,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,Yes,14.499999999999998
+2026-11-13T03:15:35.133931,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,No,85.5
+2026-11-13T03:15:35.133937,Champions League,Will Fenerbahçe win the 2026-27 UEFA Champions League Championship?,Yes,0.1
+2026-11-13T03:15:35.133943,Champions League,Will Fenerbahçe win the 2026-27 UEFA Champions League Championship?,No,99.9
+2026-11-13T03:15:35.133948,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,18.5
+2026-11-13T03:15:35.133951,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,81.5
+2026-11-13T03:15:35.133956,Champions League,Will Club Brugge win the 2026-27 UEFA Champions League Championship?,Yes,0.25
+2026-11-13T03:15:35.133959,Champions League,Will Club Brugge win the 2026-27 UEFA Champions League Championship?,No,99.75
+2026-11-13T03:15:35.874053,MLB,Will Pete Crow-Armstrong win the 2026 National League MVP Award?,Yes,99.95
+2026-11-13T03:15:35.874068,MLB,Will Pete Crow-Armstrong win the 2026 National League MVP Award?,No,0.05
+2026-11-13T03:15:35.874074,MLB,Will Colorado Rockies advance to the World Series in the 2027 MLB Playoffs?,Yes,4.0
+2026-11-13T03:15:35.874078,MLB,Will Colorado Rockies advance to the World Series in the 2027 MLB Playoffs?,No,96.0
+2026-11-13T03:15:35.874083,MLB,Will Arizona Diamondbacks advance to the World Series in the 2027 MLB Playoffs?,Yes,6.5
+2026-11-13T03:15:35.874086,MLB,Will Arizona Diamondbacks advance to the World Series in the 2027 MLB Playoffs?,No,93.5
+2026-11-13T03:15:35.874091,MLB,Will San Francisco Giants advance to the World Series in the 2027 MLB Playoffs?,Yes,5.0
+2026-11-13T03:15:35.874093,MLB,Will San Francisco Giants advance to the World Series in the 2027 MLB Playoffs?,No,95.0
+2026-11-13T03:15:35.874098,MLB,Will San Diego Padres advance to the World Series in the 2027 MLB Playoffs?,Yes,6.5
+2026-11-13T03:15:35.874101,MLB,Will San Diego Padres advance to the World Series in the 2027 MLB Playoffs?,No,93.5

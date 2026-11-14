@@ -52549,3 +52549,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-11-14T00:14:29.238512,MLB,Will Colorado Rockies advance to the World Series in the 2027 MLB Playoffs?,No,96.0
 2026-11-14T00:14:29.238516,MLB,Will Arizona Diamondbacks advance to the World Series in the 2027 MLB Playoffs?,Yes,6.5
 2026-11-14T00:14:29.238518,MLB,Will Arizona Diamondbacks advance to the World Series in the 2027 MLB Playoffs?,No,93.5
+2026-11-14T06:53:48.792957,NBA,Nuggets vs. Pelicans,Nuggets,84.5
+2026-11-14T06:53:48.792996,NBA,Nuggets vs. Pelicans,Pelicans,15.5
+2026-11-14T06:53:48.793007,NBA,Bulls vs. Timberwolves,Bulls,11.5
+2026-11-14T06:53:48.793011,NBA,Bulls vs. Timberwolves,Timberwolves,88.5
+2026-11-14T06:53:48.793019,NBA,Will Miami Heat win the 2027 NBA Finals?,Yes,2.1999999999999997
+2026-11-14T06:53:48.793026,NBA,Will Miami Heat win the 2027 NBA Finals?,No,97.8
+2026-11-14T06:53:48.793043,NBA,Mavericks vs. Cavaliers,Mavericks,46.5
+2026-11-14T06:53:48.793047,NBA,Mavericks vs. Cavaliers,Cavaliers,53.5
+2026-11-14T06:53:48.793055,NBA,Will Toronto Raptors win the 2027 NBA Finals?,Yes,3.55
+2026-11-14T06:53:48.793059,NBA,Will Toronto Raptors win the 2027 NBA Finals?,No,96.45
+2026-11-14T06:53:49.000832,NFL,Vikings vs. Packers,Vikings,41.5
+2026-11-14T06:53:49.000853,NFL,Vikings vs. Packers,Packers,58.5
+2026-11-14T06:53:49.000862,NFL,Patriots vs. Lions: O/U 50.5,Over,46.5
+2026-11-14T06:53:49.000866,NFL,Patriots vs. Lions: O/U 50.5,Under,53.5
+2026-11-14T06:53:49.000900,NFL,Will the Buffalo Bills win the 2027 NFL league championship?,Yes,14.499999999999998
+2026-11-14T06:53:49.000908,NFL,Will the Buffalo Bills win the 2027 NFL league championship?,No,85.5
+2026-11-14T06:53:49.000917,NFL,Patriots vs. Lions,Patriots,42.5
+2026-11-14T06:53:49.000921,NFL,Patriots vs. Lions,Lions,57.49999999999999
+2026-11-14T06:53:49.000928,NFL,Will the Chicago Bears win the 2027 NFL league championship?,Yes,10.4
+2026-11-14T06:53:49.000933,NFL,Will the Chicago Bears win the 2027 NFL league championship?,No,89.60000000000001
+2026-11-14T06:53:49.215741,Premier League,Exact Score: Any Other Score?,Yes,24.5
+2026-11-14T06:53:49.215763,Premier League,Exact Score: Any Other Score?,No,75.5
+2026-11-14T06:53:49.215771,Premier League,Exact Score: Any Other Score?,Yes,15.0
+2026-11-14T06:53:49.215778,Premier League,Exact Score: Any Other Score?,No,85.0
+2026-11-14T06:53:49.215785,Premier League,Will Manchester City FC win on 2026-11-21?,Yes,67.5
+2026-11-14T06:53:49.215790,Premier League,Will Manchester City FC win on 2026-11-21?,No,32.5
+2026-11-14T06:53:49.215797,Premier League,Will Manchester United be relegated from the 2026-27 Premier League?,Yes,3.3000000000000003
+2026-11-14T06:53:49.215803,Premier League,Will Manchester United be relegated from the 2026-27 Premier League?,No,96.7
+2026-11-14T06:53:49.215812,Premier League,Will Manchester United FC win on 2026-11-22?,Yes,22.5
+2026-11-14T06:53:49.215816,Premier League,Will Manchester United FC win on 2026-11-22?,No,77.5
+2026-11-14T06:53:49.421697,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-14T06:53:49.421722,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-14T06:53:49.421733,Champions League,Will Napoli win the 2026-27 UEFA Champions League Championship?,Yes,0.25
+2026-11-14T06:53:49.421739,Champions League,Will Napoli win the 2026-27 UEFA Champions League Championship?,No,99.75
+2026-11-14T06:53:49.421747,Champions League,Will RB Leipzig win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-14T06:53:49.421752,Champions League,Will RB Leipzig win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-14T06:53:49.421761,Champions League,Will Galatasaray win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-14T06:53:49.421765,Champions League,Will Galatasaray win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-14T06:53:49.421774,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-14T06:53:49.421778,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-14T06:53:49.699552,MLB,Will the Los Angeles Dodgers win the 2027 World Series?,Yes,21.5
+2026-11-14T06:53:49.699575,MLB,Will the Los Angeles Dodgers win the 2027 World Series?,No,78.5
+2026-11-14T06:53:49.699584,MLB,Will Detroit Tigers advance to the World Series in the 2027 MLB Playoffs?,Yes,8.0
+2026-11-14T06:53:49.699589,MLB,Will Detroit Tigers advance to the World Series in the 2027 MLB Playoffs?,No,92.0
+2026-11-14T06:53:49.699597,MLB,Will Baltimore Orioles advance to the World Series in the 2027 MLB Playoffs?,Yes,17.150000000000002
+2026-11-14T06:53:49.699603,MLB,Will Baltimore Orioles advance to the World Series in the 2027 MLB Playoffs?,No,82.85
+2026-11-14T06:53:49.699611,MLB,Will San Diego Padres advance to the World Series in the 2027 MLB Playoffs?,Yes,6.5
+2026-11-14T06:53:49.699616,MLB,Will San Diego Padres advance to the World Series in the 2027 MLB Playoffs?,No,93.5
+2026-11-14T06:53:49.699624,MLB,Will the Milwaukee Brewers win the 2027 World Series?,Yes,16.0
+2026-11-14T06:53:49.699628,MLB,Will the Milwaukee Brewers win the 2027 World Series?,No,84.0

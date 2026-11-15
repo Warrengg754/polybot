@@ -52899,3 +52899,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-11-15T17:36:37.211174,MLB,Will Colorado Rockies advance to the World Series in the 2027 MLB Playoffs?,No,49.0
 2026-11-15T17:36:37.211180,MLB,Will Arizona Diamondbacks advance to the World Series in the 2027 MLB Playoffs?,Yes,50.0
 2026-11-15T17:36:37.211183,MLB,Will Arizona Diamondbacks advance to the World Series in the 2027 MLB Playoffs?,No,50.0
+2026-11-15T22:36:41.869638,NBA,Lakers vs. Suns,Lakers,94.5
+2026-11-15T22:36:41.869675,NBA,Lakers vs. Suns,Suns,5.5
+2026-11-15T22:36:41.869682,NBA,Hornets vs. Clippers,Hornets,42.5
+2026-11-15T22:36:41.869685,NBA,Hornets vs. Clippers,Clippers,57.49999999999999
+2026-11-15T22:36:41.869691,NBA,Spread: Celtics (-14.5),Celtics,51.5
+2026-11-15T22:36:41.869695,NBA,Spread: Celtics (-14.5),Mavericks,48.5
+2026-11-15T22:36:41.869706,NBA,Spurs vs. Jazz,Spurs,85.5
+2026-11-15T22:36:41.869708,NBA,Spurs vs. Jazz,Jazz,14.499999999999998
+2026-11-15T22:36:41.869713,NBA,Spread: Celtics (-13.5),Celtics,55.50000000000001
+2026-11-15T22:36:41.869716,NBA,Spread: Celtics (-13.5),Mavericks,44.5
+2026-11-15T22:36:42.074840,NFL,49ers vs. Cowboys,49ers,64.5
+2026-11-15T22:36:42.074857,NFL,49ers vs. Cowboys,Cowboys,35.5
+2026-11-15T22:36:42.074863,NFL,Seahawks vs. Raiders,Seahawks,56.49999999999999
+2026-11-15T22:36:42.074866,NFL,Seahawks vs. Raiders,Raiders,43.5
+2026-11-15T22:36:42.074871,NFL,Spread: 49ers (-3.5),49ers,44.5
+2026-11-15T22:36:42.074873,NFL,Spread: 49ers (-3.5),Cowboys,55.50000000000001
+2026-11-15T22:36:42.074878,NFL,Rams vs. Cardinals,Rams,95.5
+2026-11-15T22:36:42.074881,NFL,Rams vs. Cardinals,Cardinals,4.5
+2026-11-15T22:36:42.074885,NFL,Spread: Seahawks (-6.5),Seahawks,27.0
+2026-11-15T22:36:42.074887,NFL,Spread: Seahawks (-6.5),Raiders,73.0
+2026-11-15T22:36:42.299449,Premier League,Will AFC Bournemouth win on 2026-11-21?,Yes,49.5
+2026-11-15T22:36:42.299470,Premier League,Will AFC Bournemouth win on 2026-11-21?,No,50.5
+2026-11-15T22:36:42.299477,Premier League,Exact Score: Any Other Score?,Yes,14.000000000000002
+2026-11-15T22:36:42.299481,Premier League,Exact Score: Any Other Score?,No,86.0
+2026-11-15T22:36:42.299486,Premier League,Will Manchester City be relegated from the 2026-27 Premier League?,Yes,49.25
+2026-11-15T22:36:42.299489,Premier League,Will Manchester City be relegated from the 2026-27 Premier League?,No,50.74999999999999
+2026-11-15T22:36:42.299495,Premier League,Will Manchester City FC win on 2026-11-21?,Yes,69.5
+2026-11-15T22:36:42.299497,Premier League,Will Manchester City FC win on 2026-11-21?,No,30.5
+2026-11-15T22:36:42.299502,Premier League,Will AFC Bournemouth vs. Nottingham Forest FC end in a draw?,Yes,26.5
+2026-11-15T22:36:42.299504,Premier League,Will AFC Bournemouth vs. Nottingham Forest FC end in a draw?,No,73.5
+2026-11-15T22:36:42.519147,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-15T22:36:42.519165,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-15T22:36:42.519172,Champions League,Will Liverpool win the 2026-27 UEFA Champions League Championship?,Yes,3.25
+2026-11-15T22:36:42.519176,Champions League,Will Liverpool win the 2026-27 UEFA Champions League Championship?,No,96.75
+2026-11-15T22:36:42.519181,Champions League,Will Borussia Dortmund win the 2026-27 UEFA Champions League Championship?,Yes,1.0999999999999999
+2026-11-15T22:36:42.519184,Champions League,Will Borussia Dortmund win the 2026-27 UEFA Champions League Championship?,No,98.9
+2026-11-15T22:36:42.519189,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,Yes,23.0
+2026-11-15T22:36:42.519192,Champions League,Will Barcelona win the 2026-27 UEFA Champions League Championship?,No,77.0
+2026-11-15T22:36:42.519196,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,Yes,1.6500000000000001
+2026-11-15T22:36:42.519199,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,No,98.35000000000001
+2026-11-15T22:36:43.180061,MLB,Will Washington Nationals advance to the World Series in the 2027 MLB Playoffs?,Yes,4.0
+2026-11-15T22:36:43.180079,MLB,Will Washington Nationals advance to the World Series in the 2027 MLB Playoffs?,No,96.0
+2026-11-15T22:36:43.180086,MLB,Will the Seattle Mariners win the 2027 World Series?,Yes,5.0
+2026-11-15T22:36:43.180088,MLB,Will the Seattle Mariners win the 2027 World Series?,No,95.0
+2026-11-15T22:36:43.180093,MLB,Will the New York Yankees win the 2027 World Series?,Yes,8.0
+2026-11-15T22:36:43.180095,MLB,Will the New York Yankees win the 2027 World Series?,No,92.0
+2026-11-15T22:36:43.180100,MLB,Will Colorado Rockies advance to the World Series in the 2027 MLB Playoffs?,Yes,51.0
+2026-11-15T22:36:43.180103,MLB,Will Colorado Rockies advance to the World Series in the 2027 MLB Playoffs?,No,49.0
+2026-11-15T22:36:43.180107,MLB,Will Arizona Diamondbacks advance to the World Series in the 2027 MLB Playoffs?,Yes,50.0
+2026-11-15T22:36:43.180110,MLB,Will Arizona Diamondbacks advance to the World Series in the 2027 MLB Playoffs?,No,50.0

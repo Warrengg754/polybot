@@ -52849,3 +52849,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-11-15T10:39:42.240214,MLB,Will the Seattle Mariners win the 2027 World Series?,No,95.0
 2026-11-15T10:39:42.240219,MLB,Will the New York Yankees win the 2027 World Series?,Yes,8.0
 2026-11-15T10:39:42.240222,MLB,Will the New York Yankees win the 2027 World Series?,No,92.0
+2026-11-15T17:36:36.089378,NBA,Pacers vs. 76ers,Pacers,27.500000000000004
+2026-11-15T17:36:36.089408,NBA,Pacers vs. 76ers,76ers,72.5
+2026-11-15T17:36:36.089419,NBA,Lakers vs. Suns,Lakers,59.5
+2026-11-15T17:36:36.089423,NBA,Lakers vs. Suns,Suns,40.5
+2026-11-15T17:36:36.089430,NBA,Will Utah Jazz win the 2027 NBA Finals?,Yes,0.15
+2026-11-15T17:36:36.089435,NBA,Will Utah Jazz win the 2027 NBA Finals?,No,99.85000000000001
+2026-11-15T17:36:36.089449,NBA,Spread: 76ers (-7.5),76ers,50.5
+2026-11-15T17:36:36.089453,NBA,Spread: 76ers (-7.5),Pacers,49.5
+2026-11-15T17:36:36.089459,NBA,Spurs vs. Jazz,Spurs,90.5
+2026-11-15T17:36:36.089462,NBA,Spurs vs. Jazz,Jazz,9.5
+2026-11-15T17:36:36.209958,NFL,Patriots vs. Lions,Patriots,0.05
+2026-11-15T17:36:36.209974,NFL,Patriots vs. Lions,Lions,99.95
+2026-11-15T17:36:36.209982,NFL,Panthers vs. Saints,Panthers,50.5
+2026-11-15T17:36:36.209986,NFL,Panthers vs. Saints,Saints,49.5
+2026-11-15T17:36:36.209992,NFL,Chiefs vs. Falcons,Chiefs,63.5
+2026-11-15T17:36:36.209995,NFL,Chiefs vs. Falcons,Falcons,36.5
+2026-11-15T17:36:36.210001,NFL,Vikings vs. Packers,Vikings,43.5
+2026-11-15T17:36:36.210004,NFL,Vikings vs. Packers,Packers,56.49999999999999
+2026-11-15T17:36:36.210011,NFL,Bills vs. Jets,Bills,78.5
+2026-11-15T17:36:36.210014,NFL,Bills vs. Jets,Jets,21.5
+2026-11-15T17:36:36.359014,Premier League,Exact Score: Any Other Score?,Yes,14.000000000000002
+2026-11-15T17:36:36.359031,Premier League,Exact Score: Any Other Score?,No,86.0
+2026-11-15T17:36:36.359057,Premier League,Will Manchester City be relegated from the 2026-27 Premier League?,Yes,49.6
+2026-11-15T17:36:36.359061,Premier League,Will Manchester City be relegated from the 2026-27 Premier League?,No,50.4
+2026-11-15T17:36:36.359068,Premier League,Will Manchester City FC win on 2026-11-21?,Yes,69.0
+2026-11-15T17:36:36.359071,Premier League,Will Manchester City FC win on 2026-11-21?,No,31.0
+2026-11-15T17:36:36.359077,Premier League,Will Arsenal qualify for the 2027-28 UEFA Champions League?,Yes,97.89999999999999
+2026-11-15T17:36:36.359081,Premier League,Will Arsenal qualify for the 2027-28 UEFA Champions League?,No,2.1
+2026-11-15T17:36:36.359088,Premier League,Will Arsenal FC win on 2026-11-21?,Yes,61.5
+2026-11-15T17:36:36.359091,Premier League,Will Arsenal FC win on 2026-11-21?,No,38.5
+2026-11-15T17:36:36.486916,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-15T17:36:36.486934,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-15T17:36:36.486943,Champions League,Will Liverpool win the 2026-27 UEFA Champions League Championship?,Yes,3.2
+2026-11-15T17:36:36.486948,Champions League,Will Liverpool win the 2026-27 UEFA Champions League Championship?,No,96.8
+2026-11-15T17:36:36.486954,Champions League,Will Borussia Dortmund win the 2026-27 UEFA Champions League Championship?,Yes,1.0999999999999999
+2026-11-15T17:36:36.486958,Champions League,Will Borussia Dortmund win the 2026-27 UEFA Champions League Championship?,No,98.9
+2026-11-15T17:36:36.486965,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,Yes,1.6500000000000001
+2026-11-15T17:36:36.486969,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,No,98.35000000000001
+2026-11-15T17:36:36.486976,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,2.0500000000000003
+2026-11-15T17:36:36.486984,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,97.95
+2026-11-15T17:36:37.211123,MLB,Will Washington Nationals advance to the World Series in the 2027 MLB Playoffs?,Yes,4.0
+2026-11-15T17:36:37.211141,MLB,Will Washington Nationals advance to the World Series in the 2027 MLB Playoffs?,No,96.0
+2026-11-15T17:36:37.211151,MLB,Will the Seattle Mariners win the 2027 World Series?,Yes,5.0
+2026-11-15T17:36:37.211155,MLB,Will the Seattle Mariners win the 2027 World Series?,No,95.0
+2026-11-15T17:36:37.211162,MLB,Will the New York Yankees win the 2027 World Series?,Yes,8.0
+2026-11-15T17:36:37.211165,MLB,Will the New York Yankees win the 2027 World Series?,No,92.0
+2026-11-15T17:36:37.211170,MLB,Will Colorado Rockies advance to the World Series in the 2027 MLB Playoffs?,Yes,51.0
+2026-11-15T17:36:37.211174,MLB,Will Colorado Rockies advance to the World Series in the 2027 MLB Playoffs?,No,49.0
+2026-11-15T17:36:37.211180,MLB,Will Arizona Diamondbacks advance to the World Series in the 2027 MLB Playoffs?,Yes,50.0
+2026-11-15T17:36:37.211183,MLB,Will Arizona Diamondbacks advance to the World Series in the 2027 MLB Playoffs?,No,50.0

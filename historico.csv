@@ -53299,3 +53299,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-11-18T03:03:34.832388,MLB,Will San Francisco Giants advance to the World Series in the 2027 MLB Playoffs?,No,50.5
 2026-11-18T03:03:34.832392,MLB,Will San Diego Padres advance to the World Series in the 2027 MLB Playoffs?,Yes,48.0
 2026-11-18T03:03:34.832395,MLB,Will San Diego Padres advance to the World Series in the 2027 MLB Playoffs?,No,52.0
+2026-11-18T12:05:33.874084,NBA,Will Utah Jazz win the 2027 NBA Finals?,Yes,0.35000000000000003
+2026-11-18T12:05:33.874105,NBA,Will Utah Jazz win the 2027 NBA Finals?,No,99.65
+2026-11-18T12:05:33.874111,NBA,76ers vs. Magic,76ers,54.50000000000001
+2026-11-18T12:05:33.874113,NBA,76ers vs. Magic,Magic,45.5
+2026-11-18T12:05:33.874118,NBA,Jazz vs. Lakers,Jazz,21.5
+2026-11-18T12:05:33.874121,NBA,Jazz vs. Lakers,Lakers,78.5
+2026-11-18T12:05:33.874129,NBA,Will Atlanta Hawks win the 2027 NBA Finals?,Yes,0.95
+2026-11-18T12:05:33.874131,NBA,Will Atlanta Hawks win the 2027 NBA Finals?,No,99.05000000000001
+2026-11-18T12:05:33.874136,NBA,Will Philadelphia 76ers win the 2027 NBA Finals?,Yes,9.35
+2026-11-18T12:05:33.874138,NBA,Will Philadelphia 76ers win the 2027 NBA Finals?,No,90.64999999999999
+2026-11-18T12:05:34.005629,NFL,Spread: Texans (-13.5),Texans,46.5
+2026-11-18T12:05:34.005638,NFL,Spread: Texans (-13.5),Colts,53.5
+2026-11-18T12:05:34.005643,NFL,Will the Dallas Cowboys win the 2027 NFL league championship?,Yes,1.25
+2026-11-18T12:05:34.005645,NFL,Will the Dallas Cowboys win the 2027 NFL league championship?,No,98.75
+2026-11-18T12:05:34.005648,NFL,Will the Carolina Panthers win the 2027 NFL league championship?,Yes,0.6
+2026-11-18T12:05:34.005650,NFL,Will the Carolina Panthers win the 2027 NFL league championship?,No,99.4
+2026-11-18T12:05:34.005654,NFL,Will the Chicago Bears win the 2027 NFL league championship?,Yes,9.55
+2026-11-18T12:05:34.005656,NFL,Will the Chicago Bears win the 2027 NFL league championship?,No,90.45
+2026-11-18T12:05:34.005660,NFL,Colts vs. Texans,Colts,15.5
+2026-11-18T12:05:34.005661,NFL,Colts vs. Texans,Texans,84.5
+2026-11-18T12:05:34.161304,Premier League,Will Arsenal FC win on 2026-11-21?,Yes,62.5
+2026-11-18T12:05:34.161311,Premier League,Will Arsenal FC win on 2026-11-21?,No,37.5
+2026-11-18T12:05:34.161316,Premier League,Will AFC Bournemouth win on 2026-11-21?,Yes,50.5
+2026-11-18T12:05:34.161318,Premier League,Will AFC Bournemouth win on 2026-11-21?,No,49.5
+2026-11-18T12:05:34.161321,Premier League,Will Liverpool FC win on 2026-11-22?,Yes,55.50000000000001
+2026-11-18T12:05:34.161324,Premier League,Will Liverpool FC win on 2026-11-22?,No,44.5
+2026-11-18T12:05:34.161327,Premier League,Will Manchester City FC win on 2026-11-21?,Yes,69.5
+2026-11-18T12:05:34.161329,Premier League,Will Manchester City FC win on 2026-11-21?,No,30.5
+2026-11-18T12:05:34.161332,Premier League,Will Liverpool qualify for the 2027-28 UEFA Champions League?,Yes,83.0
+2026-11-18T12:05:34.161334,Premier League,Will Liverpool qualify for the 2027-28 UEFA Champions League?,No,17.0
+2026-11-18T12:05:34.311359,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-18T12:05:34.311367,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-18T12:05:34.311372,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,Yes,1.8499999999999999
+2026-11-18T12:05:34.311375,Champions League,Will Inter Milan win the 2026-27 UEFA Champions League Championship?,No,98.15
+2026-11-18T12:05:34.311379,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,Yes,1.5
+2026-11-18T12:05:34.311380,Champions League,Will Como win the 2026-27 UEFA Champions League Championship?,No,98.5
+2026-11-18T12:05:34.311384,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,Yes,13.5
+2026-11-18T12:05:34.311386,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,No,86.5
+2026-11-18T12:05:34.311389,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,1.7500000000000002
+2026-11-18T12:05:34.311394,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,98.25
+2026-11-18T12:05:34.989325,MLB,Will Pittsburgh Pirates advance to the World Series in the 2027 MLB Playoffs?,Yes,24.85
+2026-11-18T12:05:34.989337,MLB,Will Pittsburgh Pirates advance to the World Series in the 2027 MLB Playoffs?,No,75.14999999999999
+2026-11-18T12:05:34.989342,MLB,Will Colorado Rockies advance to the World Series in the 2027 MLB Playoffs?,Yes,49.5
+2026-11-18T12:05:34.989345,MLB,Will Colorado Rockies advance to the World Series in the 2027 MLB Playoffs?,No,50.5
+2026-11-18T12:05:34.989348,MLB,Will Arizona Diamondbacks advance to the World Series in the 2027 MLB Playoffs?,Yes,50.0
+2026-11-18T12:05:34.989350,MLB,Will Arizona Diamondbacks advance to the World Series in the 2027 MLB Playoffs?,No,50.0
+2026-11-18T12:05:34.989353,MLB,Will San Francisco Giants advance to the World Series in the 2027 MLB Playoffs?,Yes,49.5
+2026-11-18T12:05:34.989355,MLB,Will San Francisco Giants advance to the World Series in the 2027 MLB Playoffs?,No,50.5
+2026-11-18T12:05:34.989359,MLB,Will San Diego Padres advance to the World Series in the 2027 MLB Playoffs?,Yes,48.0
+2026-11-18T12:05:34.989360,MLB,Will San Diego Padres advance to the World Series in the 2027 MLB Playoffs?,No,52.0

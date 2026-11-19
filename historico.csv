@@ -53499,3 +53499,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-11-19T10:39:04.952711,MLB,Will Tarik Skubal's next team be Texas Rangers?,No,50.0
 2026-11-19T10:39:04.952715,MLB,Will Tarik Skubal's next team be Tampa Bay Rays?,Yes,50.0
 2026-11-19T10:39:04.952717,MLB,Will Tarik Skubal's next team be Tampa Bay Rays?,No,50.0
+2026-11-19T19:23:52.587810,NBA,Knicks vs. Timberwolves,Knicks,49.5
+2026-11-19T19:23:52.587854,NBA,Knicks vs. Timberwolves,Timberwolves,50.5
+2026-11-19T19:23:52.587862,NBA,Clippers vs. Spurs,Clippers,11.5
+2026-11-19T19:23:52.587866,NBA,Clippers vs. Spurs,Spurs,88.5
+2026-11-19T19:23:52.587872,NBA,Warriors vs. Grizzlies,Warriors,33.5
+2026-11-19T19:23:52.587877,NBA,Warriors vs. Grizzlies,Grizzlies,66.5
+2026-11-19T19:23:52.587889,NBA,Spread: Grizzlies (-6.5),Grizzlies,46.5
+2026-11-19T19:23:52.587892,NBA,Spread: Grizzlies (-6.5),Warriors,53.5
+2026-11-19T19:23:52.587898,NBA,Knicks vs. Timberwolves: O/U 216.5,Over,49.5
+2026-11-19T19:23:52.587901,NBA,Knicks vs. Timberwolves: O/U 216.5,Under,50.5
+2026-11-19T19:23:52.725301,NFL,Colts vs. Texans,Colts,15.5
+2026-11-19T19:23:52.725322,NFL,Colts vs. Texans,Texans,84.5
+2026-11-19T19:23:52.725328,NFL,Colts vs. Texans: O/U 42.5,Over,56.49999999999999
+2026-11-19T19:23:52.725332,NFL,Colts vs. Texans: O/U 42.5,Under,43.5
+2026-11-19T19:23:52.725338,NFL,Spread: Texans (-13.5),Texans,45.5
+2026-11-19T19:23:52.725341,NFL,Spread: Texans (-13.5),Colts,54.50000000000001
+2026-11-19T19:23:52.725348,NFL,Titans vs. Cowboys,Titans,22.5
+2026-11-19T19:23:52.725351,NFL,Titans vs. Cowboys,Cowboys,77.5
+2026-11-19T19:23:52.725356,NFL,Colts vs. Texans: O/U 44.5,Over,47.5
+2026-11-19T19:23:52.725358,NFL,Colts vs. Texans: O/U 44.5,Under,52.5
+2026-11-19T19:23:52.873055,Premier League,Will Arsenal FC win on 2026-11-21?,Yes,62.5
+2026-11-19T19:23:52.873076,Premier League,Will Arsenal FC win on 2026-11-21?,No,37.5
+2026-11-19T19:23:52.873083,Premier League,Will Aston Villa FC win on 2026-11-21?,Yes,54.50000000000001
+2026-11-19T19:23:52.873087,Premier League,Will Aston Villa FC win on 2026-11-21?,No,45.5
+2026-11-19T19:23:52.873093,Premier League,Will AFC Bournemouth win on 2026-11-21?,Yes,49.5
+2026-11-19T19:23:52.873096,Premier League,Will AFC Bournemouth win on 2026-11-21?,No,50.5
+2026-11-19T19:23:52.873101,Premier League,Will Manchester City FC win on 2026-11-21?,Yes,69.5
+2026-11-19T19:23:52.873104,Premier League,Will Manchester City FC win on 2026-11-21?,No,30.5
+2026-11-19T19:23:52.873110,Premier League,Will Liverpool FC win on 2026-11-22?,Yes,55.50000000000001
+2026-11-19T19:23:52.873113,Premier League,Will Liverpool FC win on 2026-11-22?,No,44.5
+2026-11-19T19:23:53.015389,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-19T19:23:53.015410,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-19T19:23:53.015419,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-19T19:23:53.015425,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-19T19:23:53.015431,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,Yes,13.5
+2026-11-19T19:23:53.015436,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,No,86.5
+2026-11-19T19:23:53.015442,Champions League,Will Galatasaray win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-19T19:23:53.015445,Champions League,Will Galatasaray win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-19T19:23:53.015451,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,1.9
+2026-11-19T19:23:53.015459,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,98.1
+2026-11-19T19:23:53.282450,MLB,Will Atlanta Braves advance to the World Series in the 2027 MLB Playoffs?,Yes,9.0
+2026-11-19T19:23:53.282470,MLB,Will Atlanta Braves advance to the World Series in the 2027 MLB Playoffs?,No,91.0
+2026-11-19T19:23:53.282477,MLB,Will Seattle Mariners advance to the World Series in the 2027 MLB Playoffs?,Yes,50.0
+2026-11-19T19:23:53.282481,MLB,Will Seattle Mariners advance to the World Series in the 2027 MLB Playoffs?,No,50.0
+2026-11-19T19:23:53.282487,MLB,Will Tarik Skubal's next team be Washington Nationals?,Yes,50.0
+2026-11-19T19:23:53.282489,MLB,Will Tarik Skubal's next team be Washington Nationals?,No,50.0
+2026-11-19T19:23:53.282494,MLB,Will Tarik Skubal's next team be Toronto Blue Jays?,Yes,50.0
+2026-11-19T19:23:53.282497,MLB,Will Tarik Skubal's next team be Toronto Blue Jays?,No,50.0
+2026-11-19T19:23:53.282502,MLB,Will Tarik Skubal's next team be Texas Rangers?,Yes,50.0
+2026-11-19T19:23:53.282505,MLB,Will Tarik Skubal's next team be Texas Rangers?,No,50.0

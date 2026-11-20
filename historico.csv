@@ -53599,3 +53599,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-11-20T01:23:34.160883,MLB,Will Tarik Skubal's next team be Toronto Blue Jays?,No,50.0
 2026-11-20T01:23:34.160886,MLB,Will Tarik Skubal's next team be Texas Rangers?,Yes,50.0
 2026-11-20T01:23:34.160888,MLB,Will Tarik Skubal's next team be Texas Rangers?,No,50.0
+2026-11-20T08:57:23.379027,NBA,Will Houston Rockets win the 2027 NBA Finals?,Yes,4.95
+2026-11-20T08:57:23.379070,NBA,Will Houston Rockets win the 2027 NBA Finals?,No,95.05
+2026-11-20T08:57:23.379081,NBA,Will Boston Celtics win the 2027 NBA Finals?,Yes,10.5
+2026-11-20T08:57:23.379085,NBA,Will Boston Celtics win the 2027 NBA Finals?,No,89.5
+2026-11-20T08:57:23.379093,NBA,Will Minnesota Timberwolves win the 2027 NBA Finals?,Yes,6.8500000000000005
+2026-11-20T08:57:23.379104,NBA,Will Minnesota Timberwolves win the 2027 NBA Finals?,No,93.15
+2026-11-20T08:57:23.379121,NBA,Will Washington Wizards win the 2027 NBA Finals?,Yes,0.25
+2026-11-20T08:57:23.379125,NBA,Will Washington Wizards win the 2027 NBA Finals?,No,99.75
+2026-11-20T08:57:23.379133,NBA,Raptors vs. Pistons,Raptors,28.499999999999996
+2026-11-20T08:57:23.379137,NBA,Raptors vs. Pistons,Pistons,71.5
+2026-11-20T08:57:23.560964,NFL,Will the Minnesota Vikings win the 2027 NFL league championship?,Yes,7.35
+2026-11-20T08:57:23.560980,NFL,Will the Minnesota Vikings win the 2027 NFL league championship?,No,92.65
+2026-11-20T08:57:23.560989,NFL,Spread: Lions (-7.5),Lions,41.5
+2026-11-20T08:57:23.560993,NFL,Spread: Lions (-7.5),Buccaneers,58.5
+2026-11-20T08:57:23.561000,NFL,Spread: Lions (-6.5),Lions,47.5
+2026-11-20T08:57:23.561002,NFL,Spread: Lions (-6.5),Buccaneers,52.5
+2026-11-20T08:57:23.561009,NFL,Will the Las Vegas Raiders win the 2027 NFL league championship?,Yes,0.15
+2026-11-20T08:57:23.561013,NFL,Will the Las Vegas Raiders win the 2027 NFL league championship?,No,99.85000000000001
+2026-11-20T08:57:23.561020,NFL,Steelers vs. Eagles: O/U 38.5,Over,49.5
+2026-11-20T08:57:23.561023,NFL,Steelers vs. Eagles: O/U 38.5,Under,50.5
+2026-11-20T08:57:23.759356,Premier League,Will Arsenal FC win on 2026-11-21?,Yes,62.5
+2026-11-20T08:57:23.759374,Premier League,Will Arsenal FC win on 2026-11-21?,No,37.5
+2026-11-20T08:57:23.759383,Premier League,Will Aston Villa FC win on 2026-11-21?,Yes,54.50000000000001
+2026-11-20T08:57:23.759387,Premier League,Will Aston Villa FC win on 2026-11-21?,No,45.5
+2026-11-20T08:57:23.759394,Premier League,Will AFC Bournemouth win on 2026-11-21?,Yes,49.5
+2026-11-20T08:57:23.759398,Premier League,Will AFC Bournemouth win on 2026-11-21?,No,50.5
+2026-11-20T08:57:23.759404,Premier League,Will Manchester City FC win on 2026-11-21?,Yes,70.5
+2026-11-20T08:57:23.759407,Premier League,Will Manchester City FC win on 2026-11-21?,No,29.5
+2026-11-20T08:57:23.759414,Premier League,Will Liverpool FC win on 2026-11-22?,Yes,55.50000000000001
+2026-11-20T08:57:23.759417,Premier League,Will Liverpool FC win on 2026-11-22?,No,44.5
+2026-11-20T08:57:23.944984,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-20T08:57:23.945001,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-20T08:57:23.945011,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-20T08:57:23.945016,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-20T08:57:23.945023,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,Yes,13.5
+2026-11-20T08:57:23.945028,Champions League,Will Real Madrid win the 2026-27 UEFA Champions League Championship?,No,86.5
+2026-11-20T08:57:23.945034,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,Yes,1.9
+2026-11-20T08:57:23.945041,Champions League,Will Atlético Madrid win the 2026-27 UEFA Champions League Championship?,No,98.1
+2026-11-20T08:57:23.945048,Champions League,Will Bodø/Glimt win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-20T08:57:23.945052,Champions League,Will Bodø/Glimt win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-20T08:57:24.317778,MLB,Will Atlanta Braves advance to the World Series in the 2027 MLB Playoffs?,Yes,9.0
+2026-11-20T08:57:24.317794,MLB,Will Atlanta Braves advance to the World Series in the 2027 MLB Playoffs?,No,91.0
+2026-11-20T08:57:24.317802,MLB,Will the Los Angeles Dodgers win the 2027 World Series?,Yes,20.0
+2026-11-20T08:57:24.317806,MLB,Will the Los Angeles Dodgers win the 2027 World Series?,No,80.0
+2026-11-20T08:57:24.317812,MLB,Will Tarik Skubal's next team be Washington Nationals?,Yes,50.0
+2026-11-20T08:57:24.317815,MLB,Will Tarik Skubal's next team be Washington Nationals?,No,50.0
+2026-11-20T08:57:24.317821,MLB,Will Tarik Skubal's next team be Toronto Blue Jays?,Yes,50.0
+2026-11-20T08:57:24.317824,MLB,Will Tarik Skubal's next team be Toronto Blue Jays?,No,50.0
+2026-11-20T08:57:24.317830,MLB,Will Tarik Skubal's next team be Texas Rangers?,Yes,50.0
+2026-11-20T08:57:24.317833,MLB,Will Tarik Skubal's next team be Texas Rangers?,No,50.0

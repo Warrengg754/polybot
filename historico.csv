@@ -53699,3 +53699,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-11-20T17:41:48.278951,MLB,Will Tarik Skubal's next team be Texas Rangers?,No,50.0
 2026-11-20T17:41:48.278960,MLB,Will Tarik Skubal's next team be Tampa Bay Rays?,Yes,50.0
 2026-11-20T17:41:48.278964,MLB,Will Tarik Skubal's next team be Tampa Bay Rays?,No,50.0
+2026-11-20T23:47:10.505627,NBA,Wizards vs. Bulls,Wizards,45.5
+2026-11-20T23:47:10.505665,NBA,Wizards vs. Bulls,Bulls,54.50000000000001
+2026-11-20T23:47:10.505675,NBA,Hornets vs. Hawks: O/U 218.5,Over,51.5
+2026-11-20T23:47:10.505677,NBA,Hornets vs. Hawks: O/U 218.5,Under,48.5
+2026-11-20T23:47:10.505682,NBA,Hornets vs. Hawks,Hornets,29.5
+2026-11-20T23:47:10.505686,NBA,Hornets vs. Hawks,Hawks,70.5
+2026-11-20T23:47:10.505696,NBA,Spread: Bulls (-2.5),Bulls,48.5
+2026-11-20T23:47:10.505698,NBA,Spread: Bulls (-2.5),Wizards,51.5
+2026-11-20T23:47:10.505703,NBA,Suns vs. Jazz: O/U 225.5,Over,51.5
+2026-11-20T23:47:10.505705,NBA,Suns vs. Jazz: O/U 225.5,Under,48.5
+2026-11-20T23:47:10.627978,NFL,Spread: Lions (-6.5),Lions,44.5
+2026-11-20T23:47:10.627995,NFL,Spread: Lions (-6.5),Buccaneers,55.50000000000001
+2026-11-20T23:47:10.628002,NFL,Buccaneers vs. Lions,Buccaneers,29.5
+2026-11-20T23:47:10.628005,NFL,Buccaneers vs. Lions,Lions,70.5
+2026-11-20T23:47:10.628010,NFL,Spread: Chiefs (-16.5),Chiefs,48.5
+2026-11-20T23:47:10.628012,NFL,Spread: Chiefs (-16.5),Cardinals,51.5
+2026-11-20T23:47:10.628016,NFL,Will the New England Patriots win the 2027 NFL league championship?,Yes,0.35000000000000003
+2026-11-20T23:47:10.628020,NFL,Will the New England Patriots win the 2027 NFL league championship?,No,99.65
+2026-11-20T23:47:10.628025,NFL,Spread: Jaguars (-6.5),Jaguars,46.5
+2026-11-20T23:47:10.628027,NFL,Spread: Jaguars (-6.5),Giants,53.5
+2026-11-20T23:47:10.748390,Premier League,Will Chelsea FC win on 2026-11-21?,Yes,47.5
+2026-11-20T23:47:10.748406,Premier League,Will Chelsea FC win on 2026-11-21?,No,52.5
+2026-11-20T23:47:10.748413,Premier League,Will Aston Villa FC win on 2026-11-21?,Yes,55.50000000000001
+2026-11-20T23:47:10.748416,Premier League,Will Aston Villa FC win on 2026-11-21?,No,44.5
+2026-11-20T23:47:10.748421,Premier League,Aston Villa FC vs. Sunderland AFC: O/U 2.5,Over,56.49999999999999
+2026-11-20T23:47:10.748424,Premier League,Aston Villa FC vs. Sunderland AFC: O/U 2.5,Under,43.5
+2026-11-20T23:47:10.748429,Premier League,Spread: Tottenham Hotspur FC (-1.5),Tottenham Hotspur FC,40.5
+2026-11-20T23:47:10.748432,Premier League,Spread: Tottenham Hotspur FC (-1.5),Ipswich Town FC,59.5
+2026-11-20T23:47:10.748436,Premier League,Newcastle United FC vs. Arsenal FC: O/U 2.5,Over,57.49999999999999
+2026-11-20T23:47:10.748439,Premier League,Newcastle United FC vs. Arsenal FC: O/U 2.5,Under,42.5
+2026-11-20T23:47:10.872837,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-20T23:47:10.872855,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-20T23:47:10.872878,Champions League,Will Harry Kane score the most goals in the 2026-27 UEFA Champions League?,Yes,9.0
+2026-11-20T23:47:10.872881,Champions League,Will Harry Kane score the most goals in the 2026-27 UEFA Champions League?,No,91.0
+2026-11-20T23:47:10.872886,Champions League,Will Kylian Mbappé score the most goals in the 2026-27 UEFA Champions League?,Yes,31.0
+2026-11-20T23:47:10.872893,Champions League,Will Kylian Mbappé score the most goals in the 2026-27 UEFA Champions League?,No,69.0
+2026-11-20T23:47:10.872898,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-20T23:47:10.872901,Champions League,Will Porto win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-20T23:47:10.872906,Champions League,Will Bayern Munich win the 2026-27 UEFA Champions League Championship?,Yes,12.5
+2026-11-20T23:47:10.872909,Champions League,Will Bayern Munich win the 2026-27 UEFA Champions League Championship?,No,87.5
+2026-11-20T23:47:11.240285,MLB,Will the Los Angeles Dodgers win the 2027 World Series?,Yes,24.0
+2026-11-20T23:47:11.240305,MLB,Will the Los Angeles Dodgers win the 2027 World Series?,No,76.0
+2026-11-20T23:47:11.240311,MLB,Will Tarik Skubal's next team be Washington Nationals?,Yes,50.0
+2026-11-20T23:47:11.240313,MLB,Will Tarik Skubal's next team be Washington Nationals?,No,50.0
+2026-11-20T23:47:11.240318,MLB,Will Tarik Skubal's next team be Toronto Blue Jays?,Yes,50.0
+2026-11-20T23:47:11.240320,MLB,Will Tarik Skubal's next team be Toronto Blue Jays?,No,50.0
+2026-11-20T23:47:11.240324,MLB,Will Tarik Skubal's next team be Texas Rangers?,Yes,50.0
+2026-11-20T23:47:11.240326,MLB,Will Tarik Skubal's next team be Texas Rangers?,No,50.0
+2026-11-20T23:47:11.240331,MLB,Will Tarik Skubal's next team be Tampa Bay Rays?,Yes,50.0
+2026-11-20T23:47:11.240333,MLB,Will Tarik Skubal's next team be Tampa Bay Rays?,No,50.0

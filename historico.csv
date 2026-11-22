@@ -54049,3 +54049,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-11-22T16:57:31.377227,MLB,Will Tarik Skubal's next team be Tampa Bay Rays?,No,50.0
 2026-11-22T16:57:31.377231,MLB,Will Tarik Skubal's next team be St. Louis Cardinals?,Yes,50.0
 2026-11-22T16:57:31.377233,MLB,Will Tarik Skubal's next team be St. Louis Cardinals?,No,50.0
+2026-11-22T22:22:57.032924,NBA,Thunder vs. Heat,Thunder,36.5
+2026-11-22T22:22:57.032973,NBA,Thunder vs. Heat,Heat,63.5
+2026-11-22T22:22:57.032983,NBA,Pistons vs. Hawks,Pistons,87.5
+2026-11-22T22:22:57.032986,NBA,Pistons vs. Hawks,Hawks,12.5
+2026-11-22T22:22:57.032992,NBA,Nuggets vs. Bulls,Nuggets,77.5
+2026-11-22T22:22:57.032997,NBA,Nuggets vs. Bulls,Bulls,22.5
+2026-11-22T22:22:57.033010,NBA,Celtics vs. Warriors,Celtics,74.5
+2026-11-22T22:22:57.033013,NBA,Celtics vs. Warriors,Warriors,25.5
+2026-11-22T22:22:57.033020,NBA,Mavericks vs. Jazz,Mavericks,55.50000000000001
+2026-11-22T22:22:57.033024,NBA,Mavericks vs. Jazz,Jazz,44.5
+2026-11-22T22:22:57.196053,NFL,Jets vs. Chargers,Jets,66.5
+2026-11-22T22:22:57.196076,NFL,Jets vs. Chargers,Chargers,33.5
+2026-11-22T22:22:57.196083,NFL,Raiders vs. Broncos,Raiders,1.7000000000000002
+2026-11-22T22:22:57.196088,NFL,Raiders vs. Broncos,Broncos,98.3
+2026-11-22T22:22:57.196094,NFL,Jaguars vs. Giants,Jaguars,56.49999999999999
+2026-11-22T22:22:57.196098,NFL,Jaguars vs. Giants,Giants,43.5
+2026-11-22T22:22:57.196104,NFL,Spread: Jaguars (-5.5),Jaguars,35.0
+2026-11-22T22:22:57.196107,NFL,Spread: Jaguars (-5.5),Giants,65.0
+2026-11-22T22:22:57.196113,NFL,Spread: Giants (-3.5),Giants,33.0
+2026-11-22T22:22:57.196116,NFL,Spread: Giants (-3.5),Jaguars,67.0
+2026-11-22T22:22:57.363254,Premier League,Exact Score: Any Other Score?,Yes,22.5
+2026-11-22T22:22:57.363275,Premier League,Exact Score: Any Other Score?,No,77.5
+2026-11-22T22:22:57.363282,Premier League,Exact Score: Any Other Score?,Yes,25.0
+2026-11-22T22:22:57.363286,Premier League,Exact Score: Any Other Score?,No,75.0
+2026-11-22T22:22:57.363291,Premier League,Exact Score: Any Other Score?,Yes,20.5
+2026-11-22T22:22:57.363294,Premier League,Exact Score: Any Other Score?,No,79.5
+2026-11-22T22:22:57.363300,Premier League,Exact Score: Any Other Score?,Yes,24.0
+2026-11-22T22:22:57.363303,Premier League,Exact Score: Any Other Score?,No,76.0
+2026-11-22T22:22:57.363309,Premier League,Exact Score: Any Other Score?,Yes,23.5
+2026-11-22T22:22:57.363312,Premier League,Exact Score: Any Other Score?,No,76.5
+2026-11-22T22:22:57.538771,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-22T22:22:57.538793,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-22T22:22:57.538802,Champions League,Will Liverpool win the 2026-27 UEFA Champions League Championship?,Yes,4.05
+2026-11-22T22:22:57.538809,Champions League,Will Liverpool win the 2026-27 UEFA Champions League Championship?,No,95.95
+2026-11-22T22:22:57.538816,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,Yes,18.5
+2026-11-22T22:22:57.538821,Champions League,Will Paris Saint-Germain win the 2026-27 UEFA Champions League Championship?,No,81.5
+2026-11-22T22:22:57.538827,Champions League,Will Aston Villa win the 2026-27 UEFA Champions League Championship?,Yes,1.15
+2026-11-22T22:22:57.538830,Champions League,Will Aston Villa win the 2026-27 UEFA Champions League Championship?,No,98.85000000000001
+2026-11-22T22:22:57.538837,Champions League,Will Roma win the 2026-27 UEFA Champions League Championship?,Yes,0.5499999999999999
+2026-11-22T22:22:57.538841,Champions League,Will Roma win the 2026-27 UEFA Champions League Championship?,No,99.45
+2026-11-22T22:22:57.977441,MLB,Will Tarik Skubal's next team be Washington Nationals?,Yes,50.0
+2026-11-22T22:22:57.977463,MLB,Will Tarik Skubal's next team be Washington Nationals?,No,50.0
+2026-11-22T22:22:57.977470,MLB,Will Tarik Skubal's next team be Toronto Blue Jays?,Yes,50.0
+2026-11-22T22:22:57.977473,MLB,Will Tarik Skubal's next team be Toronto Blue Jays?,No,50.0
+2026-11-22T22:22:57.977479,MLB,Will Tarik Skubal's next team be Texas Rangers?,Yes,50.0
+2026-11-22T22:22:57.977482,MLB,Will Tarik Skubal's next team be Texas Rangers?,No,50.0
+2026-11-22T22:22:57.977487,MLB,Will Tarik Skubal's next team be Tampa Bay Rays?,Yes,50.0
+2026-11-22T22:22:57.977490,MLB,Will Tarik Skubal's next team be Tampa Bay Rays?,No,50.0
+2026-11-22T22:22:57.977495,MLB,Will Tarik Skubal's next team be St. Louis Cardinals?,Yes,50.0
+2026-11-22T22:22:57.977498,MLB,Will Tarik Skubal's next team be St. Louis Cardinals?,No,50.0

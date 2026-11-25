@@ -54449,3 +54449,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-11-25T14:09:24.906518,MLB,Will Tarik Skubal's next team be Tampa Bay Rays?,No,50.0
 2026-11-25T14:09:24.906521,MLB,Will Tarik Skubal's next team be St. Louis Cardinals?,Yes,50.0
 2026-11-25T14:09:24.906523,MLB,Will Tarik Skubal's next team be St. Louis Cardinals?,No,50.0
+2026-11-25T23:13:10.067484,NBA,Heat vs. 76ers,Heat,29.5
+2026-11-25T23:13:10.067519,NBA,Heat vs. 76ers,76ers,70.5
+2026-11-25T23:13:10.067536,NBA,Cavaliers vs. Knicks,Cavaliers,37.5
+2026-11-25T23:13:10.067542,NBA,Cavaliers vs. Knicks,Knicks,62.5
+2026-11-25T23:13:10.067554,NBA,Heat vs. 76ers: O/U 237.5,Over,31.0
+2026-11-25T23:13:10.067561,NBA,Heat vs. 76ers: O/U 237.5,Under,69.0
+2026-11-25T23:13:10.067581,NBA,Timberwolves vs. Thunder,Timberwolves,44.5
+2026-11-25T23:13:10.067588,NBA,Timberwolves vs. Thunder,Thunder,55.50000000000001
+2026-11-25T23:13:10.067603,NBA,Spread: 76ers (-1.5),76ers,67.5
+2026-11-25T23:13:10.067608,NBA,Spread: 76ers (-1.5),Heat,32.5
+2026-11-25T23:13:10.232712,NFL,Packers vs. Rams,Packers,43.5
+2026-11-25T23:13:10.232728,NFL,Packers vs. Rams,Rams,56.49999999999999
+2026-11-25T23:13:10.232736,NFL,Packers vs. Rams: O/U 44.5,Over,44.5
+2026-11-25T23:13:10.232740,NFL,Packers vs. Rams: O/U 44.5,Under,55.50000000000001
+2026-11-25T23:13:10.232747,NFL,Packers vs. Rams: O/U 46.5,Over,37.5
+2026-11-25T23:13:10.232749,NFL,Packers vs. Rams: O/U 46.5,Under,62.5
+2026-11-25T23:13:10.232756,NFL,Bears vs. Lions,Bears,52.5
+2026-11-25T23:13:10.232759,NFL,Bears vs. Lions,Lions,47.5
+2026-11-25T23:13:10.232765,NFL,Spread: Rams (-2.5),Rams,51.5
+2026-11-25T23:13:10.232767,NFL,Spread: Rams (-2.5),Packers,48.5
+2026-11-25T23:13:10.409510,Premier League,Exact Score: Any Other Score?,Yes,21.0
+2026-11-25T23:13:10.409526,Premier League,Exact Score: Any Other Score?,No,79.0
+2026-11-25T23:13:10.409534,Premier League,Exact Score: Any Other Score?,Yes,17.2
+2026-11-25T23:13:10.409538,Premier League,Exact Score: Any Other Score?,No,82.8
+2026-11-25T23:13:10.409545,Premier League,Exact Score: Any Other Score?,Yes,18.15
+2026-11-25T23:13:10.409548,Premier League,Exact Score: Any Other Score?,No,81.85
+2026-11-25T23:13:10.409554,Premier League,Exact Score: Any Other Score?,Yes,17.5
+2026-11-25T23:13:10.409557,Premier League,Exact Score: Any Other Score?,No,82.5
+2026-11-25T23:13:10.409563,Premier League,Exact Score: Any Other Score?,Yes,20.0
+2026-11-25T23:13:10.409569,Premier League,Exact Score: Any Other Score?,No,80.0
+2026-11-25T23:13:10.580217,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.05
+2026-11-25T23:13:10.580256,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.95
+2026-11-25T23:13:10.580267,Champions League,Will Fenerbahçe win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-25T23:13:10.580276,Champions League,Will Fenerbahçe win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-25T23:13:10.580284,Champions League,Will Liverpool win the 2026-27 UEFA Champions League Championship?,Yes,5.050000000000001
+2026-11-25T23:13:10.580288,Champions League,Will Liverpool win the 2026-27 UEFA Champions League Championship?,No,94.95
+2026-11-25T23:13:10.580295,Champions League,Will Club Brugge win the 2026-27 UEFA Champions League Championship?,Yes,0.2
+2026-11-25T23:13:10.580298,Champions League,Will Club Brugge win the 2026-27 UEFA Champions League Championship?,No,99.8
+2026-11-25T23:13:10.580304,Champions League,Will Sporting CP win the 2026-27 UEFA Champions League Championship?,Yes,0.25
+2026-11-25T23:13:10.580309,Champions League,Will Sporting CP win the 2026-27 UEFA Champions League Championship?,No,99.75
+2026-11-25T23:13:10.777637,MLB,Will the Los Angeles Angels win the 2027 World Series?,Yes,8.7
+2026-11-25T23:13:10.777655,MLB,Will the Los Angeles Angels win the 2027 World Series?,No,91.3
+2026-11-25T23:13:10.777663,MLB,Will the Los Angeles Dodgers win the 2027 World Series?,Yes,16.5
+2026-11-25T23:13:10.777668,MLB,Will the Los Angeles Dodgers win the 2027 World Series?,No,83.5
+2026-11-25T23:13:10.777674,MLB,Will the Milwaukee Brewers win the 2027 World Series?,Yes,13.0
+2026-11-25T23:13:10.777677,MLB,Will the Milwaukee Brewers win the 2027 World Series?,No,87.0
+2026-11-25T23:13:10.777683,MLB,Will the Pittsburgh Pirates win the 2027 World Series?,Yes,6.4
+2026-11-25T23:13:10.777686,MLB,Will the Pittsburgh Pirates win the 2027 World Series?,No,93.60000000000001
+2026-11-25T23:13:10.777693,MLB,Will the Boston Red Sox win the 2027 World Series?,Yes,6.5
+2026-11-25T23:13:10.777696,MLB,Will the Boston Red Sox win the 2027 World Series?,No,93.5

@@ -54499,3 +54499,53 @@ fecha_hora,liga,pregunta,opcion,probabilidad
 2026-11-25T23:13:10.777686,MLB,Will the Pittsburgh Pirates win the 2027 World Series?,No,93.60000000000001
 2026-11-25T23:13:10.777693,MLB,Will the Boston Red Sox win the 2027 World Series?,Yes,6.5
 2026-11-25T23:13:10.777696,MLB,Will the Boston Red Sox win the 2027 World Series?,No,93.5
+2026-11-26T05:18:51.044816,NBA,Spurs vs. Trail Blazers,Spurs,47.5
+2026-11-26T05:18:51.044841,NBA,Spurs vs. Trail Blazers,Trail Blazers,52.5
+2026-11-26T05:18:51.044847,NBA,Kings vs. Warriors,Kings,0.05
+2026-11-26T05:18:51.044849,NBA,Kings vs. Warriors,Warriors,99.95
+2026-11-26T05:18:51.044853,NBA,Spread: Spurs (-3.5),Spurs,30.5
+2026-11-26T05:18:51.044856,NBA,Spread: Spurs (-3.5),Trail Blazers,69.5
+2026-11-26T05:18:51.044865,NBA,Spread: Spurs (-2.5),Spurs,36.5
+2026-11-26T05:18:51.044867,NBA,Spread: Spurs (-2.5),Trail Blazers,63.5
+2026-11-26T05:18:51.044871,NBA,Spurs vs. Trail Blazers: O/U 225.5,Over,66.0
+2026-11-26T05:18:51.044873,NBA,Spurs vs. Trail Blazers: O/U 225.5,Under,34.0
+2026-11-26T05:18:51.277516,NFL,Chiefs vs. Bills,Chiefs,41.5
+2026-11-26T05:18:51.277532,NFL,Chiefs vs. Bills,Bills,58.5
+2026-11-26T05:18:51.277537,NFL,Will the Green Bay Packers win the 2027 NFL league championship?,Yes,2.8000000000000003
+2026-11-26T05:18:51.277540,NFL,Will the Green Bay Packers win the 2027 NFL league championship?,No,97.2
+2026-11-26T05:18:51.277544,NFL,Spread: Broncos (-3.5),Broncos,52.5
+2026-11-26T05:18:51.277546,NFL,Spread: Broncos (-3.5),Steelers,47.5
+2026-11-26T05:18:51.277550,NFL,Will the Los Angeles Rams win the 2027 NFL league championship?,Yes,6.05
+2026-11-26T05:18:51.277552,NFL,Will the Los Angeles Rams win the 2027 NFL league championship?,No,93.95
+2026-11-26T05:18:51.277556,NFL,Giants vs. Colts,Giants,72.5
+2026-11-26T05:18:51.277557,NFL,Giants vs. Colts,Colts,27.500000000000004
+2026-11-26T05:18:51.455381,Premier League,Exact Score: Any Other Score?,Yes,18.75
+2026-11-26T05:18:51.455395,Premier League,Exact Score: Any Other Score?,No,81.25
+2026-11-26T05:18:51.455400,Premier League,Exact Score: Any Other Score?,Yes,16.0
+2026-11-26T05:18:51.455403,Premier League,Exact Score: Any Other Score?,No,84.0
+2026-11-26T05:18:51.455406,Premier League,Exact Score: Any Other Score?,Yes,18.0
+2026-11-26T05:18:51.455408,Premier League,Exact Score: Any Other Score?,No,82.0
+2026-11-26T05:18:51.455411,Premier League,Exact Score: Any Other Score?,Yes,17.1
+2026-11-26T05:18:51.455413,Premier League,Exact Score: Any Other Score?,No,82.89999999999999
+2026-11-26T05:18:51.455417,Premier League,Exact Score: Any Other Score?,Yes,18.15
+2026-11-26T05:18:51.455419,Premier League,Exact Score: Any Other Score?,No,81.85
+2026-11-26T05:18:51.628599,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-26T05:18:51.628617,Champions League,Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-26T05:18:51.628623,Champions League,Will Fenerbahçe win the 2026-27 UEFA Champions League Championship?,Yes,0.15
+2026-11-26T05:18:51.628631,Champions League,Will Fenerbahçe win the 2026-27 UEFA Champions League Championship?,No,99.85000000000001
+2026-11-26T05:18:51.628635,Champions League,Will Liverpool win the 2026-27 UEFA Champions League Championship?,Yes,5.050000000000001
+2026-11-26T05:18:51.628638,Champions League,Will Liverpool win the 2026-27 UEFA Champions League Championship?,No,94.95
+2026-11-26T05:18:51.628641,Champions League,Will Club Brugge win the 2026-27 UEFA Champions League Championship?,Yes,0.2
+2026-11-26T05:18:51.628643,Champions League,Will Club Brugge win the 2026-27 UEFA Champions League Championship?,No,99.8
+2026-11-26T05:18:51.628647,Champions League,Will Sporting CP win the 2026-27 UEFA Champions League Championship?,Yes,0.25
+2026-11-26T05:18:51.628650,Champions League,Will Sporting CP win the 2026-27 UEFA Champions League Championship?,No,99.75
+2026-11-26T05:18:51.816248,MLB,Will the Los Angeles Angels win the 2027 World Series?,Yes,6.25
+2026-11-26T05:18:51.816270,MLB,Will the Los Angeles Angels win the 2027 World Series?,No,93.75
+2026-11-26T05:18:51.816275,MLB,Will the Los Angeles Dodgers win the 2027 World Series?,Yes,16.5
+2026-11-26T05:18:51.816277,MLB,Will the Los Angeles Dodgers win the 2027 World Series?,No,83.5
+2026-11-26T05:18:51.816281,MLB,Will the Milwaukee Brewers win the 2027 World Series?,Yes,13.0
+2026-11-26T05:18:51.816283,MLB,Will the Milwaukee Brewers win the 2027 World Series?,No,87.0
+2026-11-26T05:18:51.816286,MLB,Will the Pittsburgh Pirates win the 2027 World Series?,Yes,6.25
+2026-11-26T05:18:51.816288,MLB,Will the Pittsburgh Pirates win the 2027 World Series?,No,93.75
+2026-11-26T05:18:51.816309,MLB,Will the Boston Red Sox win the 2027 World Series?,Yes,6.5
+2026-11-26T05:18:51.816311,MLB,Will the Boston Red Sox win the 2027 World Series?,No,93.5
